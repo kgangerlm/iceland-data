@@ -6,7 +6,7 @@
 <trip_overview>
 
 
-## Here are some specfic items we are interested in. Consider how to plan for these even when I ask for changes to the itnerary. 
+## Here are some specific items we are interested in. Consider how to plan for these even when I ask for changes to the itinerary    
 
 <specific_interests>
 - Mount Esja: Near Reykjavík, 8km round-trip, views of city across bay
@@ -23,7 +23,7 @@
 - Akureyri Botanical Gardens
 </specific_interests>
 
-## These are some preferences I want you to undersand when giving me recomendations
+## These are some preferences I want you to underhand when giving me recommendations
 
 <trip_preferences>
 - Hiking: Moderate trails under 5 miles/4 hours, less touristy options. great views and pictures. waterfalls, craters, hotsprings
