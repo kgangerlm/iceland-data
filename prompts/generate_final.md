@@ -77,9 +77,14 @@ Remember these important guidelines.
 
 - [list Afternoon itinerary pay attention to highlighted activities and hidden gems]
 
+
+
 ### Accommodations
 
-[Give a nice overview of the lodeging for the night from the tripit data.]
+[Give a nice overview of the lodging for the night from the tripit data.]
+
+### Alternative Activities
+- [List 3-5 activities we should consider.  Note any bookings that would need to be made, and timeframes]
 
 #### Notes
 [Do your best to combine my notes and your notes for each day.  Include practical considerations, and omit if there is nothing important]
