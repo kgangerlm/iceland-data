@@ -1,13 +1,13 @@
-Day,Date,Title,Location,Cost
-1,July 14,Hotel Fron,Laugavegur 22A Reykjavik,$252.74
-2,July 15,Country Dream Guesthouse,Langholt 2 Selfoss,$216.97
-3,July 16,The Barn,Norðurfoss South Iceland,$304.77
-4,July 17,Airbnb in Jökulsárlón/Höfn,Seljavöllum Höfn í Hornafirði,$357.52
-5,July 18,Seyðisfjörður Guesthouse,"Hafnargata 4, Seydisordur, 710 Iceland",$575.04
-6,July 19,Ásgeirsstaðir Cottages,"Ásgeirsstaðir, Eidar, 701 Iceland",$246.00
-7,July 20,Airbnb - Hildur,Akureyri North Iceland,$452.00
-8,July 21,No Booking,Likely extending stay in Akureyri,TBD
-9,July 22,Airbnb - Guðmunda,Ólafsvík West Iceland,$119.23
-10,July 23,Guesthouse Sunna,Þorsgata 26 Reykjavik,$270.78
-11,July 24,Flight FI 671 KEF->DEN,Departs 4:50 PM GMT,Included
--,July 14-24,Suzuki Vitara (Automatic 4WD),Iceland,"$2,148.07"
+Day,Date,Title,Location,Cost,Room Description,Supplier Name,Confirmation,Supplier Phone,Supplier Website
+1,July 14,Hotel Fron,Laugavegur 22A Reykjavik,$252.74,Double/Twin Rooms,Hotel Fron,73051105801878,354 (5) 114666,
+2,July 15,Country Dream Guesthouse,Langholt 2 Selfoss,$216.97,Basic Studio,Country Dream guesthouse,73051117986889,354 (354) 6592030,
+3,July 16,The Barn,Norðurfoss South Iceland,$304.77,"Double Room, Shared Bathroom, Mountain View",The Barn,,779 1166,https://barnhostel.is/
+4,July 17,Airbnb in Jökulsárlón/Höfn,Seljavöllum Höfn í Hornafirði,$357.52,Double or twin,Airbnb in Jökulsárlón/Höfn,HMXME38BS5,,
+5,July 18,Seyðisfjörður Guesthouse,"Hafnargata 4, Seydisordur, 710 Iceland",$575.04,"Triple Room, Shared Bathroom",Seyðisfjörður Guesthouse,73053225221663,354 (354) 8986242,
+6,July 19,Ásgeirsstaðir Cottages,"Ásgeirsstaðir, Eidar, 701 Iceland",$246.00,"Standard Cabin, 1 Bedroom",Ásgeirsstaðir Cottages,73055400652002,+354 8686352,
+7,July 20,Airbnb - Hildur,Akureyri North Iceland,$452.00,Entire home/apt,Airbnb - Hildur,HM8YWHA8PD,+354 893 7979,
+8,July 21,No Booking,Likely extending stay in Akureyri,TBD,,,,,
+9,July 22,Airbnb - Guðmunda,Ólafsvík West Iceland,$119.23,Room,Airbnb - Guðmunda,HMB2KXF83A,,
+10,July 23,Guesthouse Sunna,Þorsgata 26 Reykjavik,$270.78,"Deluxe Twin Room, Private Bathroom",Guesthouse Sunna,73051130187804,+354 5115570,
+11,July 24,Flight FI 671 KEF->DEN,Departs 4:50 PM GMT,Included,,,3NEJSO,,
+-,July 14-24,Suzuki Vitara (Automatic 4WD),Iceland,"$2,148.07",suzuki vitara automatic 4wd zero liability insurance,Blue Car Rental,RVF6FW,425 6000,http://bluecarrental.is
