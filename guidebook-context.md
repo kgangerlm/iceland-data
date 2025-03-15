@@ -1,5 +1,15 @@
+## here is some information from the iceland ring road guidebook that I want you to remember
+
+### TRÖLLASKAGI
+
+Tröllaskagi (Troll Peninsula) rests its mountainous bulk between the scene los of Skagafjöröur and Eyjafjoröur. Here, the craggy peaks, deep valeys and gurn rivers are more reminiscent of the Westfjords than the gentle hills that ol true most of North Iceland. Tunnels now link the northern Trollaskagi townshigs of Siglufjöröur and Ólafsfjorõur, once dead-end towns that saw little tons tree The journey from Akureyri to Varmahlio along the Ring Road (Rte l) measures 95 very scenic kilometres, but if you have some time up your sleeve and a pentet for getting off the beaten track, the 186km journey between those two towns following the Tröllaskagi coastline (Rtes 82 and 76) conjures up some magica scenery, dramatic tunnels, and plenty of excuses to pull over and explore. Worthy pit stops include ferries to offshore islands Grimsey and risey, whale watching tours on Eyjafjöröur, a microbrewery (Kaldi Beer: 246622505: www.brugens.
+Oldugata 22, Árskogssandur; tour 2000kr; tours by appointment) and beer baths 2%
+2828; www.bjorbodin.is; gisgata 31, Arskogssandur; beer bath 7900k; ® noon-8pm. lamen
+Fri & Sat), ski fields, Siglufjorour's colourful harbour front and outstanding herting museum (Sildarminjasafnio; 467 1604; www. sild is; Snorragata 10: adult/chit 1500m free: ©10am-6pm Jun-Aug, 1-5pm May & Sep, by appointment rest of year), and Hotsis dreamy fjord-side swimming pool (Sundaugin Hotsosi: 2455 6070, wwwete com/sundlauginhofsosi; Sudurbraut: adult/child 900/300k: © 7am-9pm. Jun Aug shorte
+
+
 ## Here is an itennerary from the moon guidebook. 
-please use this information as a basis for the trip. you are free to pull in other information that I have given you. 
+please use this information as a basis for the trip. you should prioritize
 
 <guidebook>
 

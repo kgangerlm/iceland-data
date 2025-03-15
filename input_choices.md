@@ -157,4 +157,83 @@ Preference: Scenic drive through East Fjords with multiple stops
 
 - We have duplicate reservations. Leaning towards keeping the one in Seydisfjordur
 
+## Day 6
+Preference: hiking in Borgarfjörður Eystri
+
+### Morning 
+- Departure from Seydisfjordur [recommend time and breakfast]
+- **[Brúnavík Beach](https://epiciceland.net/hidden-gems-in-iceland/)** - One of the most stunning beaches in Iceland with other-worldly landscapes **Hidden Gem** [mark this activity as featured and highlight it]
+   * Access via Road 94 near Kolbeinsfjara cliffs in Bakkagerdi; 2.5 hour moderate hike (8km)
+
+### Afternoon
+
+- [Add some other low key activities]
+- - **Stórurð Basin Hike** (The Giant Boulders)
+  * Relaxed 3-mile loop through massive boulders and turquoise pools
+  * Allow 2-3 hours for a leisurely pace with photo stops
+  * Trailhead is a 15-minute drive from Borgarfjörður Eystri
+- **Hafnarhólmi Puffin Colony**
+  * One of Iceland's best and most accessible puffin viewing areas
+  * July is peak season for puffin watching
+  * Easy wooden walkways and viewing platforms
+  * No entrance fee
+### Evening
+
+-  [fill out the evening with low key activites]
+
+### Alternative Activities 
+- 🏞️ **[Ker Cliffs](https://epiciceland.net/hidden-gems-in-iceland/)** - The Þerribjörg Sea Cliffs form one of the most breathtaking beaches and coastlines in East Iceland **Hidden Gem**
+   * Access via gravel road 917 (Hlíðarvegur); any car May-October; easy 1.5-hour family hike; scenic mountain pass [mark this activity as featured and highlight it]
+- **Dyrfjöll Mountain Viewpoint** (Morning)
+  * Short 1-mile hike to viewpoint of the dramatic "Door Mountains"
+  * Located on the drive to Borgarfjörður Eystri
+- **Lindarbakki Turf House** (Afternoon)
+  * Traditional red-painted turf house in Borgarfjörður Eystri
+[suggest some low key or bad weather activities]
+
+### Note
+- We need to cancel mytvan reservation
+
+## Day 7 
+preference: see main sites along route to akuryri. Short hike and the rest of the day by car.  
+
+## Morning 
+
+- [Note breakfast options]
+- 🏞️ **[Ker Cliffs](https://epiciceland.net/hidden-gems-in-iceland/)** - The Þerribjörg Sea Cliffs form one of the most breathtaking beaches and coastlines in East Iceland **Hidden Gem**
+   * Access via gravel road 917 (Hlíðarvegur); any car May-October; easy 1.5-hour family hike; scenic mountain pass [mark this activity as featured and highlight it]
+   * Vatnajökull National Park  **Highlight this activity**  [Note this is a unesco world heritage site add emoji to signify that. List the major sites to see here]
+    - Dettifoss: The largest waterfall on the island, and the most powerful in Europe, is 100 meters (328 ft) wide and 45 meters (148 ft) high [always note this is page 225 in the moon guidebook]
+
+### Afternoon 
+
+- Asbyrgi: This gigantic canyon features cool rock formations, looping walking paths, lush greenery, birds-and tons of photo opportunities [ always note this is page 224 in the moon guidebook.
+- **Mývatn Nature Baths** - Relaxing geothermal lagoon
+  * Entrance fee: 5,700 ISK ($41) per person
+  * Recommended time: 2 hours
+- **Godafoss Waterfall** - *"Waterfall of the Gods"*  **Highlight this activity** [provide some detail]
+
+### Evening 
+
+[We are going to be in a low key mood suggest some activities that are chill near the hotel. We will probably see the botanical gardens another day but it wouldn't hurt to add it with a note that it might be better tomorrow]
+
+### Alternative Activities
+[Look for options in the guidebook info I provided as well as what you know about the area I want more alternatives than usual for this day]
+- Askja Caldera Hike [note F-road requirements and that this is a featured hike in the moon guidebook ]
+- **Grjótagjá Cave** (Morning)
+  * Small lava cave with hot spring (viewing only, no swimming allowed)
+  * Featured in Game of Thrones
+- **Hverfjall Crater Hike** (Morning)
+  * Dramatic volcanic crater with panoramic views
+  * 2-mile loop around the rim (1 hour)
+- 💦 **Bergárfoss Waterfall** 💦
+  * *Hidden Gem*: The prettiest and most secluded waterfall in North Iceland, rarely visited even by locals
+  * From Kolugljúfur Canyon, take gravel road south on eastern river bank for 4km, then walk
+  * 4WD necessary year-round
+- **Krafla**: Huge 300-meter crater of the Krafla volcano. [Note that this is highlighted in the moon guidebook itinerary]
+
+### Notes 
+- if we go to ker cliffs and dettifoss that is a total of 5h 25m driving without stops 
+- Look at some of the morning alternate activities and see if they would fit in day 6 somewhere
+
 <current_itinerary>
