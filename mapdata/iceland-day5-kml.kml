@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>Iceland Day 5 - East Fjords Journey</name>
+    <description>Day 5 (July 18) - The journey from Höfn through the stunning East Fjords to Seyðisfjörður</description>
+    
+    <Style id="highlightPlacemark">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+        </Icon>
+        <scale>1.2</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.2</scale>
+      </LabelStyle>
+    </Style>
+    
+    <Style id="normalPlacemark">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    
+    <Style id="featuredStyle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/ylw-stars.png</href>
+        </Icon>
+        <scale>1.4</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.2</scale>
+      </LabelStyle>
+    </Style>
+    
+    <Style id="hiddenGemStyle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/purple-diamond.png</href>
+        </Icon>
+        <scale>1.3</scale>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    
+    <StyleMap id="placemarkStyleMap">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normalPlacemark</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlightPlacemark</styleUrl>
+      </Pair>
+    </StyleMap>
+    
+    <Folder>
+      <name>Day 5 - East Fjords Journey (July 18)</name>
+      <description>Journey from Höfn through the stunning East Fjords to Seyðisfjörður. Approximately 155 miles, 4 hours plus stops.</description>
+      
+      <!-- Starting Point: Höfn -->
+      <Placemark>
+        <name>Starting Point: Höfn</name>
+        <description>
+          <![CDATA[
+            <h3>Departure from Höfn</h3>
+            <img src="https://images.squarespace-cdn.com/content/v1/60da1760648a5f2406ef2c79/75d2d792-f279-49e3-973c-2ab63c32a1d5/Hofn+Iceland.jpg" width="300" />
+            <p>Begin your journey from the charming fishing town of Höfn, known for its fresh seafood and views of Vatnajökull glacier.</p>
+            <p><strong>Recommended departure time:</strong> 8:30 AM to allow time for all the stops along the way.</p>
+          ]]>
+        </description>
+        <styleUrl>#placemarkStyleMap</styleUrl>
+        <Point>
+          <coordinates>15.2037558,-64.2538184,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Featured: Vestrahorn and Stokksnes Beach -->
+      <Placemark>
+        <name>✨ Vestrahorn and Stokksnes Beach</name>
+        <description>
+          <![CDATA[
+            <h3>Vestrahorn and Stokksnes Beach</h3>
+            <img src="https://guidetoiceland.imgix.net/4935/x/0/vestrahorn-mountain-and-stokksnes-beach-are-photographers-favourites-9.jpg" width="300" />
+            <p>A photographer's paradise, this area features the dramatic 454m Vestrahorn mountain rising directly from a black sand beach. The jagged peaks create one of Iceland's most photogenic landscapes, especially when reflected in wet sand at low tide.</p>
+            <p>The Viking Café at the entrance collects a small access fee ($6.50) but provides information about the area and refreshments.</p>
+            <p>The combination of black sand, sea, grass-covered dunes, and the imposing mountain creates an otherworldly landscape that feels like something from a fantasy film.</p>
+            <p><strong>Time needed:</strong> 1-2 hours</p>
+          ]]>
+        </description>
+        <styleUrl>#featuredStyle</styleUrl>
+        <Point>
+          <coordinates>15.0386143,-64.2456796,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Hidden Gem: The Waterfall Circle -->
+      <Placemark>
+        <name>💎 The Waterfall Circle</name>
+        <description>
+          <![CDATA[
+            <h3>The Waterfall Circle</h3>
+            <img src="https://epiciceland.net/wp-content/uploads/2021/02/Hengifoss-1-1.jpg" width="300" />
+            <p>A magical hike with nearly ten diverse waterfalls in the eastern highlands. This hidden gem offers an enchanting experience away from the usual tourist paths.</p>
+            <p><strong>Access:</strong> Trailhead at Laugarfell Guesthouse</p>
+            <p><strong>Vehicle requirements:</strong> Accessible with any car June-September</p>
+            <p><strong>Difficulty:</strong> Moderate 5-mile loop taking about 3 hours</p>
+            <p>This trail provides a perfect opportunity to experience multiple waterfalls in one hike, each with its own unique character.</p>
+          ]]>
+        </description>
+        <styleUrl>#hiddenGemStyle</styleUrl>
+        <Point>
+          <coordinates>15.3412456,-65.0321789,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Djúpivogur Village -->
+      <Placemark>
+        <name>Djúpivogur Village</name>
+        <description>
+          <![CDATA[
+            <h3>Djúpivogur Village</h3>
+            <img src="https://live.staticflickr.com/4304/35765811581_c7c77bf756_b.jpg" width="300" />
+            <p>Charming fishing village with the artistic "Eggs of Merry Bay" installation - 25 large egg sculptures representing local bird species.</p>
+            <p>Great place for a coffee break at Langabúð, Iceland's oldest trading post, which now houses a museum, café, and handicraft shop.</p>
+            <p>This peaceful village offers a glimpse into traditional Icelandic coastal life and culture.</p>
+            <p><strong>Time needed:</strong> 30-60 minutes</p>
+          ]]>
+        </description>
+        <styleUrl>#placemarkStyleMap</styleUrl>
+        <Point>
+          <coordinates>14.2729950,-64.6565171,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Hidden Gem: Strútsfoss Waterfall -->
+      <Placemark>
+        <name>💎 Strútsfoss Waterfall</name>
+        <description>
+          <![CDATA[
+            <h3>Strútsfoss Waterfall</h3>
+            <img src="https://epiciceland.net/wp-content/uploads/2020/05/Strutsfoss-waterfall-east-iceland-Jokdalur-Jokla-canyon-off-beaten-path-hidden-gems-1.jpg" width="300" />
+            <p>An even larger red strata waterfall than the famous Hengifoss, yet virtually crowd-free. The waterfall plunges dramatically into a colorful canyon, creating a truly spectacular sight.</p>
+            <p><strong>Access:</strong> Take Road 935 to Sturluflöt farm</p>
+            <p><strong>Vehicle requirements:</strong> Accessible with regular car in summer</p>
+            <p><strong>Difficulty:</strong> Easy family-friendly hike</p>
+            <p>This hidden gem allows you to experience one of Iceland's most impressive waterfalls without the crowds that gather at more famous sites.</p>
+          ]]>
+        </description>
+        <styleUrl>#hiddenGemStyle</styleUrl>
+        <Point>
+          <coordinates>15.2779866,-65.1328742,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Petra's Stone Collection -->
+      <Placemark>
+        <name>Petra's Stone Collection</name>
+        <description>
+          <![CDATA[
+            <h3>Petra's Stone Collection</h3>
+            <img src="https://cdn.tourradar.com/s3/tour/1500x800/169778_5f8a7beb42ac7.jpg" width="300" />
+            <p>One of the world's largest private mineral collections, gathered by local resident Petra Sveinsdóttir throughout her lifetime.</p>
+            <p><strong>Entrance fee:</strong> $14.50</p>
+            <p>This fascinating display of rocks, minerals, and crystals is housed in and around Petra's former home in the small village of Stöðvarfjörður.</p>
+            <p>The colorful garden filled with rock specimens and the interior exhibitions showcase the geological diversity of East Iceland.</p>
+            <p><strong>Time needed:</strong> 30-60 minutes</p>
+          ]]>
+        </description>
+        <styleUrl>#placemarkStyleMap</styleUrl>
+        <Point>
+          <coordinates>14.0980339,-64.8333271,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Featured: East Fjords Coastal Drive -->
+      <Placemark>
+        <name>✨ East Fjords Coastal Drive</name>
+        <description>
+          <![CDATA[
+            <h3>East Fjords Coastal Drive</h3>
+            <img src="https://www.wildernesstravel.com/images/trips/europe/iceland/east-fjords-adventure-iceland/1-slide-east-fjords-adventure-iceland-01.jpg" width="300" />
+            <p>One of Iceland's most spectacular coastal routes, this drive winds through a series of stunning fjords with steep mountains plunging into the sea. Each curve in the road reveals a new vista of rugged peaks, hidden coves, and tiny fishing villages.</p>
+            <p>The East Fjords offer a glimpse into traditional Icelandic coastal life, with small harbors full of fishing boats and colorful houses nestled against dramatic mountain backdrops.</p>
+            <p>The route offers countless photo opportunities and places to pull over and soak in the scenery. Keep your camera ready!</p>
+            <p><strong>Tips:</strong> Drive carefully on the winding roads, and be prepared to make frequent stops for photos and short walks.</p>
+          ]]>
+        </description>
+        <styleUrl>#featuredStyle</styleUrl>
+        <Point>
+          <coordinates>14.5401478,-64.9249383,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Destination: Seyðisfjörður -->
+      <Placemark>
+        <name>Destination: Seyðisfjörður</name>
+        <description>
+          <![CDATA[
+            <h3>Seyðisfjörður</h3>
+            <img src="https://www.east.is/static/files/2022/myndir-i-texta/skyrsla/seydisfjordur-rainbow-road.jpg" width="300" />
+            <p>This picturesque town is nestled in a fjord surrounded by mountains and is known for its colorful Norwegian-style wooden houses.</p>
+            <p><strong>Accommodation:</strong> Seyðisfjörður Guesthouse - Hafnargata 4, Seydisordur</p>
+            <p><strong>Key attractions:</strong>
+              <ul>
+                <li>The famous blue church</li>
+                <li>Rainbow-painted street leading to the church</li>
+                <li>Artistic community with galleries and workshops</li>
+                <li>Beautiful waterfall cascading near the town</li>
+              </ul>
+            </p>
+            <p><strong>Dinner options:</strong>
+              <ul>
+                <li>Nordic Restaurant at Hotel Aldan - Fine dining in a historic setting</li>
+                <li>Skaftfell Bistro - Casual dining and pizzas</li>
+                <li>El Grillo Bar - Named after a British oil tanker sunk in the fjord during WWII</li>
+              </ul>
+            </p>
+            <p>Don't miss an evening walk to see the rainbow street and famous blue church!</p>
+          ]]>
+        </description>
+        <styleUrl>#placemarkStyleMap</styleUrl>
+        <Point>
+          <coordinates>14.0101724,-65.2606255,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Alternative: Hengifoss and Litlanesfoss -->
+      <Placemark>
+        <name>Alternative: Hengifoss and Litlanesfoss</name>
+        <description>
+          <![CDATA[
+            <h3>Hengifoss and Litlanesfoss Waterfall Hike</h3>
+            <img src="https://uploads-ssl.webflow.com/5caaef4dd7676c30318109ca/5e7a009cdab0e3fd7afeec1e_hengifoss-waterfall-iceland-2.jpg" width="300" />
+            <p>An impressive waterfall with distinctive red clay striations between layers of basalt, creating a striking striped pattern on the cliff face.</p>
+            <p>The hike also takes you past Litlanesfoss, a beautiful waterfall framed by large hexagonal basalt columns.</p>
+            <p><strong>Trail details:</strong> 3-mile round trip hike (2-3 hours)</p>
+            <p><strong>Difficulty:</strong> Moderate with some uphill sections</p>
+            <p>This popular hike offers spectacular views and photo opportunities throughout.</p>
+          ]]>
+        </description>
+        <styleUrl>#placemarkStyleMap</styleUrl>
+        <Point>
+          <coordinates>14.8844051,-65.0958323,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Alternative: Hallormsstaðaskógur Forest -->
+      <Placemark>
+        <name>Alternative: Hallormsstaðaskógur Forest</name>
+        <description>
+          <![CDATA[
+            <h3>Hallormsstaðaskógur Forest</h3>
+            <img src="https://www.east.is/static/files/2020/hallormsstadaskogur/hallorm-1-vefur-1.jpg" width="300" />
+            <p>Iceland's largest forest with marked trails winding through diverse tree species. This national forest was established in 1905 and now contains over 80 tree species.</p>
+            <p>The forest offers peaceful walking paths, picnic areas, and opportunities to spot local wildlife.</p>
+            <p><strong>Activities:</strong> Walking trails of various lengths, birdwatching, picnicking</p>
+            <p>This is a unique experience in a country where forests are relatively rare, providing a different landscape from the more typical Icelandic terrain.</p>
+          ]]>
+        </description>
+        <styleUrl>#placemarkStyleMap</styleUrl>
+        <Point>
+          <coordinates>14.7496414,-65.0967382,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Alternative: Fáskrúðsfjörður French Museum -->
+      <Placemark>
+        <name>Alternative: Fáskrúðsfjörður French Museum</name>
+        <description>
+          <![CDATA[
+            <h3>Fáskrúðsfjörður French Museum</h3>
+            <img src="https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/5c/57.jpg" width="300" />
+            <p>Museum dedicated to the French fishermen who worked off Iceland's east coast from the mid-19th to early 20th century.</p>
+            <p>Located in a beautifully restored building that once served as a French hospital, the museum tells the story of the thousands of French sailors who fished in Icelandic waters.</p>
+            <p>Street signs in the village are in both Icelandic and French, reflecting this unique heritage.</p>
+            <p><strong>Time needed:</strong> 30-60 minutes</p>
+          ]]>
+        </description>
+        <styleUrl>#placemarkStyleMap</styleUrl>
+        <Point>
+          <coordinates>14.0314853,-64.9316187,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Alternative Hidden Gem: Hvannagil Valley -->
+      <Placemark>
+        <name>Alternative 💎: Hvannagil Valley</name>
+        <description>
+          <![CDATA[
+            <h3>Hvannagil Valley</h3>
+            <img src="https://epiciceland.net/wp-content/uploads/2021/02/Hvannagil-hidden-gem-canyon-East-Fjords-Iceland-off-beaten-path-7.jpg" width="300" />
+            <p>An area full of secluded canyons, dry river beds, and colorful hills usually only visited by locals.</p>
+            <p><strong>Access:</strong> Gravel track called Grænahlíð from Stafafell</p>
+            <p><strong>Vehicle requirements:</strong> Any car can reach valley bottom</p>
+            <p><strong>Hiking:</strong> 2-hour loop hike</p>
+            <p>This hidden valley offers incredible landscapes with colorful rhyolite mountains and unique geological formations, away from the typical tourist routes.</p>
+          ]]>
+        </description>
+        <styleUrl>#hiddenGemStyle</styleUrl>
+        <Point>
+          <coordinates>14.9688721,-64.7918673,0</coordinates>
+        </Point>
+      </Placemark>
+      
+    </Folder>
+  </Document>
+</kml>

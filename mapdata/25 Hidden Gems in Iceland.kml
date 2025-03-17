@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>25 Hidden Gems in Iceland</name>
+    <description>https://epiciceland.net/25-hidden-gems-in-iceland/</description>
+    <Style id="icon-1899-000000-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-000000-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-000000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-000000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-000000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Waterfalls</name>
+      <Placemark>
+        <name>Strútsfoss</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAU2jkXOLYgKJ2ni7uJ5ZSdaShhNQg4oV_1o-Mk4G-DaEYKj3cTo_oB6UIQ8QhazcHZ3p3NWg1vqCM6U2WqtDEpnERU5we8QVjcg4RiJjLaRrp6qiQjqNM8LkI5El_Yo9XO6k7L5HmRSVCKGx87oVWbz-u9mp1ktlFrLmudnAiA6fY1UyTtxvBPkaYOzXGc14TaHBd-lsPTQItncQgsf0h6pCUmBn-L-kZKk7wFyPIIIiPoQ3pj-BdkbCIo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/all-waterfalls-iceland/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAU2jkXOLYgKJ2ni7uJ5ZSdaShhNQg4oV_1o-Mk4G-DaEYKj3cTo_oB6UIQ8QhazcHZ3p3NWg1vqCM6U2WqtDEpnERU5we8QVjcg4RiJjLaRrp6qiQjqNM8LkI5El_Yo9XO6k7L5HmRSVCKGx87oVWbz-u9mp1ktlFrLmudnAiA6fY1UyTtxvBPkaYOzXGc14TaHBd-lsPTQItncQgsf0h6pCUmBn-L-kZKk7wFyPIIIiPoQ3pj-BdkbCIo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -15.0220922,64.8943057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Waterfall Circle</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXWzMi82nW7Z5dqr5DX3Or0pnuEl9xdx3jPjO0q6qCMu67kmET9i4z1cklJH9KsEsZNOljv7SIQ95sV0uW3ot20zolLb_k8eJ_bnQpwAk8QHN8HM1U5u_e2osd9W6yPJUxaktOlQhrkR7z4NN-SEQV7TlGJ3FIo9hVGHmO-pWN8DRj-gz4XIM5E-xzJlsteShD-ii_4kSmf-C1lFMxkRjFteo8W0YU0RNY7F3XZNVu-HjNB09WWdeDNLIo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/all-waterfalls-iceland/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXWzMi82nW7Z5dqr5DX3Or0pnuEl9xdx3jPjO0q6qCMu67kmET9i4z1cklJH9KsEsZNOljv7SIQ95sV0uW3ot20zolLb_k8eJ_bnQpwAk8QHN8HM1U5u_e2osd9W6yPJUxaktOlQhrkR7z4NN-SEQV7TlGJ3FIo9hVGHmO-pWN8DRj-gz4XIM5E-xzJlsteShD-ii_4kSmf-C1lFMxkRjFteo8W0YU0RNY7F3XZNVu-HjNB09WWdeDNLIo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -15.320108,64.8919442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Núpsárfoss</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXi8s4-VBMg0VN0lHaxw7ywhvM8DJp-mPVjjnzcdEreBAtY6XGQjaqotRK6aW_nxaLEFu1i5S7MSpIL-_u84piTdKgQlwhsuPc7OcOZwD02GIouPhWdAEPWvSDCv5QknXIMox4WPR5MXDDOD_cuyBtciQ7hv5eMIh-WcSF6gG0abNplQan-iqhIS_JhON9J4NbD7PrHNJ2mUS4OuhggfWp-RhWgzewvm1qCW7_Q91C-pPsoHiCMhILNcUc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/all-waterfalls-iceland/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXi8s4-VBMg0VN0lHaxw7ywhvM8DJp-mPVjjnzcdEreBAtY6XGQjaqotRK6aW_nxaLEFu1i5S7MSpIL-_u84piTdKgQlwhsuPc7OcOZwD02GIouPhWdAEPWvSDCv5QknXIMox4WPR5MXDDOD_cuyBtciQ7hv5eMIh-WcSF6gG0abNplQan-iqhIS_JhON9J4NbD7PrHNJ2mUS4OuhggfWp-RhWgzewvm1qCW7_Q91C-pPsoHiCMhILNcUc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -17.4726078,64.0638828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dynkur</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXNrFNfrYej32T44xs7M25LmtwoPOF-MBBsvtSuTIybLBkdqcbiF8FuY-4X3fpnOgIaVWMmCBBdwheH1OFttRtX2OJCxfOvxM-YremXJOFg2TWmox9IZFqxoDqv4qQXg2KCzIWOME-nBEjYZJvCvFwqcoTiGpjXaZuXZnnDew5lTktbQ_mm5E_yYO8e6_12PdANZf3tiFTBrnpNVpHl3RpfR_aJfzz9GAOzF4SNhR10nil_Q__-80GI3xw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/all-waterfalls-iceland/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXNrFNfrYej32T44xs7M25LmtwoPOF-MBBsvtSuTIybLBkdqcbiF8FuY-4X3fpnOgIaVWMmCBBdwheH1OFttRtX2OJCxfOvxM-YremXJOFg2TWmox9IZFqxoDqv4qQXg2KCzIWOME-nBEjYZJvCvFwqcoTiGpjXaZuXZnnDew5lTktbQ_mm5E_yYO8e6_12PdANZf3tiFTBrnpNVpHl3RpfR_aJfzz9GAOzF4SNhR10nil_Q__-80GI3xw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -19.1967287,64.3377502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tungnaárfellsfoss</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWCIhiJYgyPP_P0QodNv_Ffnt9-dmTo211tTabE4yjrs4kKWb8yy5dflTuBrGA6L12T6nSH54OkTv8NXjQ1zgMvBcdI4uVtfNUzt4uxntRjB3LoP5UZs97A6Aps5DxSiOmTkZMCnKMT0sp5lamVnKHK-X_Bu3kAslSYEOHa71esbt3YWRNm641Hc0KPP4LhQV-gMSkpxAaUqP0Qltztat2XpqUQ3deQebRDS6XZJ7xwOcKdhVucBs9OPI4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/all-waterfalls-iceland/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWCIhiJYgyPP_P0QodNv_Ffnt9-dmTo211tTabE4yjrs4kKWb8yy5dflTuBrGA6L12T6nSH54OkTv8NXjQ1zgMvBcdI4uVtfNUzt4uxntRjB3LoP5UZs97A6Aps5DxSiOmTkZMCnKMT0sp5lamVnKHK-X_Bu3kAslSYEOHa71esbt3YWRNm641Hc0KPP4LhQV-gMSkpxAaUqP0Qltztat2XpqUQ3deQebRDS6XZJ7xwOcKdhVucBs9OPI4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -19.097169,64.117016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morsárfoss</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUD62PFd0A0Wel0UuwEDg7nqw_93MPCdBHfC2ox5IT26KB94GmittWOCAtDeGDo-F91SFnDSmL80gOz6Fgf8Anu8HRKysLgbWQbDaTOm6EZ2jp8EHvwDqGcD-FgZ9AEueV2r_pIRgUmGFgxEU6qXexl3d4barpxvYuLOWk-BTKfNr6jktcw3y3xviQQ85tQowBMZOXKJADO3IOL3AI1KgfY4woArzS8JbXv4kbmzyqWkbAGXG0UJYIxKe0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/all-waterfalls-iceland/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUD62PFd0A0Wel0UuwEDg7nqw_93MPCdBHfC2ox5IT26KB94GmittWOCAtDeGDo-F91SFnDSmL80gOz6Fgf8Anu8HRKysLgbWQbDaTOm6EZ2jp8EHvwDqGcD-FgZ9AEueV2r_pIRgUmGFgxEU6qXexl3d4barpxvYuLOWk-BTKfNr6jktcw3y3xviQQ85tQowBMZOXKJADO3IOL3AI1KgfY4woArzS8JbXv4kbmzyqWkbAGXG0UJYIxKe0?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -16.8649448,64.1095415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bergárfoss</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWLj4ChhFPkC_U18fCC7YK5KHG2_nG3PbFVZ4bPTg7B8Q8t-X1f7lKK5zIsc5fWEVYcED2yEJlA429_aisp4R5HODuHNcIF4aQwG3ObpMsGZRFmON-6fvxKo1DfzHM3v-KIpUxfw3fIyYUxPOgIJFoevEJx_yU9Z4gfc3XtCdW_47ooUqE2jvqqCpbq24w6_LW2g9AnRp7Pfb9haKlieJ_lxzj3i_lSuip9fL7VnyOeuDAbDzib4G40r90?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/all-waterfalls-iceland/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWLj4ChhFPkC_U18fCC7YK5KHG2_nG3PbFVZ4bPTg7B8Q8t-X1f7lKK5zIsc5fWEVYcED2yEJlA429_aisp4R5HODuHNcIF4aQwG3ObpMsGZRFmON-6fvxKo1DfzHM3v-KIpUxfw3fIyYUxPOgIJFoevEJx_yU9Z4gfc3XtCdW_47ooUqE2jvqqCpbq24w6_LW2g9AnRp7Pfb9haKlieJ_lxzj3i_lSuip9fL7VnyOeuDAbDzib4G40r90?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -20.5445,65.2998889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hot Springs</name>
+      <Placemark>
+        <name>Sturlungalaug</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXEEijdAnWh81IjyJ6bN7bIrRk1IqwlHaVnhYaiDNkL-2pYiuIw9t6hsp0yKRjQYjUVtAO3D9b8Spd0ECR5iO_1liW_3_maNm6hNprEMd-CcPRSGZ8DBnlJojZlnp8eXFSQNcuG41Eg8DsmlkUYACTA92yrfrYplwRghtSPISZLKA9UuaBH7ISBFnmb6J5ZjK6EJk_tcnin_lkaDG7LTrz2kNDmumLQK61p_iKZOD4spE1aFxyLMlhb6JI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/all-hot-springs-iceland/]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXEEijdAnWh81IjyJ6bN7bIrRk1IqwlHaVnhYaiDNkL-2pYiuIw9t6hsp0yKRjQYjUVtAO3D9b8Spd0ECR5iO_1liW_3_maNm6hNprEMd-CcPRSGZ8DBnlJojZlnp8eXFSQNcuG41Eg8DsmlkUYACTA92yrfrYplwRghtSPISZLKA9UuaBH7ISBFnmb6J5ZjK6EJk_tcnin_lkaDG7LTrz2kNDmumLQK61p_iKZOD4spE1aFxyLMlhb6JI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -22.2837503,64.8695889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strútslaug</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUO_M9aCZfdR3Za1w8uyBlbuNwADd8sB9n8EPF62dgdc91sHZ7UXFqthn23YThGsTqqsj1ykYO_co6dLtYNlWVoTHtFoBLM4rufYvT9YDelh_IrVCg8uYSzIkmYE5VAT8t2oLKbECiVH8u-vb4oIbYWGoNZ6cYE4ger0DRVjpdx3lhrB9VAhhxMQXVdYWJa0jUhK4H7AiMWWo-6qnH4Te_JMYNhkNzRk5Aj4QnMj46RJJf2YDHXSuGsP04?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/secret-hot-spring-canyon-highlands/]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUO_M9aCZfdR3Za1w8uyBlbuNwADd8sB9n8EPF62dgdc91sHZ7UXFqthn23YThGsTqqsj1ykYO_co6dLtYNlWVoTHtFoBLM4rufYvT9YDelh_IrVCg8uYSzIkmYE5VAT8t2oLKbECiVH8u-vb4oIbYWGoNZ6cYE4ger0DRVjpdx3lhrB9VAhhxMQXVdYWJa0jUhK4H7AiMWWo-6qnH4Te_JMYNhkNzRk5Aj4QnMj46RJJf2YDHXSuGsP04?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -18.9472222,63.8761111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vonarskarð</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWdxMr9EypWO2D9QSImNVAYAz5GOQPzwMRXKTrw7-1D_E3eEjXJnpODUNZlfnNFuRADFNiLyOxX9xUS42K-t8yJYtMivZoYkXMnYBo6WIFxbWAtsrklxw8wbyjm7HWmygfambZj2uNiRTyXQXy7_nfEULnTxyQdCgZ27i18qGvd0MQdEi1qx2Nxcw79z84a04UKdzSKUT-eePrJlt3i1P1BNPXy5V6w9Q2DjPpMar41AiZGpV0s8q0IA34?authuser=0&fife=s16383" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWdxMr9EypWO2D9QSImNVAYAz5GOQPzwMRXKTrw7-1D_E3eEjXJnpODUNZlfnNFuRADFNiLyOxX9xUS42K-t8yJYtMivZoYkXMnYBo6WIFxbWAtsrklxw8wbyjm7HWmygfambZj2uNiRTyXQXy7_nfEULnTxyQdCgZ27i18qGvd0MQdEi1qx2Nxcw79z84a04UKdzSKUT-eePrJlt3i1P1BNPXy5V6w9Q2DjPpMar41AiZGpV0s8q0IA34?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -17.8733333,64.6416667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hikes</name>
+      <Placemark>
+        <name>Graenihryggur</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAX-D1lGlO5Ky4e_AspsZQ58UKKI-lUWRSwg8cbxr5MSKOgaU25vAZfkb2pW52JydRhq1VTUEIEhK6rw6jKpw-rzqjySsmKPieaynIZx-cpv-HU2_7AnsixXjO96kNnTEUBChK4MOgHjmSRdkRSD0dXWYxvfrI-2FQoPGp4UBeUQX7k1KUGs6Sim5AQ2cyMxcVzPKtqj9wsWMQkssKzxDz7vHZuTIwgMYsbrh_OUrP3JAw_KcW25FtX3BV0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/graenihryggur-hike/]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAX-D1lGlO5Ky4e_AspsZQ58UKKI-lUWRSwg8cbxr5MSKOgaU25vAZfkb2pW52JydRhq1VTUEIEhK6rw6jKpw-rzqjySsmKPieaynIZx-cpv-HU2_7AnsixXjO96kNnTEUBChK4MOgHjmSRdkRSD0dXWYxvfrI-2FQoPGp4UBeUQX7k1KUGs6Sim5AQ2cyMxcVzPKtqj9wsWMQkssKzxDz7vHZuTIwgMYsbrh_OUrP3JAw_KcW25FtX3BV0?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -18.9915825,63.933123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Huldujökull</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVA0JB2PQm2Q5W7Ri9hkvdJQTLEoTvzAYfXb3lDbhMBNNtsfVcKuyYtHO39JuvywKItTMjveBqLvkHQ76ZZSw5eTPS8-cIpbZ-ttEmamzxnObuFBbdbkX4ZS0oSA7K2TfkBCCc7LEJ_FzvYtW9dNUBc4NV2RtqM3hUhSqQaFGVCqi7FXaTpQSzAt_TCp0KfdJVqsmOiTAisYVgajTFWvk7pysIwRkha34uW-DavDM_IdG-TEn-1MCrsom8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/thakgil-guide-best-hiking-trails/]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVA0JB2PQm2Q5W7Ri9hkvdJQTLEoTvzAYfXb3lDbhMBNNtsfVcKuyYtHO39JuvywKItTMjveBqLvkHQ76ZZSw5eTPS8-cIpbZ-ttEmamzxnObuFBbdbkX4ZS0oSA7K2TfkBCCc7LEJ_FzvYtW9dNUBc4NV2RtqM3hUhSqQaFGVCqi7FXaTpQSzAt_TCp0KfdJVqsmOiTAisYVgajTFWvk7pysIwRkha34uW-DavDM_IdG-TEn-1MCrsom8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -18.9489182,63.5633984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brunavik Beach</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWTTy2ZA_CWFOS9QoligreOdCC8QQqLhJPf6IWZrzWidcjfvRK9XRfLzyMBLDwsz1pf3J3JIATegv5_415PTeNE4RwYGQhn0Utre2JLXiCBd2R9SPqozLvC5xsMLPvlXwOvH0jvBYMLv844EcwF_PmijKGsdYjDPTPVOU4LIhJ7bSPTpFQ2j8PrkfbYHnjFgcCk_gjLKJfzw9d17FJJ5iLVY1DGmRUWu0q1rBRLoWtCkTw4M7IywxZhhts?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/borgarfjordur-eystri/]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWTTy2ZA_CWFOS9QoligreOdCC8QQqLhJPf6IWZrzWidcjfvRK9XRfLzyMBLDwsz1pf3J3JIATegv5_415PTeNE4RwYGQhn0Utre2JLXiCBd2R9SPqozLvC5xsMLPvlXwOvH0jvBYMLv844EcwF_PmijKGsdYjDPTPVOU4LIhJ7bSPTpFQ2j8PrkfbYHnjFgcCk_gjLKJfzw9d17FJJ5iLVY1DGmRUWu0q1rBRLoWtCkTw4M7IywxZhhts?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -13.6821616,65.5259785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snækollur</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUckfkQhWvyG4cY3GfDfHa_xyfKFp5ots7sxoGDOGf6s5eNJmVOHE5jMPzYA7F0u5OJCgkqGkf8O5RVWUQmqLuT0HtO7wZF6hWQ7QXJTMf3XZrq4mRvKI_7MsyKLy7EIvS7enuSNxxeu4R83dYW_effF9cEIEuG_6mXhkHmcqnO5DSAg6sCDoaLhDfm8b_LMtYwJxH5cExSmk6d_egvYT1KGAPuA67of2sAFIDIZmdeSStrdzThWlXlc54?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/snaekollur-hike-kerlingarfjoll/]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUckfkQhWvyG4cY3GfDfHa_xyfKFp5ots7sxoGDOGf6s5eNJmVOHE5jMPzYA7F0u5OJCgkqGkf8O5RVWUQmqLuT0HtO7wZF6hWQ7QXJTMf3XZrq4mRvKI_7MsyKLy7EIvS7enuSNxxeu4R83dYW_effF9cEIEuG_6mXhkHmcqnO5DSAg6sCDoaLhDfm8b_LMtYwJxH5cExSmk6d_egvYT1KGAPuA67of2sAFIDIZmdeSStrdzThWlXlc54?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -19.2308378,64.6440363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt. Laki</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUyYKwwLjgMSwK_I3RIi0FbRGbBwUtmsSJUARfox-T-S-xTDWoSy3IMKFBroJqRCpx_miFt2axYk92K38iG0jyOITP9TpRzIpPzJsmO8V6EWh50lmcGgPDlA9Y3bOcFhiWzo5PTfFOTjHa5-r7Gxf-gF4nVAE57EhbqtsYIrA9SDeArfr4tHEnDBOMOtXGW7qCgCEYz3Ya08yS6b4vPWANG3ywcGvhhN6_83ucSz5MXQT7CQCeG89uXNhE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/laki-craters-complete-guide/]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUyYKwwLjgMSwK_I3RIi0FbRGbBwUtmsSJUARfox-T-S-xTDWoSy3IMKFBroJqRCpx_miFt2axYk92K38iG0jyOITP9TpRzIpPzJsmO8V6EWh50lmcGgPDlA9Y3bOcFhiWzo5PTfFOTjHa5-r7Gxf-gF4nVAE57EhbqtsYIrA9SDeArfr4tHEnDBOMOtXGW7qCgCEYz3Ya08yS6b4vPWANG3ywcGvhhN6_83ucSz5MXQT7CQCeG89uXNhE?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -18.2366667,64.0702778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hvannagil Valley</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXCx7bPSlvE2hSwBstA_vEORKhVHDCIbzvox0dcAsEc5Pq9bVHQ3iFuDJdAn2OuTQTXFROEv1t8VdCYFQNzgd0Rx7NmPSDmMjvQ-G4CORJUCWvFqvZU02Ld5ontcG6c2PMmkqePG2fnvJsrkana7wIFg3lsNPpuweKn0XnblfWu3rOq6VUwT4-pm4pgWyGfnSOnCj3pK_8bXos7Ob3Jd_vO9g3mBunuVkM7YFqbMu7TLq0kNM5lrmJkxQE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/south-east-highlands/]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXCx7bPSlvE2hSwBstA_vEORKhVHDCIbzvox0dcAsEc5Pq9bVHQ3iFuDJdAn2OuTQTXFROEv1t8VdCYFQNzgd0Rx7NmPSDmMjvQ-G4CORJUCWvFqvZU02Ld5ontcG6c2PMmkqePG2fnvJsrkana7wIFg3lsNPpuweKn0XnblfWu3rOq6VUwT4-pm4pgWyGfnSOnCj3pK_8bXos7Ob3Jd_vO9g3mBunuVkM7YFqbMu7TLq0kNM5lrmJkxQE?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -14.945382,64.4464058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sveinstindur</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAU8oHKiX6ZOddUugSrC12b1qOfph1yiSVyJhI3TJjOkGj6r7qxl7kqVEOPnUEDjdY1RnXyX96ZPvtCpK8gwKGOA3ws_ULa0VD_U-0cQkWd_aQCbNWCXXhXPDn5hqXzd3kbYI60WjYKtn9aaI0At_QLV6peoSZO19kanJCBn5t0_lDwW69aJ9i77Dgq_UVgDufhLy7Zvzg02yWSaigiyT9zouDGbySA5k2P7U4R40-JtduXBumvQ2ZZvVOY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/day-3-journey-to-langisjor-and-landmannalaugar/]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAU8oHKiX6ZOddUugSrC12b1qOfph1yiSVyJhI3TJjOkGj6r7qxl7kqVEOPnUEDjdY1RnXyX96ZPvtCpK8gwKGOA3ws_ULa0VD_U-0cQkWd_aQCbNWCXXhXPDn5hqXzd3kbYI60WjYKtn9aaI0At_QLV6peoSZO19kanJCBn5t0_lDwW69aJ9i77Dgq_UVgDufhLy7Zvzg02yWSaigiyT9zouDGbySA5k2P7U4R40-JtduXBumvQ2ZZvVOY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -18.4166667,64.1069444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ker</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUS7-3u9COGv64_debPUsumeRO9s8NN7Q9Lk5sBCFsJPdiZROQNYQOJYUDKmC113i_Arc0rTU05RMSmtY6PohGJ5diWtOEnobIIEBqRsSftziNLJv9OJgc-UfpRiRZkhiPpJXszujMgQOu4eVm4yO3bFlqdvFMCAkBplx4cIasMiYSziIFVkKbWEuxIcuUvA5Rl0ONW42V3zeK1gnQvvTQvP18UAS-RQLD5jzdQlASyN3-FIqbDzkm2cqI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/borgarfjordur-eystri/]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUS7-3u9COGv64_debPUsumeRO9s8NN7Q9Lk5sBCFsJPdiZROQNYQOJYUDKmC113i_Arc0rTU05RMSmtY6PohGJ5diWtOEnobIIEBqRsSftziNLJv9OJgc-UfpRiRZkhiPpJXszujMgQOu4eVm4yO3bFlqdvFMCAkBplx4cIasMiYSziIFVkKbWEuxIcuUvA5Rl0ONW42V3zeK1gnQvvTQvP18UAS-RQLD5jzdQlASyN3-FIqbDzkm2cqI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -14.3860212,65.7257203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lónsöræfi</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXCVjYGAwBlfFv3WrF3acX7kztDTfLrL7X6Idw913rMBTrUrdQ0CVXaqE_Byv3utkMdWBeOzpIOZ-5N4xCwLB2WbVQ2Ryf2k9BasJ1KWumKlljIlSZRdyzgmjTFxZ_S53YT_xpFGMvLXn9UkA4qwKyFTIpKwIn5ojetAuDYbg81QwCg0JLYqehDOIyLMh0d95y39nZVd0Cpg-G8pNQTyVEUNBSrnj2dV-YcNVjrWwlfW_glK9JGoUhdi58?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/south-east-highlands/]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXCVjYGAwBlfFv3WrF3acX7kztDTfLrL7X6Idw913rMBTrUrdQ0CVXaqE_Byv3utkMdWBeOzpIOZ-5N4xCwLB2WbVQ2Ryf2k9BasJ1KWumKlljIlSZRdyzgmjTFxZ_S53YT_xpFGMvLXn9UkA4qwKyFTIpKwIn5ojetAuDYbg81QwCg0JLYqehDOIyLMh0d95y39nZVd0Cpg-G8pNQTyVEUNBSrnj2dV-YcNVjrWwlfW_glK9JGoUhdi58?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -15.1959852,64.5949181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kverkfjöll</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAV98smzGi8ajkfRHHMT8Fn84-KVDnlUifswy1X8lLcAFUzuOlfOv7EBjjddx94nUxwzla0RJlcd7HVuljS_03SdJUyx57U3f4iQGgD7PH-dvsBCjvDOrjUeqKUn42VB4-WNVTxFT3A3fb0lioxXbl_x7O-e3nPP5rKdSDCAKg2-dt1gzfNn1mVTDRSNQkSkJTTdBww68C-FuH5ZZQXqsGUx3aWATkKaDPmarI__oSGeAaUE4dPgLMP8kcc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/best-places-in-highlands-iceland/]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAV98smzGi8ajkfRHHMT8Fn84-KVDnlUifswy1X8lLcAFUzuOlfOv7EBjjddx94nUxwzla0RJlcd7HVuljS_03SdJUyx57U3f4iQGgD7PH-dvsBCjvDOrjUeqKUn42VB4-WNVTxFT3A3fb0lioxXbl_x7O-e3nPP5rKdSDCAKg2-dt1gzfNn1mVTDRSNQkSkJTTdBww68C-FuH5ZZQXqsGUx3aWATkKaDPmarI__oSGeAaUE4dPgLMP8kcc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -16.7,64.65,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Tracks, Canyons, Craters</name>
+      <Placemark>
+        <name>Hungurfit road</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUcL565QIAD5ahsR63H98D_tYzuO_TGb1Jb4gBCCakCF87BFlpWP5r2gtLXIlGkIK4-AtoeYv54L1YPLu2tjBXKcLAOlWb5ZIy6HRLB177lgUyp2qpam_Qcjj1FHVvp9LgAqzpxBL_aPz4lrq-f9_5nkRozoQtWoc4RZCtNbiBRTWu4mGxEx9kVaMZ-_ABZ5y1Sn-3EH-ECRcI2ehIGfsttFZn2ZI-YQSO66n_ltl6xCLvUjJ_3fVNCJ5g?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/list-f-roads-iceland/]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUcL565QIAD5ahsR63H98D_tYzuO_TGb1Jb4gBCCakCF87BFlpWP5r2gtLXIlGkIK4-AtoeYv54L1YPLu2tjBXKcLAOlWb5ZIy6HRLB177lgUyp2qpam_Qcjj1FHVvp9LgAqzpxBL_aPz4lrq-f9_5nkRozoQtWoc4RZCtNbiBRTWu4mGxEx9kVaMZ-_ABZ5y1Sn-3EH-ECRcI2ehIGfsttFZn2ZI-YQSO66n_ltl6xCLvUjJ_3fVNCJ5g?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -19.4895688,63.813218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rauðaskál</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUCNFUxeOe7yxvPpQWDn5Jo9agSz3gT9QEzfvC4G8qKyTS6qiXrlKa6HLiCxzF_NXWIyVKdQrFfiKTmh6gEDS9iQrudSZYeldpUx3lZnB2_QsrvH2F6oyjlSBQGefX07qFmz9T5bAadDVJBH9I4TD2N9KzyCdVr4jmVGXn6p5YUHcjIqgKrEWPtXiZ86i51OSw5hYOn5nT4sBP7vDyqImi6CFTAQcS17hmIpHSaR4LjH94PAbzC4e35KQU?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/hekla-landmannalaugar-highlands-iceland/#Raudaskal_crater]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUCNFUxeOe7yxvPpQWDn5Jo9agSz3gT9QEzfvC4G8qKyTS6qiXrlKa6HLiCxzF_NXWIyVKdQrFfiKTmh6gEDS9iQrudSZYeldpUx3lZnB2_QsrvH2F6oyjlSBQGefX07qFmz9T5bAadDVJBH9I4TD2N9KzyCdVr4jmVGXn6p5YUHcjIqgKrEWPtXiZ86i51OSw5hYOn5nT4sBP7vDyqImi6CFTAQcS17hmIpHSaR4LjH94PAbzC4e35KQU?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -19.576334,64.0369034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krakatindur track</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWUEFQfSCaTNd_3ViI-jt2o7NqmmpkKTxfLa3pOSLPI3cWi-RpPMB3yCb5qeZQWLbqer48QF3pEsHRbP0qZKcJ7e-oYXHUL8smhrz0RkZ_LT4NRLFL7RkyuJsf_mBUFqI9U0XONnIiC_hsKJve-xm8IAOFO5_VRO_K5d847B7n8Sh-u1LLMzRxGXyVN1iaGw3gaK_KHdiuckoxnJ7DropGW_Vw50mduOZ3Sop7viqZPSolukAukv6Gfxvg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/hekla-landmannalaugar-highlands-iceland/]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWUEFQfSCaTNd_3ViI-jt2o7NqmmpkKTxfLa3pOSLPI3cWi-RpPMB3yCb5qeZQWLbqer48QF3pEsHRbP0qZKcJ7e-oYXHUL8smhrz0RkZ_LT4NRLFL7RkyuJsf_mBUFqI9U0XONnIiC_hsKJve-xm8IAOFO5_VRO_K5d847B7n8Sh-u1LLMzRxGXyVN1iaGw3gaK_KHdiuckoxnJ7DropGW_Vw50mduOZ3Sop7viqZPSolukAukv6Gfxvg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -19.4716667,64.0130556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Markarfljótsgljúfur</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUjCPDaxBrAW1b3Qod5hcWBb5bdhXQsW3PhxyQzi7W6CMTgPlF1DO7La7Ew7LII3d2tP4V60d-HHOXuq_i-7cpL6vmGxrPUPAXtdTHP1gHo2xJuiyLXqkXYRmYy8ffejuHEXFkSzsD2qlA4l0W39n_L-uPBf7uYLQHzTLQWADewXd75lT6H3DFUU9Z3wvbYmNKhGZEC5u3cwnQu7EMSgldDfcoBQwZKD2eFuzSq4f-WeQ0JEA5B1JpgN5Q?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/fjallabak-highlands-south-iceland/]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUjCPDaxBrAW1b3Qod5hcWBb5bdhXQsW3PhxyQzi7W6CMTgPlF1DO7La7Ew7LII3d2tP4V60d-HHOXuq_i-7cpL6vmGxrPUPAXtdTHP1gHo2xJuiyLXqkXYRmYy8ffejuHEXFkSzsD2qlA4l0W39n_L-uPBf7uYLQHzTLQWADewXd75lT6H3DFUU9Z3wvbYmNKhGZEC5u3cwnQu7EMSgldDfcoBQwZKD2eFuzSq4f-WeQ0JEA5B1JpgN5Q?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -19.3973259,63.768013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blautulón</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWL8NJsyBXqnVF3nzpszI0NtwHfqUrjFJzfk68h_PYLnBm8MBLSdUHkpwkfjpbYCoqu6pEtoaYwrrvzZCOhbUZgzdGZvyubS5EKzm4QZIWPz8S_Dlv4VGYIqyqu1ZXlB12mHXVooaFGwaRdTcyJ-jsClikfyJuRJhh8MHc6DaiXC9a2gKQ-7iRU8tL2NWrqctfXvHzQbT8O7ocvrmCOvKsMNvklkn86chmVHoqzlhT9x_sZNIvz5yeuYAU?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://epiciceland.net/langisjor-roads-and-hikes/]]></description>
+        <styleUrl>#icon-1899-000000</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWL8NJsyBXqnVF3nzpszI0NtwHfqUrjFJzfk68h_PYLnBm8MBLSdUHkpwkfjpbYCoqu6pEtoaYwrrvzZCOhbUZgzdGZvyubS5EKzm4QZIWPz8S_Dlv4VGYIqyqu1ZXlB12mHXVooaFGwaRdTcyJ-jsClikfyJuRJhh8MHc6DaiXC9a2gKQ-7iRU8tL2NWrqctfXvHzQbT8O7ocvrmCOvKsMNvklkn86chmVHoqzlhT9x_sZNIvz5yeuYAU?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -18.52877,64.0238247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

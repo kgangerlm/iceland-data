@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Iceland Ring Road Trip - Day 4 (July 17, 2025): Glaciers &amp; Waterfalls</name>
+    <description>Day 4 of the Iceland Ring Road trip featuring glaciers, waterfalls, and the famous Jokulsarlon Glacier Lagoon.</description>
+    
+    <!-- Common styles -->
+    <Style id="featured">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/blu-stars.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="hidden_gem">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/purple-stars.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="accommodation">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/lodging.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="hiking">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="town">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/dining.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    
+    <!-- Folder for Day 4 -->
+    <Folder>
+      <name>Day 4 - July 17, 2025: Glaciers &amp; Waterfalls</name>
+      <Placemark>
+        <name>Svartifoss Waterfall</name>
+        <description>
+          <![CDATA[
+            <div style="max-width:400px;font-family:Arial,sans-serif;">
+              <h2>Svartifoss Waterfall</h2>
+              <p>Unique waterfall with distinctive black basalt columns, located in Skaftafell (Vatnajökull National Park). A 3.5-mile moderate hike taking 2-3 hours round trip.</p>
+              <img src="https://guidetoiceland.imgix.net/370904/x/0/svartifoss-waterfall-beautiful-basalt-columns-and-water-flowing-3.jpg" style="max-width:100%;max-height:200px;margin-top:10px;" alt="Svartifoss Waterfall" />
+            </div>
+          ]]>
+        </description>
+        <styleUrl>#hiking</styleUrl>
+        <Point>
+          <coordinates>-16.9752,64.0278,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strútsfoss Waterfall</name>
+        <description>
+          <![CDATA[
+            <div style="max-width:400px;font-family:Arial,sans-serif;">
+              <h2>Strútsfoss Waterfall</h2>
+              <p>Hidden gem waterfall in eastern highlands. Larger than famous Hengifoss yet crowd-free. Accessible with regular car in summer via Road 935.</p>
+              <img src="https://epiciceland.net/wp-content/uploads/2023/06/strutsfoss-waterfall-view-eastern-iceland-10.jpg" style="max-width:100%;max-height:200px;margin-top:10px;" alt="Strútsfoss Waterfall" />
+            </div>
+          ]]>
+        </description>
+        <styleUrl>#hidden_gem</styleUrl>
+        <Point>
+          <coordinates>-15.5758,64.9677,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jokulsarlon Glacier Lagoon</name>
+        <description>
+          <![CDATA[
+            <div style="max-width:400px;font-family:Arial,sans-serif;">
+              <h2>Jokulsarlon Glacier Lagoon</h2>
+              <p>Famous glacier lagoon with floating icebergs. Pre-booked Zodiac boat tour available.</p>
+              <img src="https://guidetoiceland.imgix.net/726835/x/0/jokulsarlon-3.jpg" style="max-width:100%;max-height:200px;margin-top:10px;" alt="Jokulsarlon Glacier Lagoon" />
+            </div>
+          ]]>
+        </description>
+        <styleUrl>#featured</styleUrl>
+        <Point>
+          <coordinates>-16.1799,64.0478,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Diamond Beach</name>
+        <description>
+          <![CDATA[
+            <div style="max-width:400px;font-family:Arial,sans-serif;">
+              <h2>Diamond Beach</h2>
+              <p>Black sand beach with glacier ice pieces, across road from Jokulsarlon Lagoon. Incredible photo opportunity.</p>
+              <img src="https://guidetoiceland.imgix.net/395899/x/0/diamond-beach-8-1.jpg" style="max-width:100%;max-height:200px;margin-top:10px;" alt="Diamond Beach" />
+            </div>
+          ]]>
+        </description>
+        <styleUrl>#featured</styleUrl>
+        <Point>
+          <coordinates>-16.178,64.0427,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Höfn</name>
+        <description>
+          <![CDATA[
+            <div style="max-width:400px;font-family:Arial,sans-serif;">
+              <h2>Höfn</h2>
+              <p>Known as the "Langoustine Capital" with recommended restaurants: Pakkhús and Humarhöfnin.</p>
+              <img src="https://guidetoiceland.imgix.net/720935/x/0/hofn-restaurant-in-the-evening.jpg" style="max-width:100%;max-height:200px;margin-top:10px;" alt="Höfn" />
+            </div>
+          ]]>
+        </description>
+        <styleUrl>#town</styleUrl>
+        <Point>
+          <coordinates>-15.2082,64.2539,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Núpsárfoss Waterfall</name>
+        <description>
+          <![CDATA[
+            <div style="max-width:400px;font-family:Arial,sans-serif;">
+              <h2>Núpsárfoss Waterfall</h2>
+              <p>Hidden gem featuring two waterfalls of different colors where a clear river and glacial river meet. Near Skaftafell; no marked trail.</p>
+              <img src="https://epiciceland.net/wp-content/uploads/2023/05/nupsarfoss-iceland-2.jpg" style="max-width:100%;max-height:200px;margin-top:10px;" alt="Núpsárfoss Waterfall" />
+            </div>
+          ]]>
+        </description>
+        <styleUrl>#hidden_gem</styleUrl>
+        <Point>
+          <coordinates>-16.9667,64.0642,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morsárfoss Waterfall</name>
+        <description>
+          <![CDATA[
+            <div style="max-width:400px;font-family:Arial,sans-serif;">
+              <h2>Morsárfoss Waterfall</h2>
+              <p>Iceland's tallest waterfall (230m) falling from a giant glacier in Skaftafell. Best view from Kristínartindar summit; 4-hour challenging 11km hike from Skaftafell Park.</p>
+              <img src="https://epiciceland.net/wp-content/uploads/2023/05/morsarfoss-waterfall-iceland.jpg" style="max-width:100%;max-height:200px;margin-top:10px;" alt="Morsárfoss Waterfall" />
+            </div>
+          ]]>
+        </description>
+        <styleUrl>#hidden_gem</styleUrl>
+        <Point>
+          <coordinates>-17,64.0917,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt. Laki</name>
+        <description>
+          <![CDATA[
+            <div style="max-width:400px;font-family:Arial,sans-serif;">
+              <h2>Mt. Laki</h2>
+              <p>A once-in-a-lifetime view over hundreds of 200-year-old volcanos. Access via F206 and F207 (July-September); medium-sized 4WD needed.</p>
+              <img src="https://epiciceland.net/wp-content/uploads/2023/05/laki-craters-lake-2.jpg" style="max-width:100%;max-height:200px;margin-top:10px;" alt="Mt. Laki" />
+            </div>
+          ]]>
+        </description>
+        <styleUrl>#hidden_gem</styleUrl>
+        <Point>
+          <coordinates>-18.2266,64.0042,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Accommodation - Jökulsárlón/Höfn</name>
+        <description>
+          <![CDATA[
+            <div style="max-width:400px;font-family:Arial,sans-serif;">
+              <h2>Accommodation - Jökulsárlón/Höfn</h2>
+              <p>Airbnb near Höfn - $357.52</p>
+              <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/f3/90/ca/photo2jpg.jpg?w=600&h=400&s=1" style="max-width:100%;max-height:200px;margin-top:10px;" alt="Accommodation - Jökulsárlón/Höfn" />
+            </div>
+          ]]>
+        </description>
+        <styleUrl>#accommodation</styleUrl>
+        <Point>
+          <coordinates>-15.2082,64.2539,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

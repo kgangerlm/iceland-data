@@ -19,17 +19,20 @@ Day,Image
 11,https://raw.githubusercontent.com/kgangerlm/iceland-data/refs/heads/main/images/day11.avif
 <images>
 
-Now use the plan above to create a beautiful, inspirational, and factually accurate itinerary in html format
+Now use the plan above to create a beautiful, inspirational, and factually accurate itinerary in html format. 
 
 Remember these important guidelines. 
  - Anything that is a hidden gem should be highlighted and marked with a gem emoji. 
- - Anything I told you to highlight as an activity should be marked with a sparkle emoji and have more details than other items
- - always include lodging information from the tripit data 
+ - Anything I told you to highlight or feature as an activity should be marked with a sparkle emoji and have more details than other items
+ - always include lodging information from the tripit data. you can pull from other sources to improve this, but dont' make anything up
  - always include an emoji and overview image for each day 
  - always include a summary and inspirational quote for the day
+ - include a tip at the end of the day if you have something particularly important or insightful for me to remember that day. Don't feel compelled to do this if it isn't very helpful to me. 
  - carefully consider what I should be thinking about and add that in the notes section for each day 
- - Add links for more information wherever possible. Look for links I provided you then use your best judgment to find others. 
- - include a page break before each day based on the example i provide you
+ - Add links for more information wherever possible. Look for links I provided you then use your best judgment to find others. don't invent links. 
+ - include a page break before each day based on the example I provide you
+ - include the embedded map I provided you in the example
+ - do not include any confirmation codes or other personal information other than first names.
  - find a picture from the information I gave you and insert the correct one into the "[day image]" area in the <imag> tag.  
 
  Now Generate a compelling, accurate itinerary in the following format

@@ -156,6 +156,7 @@ Preference: Scenic drive through East Fjords with multiple stops
 ### Notes
 
 - We have duplicate reservations. Leaning towards keeping the one in Seydisfjordur
+- There is a small cruse in port departing 
 
 ## Day 6
 Preference: hiking in Borgarfjörður Eystri
@@ -193,6 +194,7 @@ Preference: hiking in Borgarfjörður Eystri
 
 ### Note
 - We need to cancel mytvan reservation
+- note possible deviation to stay at backcountry hut
 
 ## Day 7 
 preference: see main sites along route to akuryri. Short hike and the rest of the day by car.  
@@ -235,5 +237,34 @@ preference: see main sites along route to akuryri. Short hike and the rest of th
 ### Notes 
 - if we go to ker cliffs and dettifoss that is a total of 5h 25m driving without stops 
 - Look at some of the morning alternate activities and see if they would fit in day 6 somewhere
+- Alternate booking at Hsusavik we need to deal with
+- Note cruse in port in Akiri
+
+
+------- 
+This section has very loose plans 
+
+
+
+## Day 8 
+
+preference: lower key day due to two long previous days. Maybe whale watching or horseback riding today. 
+
+### Notes
+- Booking on troll peninsula still need to evaluate that
+- horseback riding is supposed to be good on troll peninsula 
+- A few f road and hidden gems could be on the table today
+- I would like to visit the botanical gardens 
+- We could backtrack to see major sites we missed yesterday 
+- Look for the hotsprings waterfall in akuri area.
+- good info on [troll peninsula](https://www.adventurouskate.com/trollaskagi/)
+- Hellnar Coastal Path
+- 4500 cruise passengers in the area
+- look at whalewatching for today
+- alternate lodging is near famous beer spa 
+
+
+
+
 
 <current_itinerary>

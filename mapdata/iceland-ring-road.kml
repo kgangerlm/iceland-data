@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Iceland Ring Road - Days 2-7 (July 15-20, 2025)</name>
+    <description>Iceland Ring Road itinerary for days 2-7, covering the Golden Circle, South Coast, Glacial Wonders, East Fjords, Lake Mývatn Area, and North Iceland.</description>
+    
+    <!-- Custom Icons -->
+    <Style id="lodgingIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/lodging.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    
+    <Style id="attractionIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    
+    <Style id="hikingIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/trail.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    
+    <Style id="waterfallIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    
+    <Style id="beachIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/sailing.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    
+    <Style id="hotspringIcon">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/swimming.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    
+    <Style id="redLineStyle">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    
+    <!-- Day 2: July 15 - Golden Circle -->
+    <Folder>
+      <name>Day 2: July 15 - Golden Circle</name>
+      <description>Experience Iceland's most famous natural attractions on this classic route that showcases geothermal wonders, powerful waterfalls, and historical sites.</description>
+      
+      <!-- Þingvellir National Park -->
+      <Placemark>
+        <name>Þingvellir National Park</name>
+        <description>
+          <![CDATA[
+          <h3>Þingvellir National Park</h3>
+          <p>A UNESCO World Heritage site where you can walk between the North American and Eurasian tectonic plates. Also the site of the world's oldest parliament, established in 930 AD.</p>
+          <p><strong>Cost:</strong> Free entrance, $5 parking fee<br>
+          <strong>Duration:</strong> 1-2 hours</p>
+          <img src="https://guidetoiceland.imgix.net/4784/x/0/thingvellir-4.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#attractionIcon</styleUrl>
+        <Point>
+          <coordinates>-21.1297659,64.2559245,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Geysir Geothermal Area -->
+      <Placemark>
+        <name>Geysir Geothermal Area</name>
+        <description>
+          <![CDATA[
+          <h3>Geysir Geothermal Area</h3>
+          <p>Home to the famous Strokkur geyser, which erupts every 5-7 minutes, shooting hot water up to 30 meters into the air. The area features numerous hot springs, bubbling mud pots, and steaming vents.</p>
+          <p><strong>Cost:</strong> Free<br>
+          <strong>Duration:</strong> 30-60 minutes</p>
+          <img src="https://guidetoiceland.imgix.net/4787/x/0/geysir-5.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#hotspringIcon</styleUrl>
+        <Point>
+          <coordinates>-20.3023605,64.3103859,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Gullfoss Waterfall -->
+      <Placemark>
+        <name>Gullfoss Waterfall</name>
+        <description>
+          <![CDATA[
+          <h3>Gullfoss Waterfall</h3>
+          <p>One of Iceland's most iconic waterfalls, where the Hvítá river plunges into a dramatic two-tiered cascade. On sunny days, rainbows often appear in the spray, creating a magical atmosphere.</p>
+          <p><strong>Cost:</strong> Free<br>
+          <strong>Duration:</strong> 30-60 minutes</p>
+          <img src="https://guidetoiceland.imgix.net/4786/x/0/gullfoss-6.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#waterfallIcon</styleUrl>
+        <Point>
+          <coordinates>-20.1201512,64.3270907,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Reykjadalur Hot Spring Thermal River -->
+      <Placemark>
+        <name>Reykjadalur Hot Spring Thermal River Hike</name>
+        <description>
+          <![CDATA[
+          <h3>Reykjadalur Hot Spring Thermal River</h3>
+          <p>This beautiful valley offers a unique experience with a naturally hot river perfect for bathing. The hike takes you through stunning geothermal landscapes with steaming vents before reaching the bathing area.</p>
+          <p><strong>Difficulty:</strong> Moderate<br>
+          <strong>Distance:</strong> 4.5 miles round-trip<br>
+          <strong>Duration:</strong> 2-3 hours<br>
+          <strong>Tip:</strong> Bring a towel and quick-dry clothes</p>
+          <img src="https://guidetoiceland.imgix.net/369250/x/0/reykjadalur-3.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#hikingIcon</styleUrl>
+        <Point>
+          <coordinates>-21.2048769,64.0362446,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Country Dream Guesthouse -->
+      <Placemark>
+        <name>Country Dream Guesthouse (Accommodation)</name>
+        <description>
+          <![CDATA[
+          <h3>Country Dream Guesthouse</h3>
+          <p>Your accommodation near Selfoss after exploring the Golden Circle.</p>
+          <p><strong>Address:</strong> Langholt 2, Selfoss<br>
+          <strong>Check-in time:</strong> 3pm</p>
+          <img src="https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/385855242.jpg?k=4d45e15ad49a50f7cfb275b93c7ac3bad2c5ee93b5df3f28f8cc3a19e1d4b7b5" width="300">
+          ]]>
+        </description>
+        <styleUrl>#lodgingIcon</styleUrl>
+        <Point>
+          <coordinates>-21.0047631,63.9334248,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Day 2 Route -->
+      <Placemark>
+        <name>Day 2 Driving Route</name>
+        <description>Reykjavík to Selfoss via Golden Circle (124 miles, 4-5 hours with stops)</description>
+        <styleUrl>#redLineStyle</styleUrl>
+        <LineString>
+          <coordinates>
+            -21.9367325,64.1434455,0
+            -21.1297659,64.2559245,0
+            -20.3023605,64.3103859,0
+            -20.1201512,64.3270907,0
+            -21.2048769,64.0362446,0
+            -21.0047631,63.9334248,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    
+    <!-- Day 3: July 16 - South Coast -->
+    <Folder>
+      <name>Day 3: July 16 - South Coast</name>
+      <description>Explore the dramatic south coast with its numerous waterfalls, black sand beaches, and volcanic landscapes as Heather joins your adventure.</description>
+      
+      <!-- Seljalandsfoss Waterfall -->
+      <Placemark>
+        <name>Seljalandsfoss Waterfall</name>
+        <description>
+          <![CDATA[
+          <h3>Seljalandsfoss Waterfall</h3>
+          <p>This magnificent 60-meter waterfall is famous for the path that runs behind the cascading water, offering a unique perspective. It's especially beautiful in the evening light.</p>
+          <p><strong>Cost:</strong> $7 parking fee<br>
+          <strong>Duration:</strong> 45-60 minutes</p>
+          <img src="https://guidetoiceland.imgix.net/4785/x/0/seljalandsfoss-5.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#waterfallIcon</styleUrl>
+        <Point>
+          <coordinates>-20.0066385,63.6156232,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Skógafoss Waterfall -->
+      <Placemark>
+        <name>Skógafoss Waterfall</name>
+        <description>
+          <![CDATA[
+          <h3>Skógafoss Waterfall</h3>
+          <p>One of Iceland's biggest and most beautiful waterfalls with a drop of 60 meters and a width of 25 meters. Climb the stairs to the right of the waterfall for stunning views from above and the beginning of the Fimmvörðuháls hiking trail.</p>
+          <p><strong>Cost:</strong> Free<br>
+          <strong>Duration:</strong> 1-2 hours</p>
+          <img src="https://guidetoiceland.imgix.net/4927/x/0/skogafoss-5.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#waterfallIcon</styleUrl>
+        <Point>
+          <coordinates>-19.5113832,63.5320523,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Vikurfjara Black Sand Beach -->
+      <Placemark>
+        <name>Vikurfjara Black Sand Beach</name>
+        <description>
+          <![CDATA[
+          <h3>Vikurfjara Black Sand Beach</h3>
+          <p>This less-touristy alternative to Reynisfjara offers the same dramatic black sand and basalt formations but with fewer crowds. Take in views of the Reynisdrangar sea stacks and feel the power of the Atlantic waves.</p>
+          <p><strong>Duration:</strong> 1-2 hours<br>
+          <strong>Warning:</strong> Never turn your back to the ocean due to dangerous sneaker waves</p>
+          <img src="https://guidetoiceland.imgix.net/370063/x/0/reynisfjara-7.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#beachIcon</styleUrl>
+        <Point>
+          <coordinates>-19.0408249,63.4083248,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Dyrhólaey Peninsula -->
+      <Placemark>
+        <name>Dyrhólaey Peninsula</name>
+        <description>
+          <![CDATA[
+          <h3>Dyrhólaey Peninsula</h3>
+          <p>A small peninsula with a massive stone arch and stunning views of the south coast. It's also a sanctuary for birds, including puffins during summer months (May to August).</p>
+          <p><strong>Cost:</strong> Free<br>
+          <strong>Duration:</strong> 1-2 hours</p>
+          <img src="https://guidetoiceland.imgix.net/370055/x/0/dyrholaey-3.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#attractionIcon</styleUrl>
+        <Point>
+          <coordinates>-19.1275406,63.4026763,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- The Barn Accommodation -->
+      <Placemark>
+        <name>The Barn (Accommodation)</name>
+        <description>
+          <![CDATA[
+          <h3>The Barn</h3>
+          <p>Your accommodation in Norðurfoss after exploring Iceland's south coast.</p>
+          <p><strong>Address:</strong> Norðurfoss, South Iceland<br>
+          <strong>Check-in time:</strong> 4pm</p>
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/e6/3a/ca/exterior.jpg?w=700&h=-1&s=1" width="300">
+          ]]>
+        </description>
+        <styleUrl>#lodgingIcon</styleUrl>
+        <Point>
+          <coordinates>-18.7412357,63.4356879,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Day 3 Route -->
+      <Placemark>
+        <name>Day 3 Driving Route</name>
+        <description>Selfoss to Norðurfoss (106 miles, 2.5 hours without stops)</description>
+        <styleUrl>#redLineStyle</styleUrl>
+        <LineString>
+          <coordinates>
+            -21.0047631,63.9334248,0
+            -20.0066385,63.6156232,0
+            -19.5113832,63.5320523,0
+            -19.1275406,63.4026763,0
+            -19.0408249,63.4083248,0
+            -18.7412357,63.4356879,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    
+    <!-- Day 4: July 17 - Glacial Wonders -->
+    <Folder>
+      <name>Day 4: July 17 - Glacial Wonders</name>
+      <description>Witness the breathtaking meeting of ice and ocean at Jökulsárlón Glacier Lagoon and explore the rugged beauty of Vatnajökull National Park.</description>
+      
+      <!-- Skaftafell - Svartifoss Waterfall -->
+      <Placemark>
+        <name>Skaftafell - Svartifoss Waterfall Hike</name>
+        <description>
+          <![CDATA[
+          <h3>Skaftafell - Svartifoss Waterfall Hike</h3>
+          <p>A beautiful hike to one of Iceland's most distinctive waterfalls, surrounded by hexagonal basalt columns. The hike offers views of several waterfalls and glaciers along the way.</p>
+          <p><strong>Difficulty:</strong> Moderate<br>
+          <strong>Distance:</strong> 3.5 miles round-trip<br>
+          <strong>Duration:</strong> 2-3 hours<br>
+          <strong>Cost:</strong> Free</p>
+          <img src="https://guidetoiceland.imgix.net/370205/x/0/svartifoss-1.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#hikingIcon</styleUrl>
+        <Point>
+          <coordinates>-16.9778323,64.0167303,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Jökulsárlón Glacier Lagoon -->
+      <Placemark>
+        <name>Jökulsárlón Glacier Lagoon &amp; Diamond Beach</name>
+        <description>
+          <![CDATA[
+          <h3>Jökulsárlón Glacier Lagoon &amp; Diamond Beach</h3>
+          <p>This stunning glacial lagoon filled with floating icebergs is one of Iceland's most spectacular sights. Don't miss Diamond Beach across the road where ice chunks wash up on black sand, creating a surreal landscape.</p>
+          <p><strong>Duration:</strong> 2-3 hours<br>
+          <strong>Boat Tour Options:</strong><br>
+          - Amphibian boat: $55<br>
+          - Zodiac tour: $95<br>
+          <strong>Note:</strong> Book boat tours in advance</p>
+          <img src="https://guidetoiceland.imgix.net/4910/x/0/jokulsarlon-glacier-lagoon-5.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#attractionIcon</styleUrl>
+        <Point>
+          <coordinates>-16.1802302,64.0477489,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Fjallsárlón Glacier Lagoon -->
+      <Placemark>
+        <name>Fjallsárlón Glacier Lagoon</name>
+        <description>
+          <![CDATA[
+          <h3>Fjallsárlón Glacier Lagoon</h3>
+          <p>A less crowded alternative to Jökulsárlón with similar stunning views of icebergs and glacier. The backdrop of the mountains makes this place especially photogenic.</p>
+          <p><strong>Cost:</strong> Free<br>
+          <strong>Duration:</strong> 1 hour</p>
+          <img src="https://guidetoiceland.imgix.net/370149/x/0/fjallsarlon-1.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#attractionIcon</styleUrl>
+        <Point>
+          <coordinates>-16.3810606,64.0124067,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Stokksnes Peninsula/Vestrahorn Mountain -->
+      <Placemark>
+        <name>Stokksnes Peninsula/Vestrahorn Mountain</name>
+        <description>
+          <![CDATA[
+          <h3>Stokksnes Peninsula/Vestrahorn Mountain</h3>
+          <p>One of Iceland's most photogenic mountains, rising 454 meters from a black sand beach. The dramatic peaks reflected in the wet sand create a photographer's paradise.</p>
+          <p><strong>Cost:</strong> $10 entrance fee<br>
+          <strong>Duration:</strong> 1-2 hours</p>
+          <img src="https://guidetoiceland.imgix.net/370207/x/0/vestrahorn-1.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#attractionIcon</styleUrl>
+        <Point>
+          <coordinates>-14.9799514,64.2456773,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Airbnb in Höfn -->
+      <Placemark>
+        <name>Airbnb in Höfn (Accommodation)</name>
+        <description>
+          <![CDATA[
+          <h3>Airbnb in Höfn</h3>
+          <p>Your accommodation in Höfn, known as Iceland's lobster capital.</p>
+          <p><strong>Address:</strong> Seljavöllum, Höfn í Hornafirði<br>
+          <strong>Check-in time:</strong> 3pm<br>
+          <strong>Cancellation deadline:</strong> July 12</p>
+          <img src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/270720902.jpg?k=cbc6f3a7f14e29bda2a19f6c04b6a0f5c73e2a9fb8af9b72a9d9ecb5f19ba6c5" width="300">
+          ]]>
+        </description>
+        <styleUrl>#lodgingIcon</styleUrl>
+        <Point>
+          <coordinates>-15.2018255,64.2539213,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Day 4 Route -->
+      <Placemark>
+        <name>Day 4 Driving Route</name>
+        <description>Norðurfoss to Höfn (93 miles, 2 hours without stops)</description>
+        <styleUrl>#redLineStyle</styleUrl>
+        <LineString>
+          <coordinates>
+            -18.7412357,63.4356879,0
+            -16.9778323,64.0167303,0
+            -16.3810606,64.0124067,0
+            -16.1802302,64.0477489,0
+            -14.9799514,64.2456773,0
+            -15.2018255,64.2539213,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    
+    <!-- Day 5: July 18 - The East Fjords -->
+    <Folder>
+      <name>Day 5: July 18 - The East Fjords</name>
+      <description>Traverse the dramatic eastern fjords with their steep mountains, charming fishing villages, and winding coastal roads.</description>
+      
+      <!-- Djúpivogur village -->
+      <Placemark>
+        <name>Djúpivogur Village</name>
+        <description>
+          <![CDATA[
+          <h3>Djúpivogur Village</h3>
+          <p>A charming fishing village with a creative atmosphere. Don't miss the Eggin í Gleðivík (Eggs of Merry Bay), an outdoor art installation featuring 34 large stone eggs representing native bird species.</p>
+          <p><strong>Duration:</strong> 1-2 hours<br>
+          <strong>Highlight:</strong> Harbor with outdoor sculpture exhibition</p>
+          <img src="https://guidetoiceland.imgix.net/370100/x/0/the-eggs-of-merry-bay-1.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#attractionIcon</styleUrl>
+        <Point>
+          <coordinates>-14.2826176,64.6560641,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Petra's Stone Collection -->
+      <Placemark>
+        <name>Petra's Stone Collection</name>
+        <description>
+          <![CDATA[
+          <h3>Petra's Stone Collection</h3>
+          <p>One of the world's largest private collections of minerals and stones. Petra Sveinsdóttir spent her lifetime collecting rocks from the nearby mountains, creating a magical garden and museum.</p>
+          <p><strong>Cost:</strong> $15 entrance<br>
+          <strong>Duration:</strong> 1-2 hours</p>
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/5f/b3/44/steinasafn-petru.jpg?w=1200&h=-1&s=1" width="300">
+          ]]>
+        </description>
+        <styleUrl>#attractionIcon</styleUrl>
+        <Point>
+          <coordinates>-14.0230131,64.8275758,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Hengifoss and Litlanesfoss Waterfall -->
+      <Placemark>
+        <name>Hengifoss and Litlanesfoss Waterfall Hike</name>
+        <description>
+          <![CDATA[
+          <h3>Hengifoss and Litlanesfoss Waterfall Hike</h3>
+          <p>A beautiful hiking trail leading to Iceland's third-highest waterfall (128m) with distinctive red clay and black basalt layers. Along the way, you'll pass Litlanesfoss, framed by dramatic hexagonal basalt columns.</p>
+          <p><strong>Difficulty:</strong> Moderate<br>
+          <strong>Distance:</strong> 4.3 miles round-trip<br>
+          <strong>Duration:</strong> 2-3 hours<br>
+          <strong>Cost:</strong> Free</p>
+          <img src="https://guidetoiceland.imgix.net/370166/x/0/hengifoss-1.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#hikingIcon</styleUrl>
+        <Point>
+          <coordinates>-14.8791323,65.0954971,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Airbnb in Egilsstaðir -->
+      <Placemark>
+        <name>Airbnb - Maríanna (Accommodation)</name>
+        <description>
+          <![CDATA[
+          <h3>Airbnb - Maríanna</h3>
+          <p>Your accommodation in Egilsstaðir, the largest town in East Iceland.</p>
+          <p><strong>Address:</strong> Egilsstaðir, East Iceland<br>
+          <strong>Check-in time:</strong> 4pm<br>
+          <strong>Cancellation deadline:</strong> July 13 (5:00 PM)</p>
+          <img src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/324813643.jpg?k=52d67c4feaef1c18b2893e4c10ccc7f7e9ec3c45d59a0a3cd242572138990e41" width="300">
+          ]]>
+        </description>
+        <styleUrl>#lodgingIcon</styleUrl>
+        <Point>
+          <coordinates>-14.3948784,65.2615703,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Day 5 Route -->
+      <Placemark>
+        <name>Day 5 Driving Route</name>
+        <description>Höfn to Egilsstaðir (167 miles, 3.5 hours without stops)</description>
+        <styleUrl>#redLineStyle</styleUrl>
+        <LineString>
+          <coordinates>
+            -15.2018255,64.2539213,0
+            -14.2826176,64.6560641,0
+            -14.0230131,64.8275758,0
+            -14.8791323,65.0954971,0
+            -14.3948784,65.2615703,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    
+    <!-- Day 6: July 19 - Lake Mývatn Area -->
+    <Folder>
+      <name>Day 6: July 19 - Lake Mývatn Area</name>
+      <description>Explore the otherworldly volcanic landscapes, bubbling mud pots, and geothermal features of the Lake Mývatn region.</description>
+      
+      <!-- Dettifoss Waterfall -->
+      <Placemark>
+        <name>Dettifoss Waterfall</name>
+        <description>
+          <![CDATA[
+          <h3>Dettifoss Waterfall</h3>
+          <p>Europe's most powerful waterfall, with an average water flow of 193 cubic meters per second. The massive 44-meter high and 100-meter wide cascade creates a thunderous roar and impressive mist cloud.</p>
+          <p><strong>Cost:</strong> Free<br>
+          <strong>Duration:</strong> 1-2 hours</p>
+          <img src="https://guidetoiceland.imgix.net/4916/x/0/dettifoss-5.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#waterfallIcon</styleUrl>
+        <Point>
+          <coordinates>-16.3913173,65.8143666,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Krafla Volcano and Víti Crater -->
+      <Placemark>
+        <name>Krafla Volcano and Víti Crater</name>
+        <description>
+          <![CDATA[
+          <h3>Krafla Volcano and Víti Crater</h3>
+          <p>An active volcanic region with the striking Víti crater lake, filled with milky-blue water. The name "Víti" means "hell" in Icelandic, reflecting the powerful geological forces at work.</p>
+          <p><strong>Cost:</strong> Free<br>
+          <strong>Duration:</strong> 1-2 hours</p>
+          <img src="https://guidetoiceland.imgix.net/370172/x/0/krafla-and-viti-crater-1.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#attractionIcon</styleUrl>
+        <Point>
+          <coordinates>-16.7515516,65.7173752,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Námaskarð/Hverir Geothermal Area -->
+      <Placemark>
+        <name>Námaskarð/Hverir Geothermal Area</name>
+        <description>
+          <![CDATA[
+          <h3>Námaskarð/Hverir Geothermal Area</h3>
+          <p>A Mars-like landscape of bubbling mud pots, steaming fumaroles, and colorful sulfur deposits. The otherworldly terrain and strong sulfur smell provide a truly alien experience.</p>
+          <p><strong>Cost:</strong> Free<br>
+          <strong>Duration:</strong> 1 hour</p>
+          <img src="https://guidetoiceland.imgix.net/370183/x/0/namafjall-geothermal-area-1.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#hotspringIcon</styleUrl>
+        <Point>
+          <coordinates>-16.808285,65.6408752,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Mývatn Nature Baths -->
+      <Placemark>
+        <name>Mývatn Nature Baths</name>
+        <description>
+          <![CDATA[
+          <h3>Mývatn Nature Baths</h3>
+          <p>The northern equivalent of the Blue Lagoon, but less crowded and more affordable. These geothermal baths offer relaxing alkaline waters rich in minerals with panoramic views of the surrounding volcanic landscape.</p>
+          <p><strong>Cost:</strong> $45<br>
+          <strong>Duration:</strong> 2 hours</p>
+          <img src="https://guidetoiceland.imgix.net/370180/x/0/myvatn-nature-baths-1.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#hotspringIcon</styleUrl>
+        <Point>
+          <coordinates>-16.8452215,65.6354105,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Sel Hotel Mývatn -->
+      <Placemark>
+        <n>Sel Hotel Mývatn (Accommodation)</n>
+        <description>
+          <![CDATA[
+          <h3>Sel Hotel Mývatn</h3>
+          <p>Your accommodation in the Mývatn area, surrounded by volcanic landscapes.</p>
+          <p><strong>Address:</strong> Skútustaðir 2C, Mývatn<br>
+          <strong>Check-in time:</strong> 3pm<br>
+          <strong>Cancellation deadline:</strong> July 16 (12:00 AM)</p>
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/f2/01/d0/sel-hotel-myvatn.jpg?w=700&h=-1&s=1" width="300">
+          ]]>
+        </description>
+        <styleUrl>#lodgingIcon</styleUrl>
+        <Point>
+          <coordinates>-17.001037,65.5694966,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Day 6 Route -->
+      <Placemark>
+        <n>Day 6 Driving Route</n>
+        <description>Egilsstaðir to Mývatn (106 miles, 2.5 hours without stops)</description>
+        <styleUrl>#redLineStyle</styleUrl>
+        <LineString>
+          <coordinates>
+            -14.3948784,65.2615703,0
+            -16.3913173,65.8143666,0
+            -16.7515516,65.7173752,0
+            -16.808285,65.6408752,0
+            -16.8452215,65.6354105,0
+            -17.001037,65.5694966,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    
+    <!-- Day 7: July 20 - North Iceland -->
+    <Folder>
+      <n>Day 7: July 20 - North Iceland</n>
+      <description>Visit the charming northern capital of Akureyri and experience the region's diverse attractions from waterfalls to whale watching.</description>
+      
+      <!-- Goðafoss Waterfall -->
+      <Placemark>
+        <n>Goðafoss Waterfall</n>
+        <description>
+          <![CDATA[
+          <h3>Goðafoss Waterfall</h3>
+          <p>The "Waterfall of the Gods" is one of Iceland's most spectacular waterfalls, with its horseshoe shape and powerful cascade. It earned its name when Iceland converted to Christianity in 1000 AD, and the chieftain threw pagan idols into the falls.</p>
+          <p><strong>Cost:</strong> Free<br>
+          <strong>Duration:</strong> 1-2 hours<br>
+          <strong>Tip:</strong> Visit both the east and west sides for different perspectives</p>
+          <img src="https://guidetoiceland.imgix.net/4789/x/0/godafoss-5.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#waterfallIcon</styleUrl>
+        <Point>
+          <coordinates>-17.5504047,65.6826635,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Whale Watching in Húsavík -->
+      <Placemark>
+        <n>Whale Watching in Húsavík</n>
+        <description>
+          <![CDATA[
+          <h3>Whale Watching in Húsavík</h3>
+          <p>Known as Europe's whale watching capital, Húsavík offers world-class whale watching with high success rates for spotting humpback whales, minke whales, white-beaked dolphins, and occasionally blue whales.</p>
+          <p><strong>Cost:</strong> $85-100<br>
+          <strong>Duration:</strong> 3 hours<br>
+          <strong>Note:</strong> Book in advance</p>
+          <img src="https://guidetoiceland.imgix.net/370104/x/0/whale-watching-in-husavik-1.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#attractionIcon</styleUrl>
+        <Point>
+          <coordinates>-17.3537107,66.0444411,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Akureyri Botanical Gardens -->
+      <Placemark>
+        <n>Akureyri Botanical Gardens</n>
+        <description>
+          <![CDATA[
+          <h3>Akureyri Botanical Gardens</h3>
+          <p>One of the world's northernmost botanical gardens, showcasing over 7,000 species of plants, including all native Icelandic species and plants from around the world.</p>
+          <p><strong>Cost:</strong> Free<br>
+          <strong>Duration:</strong> 1-2 hours</p>
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/15/89/b2/akureyri-botanical-garden.jpg?w=1200&h=-1&s=1" width="300">
+          ]]>
+        </description>
+        <styleUrl>#attractionIcon</styleUrl>
+        <Point>
+          <coordinates>-18.0961132,65.6729212,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Akureyri Church -->
+      <Placemark>
+        <n>Akureyri Church</n>
+        <description>
+          <![CDATA[
+          <h3>Akureyri Church</h3>
+          <p>This iconic church, designed by architect Guðjón Samúelsson, stands on a hill overlooking the town. The interior features a ship hanging from the ceiling, a common feature in Icelandic churches symbolizing safe passage through life.</p>
+          <p><strong>Cost:</strong> Free<br>
+          <strong>Duration:</strong> 30 minutes</p>
+          <img src="https://guidetoiceland.imgix.net/370087/x/0/akureyri-church-1.jpg" width="300">
+          ]]>
+        </description>
+        <styleUrl>#attractionIcon</styleUrl>
+        <Point>
+          <coordinates>-18.0914259,65.6809582,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Airbnb in Akureyri -->
+      <Placemark>
+        <n>Airbnb - Hildur (Accommodation)</n>
+        <description>
+          <![CDATA[
+          <h3>Airbnb - Hildur</h3>
+          <p>Your accommodation in Akureyri, the capital of North Iceland.</p>
+          <p><strong>Address:</strong> Akureyri, North Iceland<br>
+          <strong>Check-in time:</strong> 3pm<br>
+          <strong>Cancellation deadline:</strong> July 16 (4:00 PM)</p>
+          <img src="https://a0.muscache.com/im/pictures/miso/Hosting-53258989/original/f7e71eba-c65a-463c-a6f9-051d9dbbe3b1.jpeg?im_w=720" width="300">
+          ]]>
+        </description>
+        <styleUrl>#lodgingIcon</styleUrl>
+        <Point>
+          <coordinates>-18.0864639,65.6809321,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <!-- Day 7 Route -->
+      <Placemark>
+        <n>Day 7 Driving Route</n>
+        <description>Mývatn to Akureyri (62 miles, 1.5 hours without stops)</description>
+        <styleUrl>#redLineStyle</styleUrl>
+        <LineString>
+          <coordinates>
+            -17.001037,65.5694966,0
+            -17.5504047,65.6826635,0
+            -18.0864639,65.6809321,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Iceland Day 6 - July 19 - Borgarfjörður Eystri</name>
+    <description>Trip itinerary for Day 6 of the Iceland Ring Road Adventure. This day takes you off the beaten path to Borgarfjörður Eystri, a remote and spectacularly beautiful region of East Iceland known for its rugged hiking trails, otherworldly landscapes, and one of Iceland's best puffin colonies.</description>
+    
+    <!-- Styles for placemarks -->
+    <Style id="hiking">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/hiking.png</href>
+        </Icon>
+        <scale>1.2</scale>
+      </IconStyle>
+    </Style>
+    
+    <Style id="lodging">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/lodging.png</href>
+        </Icon>
+        <scale>1.2</scale>
+      </IconStyle>
+    </Style>
+    
+    <Style id="camera">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+        </Icon>
+        <scale>1.2</scale>
+      </IconStyle>
+    </Style>
+    
+    <Style id="landmark">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/landmark.png</href>
+        </Icon>
+        <scale>1.2</scale>
+      </IconStyle>
+    </Style>
+    
+    <Style id="scenic">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/scenic.png</href>
+        </Icon>
+        <scale>1.2</scale>
+      </IconStyle>
+    </Style>
+    
+    <Folder>
+      <name>Day 6 - July 19 - Borgarfjörður Eystri</name>
+      
+      <!-- Starting Point -->
+      <Placemark>
+        <name>Morning Departure: Seyðisfjörður</name>
+        <description>
+          <![CDATA[
+            <h3>Starting Point</h3>
+            <p>Your day begins with breakfast at Seyðisfjörður Guesthouse. Depart by 9AM to allow a full day for exploration of the Borgarfjörður Eystri region.</p>
+            <p>Seyðisfjörður is one of Iceland's most beautiful towns, with colorful houses nestled at the end of a picturesque fjord surrounded by mountains.</p>
+            <br><br>
+            <img src="https://i.guim.co.uk/img/media/c5e73ed85e62f05959bc3b5869803636083ac331/0_140_4256_2554/master/4256.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=94f5eaeac981e871dfb9747f4f2d25aa" width="300">
+          ]]>
+        </description>
+        <Point>
+          <coordinates>-14.0118,65.2619,0</coordinates>
+        </Point>
+        <styleUrl>#lodging</styleUrl>
+      </Placemark>
+      
+      <!-- Brúnavík Beach -->
+      <Placemark>
+        <name>Brúnavík Beach Hike</name>
+        <description>
+          <![CDATA[
+            <h3>Hidden Gem</h3>
+            <p>One of Iceland's most stunning beaches with other-worldly landscapes. This 5-mile moderate hike (2.5 hours) takes you through diverse terrain to a secluded beach surrounded by colorful mountains.</p>
+            <p><strong>Difficulty:</strong> Moderate<br>
+            <strong>Distance:</strong> 5 miles (8 km) round trip<br>
+            <strong>Duration:</strong> Approximately 2.5 hours<br>
+            <strong>Access:</strong> Via Road 94 near Kolbeinsfjara cliffs in Bakkagerdi</p>
+            <p>The beach's black sand contrasts beautifully with surrounding colorful rhyolite mountains, creating scenes that feel almost extraterrestrial.</p>
+            <br><br>
+            <img src="https://epiciceland.net/wp-content/uploads/2019/09/Brunavik8.jpg" width="300">
+          ]]>
+        </description>
+        <Point>
+          <coordinates>-13.7222,65.5172,0</coordinates>
+        </Point>
+        <styleUrl>#hiking</styleUrl>
+      </Placemark>
+      
+      <!-- Stórurð Basin -->
+      <Placemark>
+        <name>Stórurð Basin Hike (The Giant Boulders)</name>
+        <description>
+          <![CDATA[
+            <h3>Featured Hike</h3>
+            <p>This relatively easy 3-mile loop takes you through a surreal landscape of massive boulders interspersed with vibrant turquoise pools. The trail winds through lush vegetation before opening to reveal the boulder field, where house-sized rocks are scattered as if dropped by giants.</p>
+            <p><strong>Difficulty:</strong> Easy to Moderate<br>
+            <strong>Distance:</strong> 3 miles (5 km) loop<br>
+            <strong>Duration:</strong> 2-3 hours with photo stops<br>
+            <strong>Trailhead:</strong> 15-minute drive from Borgarfjörður Eystri</p>
+            <p>The contrast between the green vegetation, turquoise water, and gray boulders creates a mystical atmosphere that makes this hike particularly photogenic.</p>
+            <br><br>
+            <img src="https://guidetoiceland.imgix.net/370825/x/0/storurd-is-a-magnificent-area-with-gigantic-rocks-and-stunning-green-ponds?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883&s=e2ad9b8fa5e35f48c9d977353bed4448" width="300">
+          ]]>
+        </description>
+        <Point>
+          <coordinates>-13.9097,65.5308,0</coordinates>
+        </Point>
+        <styleUrl>#hiking</styleUrl>
+      </Placemark>
+      
+      <!-- Hafnarhólmi Puffin Colony -->
+      <Placemark>
+        <name>Hafnarhólmi Puffin Colony</name>
+        <description>
+          <![CDATA[
+            <h3>Wildlife Viewing</h3>
+            <p>One of Iceland's best and most accessible puffin viewing areas. July is peak season for puffin watching, making this an ideal time to visit.</p>
+            <p><strong>Features:</strong><br>
+            - Easy wooden walkways and viewing platforms<br>
+            - Close-up views without disturbing the birds<br>
+            - No entrance fee<br>
+            - Thousands of Atlantic puffins nesting during summer</p>
+            <p>The colony is most active in early morning or evening hours. Bring binoculars if you have them for the best experience. Dress warmly as it can be quite windy on the viewing platforms.</p>
+            <br><br>
+            <img src="https://icelandaurora.com/wp-content/uploads/2020/04/BorgarfjorEystriPuffin.jpg" width="300">
+          ]]>
+        </description>
+        <Point>
+          <coordinates>-13.7654,65.5267,0</coordinates>
+        </Point>
+        <styleUrl>#camera</styleUrl>
+      </Placemark>
+      
+      <!-- Optional: Ker Cliffs -->
+      <Placemark>
+        <name>Þerribjörg Sea Cliffs (Ker Cliffs)</name>
+        <description>
+          <![CDATA[
+            <h3>Alternative Activity</h3>
+            <p>The Þerribjörg Sea Cliffs form one of the most breathtaking beaches and coastlines in East Iceland. These dramatic cliffs offer stunning views of the ocean and rugged coastline.</p>
+            <p><strong>Access:</strong> Via gravel road 917 (Hlíðarvegur)<br>
+            <strong>Vehicle:</strong> Any car can access May-October<br>
+            <strong>Hike:</strong> Easy 1.5-hour family-friendly hike<br>
+            <strong>Features:</strong> Scenic mountain pass with panoramic views</p>
+            <p>This hidden gem is mostly visited by locals, offering a more authentic experience away from tourist crowds.</p>
+            <br><br>
+            <img src="https://epiciceland.net/wp-content/uploads/2019/09/Thierry-Cliffs.jpg" width="300">
+          ]]>
+        </description>
+        <Point>
+          <coordinates>-13.6941,65.5351,0</coordinates>
+        </Point>
+        <styleUrl>#scenic</styleUrl>
+      </Placemark>
+      
+      <!-- Optional: Lindarbakki Turf House -->
+      <Placemark>
+        <name>Lindarbakki Turf House</name>
+        <description>
+          <![CDATA[
+            <h3>Cultural Site</h3>
+            <p>Traditional red-painted turf house in Borgarfjörður Eystri. This historically significant and photogenic building offers a glimpse into traditional Icelandic architecture and living.</p>
+            <p>The bright red color against the green turf roof and surrounding landscape makes this a favorite spot for photographers. The house dates back to 1899 and has been carefully preserved.</p>
+            <br><br>
+            <img src="https://icelandwithkids.com/wp-content/uploads/2019/08/lindarbakki-turf-house-768x576.jpg" width="300">
+          ]]>
+        </description>
+        <Point>
+          <coordinates>-13.8100,65.5263,0</coordinates>
+        </Point>
+        <styleUrl>#landmark</styleUrl>
+      </Placemark>
+      
+      <!-- Optional: Bakkagerði Church -->
+      <Placemark>
+        <name>Bakkagerði Church</name>
+        <description>
+          <![CDATA[
+            <h3>Cultural Site</h3>
+            <p>This small church contains an altarpiece painted by famous Icelandic artist Jóhannes Kjarval. The painting depicts Jesus giving the Sermon on the Mount with local Borgarfjörður landscapes as the backdrop, creating a uniquely Icelandic interpretation of the biblical scene.</p>
+            <p>The church itself is simple but charming, and represents an important part of local cultural heritage.</p>
+            <br><br>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Borgarfj%C3%B6r%C3%B0ur_eystri%2C_church.jpg/1200px-Borgarfj%C3%B6r%C3%B0ur_eystri%2C_church.jpg" width="300">
+          ]]>
+        </description>
+        <Point>
+          <coordinates>-13.8103,65.5258,0</coordinates>
+        </Point>
+        <styleUrl>#landmark</styleUrl>
+      </Placemark>
+      
+      <!-- Optional: Álfaborg (Elf Rock) -->
+      <Placemark>
+        <name>Álfaborg (Elf Rock)</name>
+        <description>
+          <![CDATA[
+            <h3>Folklore Site</h3>
+            <p>According to Icelandic folklore, this rock formation is home to the queen of the elves. A short walk takes you to the top of the rock, which offers great views of the surrounding area.</p>
+            <p>Iceland has a rich tradition of elf folklore, and Álfaborg is one of the most famous elf-related sites in the country. Many Icelanders still respect these traditions, and the site offers insight into Iceland's unique folklore.</p>
+            <br><br>
+            <img src="https://guidetoiceland.imgix.net/370824/x/0/alfaborg-is-said-to-be-the-dwelling-place-of-the-elven-queen-and-her-court-in-borgarfjordur-eystri-6?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883&s=b2e8a41e6e54f9fc4f94c9ffe9fdace2" width="300">
+          ]]>
+        </description>
+        <Point>
+          <coordinates>-13.8066,65.5264,0</coordinates>
+        </Point>
+        <styleUrl>#landmark</styleUrl>
+      </Placemark>
+      
+      <!-- Accommodation: Ásgeirsstaðir Cottages -->
+      <Placemark>
+        <name>Evening: Ásgeirsstaðir Cottages</name>
+        <description>
+          <![CDATA[
+            <h3>Accommodation</h3>
+            <p>Ásgeirsstaðir Cottages offers cozy, private cabins in a serene rural setting. Each cabin is well-equipped with basic cooking facilities, allowing for self-catering.</p>
+            <p><strong>Details:</strong><br>
+            <strong>Address:</strong> Ásgeirsstaðir, Eidar, 701 Iceland<br>
+            <strong>Price:</strong> $246.00 per night<br>
+            <strong>Room Type:</strong> Standard Cabin, 1 Bedroom<br>
+            <strong>Confirmation:</strong> 73055400652002<br>
+            <strong>Phone:</strong> +354 8686352</p>
+            <p>The peaceful location provides excellent opportunities to enjoy Iceland's midnight sun and potentially spot wildlife in the surrounding countryside. The evening plan includes self-catered dinner using groceries or visiting a local restaurant if available.</p>
+            <br><br>
+            <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/c2/89/ba/asgeirsstair-cottage.jpg?w=700&h=-1&s=1" width="300">
+          ]]>
+        </description>
+        <Point>
+          <coordinates>-14.4035,65.2670,0</coordinates>
+        </Point>
+        <styleUrl>#lodging</styleUrl>
+      </Placemark>
+      
+    </Folder>
+  </Document>
+</kml>
