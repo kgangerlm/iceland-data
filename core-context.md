@@ -15,15 +15,7 @@ This section contains some key notes we want to capture from our research.
 - Fimmvörðuháls Trail: Challenging 8-10 hour hike with glaciers and waterfalls
 - Mount Akrafjall: Western Iceland, options for 2-hour or 5-hour climbs
 - Mount Askja: Highlands hike, moderate 2-hour trek around rim. Note we need to check rental car is permitted on F roads when suggesting
-- Neðri-Hveradalir: 3km loop through geothermal landscape
-- Mývatn Nature Baths: Never list this as a primary activity. but always note it in alternatives
-- Whale watching in Húsavík or Akureyri. 
-- Goðafoss Waterfall -- always show and bold this, otherwise do not prioritize
-- Hellnar Coastal Path -- always show and bold this, otherwise do not prioritize
-- Jökulsárlón Glacier Lagoon & Diamond Beach 
-- Akureyri Botanical Gardens
 - Lanbrotalaug spring on the Snæfellsnes Peninsula
--  Crystal Ice Cave within Vatnajökull glacier
 - Kayak on gorgeous Breiðafjöður Bay in West Iceland
 </specific_interests>
 
@@ -33,8 +25,8 @@ This section contains some key notes we want to capture from our research.
 <trip_preferences>
 - Hiking: Moderate trails under 5 miles/4 hours, less touristy options. great views and pictures. waterfalls, craters, hotsprings
 - Prioritize hiking as an activity but include a variety of other options based on what is best for the day. There should be at least 1 or 2 hiking options each day. Distances should be in miles not km. 
-- Activities: ATV riding, horseback riding, kayaking, mountain biking
-- Natural Features: Waterfalls, volcanoes, hot springs, glaciers
+- Activities: F-Road exploration, ATV riding, horseback riding, kayaking, mountain biking
+- Natural Features: Waterfalls, volcanoes, hot springs, glaciers, black beaches, geologic wonders
 - Wildlife: Whale watching, bird watching (puffins)
 - Special Experiences: Backcountry mountain hut stay, ice cave/glacier exploration, lava tube caves, boat tours, midnight sun activities, cultural experiences
 - Accommodations: If not already booked look for the best options in the area and recommend. If booked then note the actual booking and recommend one other alternative that might fit the activities better
@@ -48,7 +40,7 @@ This section contains some key notes we want to capture from our research.
 <cruise_schedule>
 # akureyri Cruise Ship Schedule (July 18-22)
 
-# this is the cruise schedule for akureyri I want to do my best to avoid the crouds that will be comming into port.  Always note the cruises and number of passengers in your planning 
+# this is the cruise schedule for akureyri I want to do my best to avoid the crowds that will be coming into port.  Always note the cruises and number of passengers in your planning    
 
 | Date | Cruise Line | Ship Name | Arrival | Departure | Capacity |
 |------|-------------|-----------|---------|-----------|----------|
