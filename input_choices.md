@@ -47,6 +47,7 @@ Preference: See top sites on Golden Circle with particular focus between Reykjav
 
 - Gullfoss Waterfall  [**highlight this**] [Fill in a few important details]
 - Reykjadalur Hot Spring Thermal River Hike [note hiking difficulty and time] [**highlight this**] [Fill in a few important details] (note this was recommended by several friends)
+- Tungnaárfellsfoss [note from rexby guide]
 
 ### Evening
 
@@ -66,6 +67,7 @@ Preference: Explore South Coast key sites
 ### Afternoon
 
 - Vikurfjara Black Sand Beach **Highlight this activity** [Fill in a few important details]
+- Reynisfjara Black Sand Beach [note from rexby guidebook]
 - Dyrhólaey Peninsula [note if puffins are visible in July. omit if not]
 
 ### Evening
@@ -92,6 +94,7 @@ Structure: Norðurfoss → Glacier attractions → Höfn
 
 ### Morning
 
+- Fjaðrárgljúfur [note from rexby guidebook]
 - Skaftafell - Svartifoss Waterfall Hike [note distance and difficulty]
 - 💎 4. [Strútsfoss Waterfall](https://epiciceland.net/hidden-gems-iceland/#4_Strutsfoss_waterfall) - About 2 hours drive. Accessible with a regular car in summer via Road 935 to Sturluflöt farm. **Hidden Gem**
 - [Suggest alternatives and group accordingly]
@@ -99,6 +102,7 @@ Structure: Norðurfoss → Glacier attractions → Höfn
 ### Afternoon
 
 - 🎟️ Zodiac Boat Tour of Jokulsarlon Glacier Lagoon. & Diamond Beach **Highlight this activity** [Look for booking info in <tripit> itinerary data]
+- Fjallajökull [note from rexby guildebook]
 
 ### Evening
 
@@ -142,6 +146,7 @@ Preference: Scenic drive through East Fjords with multiple stops
 - 💦 **[Strútsfoss Waterfall](https://epiciceland.net/hidden-gems-in-iceland/)** - An even larger red strata waterfall than the famous Hengifoss, yet virtually crowd-free **Hidden Gem** [highlight this as a "featured activity" with ✨and **Featured**]
   - Take Road 935 to Sturluflöt farm; accessible with any car in summer; easy family-friendly hike
 - Petra's Stone Collection in Stöðvarfjörður [note entrance fee] **This is likely a Heather interest**
+- Vestdalsfossar [note from rexby guidebook]
 
 ### Evening
 
@@ -168,7 +173,8 @@ Preference: hiking in Borgarfjörður Eystri
 
 ### Afternoon
 
-- [Add some other low key activities]
+- F946 – Loðmundarfjarðarvegur 
+ - [add some details and link to https://epiciceland.net/list-f-roads-iceland/#F946_8211_Lodmundarfjardarvegur]
 - - **Stórurð Basin Hike** (The Giant Boulders)
   * Relaxed 3-mile loop through massive boulders and turquoise pools
   * Allow 2-3 hours for a leisurely pace with photo stops
@@ -233,6 +239,7 @@ preference: see main sites along route to akuryri. Short hike and the rest of th
   * From Kolugljúfur Canyon, take gravel road south on eastern river bank for 4km, then walk
   * 4WD necessary year-round
 - **Krafla**: Huge 300-meter crater of the Krafla volcano. [Note that this is highlighted in the moon guidebook itinerary]
+- Studlagil Canyon [note this has pretty pictures but many visitors found brown water and said it was not worth the drive]
 
 ### Notes 
 - if we go to ker cliffs and dettifoss that is a total of 5h 25m driving without stops 
@@ -250,21 +257,64 @@ This section has very loose plans
 
 preference: lower key day due to two long previous days. Maybe whale watching or horseback riding today. 
 
+[Fill out the day the same way you have previous onece Morning, Afternoon, Evening. Add plenty of alternate activities]
+
+### Activities 
+
+- Goðafoss
+- Akureyri Botanical Gardens
+- Akureyrarkirkja
+- Ketubbjörg cliffs
+
 ### Notes
 - Booking on troll peninsula still need to evaluate that
 - horseback riding is supposed to be good on troll peninsula 
 - A few f road and hidden gems could be on the table today
-- I would like to visit the botanical gardens 
-- We could backtrack to see major sites we missed yesterday 
 - Look for the hotsprings waterfall in akuri area.
 - good info on [troll peninsula](https://www.adventurouskate.com/trollaskagi/)
-- Hellnar Coastal Path
+
 - 4500 cruise passengers in the area
-- look at whalewatching for today
+- look at whalewatching for today, but list it in the notes
 - alternate lodging is near famous beer spa 
+
+## day 9
+
+Preference: see major sites in route to Grundarfjörður, get in something active or adventurous, deal with longer drive
+
+[Use this list of activites to plan out day 9 and 10 logially. Take care to optomize the itenerary so it makes sense]
+
+### Activities 
+[Fill out the day the same way you have previous onece Morning, Afternoon, Evening. Add plenty of alternate activities]
+
+- Hvítserkur [note from rexby guidebook]
+- Hidden Gem Detour: Bergárfoss Waterfall
+- Lava Tube
+- Gatklettur **Rexby**
+	- Stunning natural rock arch in Iceland
+- Hellnar Coastal Path 
+- Kirkjufell Mountain / Kirkjufellsfoss
+- Ytri Tunga
+- Svörtuloft
+- Ingjaldshóll
+- Look at whale watching with  Laki Tours. Better chance to see Orkas than Huskavik 
+- F570 Jökulshálsvegur - Mountain road closest to Snæfellsjökull glacier (reclassified but still marked as F-road)
+
+
+### Notes
+
+## day 10 
+[look back at day 9 and use what ever doesn't fit there as your starting list for today.  Add plenty of alternate activities]
+
+[Fill out the day the same way you have previous onece Morning, Afternoon, Evening. Add plenty of alternate activities]
+Preference: explore Snæfellsnes Peninsula and area
+
+
+
+ 
 
 
 
 
 
 <current_itinerary>
+
