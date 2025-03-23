@@ -1,0 +1,353 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Folder>
+      <name>Day 6</name>
+      <Placemark>
+        <name>Askja Caldera &amp; Víti Crater</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🚙 F-Road Exploration</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Journey deep into the highlands to this massive volcanic caldera with multiple craters. The highlight is Víti (meaning 'hell'), a crater filled with geothermal milky-blue water where you can swim. Requires a 4x4 vehicle and river crossings.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-16.7535,65.0502,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Borgarfjörður Eystri Elf House</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">💎 Hidden Gem</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Visit the rocky hill of Álfaborg, said to be home to the queen of the Icelandic elves. A charming stone house built into the rock honors the hidden people many Icelanders believe inhabit the landscape.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-13.8153,65.5250,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Borgarfjörður Eystri Puffin Cliffs</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🦊 Wildlife</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">The most accessible puffin colony in Iceland with wooden walkways and viewing platforms that bring you incredibly close to these charming birds. Peak season is mid-April to mid-August.</p>
+  </div>]]></description>
+        <styleUrl>#style_2</styleUrl>
+        <Point>
+          <coordinates>-13.7444,65.5266,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dettifoss Waterfall</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌈 Natural Wonder</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Europe's most powerful waterfall, with 500 cubic meters of water per second thundering over a 150-foot drop. The sheer force creates a permanent mist cloud and vibrations you can feel through the ground.</p>
+  </div>]]></description>
+        <styleUrl>#style_3</styleUrl>
+        <Point>
+          <coordinates>-16.3913,65.8147,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>F-Roads into the Highlands</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🚙 F-Road Exploration</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Adventure into Iceland's remote interior via F-roads (mountain roads) that access otherworldly landscapes of ash, lava, and multicolored mountains. F-roads require 4WD vehicles with good clearance, and many involve river crossings. Always check road conditions before departing.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-16.2000,65.4000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fjalladyrð Mountain Hotel</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏨 Lodging</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This remote highland accommodation offers cozy rooms in the midst of Iceland's dramatic interior, surrounded by mountains and volcanic landscapes. Set at an altitude of 469 meters, it's one of the highest inhabited areas in Iceland.</p>
+  </div>]]></description>
+        <styleUrl>#style_4</styleUrl>
+        <Point>
+          <coordinates>-15.5904,65.3711,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hljóðaklettar Echo Rocks Hike</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A <strong>moderate</strong> 3-mile loop trail through bizarre columnar basalt formations that create natural echoes. These twisted rock pillars make for an otherworldly landscape resembling a troll village.</p>
+  </div>]]></description>
+        <styleUrl>#style_5</styleUrl>
+        <Point>
+          <coordinates>-16.3500,65.8400,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holuhraun Lava Field</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🚙 F-Road Exploration</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Visit the site of the 2014-2015 volcanic eruption that created Iceland's newest and largest lava field since the 18th century. Walking on this young black lava presents otherworldly views of fresh volcanic features.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-16.5000,65.0000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hrossaborg Volcanic Crater</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌋 Geological</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This small circular crater appears suddenly in the barren landscape and looks like a perfect amphitheater. It was used as a filming location for scenes in Tom Cruise's movie "Oblivion."</p>
+  </div>]]></description>
+        <styleUrl>#style_6</styleUrl>
+        <Point>
+          <coordinates>-16.2177,65.6169,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Húsavík Boat Trip</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🦊 Wildlife</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Join a 3-hour whale watching tour from Iceland's whale watching capital with the country's highest success rate for sightings. Species commonly seen include humpback, minke and blue whales.</p>
+  </div>]]></description>
+        <styleUrl>#style_2</styleUrl>
+        <Point>
+          <coordinates>-17.3389,66.0449,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Húsavík GeoSea Baths</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">♨️ Hot Spring</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Bathe in geothermally heated seawater at these elegant infinity pools perched on a cliff with panoramic views of Skjálfandi Bay. Pre-booking recommended as this is much more upscale than typical hot pots.</p>
+  </div>]]></description>
+        <styleUrl>#style_7</styleUrl>
+        <Point>
+          <coordinates>-17.3502,66.0535,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hverarönd Mud Pots</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌋 Geological</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A landscape of boiling mud pots, steam vents, and multicolored sulfur crystals. The bubbling gray mud and rotten egg smell create an otherworldly sensory experience. Wooden boardwalks keep visitors safe.</p>
+  </div>]]></description>
+        <styleUrl>#style_6</styleUrl>
+        <Point>
+          <coordinates>-16.8093,65.6406,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krafla Geothermal Power Plant</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">📚 Educational</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Visit the exhibition center to learn how Iceland harnesses its volcanic power to generate 100% of the country's electricity from renewable sources. Interactive displays explain geothermal technology.</p>
+  </div>]]></description>
+        <styleUrl>#style_8</styleUrl>
+        <Point>
+          <coordinates>-16.7571,65.7173,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krafla Viti Crater</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A circular walk around a water-filled explosion crater surrounded by colorful mineral deposits. Starkly contrasting with the blue crater is the black lava field from the 1975-1984 Krafla Fires eruption.</p>
+  </div>]]></description>
+        <styleUrl>#style_5</styleUrl>
+        <Point>
+          <coordinates>-16.7571,65.7173,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leirhnjúkur Lava Field</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A 1-mile boardwalk trail that traverses recent lava flows (some less than 50 years old) and bubbling mud pots. The steaming fissures and moonscape environment create a truly otherworldly experience.</p>
+  </div>]]></description>
+        <styleUrl>#style_5</styleUrl>
+        <Point>
+          <coordinates>-16.7600,65.7200,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mývatn Nature Baths</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">♨️ Hot Spring</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A less crowded alternative to the Blue Lagoon with similar milky-blue mineral-rich waters. The lagoon offers spectacular views of Lake Mývatn and the surrounding volcanic landscape. Book in advance during summer.</p>
+  </div>]]></description>
+        <styleUrl>#style_7</styleUrl>
+        <Point>
+          <coordinates>-16.8793,65.6352,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Möðrudalur Farm &amp; Fjalladýrð</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🍽️ Dining</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Iceland's highest inhabited farm (469m) features a turf-roofed church and Fjallakaffi café serving traditional lamb soup and waffles. The tiny settlement has been continuously inhabited since the Viking age.</p>
+  </div>]]></description>
+        <styleUrl>#style_9</styleUrl>
+        <Point>
+          <coordinates>-15.5904,65.3711,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mývatn Bird Museum</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🦊 Wildlife</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This private collection displays specimens of all Icelandic breeding birds including eggs. The knowledgeable owner provides fascinating insights into local birdlife and conservation.</p>
+  </div>]]></description>
+        <styleUrl>#style_2</styleUrl>
+        <Point>
+          <coordinates>-17.0300,65.5700,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mývatn Lava Maze</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">💎 Hidden Gem</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Lesser known than the main Dimmuborgir trail, this side path winds through a natural labyrinth of lava formations. The area is said to be home to the 13 Yule Lads, Iceland's mischievous Christmas trolls.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-16.9100,65.5900,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Private Hot Pool on Mount Námafjall</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">⭐ Premium Experience</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Enjoy an exclusive geothermal bathing experience in a hidden mountain hot pool with panoramic views of Lake Mývatn and surrounding volcanic landscapes, accessible only with a local guide.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-16.8093,65.6406,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Selfoss Waterfall</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">💎 Hidden Gem</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Often overshadowed by nearby Dettifoss, this horseshoe-shaped cascade is just a 10-minute additional hike upstream. While smaller than Dettifoss, many consider it more photogenic and you'll find far fewer visitors here.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-16.3800,65.8300,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skútustaðagígar Pseudocraters</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A 1-mile loop trail around curious geological formations that look like volcanic craters but were actually formed by steam explosions when lava flowed over wet ground. Rich birdlife surrounds the crater lake.</p>
+  </div>]]></description>
+        <styleUrl>#style_5</styleUrl>
+        <Point>
+          <coordinates>-17.0296,65.5656,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stuðlagil Canyon</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">💎 Hidden Gem</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This newly discovered canyon was hidden underwater until a dam reduced the river flow in 2009, revealing magnificent basalt column formations. The turquoise river flowing between these symmetrical rock columns creates one of Iceland's most photogenic landscapes. Access involves a moderate hike.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-15.3078,65.1546,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Whale Museum</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🦊 Wildlife</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Explore cetacean biology, evolution, and conservation through interactive exhibits and complete whale skeletons. A perfect preparation or alternative if weather cancels your whale watching trip.</p>
+  </div>]]></description>
+        <styleUrl>#style_2</styleUrl>
+        <Point>
+          <coordinates>-17.3389,66.0449,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tjörnes Peninsula Fossils</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌋 Geological</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">View 15-million-year-old marine fossils embedded in layered rock cliffs. This unique site reveals Iceland's geological history with perfectly preserved shellfish specimens visible in the cliff face.</p>
+  </div>]]></description>
+        <styleUrl>#style_6</styleUrl>
+        <Point>
+          <coordinates>-17.2800,66.0800,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="style_0">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/4x4.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_1">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_2">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_3">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_4">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/lodging.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_5">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_6">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/volcano.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_7">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_8">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/schools.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_9">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/dining.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>

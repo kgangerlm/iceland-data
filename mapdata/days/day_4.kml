@@ -1,0 +1,443 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Folder>
+      <name>Day 4</name>
+      <Placemark>
+        <name>Airbnb near Höfn</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏨 Lodging</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This double or twin accommodation is located at Seljavöllum, Höfn í Hornafirði. Being situated in this area gives you the advantage of being close to both the glacier lagoon attractions you've visited today and the East Fjords you'll explore tomorrow. </p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-15.2100,64.2500,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Diamond Beach</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌈 Natural Wonder</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Where crystal-like ice chunks from Jökulsárlón Glacier Lagoon wash up on black sands, creating a surreal landscape of sparkling 'diamonds' on the volcanic beach. Visit at different times if possible, as the ice formations constantly change with the tides.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-16.1789,64.0444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Diamond Beach Photography Workshop</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">📸 Photography</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Join a local photographer for a 2-hour golden hour workshop focused on capturing the iconic ice chunks on black sand. Learn techniques for long exposure and maximizing the dynamic contrast.</p>
+  </div>]]></description>
+        <styleUrl>#style_2</styleUrl>
+        <Point>
+          <coordinates>-16.1789,64.0444,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fjaðrárgljúfur Canyon</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌈 Natural Wonder</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Magnificent 100-meter deep and 2-kilometer long canyon formed during the last Ice Age, with winding trails along its rim offering spectacular views. Allow 1 hour for exploration.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-18.1716,63.7712,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fjaðrárglúfur Canyon Ice Cream Farm</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🍲 Culinary</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Visit this small family farm for locally made ice cream featuring uniquely Icelandic flavors like birch and skyr (Icelandic yogurt). Enjoy while overlooking volcanic landscapes.</p>
+  </div>]]></description>
+        <styleUrl>#style_3</styleUrl>
+        <Point>
+          <coordinates>-18.1600,63.7700,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fjallajökull Glacier Viewpoint</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🔭 Viewpoint</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">An excellent viewpoint of another glacier tongue in the area, providing a different perspective of Iceland's ice caps.</p>
+  </div>]]></description>
+        <styleUrl>#style_4</styleUrl>
+        <Point>
+          <coordinates>-16.3800,64.0180,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fjallsárlón Glacier Lagoon</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏞️ Scenic</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Less crowded alternative to Jökulsárlón with equally impressive views of the glacier meeting lagoon. Small café onsite serves hot chocolate with views of floating icebergs.</p>
+  </div>]]></description>
+        <styleUrl>#style_5</styleUrl>
+        <Point>
+          <coordinates>-16.3800,64.0180,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoffell Hot Tubs</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">♨️ Hot Spring</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Soak in converted milk containers now serving as rustic hot tubs with spectacular mountain views. These secluded hot pots are fed by natural geothermal springs.</p>
+  </div>]]></description>
+        <styleUrl>#style_6</styleUrl>
+        <Point>
+          <coordinates>-15.3380,64.3950,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Höfn Local Museum</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">☔ Rainy Day</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Höfn Local Museum, showcasing the town's maritime history, fishing industry, and cultural heritage through artifacts and exhibitions in a cozy indoor setting.</p>
+  </div>]]></description>
+        <styleUrl>#style_7</styleUrl>
+        <Point>
+          <coordinates>-15.2020,64.2510,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Höfn Swimming Pool</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">♨️ Hot Spring</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Relax in this modern facility with multiple hot pots of varying temperatures outdoor pool steam room and waterslide. Perfect way to unwind after hiking or during inclement weather.</p>
+  </div>]]></description>
+        <styleUrl>#style_6</styleUrl>
+        <Point>
+          <coordinates>-15.2020,64.2510,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Huldujökull Glacier Falls</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Witness the dramatic sight of glacier chunks breaking off and falling into a ravine. Take the yellow/red trail from Þakgil campsite then follow the white trail north for incredible views of Iceland's "hidden glacier."</p>
+  </div>]]></description>
+        <styleUrl>#style_8</styleUrl>
+        <Point>
+          <coordinates>-18.7000,63.5800,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ingólfshöfði Cape Hike</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This 2.5 km hike to a puffin colony on an isolated headland requires a local tractor ride through black sand to reach the trailhead. It's less visited than other South Coast attractions but offers incredible birdlife (May-August) and historical significance as the landing spot of Iceland's first settler.</p>
+  </div>]]></description>
+        <styleUrl>#style_8</styleUrl>
+        <Point>
+          <coordinates>-16.6380,63.8030,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ingólfshöfði Puffin Cape</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🦊 Wildlife</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Travel by tractor across black sand plains to this isolated headland where thousands of puffins nest during summer. Guided 2-hour tour includes history of Viking settlement.</p>
+  </div>]]></description>
+        <styleUrl>#style_9</styleUrl>
+        <Point>
+          <coordinates>-16.6380,63.8030,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jökulsárlón Glacier Lagoon</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌈 Natural Wonder</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Where massive icebergs calved from Breiðamerkurjökull glacier float serenely in a deep glacial lake on their way to the Atlantic Ocean. One of Iceland's most spectacular natural attractions.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-16.2306,64.0784,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jökulsárlón Midnight Sun Kayaking</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏞️ Outdoor Recreation</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Paddle among icebergs during the magical evening light when the midnight sun bathes the lagoon in golden hues. The tranquil waters and fewer crowds make this an unforgettable experience.</p>
+  </div>]]></description>
+        <styleUrl>#style_10</styleUrl>
+        <Point>
+          <coordinates>-16.2306,64.0784,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Local Lobster Feast Höfn</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🍲 Culinary</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Höfn is the langoustine (Icelandic lobster) capital of Iceland. Join a tasting menu experience featuring these delicacies prepared multiple ways accompanied by local craft beers.</p>
+  </div>]]></description>
+        <styleUrl>#style_3</styleUrl>
+        <Point>
+          <coordinates>-15.2020,64.2510,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Múlagljúfur Canyon Hike</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This 3-hour hike leads to two spectacular waterfalls (Hangandifoss and Múlafoss) hidden in a dramatic canyon near Skaftafell that most tourists miss entirely.</p>
+  </div>]]></description>
+        <styleUrl>#style_8</styleUrl>
+        <Point>
+          <coordinates>-16.4800,64.0300,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mulagljufur Canyon Trek</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A <strong>challenging</strong> 3-mile hike revealing multiple waterfalls including Hangandifoss (hanging waterfall). The unmarked trail requires some navigation but rewards with few crowds and dramatic surroundings.</p>
+  </div>]]></description>
+        <styleUrl>#style_8</styleUrl>
+        <Point>
+          <coordinates>-16.4800,64.0300,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Private Ice Cave Experience</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">⭐ Premium Experience</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Exclusive guided tour to a natural ice cave within Vatnajökull Glacier, Europe's largest glacier. Marvel at the blue ice formations, intricate textures, and otherworldly atmosphere in these seasonal natural wonders.</p>
+  </div>]]></description>
+        <styleUrl>#style_11</styleUrl>
+        <Point>
+          <coordinates>-16.5000,64.3000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skaftafell Glacier Blue Ice Cave</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">❄️ Ice Adventure</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Year-round accessible ice cave within the Vatnajökull glacier featuring intense blue ice formations. Local guides lead you safely through this otherworldly environment.</p>
+  </div>]]></description>
+        <styleUrl>#style_12</styleUrl>
+        <Point>
+          <coordinates>-16.9663,64.0694,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skaftafell Nature Reserve Hike</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A wilderness area in Vatnajökull National Park featuring various hiking trails to waterfalls, glacial tongues, and lush oases. Hike to Svartifoss Waterfall, a 3-mile round trip of <strong>moderate</strong> difficulty.</p>
+  </div>]]></description>
+        <styleUrl>#style_8</styleUrl>
+        <Point>
+          <coordinates>-16.9663,64.0694,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skaftafell Waterfall Circuit</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A 4-mile loop trail connecting multiple waterfalls including Svartifoss with its distinctive black basalt columns Hundafoss and Magnúsarfoss. Rich bird life throughout the hike.</p>
+  </div>]]></description>
+        <styleUrl>#style_8</styleUrl>
+        <Point>
+          <coordinates>-16.9663,64.0694,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southeastern Seals Boat Tour</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🦊 Wildlife</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A small boat excursion to view harbor seal colonies that gather among the dramatic black beaches and mountains of this less-visited peninsula. Excellent for wildlife photography.</p>
+  </div>]]></description>
+        <styleUrl>#style_9</styleUrl>
+        <Point>
+          <coordinates>-14.9750,64.2470,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strútsfoss Waterfall</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">💎 Hidden Gem</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Even larger red strata waterfall than the famous Hengifoss, yet virtually crowd-free. Accessible with regular car in summer via Road 935 to Sturluflöt farm. The family-friendly hike rewards you with views of this hidden gem that few tourists experience.</p>
+  </div>]]></description>
+        <styleUrl>#style_11</styleUrl>
+        <Point>
+          <coordinates>-15.2600,64.8800,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Svartifoss Waterfall</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌈 Natural Wonder</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Unique waterfall framed by dark hexagonal basalt columns that inspired the design of Hallgrímskirkja church in Reykjavík. The black basalt columns create a stunning contrast with the white water.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-16.9752,64.0231,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thorbergssetur Cultural Center</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Cultural</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Museum dedicated to writer Þórbergur Þórðarson with exhibitions about traditional life in southeast Iceland. Features an innovative building designed to look like a bookshelf.</p>
+  </div>]]></description>
+        <styleUrl>#style_13</styleUrl>
+        <Point>
+          <coordinates>-15.8900,64.1800,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vatnajökull Ice Climbing</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">❄️ Ice Adventure</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Guided ice climbing experience on Europe's largest glacier. Learn technique and safety while scaling vertical ice walls with stunning views of the surrounding landscape.</p>
+  </div>]]></description>
+        <styleUrl>#style_12</styleUrl>
+        <Point>
+          <coordinates>-16.9663,64.0694,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vatnajökull Visitor Center</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">☔ Rainy Day</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">The Vatnajökull visitor center, featuring interactive exhibits about Europe's largest glacier, its formation, ecology, and the impact of climate change on this massive ice cap.</p>
+  </div>]]></description>
+        <styleUrl>#style_7</styleUrl>
+        <Point>
+          <coordinates>-16.9663,64.0694,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Víkurprjón Wool Workshop</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Cultural</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Visit Víkurprjón (Vík Wool) for a longer experience where you can not only shop but sometimes participate in demonstrations of traditional wool processing techniques. Perfect when weather interrupts outdoor plans.</p>
+  </div>]]></description>
+        <styleUrl>#style_13</styleUrl>
+        <Point>
+          <coordinates>-19.0060,63.4186,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zodiac Boat Tour of Jokulsarlon</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🧭 Tour</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This pre-booked tour takes you on an exhilarating ride among floating icebergs that have calved from the Breiðamerkurjökull glacier. The zodiac boats can navigate closer to the ice than the larger amphibian vessels, offering intimate views of the sculptural ice formations.</p>
+  </div>]]></description>
+        <styleUrl>#style_14</styleUrl>
+        <Point>
+          <coordinates>-16.2306,64.0784,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="style_0">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/lodging.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_1">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_2">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_3">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/coffee.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_4">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/scenic.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_5">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/photo.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_6">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_7">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/rainy.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_8">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_9">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_10">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/trail.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_11">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_12">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/snowflake_simple.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_13">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/arts.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_14">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/info.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>

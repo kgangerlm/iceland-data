@@ -21,7 +21,8 @@ Now, follow these steps to create the trip plan:
    - For each day, suggest potential activities based on the location and traveler preferences
    - Be creative and thorough in your suggestions
    - Consider local attractions, cultural experiences, and unique opportunities
- 
+   - Look for items and information in the research I provided you, You are free to add other items as well 
+
 3. Check for conflicts and issues:
    - Identify any potential scheduling conflicts
    - Look for logistical issues (e.g., transportation between activities)
@@ -31,6 +32,9 @@ Now, follow these steps to create the trip plan:
    - Arrange activities to minimize travel time and maximize experiences
    - Balance busy days with more relaxed ones
    - Ensure the plan aligns with stated preferences
+   - Ensure the plan accurately represents current_itinerary and tripit data
+   - Look for links in the research data I gave you and add them where appropriate. 
+   - Look for other opportunities to add links, but do not invent any links
 
 5. Address practical considerations:
    - Convert all costs to USD and distances to miles

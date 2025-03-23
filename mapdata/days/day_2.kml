@@ -1,0 +1,410 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Folder>
+      <name>Day 2</name>
+      <Placemark>
+        <name>Almannagjá Rift Valley Trail</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This 3 km trail provides stunning views of the continental divide and reaches the scenic Peningagjá 'Money Rift' where visitors toss coins into crystal-clear water. Perfect if you want a longer hike with fewer crowds than the main Þingvellir paths.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-21.1258,64.2671,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brúarfoss Waterfall Trek</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A hidden gem 4-mile roundtrip hike to one of Iceland's most vibrant blue waterfalls. The trail follows the Brúará River past several smaller cascades before reaching the main attraction.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-20.5156,64.2644,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Country Dream Guesthouse</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏨 Lodging</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This charming guesthouse is set in the countryside just outside Selfoss, offering a peaceful retreat after your day of exploration. The accommodation features kitchenette facilities, allowing you to prepare your own meals if desired.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-21.0000,63.9400,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Efstidalur Farm Ice Cream</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🍲 Culinary</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Visit this working dairy farm for farm-fresh ice cream made on-site. Large windows allow visitors to watch the cows that provide the milk while enjoying their treats.</p>
+  </div>]]></description>
+        <styleUrl>#style_2</styleUrl>
+        <Point>
+          <coordinates>-20.4500,64.1800,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Faxi Waterfall Kayaking</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏞️ Outdoor Recreation</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Paddle beneath this wide waterfall that's often overlooked despite being just a 15-minute drive from Gullfoss. The fish ladder on the side is fascinating to watch during salmon season.</p>
+  </div>]]></description>
+        <styleUrl>#style_3</styleUrl>
+        <Point>
+          <coordinates>-20.3000,64.2400,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fontana Bread &amp; Spa Experience</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🧘 Wellness</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Watch traditional rye bread being baked in geothermal ground, then enjoy it warm with tastings followed by a relaxing soak protected from the elements. A perfect activity when rain makes outdoor exploration difficult.</p>
+  </div>]]></description>
+        <styleUrl>#style_4</styleUrl>
+        <Point>
+          <coordinates>-20.7300,64.1800,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Friðheimar Greenhouse Extended Visit</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Cultural</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Instead of a quick lunch stop, spend a longer visit learning about sustainable tomato production in Iceland, enjoying their excellent tomato-themed menu, and (if available) watching their Icelandic horse show in their indoor arena.</p>
+  </div>]]></description>
+        <styleUrl>#style_5</styleUrl>
+        <Point>
+          <coordinates>-20.4520,64.3050,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Friðheimar Tomato Greenhouse</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🍲 Culinary</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Visit a working tomato greenhouse where vegetables grow year-round using geothermal energy. Try their famous tomato soup or tomato ice cream in this unique farm-to-table experience.</p>
+  </div>]]></description>
+        <styleUrl>#style_2</styleUrl>
+        <Point>
+          <coordinates>-20.4520,64.3050,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Geysir Geothermal Area</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌈 Natural Wonder</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Home to bubbling mud pots, steaming vents, and the reliable Strokkur geyser which erupts every 5-7 minutes, shooting hot water up to 20 meters in the air.</p>
+  </div>]]></description>
+        <styleUrl>#style_6</styleUrl>
+        <Point>
+          <coordinates>-20.3024,64.3104,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golden Circle Route</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🛣️ Scenic Drive</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">The Golden Circle, Iceland's most famous sightseeing route featuring three stunning locations: Þingvellir National Park, Geysir Geothermal Area, and Gullfoss Waterfall.</p>
+  </div>]]></description>
+        <styleUrl>#style_7</styleUrl>
+        <Point>
+          <coordinates>-20.8000,64.2559,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gullfoss Waterfall</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌈 Natural Wonder</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Experience the raw power of this massive two-tiered waterfall as it thunders down into a rugged canyon, sending mist and rainbows into the air. The waterfall drops a total of 105 feet in two dramatic stages. Several viewing platforms offer different perspectives of this natural wonder.</p>
+  </div>]]></description>
+        <styleUrl>#style_6</styleUrl>
+        <Point>
+          <coordinates>-20.1199,64.3271,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hveragerði Earthquake Exhibition</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">📚 Educational</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Interactive exhibits demonstrating Iceland's seismic activity including an "earthquake simulator" that recreates the 6.3 magnitude quake that struck the town in 2008.</p>
+  </div>]]></description>
+        <styleUrl>#style_8</styleUrl>
+        <Point>
+          <coordinates>-21.2000,64.0000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kerið Crater</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌈 Natural Wonder</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Kerið Crater, a 3,000-year-old volcanic crater lake with striking red and orange rock contrasting against the vivid blue water.</p>
+  </div>]]></description>
+        <styleUrl>#style_6</styleUrl>
+        <Point>
+          <coordinates>-20.8851,64.0413,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kerid Crater Lake</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌋 Geological</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This 3000-year-old explosion crater filled with brilliant blue water is surrounded by red volcanic rock. Walk the rim trail or descend to the lake on a well-maintained path.</p>
+  </div>]]></description>
+        <styleUrl>#style_9</styleUrl>
+        <Point>
+          <coordinates>-20.8851,64.0413,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lava Centre</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">☔ Rainy Day</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Lava Centre in Hvolsvöllur, an interactive, high-tech educational exhibition about Iceland's volcanoes, earthquakes, and geological formation, perfect for understanding the land of fire and ice.</p>
+  </div>]]></description>
+        <styleUrl>#style_10</styleUrl>
+        <Point>
+          <coordinates>-20.2503,63.7448,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lunch at Friðheimar</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🍽️ Dining</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Enjoy lunch at this unique tomato greenhouse restaurant where you can eat fresh tomato soup and bread inside a working greenhouse illuminated by artificial lighting that enables year-round cultivation.</p>
+  </div>]]></description>
+        <styleUrl>#style_11</styleUrl>
+        <Point>
+          <coordinates>-20.4520,64.3050,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rauðhólar (Red Hills) Hike</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This 5 km loop through 5,000-year-old pseudo-craters offers vibrant colors and unique geological features without the crowds of the Reykjadalur thermal river area.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-21.7600,64.0800,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reykjadalur Hot Spring Thermal River Hike</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This unforgettable 3-mile round trip hike (<strong>moderate</strong> difficulty) leads through a steaming geothermal valley to a natural hot river where you can bathe in varying temperatures. The trail takes about 45-60 minutes each way, with stunning views throughout.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-21.2105,64.0135,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reykjadalur Ridge Hike</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A <strong>challenging</strong> extension to the hot spring hike taking you along the ridgeline above the valley with panoramic views of steaming vents colorful rhyolite mountains and distant glaciers.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-21.2100,64.0200,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Secret Lagoon</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">💎 Hidden Gem</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Secret Lagoon (Gamla Laugin), Iceland's oldest swimming pool dating back to 1891, offering a more authentic and less crowded geothermal bathing experience than the Blue Lagoon.</p>
+  </div>]]></description>
+        <styleUrl>#style_12</styleUrl>
+        <Point>
+          <coordinates>-20.3099,64.1374,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Secret Lagoon Hot Spring</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">♨️ Hot Spring</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Bathe in Iceland's oldest swimming pool built in 1891 where natural hot springs bubble up through the sandy bottom. More authentic and less crowded than the Blue Lagoon.</p>
+  </div>]]></description>
+        <styleUrl>#style_13</styleUrl>
+        <Point>
+          <coordinates>-20.3099,64.1374,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silfra Fissure Snorkeling</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏞️ Outdoor Recreation</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Snorkel between tectonic plates in crystal clear glacier water with visibility over 100 meters. The water is among the purest on Earth and stays a constant 35-39°F year-round.</p>
+  </div>]]></description>
+        <styleUrl>#style_3</styleUrl>
+        <Point>
+          <coordinates>-21.1299,64.2559,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silfra Snorkeling Adventure</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">⭐ Premium Experience</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Snorkel between two continental plates in the crystal-clear waters of Silfra Fissure, with visibility exceeding 100 meters. This once-in-a-lifetime experience allows you to literally touch both North America and Europe simultaneously.</p>
+  </div>]]></description>
+        <styleUrl>#style_12</styleUrl>
+        <Point>
+          <coordinates>-21.1299,64.2559,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skálholt Cathedral</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">📜 Historical</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Explore this important historical site that served as Iceland's religious and educational center for 700 years. The current cathedral dates from 1963 but sits atop centuries of history.</p>
+  </div>]]></description>
+        <styleUrl>#style_14</styleUrl>
+        <Point>
+          <coordinates>-20.5234,64.1266,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sólheimar Eco-Village</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">☔ Rainy Day</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Sólheimar Eco-Village, Iceland's first sustainable community, offering organic café, craft shops, and art galleries showcasing work by artists with disabilities in a sustainable setting.</p>
+  </div>]]></description>
+        <styleUrl>#style_10</styleUrl>
+        <Point>
+          <coordinates>-20.6404,64.0666,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tungnaárfellsfoss Waterfall</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">💎 Hidden Gem</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">One of Iceland's widest waterfalls, yet rarely visited. Accessible via Road 208 with any vehicle in summer, this hidden gem offers impressive views with far fewer tourists than the more famous waterfalls.</p>
+  </div>]]></description>
+        <styleUrl>#style_12</styleUrl>
+        <Point>
+          <coordinates>-19.1000,64.1000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Þingvellir National Park</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">UNESCO World Heritage site where you can walk between the North American and Eurasian tectonic plates and visit the site of the world's first parliament. Explore this historically and geologically significant location (1-2 hours).</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-21.1299,64.2559,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="style_0">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_1">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/lodging.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_2">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/coffee.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_3">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/trail.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_4">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/hospitals.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_5">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/arts.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_6">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_7">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/roadtrip.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_8">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/schools.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_9">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/volcano.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_10">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/rainy.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_11">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/dining.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_12">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_13">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_14">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/monument.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>

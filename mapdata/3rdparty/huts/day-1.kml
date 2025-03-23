@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Day 1 Points of Interest</name>
+    <Style id="icon-1603-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-4E342E-normal">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-4E342E-highlight">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-757575-normal">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-757575-highlight">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-4E342E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-4E342E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-4E342E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-757575">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-757575-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-757575-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Sk&#225;lar Fer&#240;af&#233;lags &#205;slands</name>
+      <Placemark>
+        <name>Hl&#246;&#240;uvellir - F&#205;</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVRNZ3aZBpj4oe8Zu-f3XaJ0sqet0-lHWWY9mEmVoRZproNWmJmu5BRj-9sc1yImh1VEcLwItYYr_AHyYCENIT7Zs44mmnBC8RyFAG2-NXm5ic3EHljYneEk4Pu8xXBZ7x7nfSH-pROk11D_YjzGiH9iTTypf1yYJZTQ7loRrjk-9zp5nFsT0RDEZHlQJQfZwp2ZOjY_2RE6Q?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;S&amp;#230;luh&amp;#250;si&amp;#240; &amp;#225; Hl&amp;#246;&amp;#240;uv&amp;#246;llum undir Hl&amp;#246;&amp;#240;ufelli h&amp;#253;sir 15 manns &amp;#237; kojum.&lt;br&gt;&lt;br&gt;Gengi&amp;#240; er inn &amp;#237; st&amp;#243;rt anddyri &amp;#254;ar sem gott pl&amp;#225;ss er til a&amp;#240; hengja upp f&amp;#246;t. &amp;#222;a&amp;#240;an er gengi&amp;#240; inn &amp;#237; opi&amp;#240; r&amp;#253;mi sem skiptist &amp;#237; eldh&amp;#250;s og sal me&amp;#240; tv&amp;#237;brei&amp;#240;um kojum, langbor&amp;#240;i og bekkjum.&amp;#160; https://www.fi.is/is/skalar/skalar-ferdafelags-islands/hloduvellir&amp;#160;</description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVRNZ3aZBpj4oe8Zu-f3XaJ0sqet0-lHWWY9mEmVoRZproNWmJmu5BRj-9sc1yImh1VEcLwItYYr_AHyYCENIT7Zs44mmnBC8RyFAG2-NXm5ic3EHljYneEk4Pu8xXBZ7x7nfSH-pROk11D_YjzGiH9iTTypf1yYJZTQ7loRrjk-9zp5nFsT0RDEZHlQJQfZwp2ZOjY_2RE6Q?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -20.55645,64.3985166666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hagavatn - F&#205;</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWJ2g3Mqg0_IZzSSnGoKUIiCEwB9UsVD7OAijHqU_6Lusfhmn7ojhXJeWy9bad75G-mO2SEpEUVI9hJBb3HkwJUFBB9viezoxpLzDPuoesysmZjEZTEVJf7Amren4gXUqshq8TML3wC-aYPwg8r3tmtKbwQO-4EBQtsQ1LnmuySS28vRW3dlCZOFoN-2lcnuuPwOEvq1bRzGp4?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;G&amp;#246;ngusk&amp;#225;linn undir Einifelli vi&amp;#240; Hagavatn er l&amp;#237;till en huggulegur sk&amp;#225;li.&lt;br&gt;&lt;br&gt;Komi&amp;#240; er inn &amp;#237; opi&amp;#240; anddyri og stigi&amp;#240; upp &amp;#225; pall me&amp;#240; kojum til sitt hvorrar handar og bor&amp;#240;i &amp;#225; milli. L&amp;#237;ti&amp;#240; opi&amp;#240; svefnloft er yfir h&amp;#225;lfum sk&amp;#225;lanum. 6 manns geta sofi&amp;#240; &amp;#237; kojunum og 6 manns &amp;#225; svefnloftinu en &amp;#254;&amp;#225; er &amp;#254;r&amp;#246;ngt legi&amp;#240;.&amp;#160;&amp;#160;https://www.fi.is/is/skalar/skalar-ferdafelags-islands/hagavatn&amp;#160;</description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWJ2g3Mqg0_IZzSSnGoKUIiCEwB9UsVD7OAijHqU_6Lusfhmn7ojhXJeWy9bad75G-mO2SEpEUVI9hJBb3HkwJUFBB9viezoxpLzDPuoesysmZjEZTEVJf7Amren4gXUqshq8TML3wC-aYPwg8r3tmtKbwQO-4EBQtsQ1LnmuySS28vRW3dlCZOFoN-2lcnuuPwOEvq1bRzGp4?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -20.245,64.4626666666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

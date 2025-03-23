@@ -1,0 +1,893 @@
+Day,Title,Activity Type,Category,Address,Description,Icon,Coordinates
+Day 1,4WD Suzuki Vitara Pickup,Car Rental,Booked,"Blue Car Rental, Keflavík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🚗 Car Rental</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Pick up your 4WD Suzuki Vitara from Blue Car Rental, giving you the freedom to explore Iceland's diverse terrain, including some F-roads during your journey.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/cabs.png,"63.9985,-22.6221"
+Day 1,Árbær Open Air Museum,Cultural,Outdoor,Kistuhyl 4 110 Reykjavík,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #e8f5e9; border: 1px solid #81c784; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Step back in time at this collection of more than 20 relocated historic buildings forming a town square museum. Costumed guides demonstrate traditional crafts and Icelandic daily life.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"64.1027,-21.8187"
+Day 1,Arrival at Keflavík Airport,Arrival,Transportation,"Keflavík International Airport, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #f3e5f5; border: 1px solid #ba68c8; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">✈️ Arrival</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Arrive at Keflavík International Airport, the gateway to your Icelandic adventure. After landing, you'll pick up your rental car and begin your journey around the Ring Road.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/airports.png,"63.9998,-22.6219"
+Day 1,Blue Lagoon Geothermal Spa,Geothermal Spa,Highlighted,"Blue Lagoon, Grindavík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">💆 Geothermal Spa</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Immerse yourself in the mineral-rich waters of Iceland's most famous geothermal spa. The surreal blue waters contrast beautifully with the surrounding black lava fields. Consider upgrading to include silica mud masks for the full experience. Pre-booking essential; plan for 2-3 hours.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/swimming.png,"63.8804,-22.4495"
+Day 1,Breakfast at LiBRARY bistro,Dining,Alternative,"LiBRARY bistro/bar, Keflavík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🍽️ Dining</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Enjoy your first meal in Iceland at LiBRARY bistro/bar, which opens at 8AM and offers a good selection of breakfast options.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/dining.png,"63.9970,-22.5621"
+Day 1,Dinner at Café Loki,Dining,Alternative,"Café Loki, Reykjavík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🍽️ Dining</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Enjoy dinner with Heather and family at this traditional Icelandic restaurant near Hallgrímskirkja, where you can try authentic local dishes.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/dining.png,"64.1414,-21.9269"
+Day 1,Grótta Lighthouse Sunset Walk,Hiking,Nature,Seltjarnarnes Peninsula Reykjavík,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">An <strong>easy</strong> 1-mile coastal loop around this picturesque lighthouse at the northwestern tip of Reykjavík. Perfect for Northern Lights viewing in winter or midnight sun in summer.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"64.1644,-22.0047"
+Day 1,Hallgrímskirkja Church,Architecture,Alternative,"Hallgrímskirkja, Reykjavík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Architecture</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Visit Reykjavík's iconic church with its distinctive architecture inspired by basalt columns. Ascend the tower for outstanding city views spanning the colorful rooftops to the surrounding mountains and sea.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/landmark.png,"64.1417,-21.9266"
+Day 1,Harpa Concert Hall,Cultural,Alternative,"Harpa Concert Hall, Reykjavík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Explore this architectural marvel with a distinctive colored glass facade inspired by Iceland's basalt landscapes and northern lights.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"64.1505,-21.9327"
+Day 1,Hotel Fron Check-in,Lodging,Booked,"Hotel Fron, Laugavegur 22A, Reykjavík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏨 Lodging</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Check into Hotel Fron, centrally located on Laugavegur, Reykjavík's main shopping street. This comfortable hotel offers Double/Twin Rooms and is within walking distance of Reykjavík's main attractions, restaurants, and nightlife.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/lodging.png,"64.1434,-21.9244"
+Day 1,Kleifarvatn Lake,Scenic Drive,Nature,Kleifarvatn Lake Reykjanes Peninsula,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🛣️ Scenic Drive</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Take a detour through the lunar landscapes of Reykjanes Peninsula to this deep volcanic lake. Look for steaming vents along the eastern shore signaling geothermal activity below.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/roadtrip.png,"63.9000,-22.0500"
+Day 1,Laugardalslaug Swimming Pool,Rainy Day,Alternative,"Laugardalslaug, Reykjavík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">☔ Rainy Day</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Laugardalslaug Swimming Pool, Reykjavík's largest outdoor thermal pool complex with various hot tubs, steam baths, and water slides - a perfect introduction to Iceland's swimming culture.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/rainy.png,"64.1370,-21.8797"
+Day 1,Laugavegur Shopping Street,Shopping,Cultural,Laugavegur Reykjavík,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🛍️ Shopping</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Stroll along Reykjavík's main shopping street filled with Icelandic design stores boutiques wool shops and cozy cafés. Great for picking up unique souvenirs and watching city life unfold.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/shopping.png,"64.1434,-21.9244"
+Day 1,National Museum of Iceland,Museum,Indoor,Suðurgata 41 102 Reykjavík,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Museum</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Comprehensive exhibition covering Iceland's history from settlement to present day. The perfect introduction to Icelandic culture featuring the Valthjófsstadur Door and medieval manuscripts.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/museum.png,"64.1425,-21.9492"
+Day 1,Perlan Museum,Rainy Day,Alternative,"Perlan Museum, Reykjavík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">☔ Rainy Day</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Perlan Museum, featuring interactive exhibits showcasing Icelandic nature, including a real ice cave and immersive Northern Lights show, all under a distinctive glass dome with 360° city views.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/rainy.png,"64.1290,-21.9191"
+Day 1,Perlan Museum & Observation Deck,Educational,Indoor,Öskjuhlíð 102 Reykjavík,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">📚 Educational</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Visit the ""Pearl"" of Reykjavík with its 360° observation deck and remarkable exhibitions including an indoor ice cave and immersive northern lights show.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/schools.png,"64.1289,-21.9156"
+Day 1,Private Helicopter Tour,Premium Experience,Exclusive,"Reykjavík Domestic Airport, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">⭐ Premium Experience</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Experience the breathtaking landscapes of Iceland from above with a private helicopter tour over Reykjavík and the surrounding volcanic terrain, offering unparalleled views and photo opportunities of the capital region.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"64.1300,-21.9400"
+Day 1,Raufarholshellir Lava Tunnel,Cave Exploration,Adventure,Raufarholshellir Þorlákshafnarvegur 374,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🕳️ Cave Exploration</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Explore one of Iceland's longest lava tubes just 30 minutes from Reykjavík. The colorful formations and ice sculptures during winter make this a magical underground experience.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/mountains.png,"63.9526,-21.6037"
+Day 1,Reykjavík Maritime Museum,Cultural,Indoor,Grandagarður 8 101 Reykjavík,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Learn about Iceland's seafaring history and its intimate relationship with the ocean. The museum includes an actual Coast Guard vessel you can explore.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"64.1520,-21.9480"
+Day 1,Sun Voyager Sculpture,Photography,Alternative,"Sun Voyager Sculpture, Reykjavík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">📸 Photography</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Sun Voyager sculpture (Sólfar), a striking stainless steel boat skeleton on Reykjavík's waterfront offering magnificent views of Mount Esja across the bay.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/camera.png,"64.1478,-21.9227"
+Day 1,The National Museum of Iceland,Rainy Day,Alternative,"National Museum of Iceland, Reykjavík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">☔ Rainy Day</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">The National Museum of Iceland, offering a comprehensive overview of Icelandic history from settlement to present day through fascinating artifacts and interactive displays.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/rainy.png,"64.1425,-21.9492"
+Day 1,Thermal Beach Swimming,Outdoor Recreation,Nature,Nauthólsvík Geothermal Beach Reykjavík,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏞️ Outdoor Recreation</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Experience the unique pleasure of swimming at Reykjavík's artificial geothermal beach where hot water is pumped into a protected bay creating comfortable swimming conditions.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/trail.png,"64.1157,-21.8901"
+Day 1,Whales of Iceland Exhibition,Educational,Indoor,Fiskislóð 23-25 101 Reykjavík,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">📚 Educational</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Europe's largest whale exhibition featuring life-size models of the 23 whale species found in Icelandic waters. Interactive displays explain whale biology and conservation efforts.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/schools.png,"64.1510,-21.9500"
+Day 2,Almannagjá Rift Valley Trail,Hiking,Alternative Hike,"Þingvellir National Park, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This 3 km trail provides stunning views of the continental divide and reaches the scenic Peningagjá 'Money Rift' where visitors toss coins into crystal-clear water. Perfect if you want a longer hike with fewer crowds than the main Þingvellir paths.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"64.2671,-21.1258"
+Day 2,Brúarfoss Waterfall Trek,Hiking,Nature,Brúarfoss 806 Selfoss,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A hidden gem 4-mile roundtrip hike to one of Iceland's most vibrant blue waterfalls. The trail follows the Brúará River past several smaller cascades before reaching the main attraction.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"64.2644,-20.5156"
+Day 2,Country Dream Guesthouse,Lodging,Booked,"Country Dream guesthouse, Selfoss, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏨 Lodging</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This charming guesthouse is set in the countryside just outside Selfoss, offering a peaceful retreat after your day of exploration. The accommodation features kitchenette facilities, allowing you to prepare your own meals if desired.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/lodging.png,"63.9400,-21.0000"
+Day 2,Efstidalur Farm Ice Cream,Culinary,Cultural,Efstidalur II Laugarvatn 806 Selfoss,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🍲 Culinary</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Visit this working dairy farm for farm-fresh ice cream made on-site. Large windows allow visitors to watch the cows that provide the milk while enjoying their treats.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/coffee.png,"64.1800,-20.4500"
+Day 2,Faxi Waterfall Kayaking,Outdoor Recreation,Adventure,Biskupstungnabraut Road 35,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏞️ Outdoor Recreation</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Paddle beneath this wide waterfall that's often overlooked despite being just a 15-minute drive from Gullfoss. The fish ladder on the side is fascinating to watch during salmon season.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/trail.png,"64.2400,-20.3000"
+Day 2,Fontana Bread & Spa Experience,Wellness,Rainy Day,"Laugarvatn Fontana, Hverabraut 1, Laugarvatn, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🧘 Wellness</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Watch traditional rye bread being baked in geothermal ground, then enjoy it warm with tastings followed by a relaxing soak protected from the elements. A perfect activity when rain makes outdoor exploration difficult.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hospitals.png,"64.1800,-20.7300"
+Day 2,Friðheimar Greenhouse Extended Visit,Cultural,Rainy Day,"Friðheimar, Reykholt, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Instead of a quick lunch stop, spend a longer visit learning about sustainable tomato production in Iceland, enjoying their excellent tomato-themed menu, and (if available) watching their Icelandic horse show in their indoor arena.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"64.3050,-20.4520"
+Day 2,Friðheimar Tomato Greenhouse,Culinary,Indoor,Friðheimar Reykholti 801 Selfoss,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🍲 Culinary</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Visit a working tomato greenhouse where vegetables grow year-round using geothermal energy. Try their famous tomato soup or tomato ice cream in this unique farm-to-table experience.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/coffee.png,"64.3050,-20.4520"
+Day 2,Geysir Geothermal Area,Natural Wonder,Highlighted,"Geysir Geothermal Area, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌈 Natural Wonder</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Home to bubbling mud pots, steaming vents, and the reliable Strokkur geyser which erupts every 5-7 minutes, shooting hot water up to 20 meters in the air.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/flag.png,"64.3104,-20.3024"
+Day 2,Golden Circle Route,Scenic Drive,Highlighted,"Golden Circle, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🛣️ Scenic Drive</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">The Golden Circle, Iceland's most famous sightseeing route featuring three stunning locations: Þingvellir National Park, Geysir Geothermal Area, and Gullfoss Waterfall.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/roadtrip.png,"64.2559,-20.8000"
+Day 2,Gullfoss Waterfall,Natural Wonder,Highlighted,"Gullfoss Waterfall, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌈 Natural Wonder</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Experience the raw power of this massive two-tiered waterfall as it thunders down into a rugged canyon, sending mist and rainbows into the air. The waterfall drops a total of 105 feet in two dramatic stages. Several viewing platforms offer different perspectives of this natural wonder.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/flag.png,"64.3271,-20.1199"
+Day 2,Hveragerði Earthquake Exhibition,Educational,Indoor,Sunnumörk 2 810 Hveragerði,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">📚 Educational</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Interactive exhibits demonstrating Iceland's seismic activity including an ""earthquake simulator"" that recreates the 6.3 magnitude quake that struck the town in 2008.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/schools.png,"64.0000,-21.2000"
+Day 2,Kerið Crater,Natural Wonder,Alternative,"Kerið Crater, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌈 Natural Wonder</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Kerið Crater, a 3,000-year-old volcanic crater lake with striking red and orange rock contrasting against the vivid blue water.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/flag.png,"64.0413,-20.8851"
+Day 2,Kerid Crater Lake,Geological,Nature,Kerið Selfoss,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌋 Geological</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This 3000-year-old explosion crater filled with brilliant blue water is surrounded by red volcanic rock. Walk the rim trail or descend to the lake on a well-maintained path.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/volcano.png,"64.0413,-20.8851"
+Day 2,Lava Centre,Rainy Day,Alternative,"Lava Centre, Hvolsvöllur, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">☔ Rainy Day</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Lava Centre in Hvolsvöllur, an interactive, high-tech educational exhibition about Iceland's volcanoes, earthquakes, and geological formation, perfect for understanding the land of fire and ice.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/rainy.png,"63.7448,-20.2503"
+Day 2,Lunch at Friðheimar,Dining,Alternative,"Friðheimar, Reykholt, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🍽️ Dining</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Enjoy lunch at this unique tomato greenhouse restaurant where you can eat fresh tomato soup and bread inside a working greenhouse illuminated by artificial lighting that enables year-round cultivation.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/dining.png,"64.3050,-20.4520"
+Day 2,Rauðhólar (Red Hills) Hike,Hiking,Alternative Hike,"Near Reykjadalur, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This 5 km loop through 5,000-year-old pseudo-craters offers vibrant colors and unique geological features without the crowds of the Reykjadalur thermal river area.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"64.0800,-21.7600"
+Day 2,Reykjadalur Hot Spring Thermal River Hike,Hiking,Highlighted,"Reykjadalur Valley, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This unforgettable 3-mile round trip hike (<strong>moderate</strong> difficulty) leads through a steaming geothermal valley to a natural hot river where you can bathe in varying temperatures. The trail takes about 45-60 minutes each way, with stunning views throughout.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"64.0135,-21.2105"
+Day 2,Reykjadalur Ridge Hike,Hiking,Nature,Near Reykjadalur Valley,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A <strong>challenging</strong> extension to the hot spring hike taking you along the ridgeline above the valley with panoramic views of steaming vents colorful rhyolite mountains and distant glaciers.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"64.0200,-21.2100"
+Day 2,Secret Lagoon,Hidden Gem,Alternative,"Secret Lagoon, Flúðir, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">💎 Hidden Gem</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Secret Lagoon (Gamla Laugin), Iceland's oldest swimming pool dating back to 1891, offering a more authentic and less crowded geothermal bathing experience than the Blue Lagoon.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"64.1374,-20.3099"
+Day 2,Secret Lagoon Hot Spring,Hot Spring,Nature,Hvammsvegur 35 845 Flúðir,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">♨️ Hot Spring</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Bathe in Iceland's oldest swimming pool built in 1891 where natural hot springs bubble up through the sandy bottom. More authentic and less crowded than the Blue Lagoon.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/water.png,"64.1374,-20.3099"
+Day 2,Silfra Fissure Snorkeling,Outdoor Recreation,Adventure,Þingvellir National Park,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏞️ Outdoor Recreation</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Snorkel between tectonic plates in crystal clear glacier water with visibility over 100 meters. The water is among the purest on Earth and stays a constant 35-39°F year-round.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/trail.png,"64.2559,-21.1299"
+Day 2,Silfra Snorkeling Adventure,Premium Experience,Exclusive,"Silfra Fissure, Þingvellir National Park, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">⭐ Premium Experience</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Snorkel between two continental plates in the crystal-clear waters of Silfra Fissure, with visibility exceeding 100 meters. This once-in-a-lifetime experience allows you to literally touch both North America and Europe simultaneously.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"64.2559,-21.1299"
+Day 2,Skálholt Cathedral,Historical,Cultural,Skálholt 801 Selfoss,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">📜 Historical</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Explore this important historical site that served as Iceland's religious and educational center for 700 years. The current cathedral dates from 1963 but sits atop centuries of history.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/monument.png,"64.1266,-20.5234"
+Day 2,Sólheimar Eco-Village,Rainy Day,Alternative,"Sólheimar Eco-Village, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">☔ Rainy Day</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Sólheimar Eco-Village, Iceland's first sustainable community, offering organic café, craft shops, and art galleries showcasing work by artists with disabilities in a sustainable setting.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/rainy.png,"64.0666,-20.6404"
+Day 2,Tungnaárfellsfoss Waterfall,Hidden Gem,Alternative,"Tungnaárfellsfoss, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">💎 Hidden Gem</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">One of Iceland's widest waterfalls, yet rarely visited. Accessible via Road 208 with any vehicle in summer, this hidden gem offers impressive views with far fewer tourists than the more famous waterfalls.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"64.1000,-19.1000"
+Day 2,Þingvellir National Park,Hiking,Highlighted,"Þingvellir National Park, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">UNESCO World Heritage site where you can walk between the North American and Eurasian tectonic plates and visit the site of the world's first parliament. Explore this historically and geologically significant location (1-2 hours).</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"64.2559,-21.1299"
+  Day 3,DC-3 Plane Wreck Photography Tour,Photography,Adventure,Sólheimasandur Beach South Iceland,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">📸 Photography</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Professional photography guide to the famous crashed US Navy plane on a black sand beach. Learn techniques for capturing this iconic site in different lighting conditions.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/camera.png,"63.4590,-19.3650"
+Day 3,Dyrhólaey Lighthouse Trail,Hiking,Nature,Dyrhólaey Peninsula South Iceland,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A <strong>short</strong> but steep hike to the iconic lighthouse with panoramic views of black sand beaches sea arches and the Mýrdalsjökull glacier. Important nesting area for puffins in summer.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"63.4029,-19.1212"
+Day 3,Dyrhólaey Peninsula,Viewpoint,Alternative,"Dyrhólaey, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🔭 Viewpoint</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">120-meter high promontory with a large arch eroded by the sea, offering panoramic views of the black coastline, mountains, and glaciers. Good for puffin viewing in July.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/scenic.png,"63.4029,-19.1212"
+Day 3,Fjaðrárgljúfur Canyon Trail,Hiking,Nature,Fjadrarglufur Canyon Road 206,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Spectacular 1.5-mile trail along the rim of this 328-foot deep canyon with views of winding river and moss-covered rock formations. The path offers multiple viewpoints and photo opportunities.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"63.7712,-18.1716"
+Day 3,Hjörleifshöfði Cave Hike,Hiking,Adventure,Hjörleifshöfði Mountain Near Vík,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A <strong>moderate</strong> 3-mile loop up this 725-foot mountain sea cliff that was once an island. Visit the cave where outlaws lived and climb to the burial mound of Viking settler Hjörleifur.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"63.4200,-18.7400"
+Day 3,Icelandic Lava Show,Geological,Educational,"Lava Show, Vík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌋 Geological</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">The world's only exhibition where real molten lava is created indoors, allowing you to safely experience the heat, glow, and power of a volcanic eruption.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/volcano.png,"63.4186,-19.0060"
+Day 3,Icelandic Lava Show Extended Visit,Cultural,Rainy Day,"Lava Show, Vík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This indoor demonstration of real flowing molten lava is fascinating regardless of weather and provides genuine geological education. Perfect for bad weather days.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"63.4186,-19.0060"
+Day 3,Icewear Wool Factory Outlet,Rainy Day,Alternative,"Icewear Outlet, Vík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">☔ Rainy Day</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Icewear/Wool Factory Outlet in Vík, where you can shop for high-quality Icelandic wool products and learn about traditional wool processing while staying dry on a rainy day.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/rainy.png,"63.4186,-19.0060"
+Day 3,Katla Ice Cave Exploration,Ice Adventure,Adventure,South Coast Near Vík,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">❄️ Ice Adventure</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Visit a natural ice cave on the Katla volcano that's accessible year-round unlike most ice caves. The black volcanic ash layers contrast dramatically with the blue ice formations.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/snowflake_simple.png,"63.4400,-19.1500"
+Day 3,Kvernufoss Hidden Waterfall,Hiking,Nature,Near Skógafoss Waterfall,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This lesser-known 1-mile roundtrip hike leads to a delicate waterfall you can walk behind. Much less crowded than nearby Skógafoss and surrounded by beautiful green cliffs.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"63.5280,-19.4800"
+Day 3,Kvernufoss Waterfall,Hidden Gem,Alternative,"Kvernufoss Waterfall, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">💎 Hidden Gem</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A hidden gem near Skógafoss, this waterfall requires a 30-minute hike but rewards visitors with fewer crowds and the ability to walk behind the cascading water.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"63.5280,-19.4800"
+Day 3,Laufskálavarða Stone Cairn Field,Cultural,Historical,Ring Road Between Vík and Kirkjubæjarklaustur,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Ancient Viking tradition site where travelers build stone cairns for good luck. Stunning landscape of hundreds of small rock towers against black sand with mountain backdrop.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"63.5370,-18.4860"
+Day 3,Lava Show in Vík,Rainy Day,Alternative,"Lava Show, Vík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">☔ Rainy Day</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Lava Show in Vík, the world's only exhibition where real molten lava is created indoors, allowing you to safely experience the heat, glow, and power of a volcanic eruption.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/rainy.png,"63.4186,-19.0060"
+Day 3,Mýrdalsjökull Snowmobile Tour,Ice Adventure,Adventure,South Coast Near Vík,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">❄️ Ice Adventure</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Race across Iceland's fourth-largest glacier on a guided snowmobile tour offering spectacular views of the south coast and interior highlands. No experience necessary.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/snowflake_simple.png,"63.5324,-19.3693"
+Day 3,Private Super Jeep Tour to Þórsmörk,Premium Experience,Exclusive,"Þórsmörk Valley, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">⭐ Premium Experience</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Explore the hidden valley of Þórsmörk (Thor's Valley) in a private super jeep tour, crossing unbridged rivers and rugged terrain to reach this lush oasis surrounded by glaciers, mountains, and volcanic landscapes.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"63.6810,-19.5068"
+Day 3,Reynisfjall Mountain Hike,Hiking,Alternative Hike,"Reynisfjall, near Vík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A <strong>challenging</strong> 2-hour climb to the summit provides eagle-eye views over Reynisfjara Beach, the Reynisdrangar sea stacks, and on clear days, the Vestmannaeyjar islands.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"63.4145,-19.0360"
+Day 3,Reynisfjara Black Sand Beach,Natural Wonder,Highlighted,"Reynisfjara Beach, Vík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌈 Natural Wonder</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Famous black sand beach featuring striking basalt columns and sea stacks. Be extremely cautious of sneaker waves - never turn your back to the ocean and stay at least 20-30 feet from the water's edge, even on calm days.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/flag.png,"63.4042,-19.0662"
+Day 3,Seljalandsfoss Waterfall,Natural Wonder,Highlighted,"Seljalandsfoss Waterfall, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌈 Natural Wonder</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This 200-foot waterfall plunges over an ancient sea cliff, creating the rare opportunity to walk behind a waterfall. The pathway behind the falls offers a unique perspective and unforgettable experience, though be prepared to get wet! Nearby, don't miss the hidden waterfall Gljúfrabúi tucked inside a canyon.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/flag.png,"63.6156,-19.9885"
+Day 3,Seljavallalaug Mountain Pool,Hot Spring,Nature,Seljavellir Road Off Ring Road,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">♨️ Hot Spring</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Swim in this 1923 pool built into a mountainside and fed by natural hot springs. The 25-meter pool is one of Iceland's oldest and offers stunning views of the surrounding mountains.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/water.png,"63.5580,-19.6080"
+Day 3,Skógafoss Waterfall,Natural Wonder,Highlighted,"Skógafoss Waterfall, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌈 Natural Wonder</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">One of Iceland's biggest and most beautiful waterfalls, Skógafoss drops 200 feet creating constant rainbows on sunny days. Climb the 527 steps to the viewing platform at the top for panoramic views of the coastline and highlands.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/flag.png,"63.5320,-19.5114"
+Day 3,Skógar Folk Museum,Cultural,Alternative,"Skógar Museum, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Displaying traditional Icelandic turf houses and artifacts that provide insight into how Icelanders lived through the centuries. Visit the café for lunch options.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"63.5270,-19.5020"
+Day 3,Skógar Museum Deep Dive,Museum,Rainy Day,"Skógar Museum, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Museum</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This extensive folk museum deserves more time than most visitors give it. The three museum sections and 40 historical buildings provide hours of Icelandic cultural immersion perfect for stormy days.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/museum.png,"63.5270,-19.5020"
+Day 3,Skógárheiði Highland Path,Hiking,Alternative Hike,"Above Skógafoss, South Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This 4-6 km out-and-back path passes over 20 additional waterfalls most tourists never see. This trail follows the ancient Fimmvörðuháls route with panoramic views of glaciers and coastline without needing glacier equipment.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"63.5320,-19.4700"
+Day 3,Sólheimajökull Glacier Hike,Outdoor Recreation,Highlighted,"Sólheimajökull Glacier, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏞️ Outdoor Recreation</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Guided glacier hike on Sólheimajökull, an outlet glacier of Mýrdalsjökull ice cap, where you'll traverse blue ice, see unique ice formations, and learn about glacial geology. (Tour booking required)</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/trail.png,"63.5324,-19.3693"
+Day 3,Sólheimajökull Glacier Walk,Ice Adventure,Adventure,Sólheimajökull Parking Lot,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">❄️ Ice Adventure</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Join a guided walk on this accessible glacier tongue with dramatic ice formations. Learn about glacial geology climate change and proper ice-hiking techniques with crampons and ice axes.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/snowflake_simple.png,"63.5324,-19.3693"
+Day 3,Thakgil Hiking Area,Hidden Gem,Alternative,"Thakgil, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">💎 Hidden Gem</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Beautiful canyons and green valleys perfect for hiking, with stunning scenery that few tourists visit.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"63.5500,-19.0700"
+Day 3,The Barn Norðurfoss,Lodging,Booked,"The Barn, Norðurfoss, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏨 Lodging</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This rustic and charming hostel-style accommodation is housed in a converted barn, providing a cozy and authentic Icelandic experience. The property features communal spaces where you can mingle with other travelers, and the surrounding landscape offers beautiful mountain vistas.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/lodging.png,"63.7800,-18.0500"
+Day 3,Vík Wool Factory,Shopping,Cultural,Víkurprjón Austurvegur 20 Vík,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🛍️ Shopping</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Visit Iceland's largest wool factory store to see how traditional Icelandic sweaters are made. The store offers everything from raw wool to finished garments at better prices than Reykjavík.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/shopping.png,"63.4186,-19.0060"
+Day 3,Vikurfjara Black Sand Beach,Natural Wonder,Highlighted,"Vikurfjara Beach, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌈 Natural Wonder</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This dramatic black sand beach offers the same stunning volcanic landscape as its more famous neighbor Reynisfjara, but with fewer crowds. The stark contrast between the black sand and crashing white waves creates a hauntingly beautiful scene, perfect for photography.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/flag.png,"63.4200,-19.0200"
+Day 3,Zipline Adventure Vík,Outdoor Recreation,Outdoor,Base Camp Near Vík,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #e8f5e9; border: 1px solid #81c784; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏞️ Outdoor Recreation</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Soar over dramatic black sand beaches and volcanic landscapes on Iceland's longest zipline course featuring five separate lines ranging from 100-240 meters in length.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/trail.png,"63.4186,-19.0060"
+Day 4,Airbnb near Höfn,Lodging,Booked,"Seljavöllum, Höfn í Hornafirði, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏨 Lodging</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This double or twin accommodation is located at Seljavöllum, Höfn í Hornafirði. Being situated in this area gives you the advantage of being close to both the glacier lagoon attractions you've visited today and the East Fjords you'll explore tomorrow. </p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/lodging.png,"64.2500,-15.2100"
+Day 4,Diamond Beach,Natural Wonder,Highlighted,"Diamond Beach, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌈 Natural Wonder</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Where crystal-like ice chunks from Jökulsárlón Glacier Lagoon wash up on black sands, creating a surreal landscape of sparkling 'diamonds' on the volcanic beach. Visit at different times if possible, as the ice formations constantly change with the tides.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/flag.png,"64.0444,-16.1789"
+Day 4,Diamond Beach Photography Workshop,Photography,Educational,Jökulsárlón Beach,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">📸 Photography</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Join a local photographer for a 2-hour golden hour workshop focused on capturing the iconic ice chunks on black sand. Learn techniques for long exposure and maximizing the dynamic contrast.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/camera.png,"64.0444,-16.1789"
+Day 4,Fjaðrárgljúfur Canyon,Natural Wonder,Alternative,"Fjaðrárgljúfur Canyon, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌈 Natural Wonder</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Magnificent 100-meter deep and 2-kilometer long canyon formed during the last Ice Age, with winding trails along its rim offering spectacular views. Allow 1 hour for exploration.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/flag.png,"63.7712,-18.1716"
+Day 4,Fjaðrárglúfur Canyon Ice Cream Farm,Culinary,Cultural,Near Canyon Parking Lot,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🍲 Culinary</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Visit this small family farm for locally made ice cream featuring uniquely Icelandic flavors like birch and skyr (Icelandic yogurt). Enjoy while overlooking volcanic landscapes.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/coffee.png,"63.7700,-18.1600"
+Day 4,Fjallajökull Glacier Viewpoint,Viewpoint,Alternative,"Fjallajökull Glacier, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🔭 Viewpoint</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">An excellent viewpoint of another glacier tongue in the area, providing a different perspective of Iceland's ice caps.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/scenic.png,"64.0180,-16.3800"
+Day 4,Fjallsárlón Glacier Lagoon,Scenic,Nature,Ring Road East of Skaftafell,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏞️ Scenic</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Less crowded alternative to Jökulsárlón with equally impressive views of the glacier meeting lagoon. Small café onsite serves hot chocolate with views of floating icebergs.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/photo.png,"64.0180,-16.3800"
+Day 4,Hoffell Hot Tubs,Hot Spring,Nature,Hoffell Farm Near Höfn,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">♨️ Hot Spring</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Soak in converted milk containers now serving as rustic hot tubs with spectacular mountain views. These secluded hot pots are fed by natural geothermal springs.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/water.png,"64.3950,-15.3380"
+Day 4,Höfn Local Museum,Rainy Day,Alternative,"Höfn Museum, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">☔ Rainy Day</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Höfn Local Museum, showcasing the town's maritime history, fishing industry, and cultural heritage through artifacts and exhibitions in a cozy indoor setting.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/rainy.png,"64.2510,-15.2020"
+Day 4,Höfn Swimming Pool,Hot Spring,Indoor,Víkurbraut 9 780 Höfn,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">♨️ Hot Spring</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Relax in this modern facility with multiple hot pots of varying temperatures outdoor pool steam room and waterslide. Perfect way to unwind after hiking or during inclement weather.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/water.png,"64.2510,-15.2020"
+Day 4,Huldujökull Glacier Falls,Hiking,Nature,Road 214 from Þakgil,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Witness the dramatic sight of glacier chunks breaking off and falling into a ravine. Take the yellow/red trail from Þakgil campsite then follow the white trail north for incredible views of Iceland's ""hidden glacier.""</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"63.5800,-18.7000"
+Day 4,Ingólfshöfði Cape Hike,Hiking,Alternative Hike,"Ingólfshöfði, South Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This 2.5 km hike to a puffin colony on an isolated headland requires a local tractor ride through black sand to reach the trailhead. It's less visited than other South Coast attractions but offers incredible birdlife (May-August) and historical significance as the landing spot of Iceland's first settler.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"63.8030,-16.6380"
+Day 4,Ingólfshöfði Puffin Cape,Wildlife,Nature,Ingólfshöfði Nature Reserve,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🦊 Wildlife</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Travel by tractor across black sand plains to this isolated headland where thousands of puffins nest during summer. Guided 2-hour tour includes history of Viking settlement.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/ranger_station.png,"63.8030,-16.6380"
+Day 4,Jökulsárlón Glacier Lagoon,Natural Wonder,Highlighted,"Jökulsárlón Glacier Lagoon, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌈 Natural Wonder</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Where massive icebergs calved from Breiðamerkurjökull glacier float serenely in a deep glacial lake on their way to the Atlantic Ocean. One of Iceland's most spectacular natural attractions.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/flag.png,"64.0784,-16.2306"
+Day 4,Jökulsárlón Midnight Sun Kayaking,Outdoor Recreation,Adventure,Jökulsárlón Glacier Lagoon,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏞️ Outdoor Recreation</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Paddle among icebergs during the magical evening light when the midnight sun bathes the lagoon in golden hues. The tranquil waters and fewer crowds make this an unforgettable experience.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/trail.png,"64.0784,-16.2306"
+Day 4,Local Lobster Feast Höfn,Culinary,Cultural,Höfn Harbor South Iceland,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🍲 Culinary</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Höfn is the langoustine (Icelandic lobster) capital of Iceland. Join a tasting menu experience featuring these delicacies prepared multiple ways accompanied by local craft beers.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/coffee.png,"64.2510,-15.2020"
+Day 4,Múlagljúfur Canyon Hike,Hiking,Alternative Hike,"Múlagljúfur, near Skaftafell, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This 3-hour hike leads to two spectacular waterfalls (Hangandifoss and Múlafoss) hidden in a dramatic canyon near Skaftafell that most tourists miss entirely.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"64.0300,-16.4800"
+Day 4,Mulagljufur Canyon Trek,Hiking,Adventure,East of Jokulsarlon,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A <strong>challenging</strong> 3-mile hike revealing multiple waterfalls including Hangandifoss (hanging waterfall). The unmarked trail requires some navigation but rewards with few crowds and dramatic surroundings.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"64.0300,-16.4800"
+Day 4,Private Ice Cave Experience,Premium Experience,Exclusive,"Vatnajökull Glacier, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">⭐ Premium Experience</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Exclusive guided tour to a natural ice cave within Vatnajökull Glacier, Europe's largest glacier. Marvel at the blue ice formations, intricate textures, and otherworldly atmosphere in these seasonal natural wonders.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"64.3000,-16.5000"
+Day 4,Skaftafell Glacier Blue Ice Cave,Ice Adventure,Adventure,Skaftafell Visitor Center,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">❄️ Ice Adventure</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Year-round accessible ice cave within the Vatnajökull glacier featuring intense blue ice formations. Local guides lead you safely through this otherworldly environment.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/snowflake_simple.png,"64.0694,-16.9663"
+Day 4,Skaftafell Nature Reserve Hike,Hiking,Highlighted,"Skaftafell, Vatnajökull National Park, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A wilderness area in Vatnajökull National Park featuring various hiking trails to waterfalls, glacial tongues, and lush oases. Hike to Svartifoss Waterfall, a 3-mile round trip of <strong>moderate</strong> difficulty.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"64.0694,-16.9663"
+Day 4,Skaftafell Waterfall Circuit,Hiking,Nature,Skaftafell Visitor Center,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A 4-mile loop trail connecting multiple waterfalls including Svartifoss with its distinctive black basalt columns Hundafoss and Magnúsarfoss. Rich bird life throughout the hike.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"64.0694,-16.9663"
+Day 4,Southeastern Seals Boat Tour,Wildlife,Nature,Stokksnes Peninsula,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🦊 Wildlife</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A small boat excursion to view harbor seal colonies that gather among the dramatic black beaches and mountains of this less-visited peninsula. Excellent for wildlife photography.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/ranger_station.png,"64.2470,-14.9750"
+Day 4,Strútsfoss Waterfall,Hidden Gem,Highlighted,"Strútsfoss, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">💎 Hidden Gem</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Even larger red strata waterfall than the famous Hengifoss, yet virtually crowd-free. Accessible with regular car in summer via Road 935 to Sturluflöt farm. The family-friendly hike rewards you with views of this hidden gem that few tourists experience.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"64.8800,-15.2600"
+Day 4,Svartifoss Waterfall,Natural Wonder,Highlighted,"Svartifoss, Skaftafell, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌈 Natural Wonder</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Unique waterfall framed by dark hexagonal basalt columns that inspired the design of Hallgrímskirkja church in Reykjavík. The black basalt columns create a stunning contrast with the white water.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/flag.png,"64.0231,-16.9752"
+Day 4,Thorbergssetur Cultural Center,Cultural,Indoor,Hali Country Hotel Suðursveit,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Museum dedicated to writer Þórbergur Þórðarson with exhibitions about traditional life in southeast Iceland. Features an innovative building designed to look like a bookshelf.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"64.1800,-15.8900"
+Day 4,Vatnajökull Ice Climbing,Ice Adventure,Adventure,Skaftafell National Park,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">❄️ Ice Adventure</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Guided ice climbing experience on Europe's largest glacier. Learn technique and safety while scaling vertical ice walls with stunning views of the surrounding landscape.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/snowflake_simple.png,"64.0694,-16.9663"
+Day 4,Vatnajökull Visitor Center,Rainy Day,Alternative,"Vatnajökull Visitor Center, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">☔ Rainy Day</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">The Vatnajökull visitor center, featuring interactive exhibits about Europe's largest glacier, its formation, ecology, and the impact of climate change on this massive ice cap.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/rainy.png,"64.0694,-16.9663"
+Day 4,Víkurprjón Wool Workshop,Cultural,Rainy Day,"Víkurprjón, Vík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Visit Víkurprjón (Vík Wool) for a longer experience where you can not only shop but sometimes participate in demonstrations of traditional wool processing techniques. Perfect when weather interrupts outdoor plans.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"63.4186,-19.0060"
+Day 4,Zodiac Boat Tour of Jokulsarlon,Tour,Highlighted,"Jökulsárlón Glacier Lagoon, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🧭 Tour</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This pre-booked tour takes you on an exhilarating ride among floating icebergs that have calved from the Breiðamerkurjökull glacier. The zodiac boats can navigate closer to the ice than the larger amphibian vessels, offering intimate views of the sculptural ice formations.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/info.png,"64.0784,-16.2306"
+Day 5,Alfheimar Hotel,Lodging,Booked,"Alfheimar Hotel, Borgarfjörður Eystri, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏨 Lodging</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This welcoming hotel is situated in one of Iceland's most remote and beautiful regions, offering stunning mountain views and proximity to tomorrow's activities. You'll stay in a Standard Double or Twin Room with Patio.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/lodging.png,"65.5250,-13.8153"
+Day 5,Atlavik Forest Hike,Hiking,Nature,Hallormsstaðaskógur National Forest,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Peaceful 2-mile loop through Iceland's largest forest with rare trees towering mushrooms and rich birdlife. The trail leads to a sheltered beach on Lagarfljót Lake perfect for picnics.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"65.0500,-14.7400"
+Day 5,Djúpavogskörin Hot Spring,Hot Spring,Nature,Near Ring Road by Djúpivogur,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">♨️ Hot Spring</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Soak in this well-hidden hot spring right off the Ring Road. The man-made stone block pools collect naturally hot water that varies in temperature throughout the year.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/water.png,"64.6500,-14.2800"
+Day 5,Djupivogur Art Walk,Arts,Cultural,Djúpivogur Village Center,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🎨 Arts</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Explore this designated ""slow town"" with its collection of large-scale outdoor art installations including the famous stone eggs representing local bird species at Gleðivík bay.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"64.6559,-14.2828"
+Day 5,East Fjords Coastal Drive,Scenic Drive,Highlighted,"East Fjords, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🛣️ Scenic Drive</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">One of Iceland's most spectacular stretches of road winds along the eastern coastline, hugging the contours of deep fjords with mountains rising steeply on one side and the Atlantic Ocean on the other. The drive features countless photo opportunities, including chances to spot reindeer.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/roadtrip.png,"65.0000,-14.0000"
+Day 5,East Iceland Heritage Museum,Museum,Rainy Day,"Egilsstaðir, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Museum</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Learn about the distinctive cultural identity of the isolated East Fjords communities through interactive exhibits on reindeer hunting, superstitions, and the harsh rural lifestyle that developed here.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/museum.png,"65.2614,-14.3948"
+Day 5,Eggin í Gleðivík Art Installation,Arts,Cultural,Gleðivík Bay Djúpivogur,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🎨 Arts</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">View the 34 large stone eggs representing bird species that nest in the area. Each egg is accurately sized in proportion to the actual bird eggs creating a striking outdoor gallery.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"64.6500,-14.2900"
+Day 5,F909 Askja Route,F-Road Exploration,F-Road Adventure,"F909, East Iceland Highlands","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🚙 F-Road Exploration</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This highland route accesses the moon-like landscapes of Askja crater lake and the geothermal Viti explosion crater. This challenging F-road requires river crossings but provides some of Iceland's most alien landscapes. Pair with a soak in the remote Laugavallalaug hot spring creek.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/4x4.png,"65.0500,-16.0000"
+Day 5,Fáskrúðsfjörður French Connection,Cultural,Historical,Fáskrúðsfjörður East Iceland,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Explore this unique village with French street signs that served as a base for French fishermen in the 19th century. The French Hospital museum tells their story with dual-language exhibits.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"64.9317,-14.0144"
+Day 5,Hengifoss and Litlanesfoss Hike,Hiking,Nature,Hengifossá River East Iceland,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A <strong>moderate</strong>ly challenging 3-mile round trip hike to two spectacular waterfalls. Litlanesfoss is framed by geometric basalt columns while Hengifoss features dramatic red clay stripes.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"65.0950,-14.8830"
+Day 5,Hengifoss and Litlanesfoss Waterfall Hike,Hiking,Alternative,"Hengifoss, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">3-mile round trip, 2-hour hike to two beautiful waterfalls, including the striped red and black rock formations of Hengifoss and the basalt column-framed Litlanesfoss.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"65.0950,-14.8830"
+Day 5,Lagarfljót Lake Monster Watch,Cultural,Nature,Lagarfljót Lake Near Egilsstaðir,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Boat tour of Iceland's third-largest lake famous for its mythical serpent-like monster (Lagarfljótsormurinn) first reported in 1345 and considered Iceland's version of the Loch Ness Monster.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"65.0300,-14.7000"
+Day 5,Local Cheese Tasting,Culinary,Cultural,Near Egilsstaðir East Iceland,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🍲 Culinary</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Sample artisanal cheeses made from local sheep and cow milk including the distinctive ""mysuostur"" (whey cheese) with a sweet caramel-like flavor unique to Iceland.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/coffee.png,"65.2614,-14.3948"
+Day 5,Lunch at Við Voginn,Dining,Alternative,"Við Voginn, Djúpivogur, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🍽️ Dining</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Enjoy lunch at this restaurant in the charming fishing village of Djúpivogur, known for fresh seafood and local ingredients.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/dining.png,"64.6559,-14.2828"
+Day 5,Papey Island Wildlife Tour,Wildlife,Nature,Djúpivogur Harbor,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🦊 Wildlife</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Take a 3-hour boat trip to this abandoned island inhabited only by birds and seals. Visit Iceland's oldest wooden church and see thousands of puffins nesting from May to August.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/ranger_station.png,"64.6559,-14.2828"
+Day 5,Petra's Stone Collection,Cultural,Alternative,"Petra's Stone Collection, Stöðvarfjörður, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Massive private collection of East Iceland minerals gathered by one woman throughout her lifetime, now displayed in and around her home. Entry fee: $15 per person.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"64.8313,-14.0102"
+Day 5,Petra's Stone Museum Extended Experience,Museum,Rainy Day,"Petra's Stone Collection, Stöðvarfjörður, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Museum</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">In poor weather, this remarkable private mineral collection becomes more than a quick stop. The passionate staff can provide longer presentations about Iceland's geological history if you have extra time due to weather cancellations.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/museum.png,"64.8313,-14.0102"
+Day 5,Private Reindeer Safari,Premium Experience,Exclusive,"East Iceland Highlands, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">⭐ Premium Experience</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Exclusive guided safari to spot wild reindeer, which can only be found in East Iceland. This private tour takes you off the beaten path with an expert guide who knows the best locations for reindeer spotting and photography.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"65.3000,-14.8000"
+Day 5,Reyðarfjörður WWII Museum,Historical,Indoor,Búðareyri 670 Reyðarfjörður,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">📜 Historical</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Learn about Iceland's role during World War II when thousands of Allied troops were stationed in this quiet fjord. The museum features authentic barracks and extensive artifacts.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/monument.png,"65.0319,-14.2185"
+Day 5,Skriðuklaustur Cultural Center,Cultural,Indoor,Skriðuklaustur 701 Egilsstaðir,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Visit this cultural center and former medieval monastery with archaeological exhibits. The building itself is an architectural landmark designed by Iceland's most famous architect Guðjón Samúelsson.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"65.0320,-14.8280"
+Day 5,Strútsfoss Waterfall,Hidden Gem,Highlighted,"Strútsfoss, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">💎 Hidden Gem</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This hidden gem is an even larger red strata waterfall than the famous Hengifoss, yet remains virtually crowd-free. Take Road 935 to Sturluflöt farm, where an easy family-friendly hike leads to this spectacular cascade. The distinctive red layers in the rock face behind the waterfall create a striking contrast with the white water.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"64.8800,-15.2600"
+Day 5,Strútsfoss Waterfall Hike,Hiking,Nature,Road 935 to Sturluflöt Farm,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A family-friendly hike to an impressive but rarely visited red strata waterfall that's even taller than the famous Hengifoss. The trail passes through uniquely colored geological formations.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"64.8800,-15.2600"
+Day 5,The Waterfall Circle,Hidden Gem,Highlighted,"Laugarfell Highlands, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">💎 Hidden Gem</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A magical hike with nearly ten diverse waterfalls in the eastern highlands. The trailhead at Laugarfell Guesthouse is accessible with any car from June-September. This moderate 5-mile loop takes about 3 hours and showcases waterfalls of varying sizes and characters, all within one hiking route that few tourists know about.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"64.8800,-15.4000"
+Day 5,Vestdalsfossar Waterfall Viewpoint,Viewpoint,Alternative,"Vestdalsfossar, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🔭 Viewpoint</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Impressive waterfall viewpoint along the East Fjords coastal route, offering beautiful vistas.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/scenic.png,"65.0400,-14.0100"
+Day 5,Vestrahorn and Stokksnes Beach,Photography,Highlighted,"Stokksnes Peninsula, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">📸 Photography</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This iconic mountain rises dramatically from a black sand beach, creating one of Iceland's most photogenic landscapes. The jagged 1,490-foot peaks of Vestrahorn form a stunning backdrop to the rippling black sand dunes and reflective tidal pools. Entry fee: $12 per person, payable at Viking Café.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/camera.png,"64.2470,-14.9750"
+Day 5,Vök Baths Floating Pools,Hot Spring,Nature,Urriðavatn Lake Near Egilsstaðir,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">♨️ Hot Spring</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Modern hot spring complex with floating geothermal pools extending into Lake Urriðavatn. The sleek minimalist design offers panoramic views of the surrounding nature.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/water.png,"65.2700,-14.4400"
+Day 5,Wartime Museum,Rainy Day,Alternative,"Wartime Museum, Reyðarfjörður, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">☔ Rainy Day</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Wartime Museum in Reyðarfjörður, detailing Iceland's role during World War II when British and American forces occupied the island to secure this strategic North Atlantic location.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/rainy.png,"65.0319,-14.2185"
+  Day 6,Askja Caldera & Víti Crater,F-Road Exploration,Remote,"Askja, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🚙 F-Road Exploration</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Journey deep into the highlands to this massive volcanic caldera with multiple craters. The highlight is Víti (meaning 'hell'), a crater filled with geothermal milky-blue water where you can swim. Requires a 4x4 vehicle and river crossings.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/4x4.png,"65.0502,-16.7535"
+Day 6,Borgarfjörður Eystri Elf House,Hidden Gem,Cultural,"Álfaborg, Borgarfjörður Eystri, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">💎 Hidden Gem</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Visit the rocky hill of Álfaborg, said to be home to the queen of the Icelandic elves. A charming stone house built into the rock honors the hidden people many Icelanders believe inhabit the landscape.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"65.5250,-13.8153"
+Day 6,Borgarfjörður Eystri Puffin Cliffs,Wildlife,Nature,"Hafnarhólmi, Borgarfjörður Eystri, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🦊 Wildlife</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">The most accessible puffin colony in Iceland with wooden walkways and viewing platforms that bring you incredibly close to these charming birds. Peak season is mid-April to mid-August.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/ranger_station.png,"65.5266,-13.7444"
+Day 6,Dettifoss Waterfall,Natural Wonder,Highlighted,"Dettifoss, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌈 Natural Wonder</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Europe's most powerful waterfall, with 500 cubic meters of water per second thundering over a 150-foot drop. The sheer force creates a permanent mist cloud and vibrations you can feel through the ground.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/flag.png,"65.8147,-16.3913"
+Day 6,F-Roads into the Highlands,F-Road Exploration,Highlighted,"F88 Highland Road, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🚙 F-Road Exploration</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Adventure into Iceland's remote interior via F-roads (mountain roads) that access otherworldly landscapes of ash, lava, and multicolored mountains. F-roads require 4WD vehicles with good clearance, and many involve river crossings. Always check road conditions before departing.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/4x4.png,"65.4000,-16.2000"
+Day 6,Fjalladyrð Mountain Hotel,Lodging,Booked,"Fjalladyrð, Möðrudalur, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏨 Lodging</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This remote highland accommodation offers cozy rooms in the midst of Iceland's dramatic interior, surrounded by mountains and volcanic landscapes. Set at an altitude of 469 meters, it's one of the highest inhabited areas in Iceland.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/lodging.png,"65.3711,-15.5904"
+Day 6,Hljóðaklettar Echo Rocks Hike,Hiking,Nature,Jökulsárgljúfur National Park,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A <strong>moderate</strong> 3-mile loop trail through bizarre columnar basalt formations that create natural echoes. These twisted rock pillars make for an otherworldly landscape resembling a troll village.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"65.8400,-16.3500"
+Day 6,Holuhraun Lava Field,F-Road Exploration,Nature,F910 Highland Road,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🚙 F-Road Exploration</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Visit the site of the 2014-2015 volcanic eruption that created Iceland's newest and largest lava field since the 18th century. Walking on this young black lava presents otherworldly views of fresh volcanic features.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/4x4.png,"65.0000,-16.5000"
+Day 6,Hrossaborg Volcanic Crater,Geological,Nature,Route 1 Northeast Iceland,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌋 Geological</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This small circular crater appears suddenly in the barren landscape and looks like a perfect amphitheater. It was used as a filming location for scenes in Tom Cruise's movie ""Oblivion.""</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/volcano.png,"65.6169,-16.2177"
+Day 6,Húsavík Boat Trip,Wildlife,Nature,"Húsavík Harbor, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🦊 Wildlife</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Join a 3-hour whale watching tour from Iceland's whale watching capital with the country's highest success rate for sightings. Species commonly seen include humpback, minke and blue whales.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/ranger_station.png,"66.0449,-17.3389"
+Day 6,Húsavík GeoSea Baths,Hot Spring,Wellness,"GeoSea Baths, Húsavík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">♨️ Hot Spring</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Bathe in geothermally heated seawater at these elegant infinity pools perched on a cliff with panoramic views of Skjálfandi Bay. Pre-booking recommended as this is much more upscale than typical hot pots.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/water.png,"66.0535,-17.3502"
+Day 6,Hverarönd Mud Pots,Geological,Nature,Námafjall Geothermal Area,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌋 Geological</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A landscape of boiling mud pots, steam vents, and multicolored sulfur crystals. The bubbling gray mud and rotten egg smell create an otherworldly sensory experience. Wooden boardwalks keep visitors safe.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/volcano.png,"65.6406,-16.8093"
+Day 6,Krafla Geothermal Power Plant,Educational,Indoor,Krafla Power Plant Road,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">📚 Educational</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Visit the exhibition center to learn how Iceland harnesses its volcanic power to generate 100% of the country's electricity from renewable sources. Interactive displays explain geothermal technology.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/schools.png,"65.7173,-16.7571"
+Day 6,Krafla Viti Crater,Hiking,Nature,Road 863 near Mývatn,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A circular walk around a water-filled explosion crater surrounded by colorful mineral deposits. Starkly contrasting with the blue crater is the black lava field from the 1975-1984 Krafla Fires eruption.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"65.7173,-16.7571"
+Day 6,Leirhnjúkur Lava Field,Hiking,Nature,Krafla Volcanic System,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A 1-mile boardwalk trail that traverses recent lava flows (some less than 50 years old) and bubbling mud pots. The steaming fissures and moonscape environment create a truly otherworldly experience.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"65.7200,-16.7600"
+Day 6,Mývatn Nature Baths,Hot Spring,Wellness,"Mývatn Nature Baths, Jarðbaðshólar, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">♨️ Hot Spring</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A less crowded alternative to the Blue Lagoon with similar milky-blue mineral-rich waters. The lagoon offers spectacular views of Lake Mývatn and the surrounding volcanic landscape. Book in advance during summer.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/water.png,"65.6352,-16.8793"
+Day 6,Möðrudalur Farm & Fjalladýrð,Dining,Cultural,Möðrudalur á Fjöllum,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🍽️ Dining</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Iceland's highest inhabited farm (469m) features a turf-roofed church and Fjallakaffi café serving traditional lamb soup and waffles. The tiny settlement has been continuously inhabited since the Viking age.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/dining.png,"65.3711,-15.5904"
+Day 6,Mývatn Bird Museum,Wildlife,Indoor,Skútustaðir Mývatn,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🦊 Wildlife</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This private collection displays specimens of all Icelandic breeding birds including eggs. The knowledgeable owner provides fascinating insights into local birdlife and conservation.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/ranger_station.png,"65.5700,-17.0300"
+Day 6,Mývatn Lava Maze,Hidden Gem,Nature,"Dimmuborgir, Mývatn, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">💎 Hidden Gem</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Lesser known than the main Dimmuborgir trail, this side path winds through a natural labyrinth of lava formations. The area is said to be home to the 13 Yule Lads, Iceland's mischievous Christmas trolls.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"65.5900,-16.9100"
+Day 6,Private Hot Pool on Mount Námafjall,Premium Experience,Exclusive,"Námafjall, Mývatn, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">⭐ Premium Experience</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Enjoy an exclusive geothermal bathing experience in a hidden mountain hot pool with panoramic views of Lake Mývatn and surrounding volcanic landscapes, accessible only with a local guide.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"65.6406,-16.8093"
+Day 6,Selfoss Waterfall,Hidden Gem,Alternative,"Selfoss Waterfall, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">💎 Hidden Gem</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Often overshadowed by nearby Dettifoss, this horseshoe-shaped cascade is just a 10-minute additional hike upstream. While smaller than Dettifoss, many consider it more photogenic and you'll find far fewer visitors here.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"65.8300,-16.3800"
+Day 6,Skútustaðagígar Pseudocraters,Hiking,Nature,Lake Mývatn South Shore,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A 1-mile loop trail around curious geological formations that look like volcanic craters but were actually formed by steam explosions when lava flowed over wet ground. Rich birdlife surrounds the crater lake.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"65.5656,-17.0296"
+Day 6,Stuðlagil Canyon,Hidden Gem,Highlighted,"Stuðlagil Canyon, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">💎 Hidden Gem</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This newly discovered canyon was hidden underwater until a dam reduced the river flow in 2009, revealing magnificent basalt column formations. The turquoise river flowing between these symmetrical rock columns creates one of Iceland's most photogenic landscapes. Access involves a moderate hike.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"65.1546,-15.3078"
+Day 6,The Whale Museum,Wildlife,Alternative,"The Whale Museum, Húsavík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🦊 Wildlife</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Explore cetacean biology, evolution, and conservation through interactive exhibits and complete whale skeletons. A perfect preparation or alternative if weather cancels your whale watching trip.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/ranger_station.png,"66.0449,-17.3389"
+Day 6,Tjörnes Peninsula Fossils,Geological,Alternative,"Tjörnes Peninsula, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌋 Geological</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">View 15-million-year-old marine fossils embedded in layered rock cliffs. This unique site reveals Iceland's geological history with perfectly preserved shellfish specimens visible in the cliff face.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/volcano.png,"66.0800,-17.2800"
+Day 7,Arctic Henge,Hidden Gem,Cultural,"Raufarhöfn, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">💎 Hidden Gem</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This modern monument is Iceland's answer to Stonehenge, designed to capture the midnight sun. Four gates and 68 dwarves (from Norse mythology) are positioned according to the movement of the sun.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"66.4560,-15.9425"
+Day 7,Ásbyrgi Canyon,Natural Wonder,Highlighted,"Ásbyrgi Canyon, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌈 Natural Wonder</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This horseshoe-shaped canyon, according to Norse mythology, was formed by the footprint of Odin's eight-legged horse. The forested canyon floor (rare in Iceland) and 100m high cliffs create a unique microclimate and atmosphere.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/flag.png,"66.0244,-16.5058"
+Day 7,Eider Duck Down Farm,Wildlife,Cultural,Near Húsavík,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🦊 Wildlife</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Visit a traditional eider farm where farmers have a symbiotic relationship with wild eider ducks. Learn how the world's most expensive down is sustainably harvested from abandoned nests without harming the birds.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/ranger_station.png,"66.0449,-17.3389"
+Day 7,Goðafoss Waterfall,Natural Wonder,Highlighted,"Goðafoss Waterfall, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌈 Natural Wonder</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">The ""Waterfall of the Gods"" earned its name when Iceland's lawspeaker threw his pagan idols into the falls upon converting to Christianity in 1000 CE. The horseshoe-shaped falls can be viewed from both banks.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/flag.png,"65.6828,-17.5503"
+Day 7,Hofsós Swimming Pool,Hot Spring,Nature,Hofsós Village,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">♨️ Hot Spring</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This stunning infinity pool appears to merge with the fjord below creating the illusion of swimming in the ocean. Designed by the same architect as the Blue Lagoon but far less crowded.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/water.png,"65.8998,-19.4077"
+Day 7,Hólar Cathedral,Cultural,Historical,Hólar í Hjaltadal North Iceland,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">One of Iceland's historical power centers and home to its oldest stone church. The site has been a religious center since 1106 and features an excellent museum of religious artifacts.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"65.7346,-19.1139"
+Day 7,Hvítserkur Sea Stack,Photography,Nature,Vatnsnes Peninsula,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">📸 Photography</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This 15-meter high basalt stack resembles either a drinking dragon or elephant depending on your perspective. According to folklore, it's a troll caught by the sunrise. Best photographed at low tide.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/camera.png,"65.6070,-20.6412"
+Day 7,Kaldi Brewery Tour,Culinary,Indoor,"Kaldi Brewery, Árskógssandur, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🍲 Culinary</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Tour Iceland's first microbrewery making Czech-style beers with pure Icelandic water. The brewery's beer bath spa lets you soak in young beer while drinking from your own tap.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/coffee.png,"65.9556,-18.1772"
+Day 7,Kolugljúfur Canyon and Waterfall,Hidden Gem,Nature,"Kolugljúfur, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">💎 Hidden Gem</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This dramatic canyon features a series of waterfalls tumbling through its depths. Named after the giantess Kola who according to legend dug the canyon. Far less visited than other falls despite easy access.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"65.3353,-20.5631"
+Day 7,Kjarnaskógur Forest Hiking Trails,Hiking,Nature,Near Akureyri North Iceland,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Multiple <strong>easy</strong> trails through Iceland's largest forest recreation area offering respite from the typically barren Icelandic landscape. Features exercise equipment picnic areas and BBQ facilities.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"65.6400,-18.1400"
+Day 7,Reykjafoss Waterfall & Hot Pool,Hot Spring,Hidden,"Reykjafoss, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">♨️ Hot Spring</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A natural hot pool located directly beside a waterfall where cool water from the falls mixes with the steaming spring creating customizable temperatures. No facilities but often empty even in summer.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/water.png,"65.5200,-19.3800"
+Day 7,Seal Watching at Vatnsnes,Wildlife,Nature,Vatnsnes Peninsula,"<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🦊 Wildlife</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Visit the best location in Iceland to view wild seals in their natural habitat. The Icelandic Seal Center in Hvammstangi provides exhibits on seal biology and conservation and directions to the best viewing spots.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/ranger_station.png,"65.6000,-20.8000"
+Day 7,Sigló Hótel,Lodging,Booked,"Sigló Hótel, Siglufjörður, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏨 Lodging</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This upscale waterfront hotel, situated in a former fishing town, offers stylish rooms with mountain or marina views. The hotel features a restaurant specializing in local seafood and a marina-side hot pot perfect for viewing the northern lights in winter or midnight sun in summer.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/lodging.png,"66.1517,-18.9090"
+Day 7,Siglufjörður Herring Era Museum,Cultural,Rainy Day,"Herring Era Museum, Siglufjörður, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Award-winning museum showcasing Iceland's herring boom years that transformed the economy. Summer visitors can witness the ""Herring Girls"" salt fish while singing traditional work songs.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"66.1517,-18.9090"
+Day 7,Siglufjörður Road Trip,Scenic Drive,Transport,"Siglufjörður, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🛣️ Scenic Drive</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">The dramatic drive to this northernmost town passes through tunnels carved into massive mountains and along spectacular fjord coastlines. The road itself is considered one of Iceland's greatest engineering feats.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/roadtrip.png,"66.1517,-18.9090"
+Day 7,Tröllaskagi Peninsula Drive,Scenic Drive,Highlighted,"Tröllaskagi Peninsula, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🛣️ Scenic Drive</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">One of Iceland's most dramatic mountain roads with steep switchbacks, narrow tunnels, and views across deep fjords. The name means 'Troll Peninsula' and the jagged peaks do resemble a line of trolls. Watch for wild horses and stop at the picturesque fishing villages along the way.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/roadtrip.png,"65.9000,-19.0000"
+Day 7,Víti Crater Lake Swim,Hot Spring,Alternative,"Víti Crater, Askja, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">♨️ Hot Spring</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Swim in this geothermally heated crater lake whose name means 'Hell' - the opaque blue water hovering around 22°C contrasts with the barren surrounding highlands. A 4x4 vehicle and significant hiking required.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/water.png,"65.0500,-16.7300"
+  Day 8,Akureyri Botanical Garden,Nature,Alternative,"Akureyri Botanical Garden, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌿 Nature</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">The world's northernmost botanical garden contains over 400 native Arctic plants and 7,000 foreign species. Located just south of the Arctic Circle, it demonstrates what careful cultivation can achieve in harsh climates.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/parks.png,"65.6735,-18.0931"
+Day 8,Akureyri Church,Architecture,Cultural,"Akureyri Church, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Architecture</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This iconic Lutheran church stands at the center of Iceland's second city. The distinctive staircase creates an optical illusion making the church appear to float above the town. Beautiful stained glass windows inside.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/landmark.png,"65.6800,-18.0900"
+Day 8,Glaumbær Turf Houses,Cultural,Historical,"Glaumbær Farm, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">One of Iceland's best-preserved turf farm complexes dating from the 18th and 19th centuries. Explore how Icelanders lived for centuries, with beds built into walls and turf providing excellent insulation.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"65.6129,-19.8396"
+Day 8,Hjalteyri Whale Watching,Wildlife,Outdoor,"Hjalteyri, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #e8f5e9; border: 1px solid #81c784; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🦊 Wildlife</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This small village offers intimate whale watching tours in Eyjafjörður, Iceland's longest fjord. Humpbacks are common in summer, and the fjord setting creates calmer waters than ocean tours.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/ranger_station.png,"65.8500,-18.1900"
+Day 8,Hraunfossar Waterfalls,Natural Wonder,Highlighted,"Hraunfossar, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌈 Natural Wonder</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A series of beautiful waterfalls streaming over a distance of 900 meters out of a lava field. Rather than falling from a cliff, the water seeps through porous lava rock, creating a unique curtain of rivulets stretching along the Hvítá River.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/flag.png,"64.7013,-20.9777"
+Day 8,Icelandic Horse Farm Visit,Horseback Riding,Cultural,"Lýtingsstaðir, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🐎 Horseback Riding</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Experience the unique Icelandic horse with its special fifth gait called 'tölt'. These small, sturdy horses have been bred in isolation since the Viking age, making them one of the purest horse breeds in the world.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/horsebackriding.png,"65.4950,-19.3500"
+Day 8,Laugarbakki Hotel,Lodging,Booked,"Hotel Laugarbakki, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏨 Lodging</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Modern hotel in northwest Iceland with comfortable rooms and an on-site restaurant serving local cuisine. Located near the Icelandic Seal Center and the Vatnsnes Peninsula, making it an ideal base for exploring the region.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/lodging.png,"65.2830,-21.1887"
+Day 8,Fosslaug Hot Spring,Hot Spring,Hidden Gem,"Fosslaug, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">♨️ Hot Spring</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A natural hot spring right next to a waterfall, allowing you to adjust the temperature by moving closer to or farther from the cold river water. This hidden gem requires a short hike but rewards with stunning views and often solitude.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/water.png,"65.4807,-19.5887"
+Day 8,Grábrók Crater,Hiking,Geological,"Grábrók Crater, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">An <strong>easy</strong> 30-minute hike up a volcanic crater right off the Ring Road. Wooden steps lead to the rim where you'll enjoy 360° views of the surrounding lava fields and mountains. Perfect short stop to break up a driving day.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"64.8004,-21.5292"
+Day 9,Arnastapi Coastal Walk,Hiking,Nature,"Arnastapi, Snæfellsnes, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This <strong>easy</strong> coastal trail between Arnastapi and Hellnar villages offers stunning views of basalt columns, natural arches, and bird cliffs. Watch for nesting kittiwakes and fulmars in the cliffs, and keep an eye out for the half-man, half-troll stone statue of Bárður.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"64.7651,-23.6231"
+Day 9,Bjarnarhöfn Shark Museum,Cultural,Culinary,"Bjarnarhöfn, Snæfellsnes, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Learn about the traditional fermentation process of hákarl (fermented shark), Iceland's notorious national dish. The museum includes a tasting - a true Viking culinary challenge that most visitors find memorable if not entirely pleasant.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"64.9897,-23.0385"
+Day 9,Budir Black Church,Photography,Architecture,"Búðakirkja, Snæfellsnes, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">📸 Photography</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This striking black wooden church stands in stark contrast to its surrounding lava fields and mountains. Built in 1848, the isolated church against the dramatic Snæfellsnes landscape makes for one of Iceland's most iconic photo opportunities.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/camera.png,"64.8254,-23.3834"
+Day 9,Dritvík Cove,Hidden Gem,Historical,"Dritvík, Snæfellsnes, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">💎 Hidden Gem</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Once Iceland's largest fishing station, this now-abandoned cove features the famous Lifting Stones, used historically to test fishermen's strength. Four stones of different weights remain for visitors to test their own strength against the ancient fishermen.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"64.7511,-23.8690"
+Day 9,Eldborg Crater Hike,Hiking,Geological,"Eldborg, Snæfellsnes, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This <strong>moderate</strong> 6 km roundtrip hike leads to a perfectly formed crater rising 60 meters from the surrounding lava field. The classic conical shape with its red rim makes it look like a fortress (which is what 'eldborg' means in Icelandic).</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"64.7800,-22.2788"
+Day 9,Fosshotel Stykkishólmur,Lodging,Booked,"Fosshotel Stykkishólmur, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏨 Lodging</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Modern hotel located in the heart of the charming fishing town of Stykkishólmur. The rooms offer views of the town, harbor, or Breiðafjörður Bay, and the hotel restaurant features fresh local seafood and Icelandic specialties.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/lodging.png,"65.0769,-22.7252"
+Day 9,Kirkjufell Mountain,Photography,Highlighted,"Kirkjufell, Snæfellsnes, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">📸 Photography</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Iceland's most photographed mountain, featured in Game of Thrones as 'Arrowhead Mountain.' The classic shot includes Kirkjufellsfoss waterfall in the foreground with the distinctively shaped 463m mountain behind. Best photographed in late evening light or under northern lights.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/camera.png,"64.9419,-23.3069"
+Day 9,Langaholt Beach Dinner,Dining,Culinary,"Langaholt Restaurant, Snæfellsnes, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🍽️ Dining</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Enjoy dinner at this family-run restaurant on a golden beach with a magnificent mountain backdrop. Known for some of the best seafood soup on the peninsula and freshly caught fish. Try their renowned homemade cakes for dessert.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/dining.png,"64.7903,-23.2370"
+Day 9,Lóndrangar Basalt Cliffs,Viewpoint,Nature,"Lóndrangar, Snæfellsnes, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🔭 Viewpoint</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">These dramatic basalt pinnacles rise up to 75 meters from the ocean and are home to thousands of seabirds. According to local folklore, the cliffs are actually trolls who were caught by daylight while trying to capture a ship.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/scenic.png,"64.7418,-23.7739"
+Day 9,Rauðfeldsgjá Gorge,Hiking,Adventure,"Rauðfeldsgjá, Snæfellsnes, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A <strong>moderate</strong> hike through a dramatic moss-covered ravine that slices deep into the mountain. The further you venture inside, the more challenging it becomes, eventually requiring wading through a small stream to reach the rewarding open chamber with light streaming down.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"64.7788,-23.7702"
+Day 9,Snæfellsjökull National Park,Natural Wonder,Highlighted,"Snæfellsjökull National Park, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌈 Natural Wonder</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Dominated by the 700,000-year-old glacier-capped Snæfellsjökull volcano, this park was the setting for Jules Verne's 'Journey to the Center of the Earth.' The diverse landscape features lava fields, caves, black and golden beaches, waterfalls, and jagged cliffs all in one compact area.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/flag.png,"64.8084,-23.7759"
+Day 9,Snæfellsjökull Glacier Snowcat Tour,Ice Adventure,Highlighted,"Snæfellsjökull Glacier, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">❄️ Ice Adventure</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Journey to the top of the famous glacier-capped volcano on a specialized snowcat vehicle. The glacier offers spectacular panoramic views across the peninsula and out to sea, and is believed by some to be one of the world's major energy centers.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/snowflake_simple.png,"64.8084,-23.7759"
+Day 9,Stykkishólmur Harbor Stroll,Cultural,Nature,"Stykkishólmur, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Explore this charming fishing town with its colorful Norwegian-style houses and bustling harbor. Visit the futuristic church, climb the basalt island Súgandisey for harbor views, and stop at the Library of Water art installation featuring melted glacier samples.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"65.0769,-22.7252"
+Day 9,Viking Sushi Boat Tour,Wildlife,Culinary,"Stykkishólmur Harbor, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🦊 Wildlife</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A boat tour around the countless islands of Breiðafjörður Bay with stunning birdlife including puffins and white-tailed eagles. The boat crew pulls up shellfish traps during the journey and serves the catch as 'Viking sushi' - scallops and sea urchins eaten raw moments after harvesting.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/ranger_station.png,"65.0769,-22.7252"
+Day 10,Glymur Waterfall Hike,Hiking,Highlighted,"Glymur Waterfall, Hvalfjörður, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A <strong>challenging</strong> 3-4 hour round trip hike to what was long considered Iceland's tallest waterfall (196m). The trail involves crossing a river on a log with a cable handrail, traversing steep terrain, and navigating through a cave, but rewards with spectacular gorge views.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"64.3915,-21.2673"
+Day 10,Guðlaug Hot Pools,Hot Spring,Wellness,"Guðlaug, Akranes, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">♨️ Hot Spring</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">These architecturally stunning double-tiered public hot pools are built right into the coastline. The upper pool feeds into the lower one, creating two different temperatures. Enjoy ocean views and sunset colors while soaking in the geothermal waters.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/water.png,"64.3135,-22.0753"
+Day 10,Hótel Húsafell,Lodging,Booked,"Hótel Húsafell, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏨 Lodging</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This upscale hotel is set amidst a picturesque landscape of lava fields, glaciers, and forests. The eco-friendly design features geothermal energy and artworks by renowned Icelandic artist Páll Guðmundsson. Enjoy the outdoor geothermal pools and on-site restaurant serving farm-to-table cuisine.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/lodging.png,"64.6991,-20.8731"
+Day 10,Húsafell Hiking Trails,Hiking,Nature,"Húsafell, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🥾 Hiking</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Explore the network of well-marked <strong>easy to moderate</strong> hiking trails through this unusually lush area of Iceland. Routes feature birch woodlands, lava formations, crystal clear streams, and dramatic ravines with opportunities to spot Arctic foxes and rich birdlife.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/hiker.png,"64.6991,-20.8731"
+Day 10,Into The Glacier Tour,Ice Adventure,Premium Experience,"Langjökull Glacier, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">❄️ Ice Adventure</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Experience the world's largest man-made ice tunnel, dug 300 meters into Langjökull glacier. The tour begins with a monster truck ride across the glacier surface before descending into chambers and corridors cut directly into the blue ice, revealing the glacier's inner structure and history.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/snowflake_simple.png,"64.6665,-20.1521"
+Day 10,Krauma Geothermal Baths,Hot Spring,Wellness,"Krauma, Reykholt, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">♨️ Hot Spring</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">These modern thermal baths use water from Europe's most powerful hot spring, Deildartunguhver, mixed with glacial water to achieve the perfect temperature. Facilities include five hot pools, a cold plunge pool, steam rooms, and a relaxation room with fireplace.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/water.png,"64.6662,-21.2883"
+Day 10,Reykjavík Whale Watching,Wildlife,Nature,"Reykjavík Harbor, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🦊 Wildlife</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Join a 3-hour boat tour from Reykjavík harbor to spot minke whales, harbor porpoises, and white-beaked dolphins in Faxaflói Bay. The operators offer warm overalls to keep you comfortable and have a high sighting success rate from April to October.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/ranger_station.png,"64.1505,-21.9327"
+Day 10,The Settlement Exhibition,Cultural,Indoor,"Aðalstræti 16, Reykjavík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This underground museum is built around the archaeological remains of a Viking longhouse from around 871 AD. Interactive displays show what life was like during the settlement era of Iceland using cutting-edge technology.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"64.1465,-21.9422"
+Day 10,Þingvellir Silfra Snorkeling,Outdoor Recreation,Highlighted,"Silfra Fissure, Þingvellir, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏞️ Outdoor Recreation</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Snorkel between the North American and Eurasian tectonic plates in crystal-clear glacial water with over 100 meters of visibility. The water remains a constant 2-4°C year-round, but dry suits keep you comfortable while floating through this otherworldly underwater landscape.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/trail.png,"64.2559,-21.1299"
+Day 11,Blue Lagoon Premium Experience,Premium Experience,Highlighted,"Blue Lagoon, Grindavík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">⭐ Premium Experience</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Upgrade to the Premium package at the Blue Lagoon for your final day, which includes a private changing room, additional skincare products, reserved table at Lava Restaurant, sparkling wine, and a second mask treatment of your choice. The perfect relaxing end to your Icelandic adventure.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"63.8804,-22.4495"
+Day 11,Car Return,Transportation,Booked,"Blue Car Rental, Keflavík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🚌 Transportation</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Return your 4WD Suzuki Vitara to Blue Car Rental near Keflavík Airport. Allow at least 30 minutes for the rental return process before heading to your flight check-in.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/bus.png,"63.9985,-22.6221"
+Day 11,Departure from Keflavík,Departure,Transportation,"Keflavík International Airport, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #f3e5f5; border: 1px solid #ba68c8; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🛫 Departure</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Depart from Keflavík International Airport. Remember to arrive at least 2 hours before your international flight and allow time for tax-free shopping of Icelandic souvenirs and products.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/airports.png,"63.9998,-22.6219"
+Day 11,Garður Lighthouse,Hidden Gem,Alternative,"Garðskagi Lighthouses, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">💎 Hidden Gem</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Visit the northern tip of Reykjanes Peninsula where two lighthouses stand on a beautiful beach. The older lighthouse can be climbed for panoramic views, and the area is excellent for birdwatching and seal spotting. A perfect low-key activity before your flight.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/star.png,"64.0823,-22.7127"
+Day 11,Gunnuhver Hot Springs,Geological,Nature,"Gunnuhver, Reykjanes Peninsula, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌋 Geological</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Experience the raw power of Iceland's geothermal energy at these boiling mud pools and steam vents named after a female ghost supposedly trapped here by a priest. Wooden boardwalks provide safe viewing of the violently boiling gray mud and steam clouds.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/volcano.png,"63.8213,-22.6791"
+Day 11,Kef Restaurant,Dining,Alternative,"Kef Restaurant, Keflavík, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🍽️ Dining</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Enjoy a final Icelandic meal at this excellent restaurant in Keflavík before your flight. Known for fresh seafood and modern Icelandic cuisine, it's a more upscale alternative to airport dining for your last taste of Iceland.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/dining.png,"63.9846,-22.6043"
+Day 11,Kleifarvatn Lake,Scenic Drive,Alternative,"Kleifarvatn, Reykjanes Peninsula, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🛣️ Scenic Drive</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Iceland's third-largest lake sits in a fissure zone on the Mid-Atlantic Ridge. The barren lunar-like landscape surrounding the deep blue water creates a stark, otherworldly beauty. Look for steaming vents along the eastern shore where the water meets geothermal areas.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/roadtrip.png,"63.9000,-22.0500"
+Day 11,Krýsuvík Geothermal Area,Geological,Nature,"Krýsuvík, Reykjanes Peninsula, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🌋 Geological</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A concentrated area of geothermal activity featuring multi-colored mud pots, steaming vents, and mineral deposits in vibrant yellows, reds and greens. Boardwalks provide safe access through the bubbling, gurgling landscape.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/volcano.png,"63.8984,-22.0541"
+Day 11,Reykjanes Geopark,F-Road Exploration,Adventure,"Reykjanes Geopark, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🚙 F-Road Exploration</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Explore the volcanic wonderland of the Reykjanes UNESCO Global Geopark with its lava fields, cone volcanoes, and dramatic coastlines. The peninsula sits directly on the Mid-Atlantic Ridge where the North American and Eurasian plates are pulling apart.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/4x4.png,"63.8500,-22.4300"
+Day 11,Reykjanesviti Lighthouse,Viewpoint,Nature,"Reykjanesviti, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🔭 Viewpoint</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">Iceland's oldest lighthouse stands on a dramatic cliff edge surrounded by active geothermal areas and pounding Atlantic waves. The nearby Valahnúkur cliffs offer panoramic views across the ocean and rugged coastline, a fitting final vista of Iceland.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/scenic.png,"63.8161,-22.7042"
+Day 11,The Bridge Between Continents,F-Road Exploration,Geological,"Bridge Between Continents, Reykjanes, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🚙 F-Road Exploration</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">A small footbridge spanning the visible rift between the North American and Eurasian tectonic plates. Walk across the bridge for the novelty of crossing between continents in a few steps, or descend into the rift itself to touch both plates at once.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/4x4.png,"63.8680,-22.6743"
+Day 11,Viking World Museum,Cultural,Rainy Day,"Viking World Museum, Reykjanesbær, Iceland","<div style=""font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;"">
+    <h3 style=""margin-top: 0; color: #333;"">🏛️ Cultural</h3>
+    <p style=""font-size: 16px; line-height: 1.5; color: #444;"">This museum houses a full-scale replica of a 9th-century Viking ship that actually sailed to America in 2000. Learn about Norse mythology, early settlement, and Viking expansion while examining authentic artifacts and interactive displays.</p>
+  </div>",http://maps.google.com/mapfiles/kml/shapes/arts.png,"63.9971,-22.5665"

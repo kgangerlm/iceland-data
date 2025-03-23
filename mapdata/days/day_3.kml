@@ -1,0 +1,436 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Folder>
+      <name>Day 3</name>
+      <Placemark>
+        <name>DC-3 Plane Wreck Photography Tour</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">📸 Photography</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Professional photography guide to the famous crashed US Navy plane on a black sand beach. Learn techniques for capturing this iconic site in different lighting conditions.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-19.3650,63.4590,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dyrhólaey Lighthouse Trail</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A <strong>short</strong> but steep hike to the iconic lighthouse with panoramic views of black sand beaches sea arches and the Mýrdalsjökull glacier. Important nesting area for puffins in summer.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-19.1212,63.4029,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dyrhólaey Peninsula</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🔭 Viewpoint</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">120-meter high promontory with a large arch eroded by the sea, offering panoramic views of the black coastline, mountains, and glaciers. Good for puffin viewing in July.</p>
+  </div>]]></description>
+        <styleUrl>#style_2</styleUrl>
+        <Point>
+          <coordinates>-19.1212,63.4029,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fjaðrárgljúfur Canyon Trail</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Spectacular 1.5-mile trail along the rim of this 328-foot deep canyon with views of winding river and moss-covered rock formations. The path offers multiple viewpoints and photo opportunities.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-18.1716,63.7712,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hjörleifshöfði Cave Hike</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A <strong>moderate</strong> 3-mile loop up this 725-foot mountain sea cliff that was once an island. Visit the cave where outlaws lived and climb to the burial mound of Viking settler Hjörleifur.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-18.7400,63.4200,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Icelandic Lava Show</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌋 Geological</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">The world's only exhibition where real molten lava is created indoors, allowing you to safely experience the heat, glow, and power of a volcanic eruption.</p>
+  </div>]]></description>
+        <styleUrl>#style_3</styleUrl>
+        <Point>
+          <coordinates>-19.0060,63.4186,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Icelandic Lava Show Extended Visit</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Cultural</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This indoor demonstration of real flowing molten lava is fascinating regardless of weather and provides genuine geological education. Perfect for bad weather days.</p>
+  </div>]]></description>
+        <styleUrl>#style_4</styleUrl>
+        <Point>
+          <coordinates>-19.0060,63.4186,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Icewear Wool Factory Outlet</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">☔ Rainy Day</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Icewear/Wool Factory Outlet in Vík, where you can shop for high-quality Icelandic wool products and learn about traditional wool processing while staying dry on a rainy day.</p>
+  </div>]]></description>
+        <styleUrl>#style_5</styleUrl>
+        <Point>
+          <coordinates>-19.0060,63.4186,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Katla Ice Cave Exploration</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">❄️ Ice Adventure</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Visit a natural ice cave on the Katla volcano that's accessible year-round unlike most ice caves. The black volcanic ash layers contrast dramatically with the blue ice formations.</p>
+  </div>]]></description>
+        <styleUrl>#style_6</styleUrl>
+        <Point>
+          <coordinates>-19.1500,63.4400,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kvernufoss Hidden Waterfall</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This lesser-known 1-mile roundtrip hike leads to a delicate waterfall you can walk behind. Much less crowded than nearby Skógafoss and surrounded by beautiful green cliffs.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-19.4800,63.5280,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kvernufoss Waterfall</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">💎 Hidden Gem</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A hidden gem near Skógafoss, this waterfall requires a 30-minute hike but rewards visitors with fewer crowds and the ability to walk behind the cascading water.</p>
+  </div>]]></description>
+        <styleUrl>#style_7</styleUrl>
+        <Point>
+          <coordinates>-19.4800,63.5280,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laufskálavarða Stone Cairn Field</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Cultural</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Ancient Viking tradition site where travelers build stone cairns for good luck. Stunning landscape of hundreds of small rock towers against black sand with mountain backdrop.</p>
+  </div>]]></description>
+        <styleUrl>#style_4</styleUrl>
+        <Point>
+          <coordinates>-18.4860,63.5370,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lava Show in Vík</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">☔ Rainy Day</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Lava Show in Vík, the world's only exhibition where real molten lava is created indoors, allowing you to safely experience the heat, glow, and power of a volcanic eruption.</p>
+  </div>]]></description>
+        <styleUrl>#style_5</styleUrl>
+        <Point>
+          <coordinates>-19.0060,63.4186,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mýrdalsjökull Snowmobile Tour</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">❄️ Ice Adventure</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Race across Iceland's fourth-largest glacier on a guided snowmobile tour offering spectacular views of the south coast and interior highlands. No experience necessary.</p>
+  </div>]]></description>
+        <styleUrl>#style_6</styleUrl>
+        <Point>
+          <coordinates>-19.3693,63.5324,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Private Super Jeep Tour to Þórsmörk</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">⭐ Premium Experience</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Explore the hidden valley of Þórsmörk (Thor's Valley) in a private super jeep tour, crossing unbridged rivers and rugged terrain to reach this lush oasis surrounded by glaciers, mountains, and volcanic landscapes.</p>
+  </div>]]></description>
+        <styleUrl>#style_7</styleUrl>
+        <Point>
+          <coordinates>-19.5068,63.6810,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reynisfjall Mountain Hike</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A <strong>challenging</strong> 2-hour climb to the summit provides eagle-eye views over Reynisfjara Beach, the Reynisdrangar sea stacks, and on clear days, the Vestmannaeyjar islands.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-19.0360,63.4145,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reynisfjara Black Sand Beach</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌈 Natural Wonder</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Famous black sand beach featuring striking basalt columns and sea stacks. Be extremely cautious of sneaker waves - never turn your back to the ocean and stay at least 20-30 feet from the water's edge, even on calm days.</p>
+  </div>]]></description>
+        <styleUrl>#style_8</styleUrl>
+        <Point>
+          <coordinates>-19.0662,63.4042,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seljalandsfoss Waterfall</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌈 Natural Wonder</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This 200-foot waterfall plunges over an ancient sea cliff, creating the rare opportunity to walk behind a waterfall. The pathway behind the falls offers a unique perspective and unforgettable experience, though be prepared to get wet! Nearby, don't miss the hidden waterfall Gljúfrabúi tucked inside a canyon.</p>
+  </div>]]></description>
+        <styleUrl>#style_8</styleUrl>
+        <Point>
+          <coordinates>-19.9885,63.6156,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seljavallalaug Mountain Pool</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">♨️ Hot Spring</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Swim in this 1923 pool built into a mountainside and fed by natural hot springs. The 25-meter pool is one of Iceland's oldest and offers stunning views of the surrounding mountains.</p>
+  </div>]]></description>
+        <styleUrl>#style_9</styleUrl>
+        <Point>
+          <coordinates>-19.6080,63.5580,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skógafoss Waterfall</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌈 Natural Wonder</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">One of Iceland's biggest and most beautiful waterfalls, Skógafoss drops 200 feet creating constant rainbows on sunny days. Climb the 527 steps to the viewing platform at the top for panoramic views of the coastline and highlands.</p>
+  </div>]]></description>
+        <styleUrl>#style_8</styleUrl>
+        <Point>
+          <coordinates>-19.5114,63.5320,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skógar Folk Museum</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Cultural</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Displaying traditional Icelandic turf houses and artifacts that provide insight into how Icelanders lived through the centuries. Visit the café for lunch options.</p>
+  </div>]]></description>
+        <styleUrl>#style_4</styleUrl>
+        <Point>
+          <coordinates>-19.5020,63.5270,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skógar Museum Deep Dive</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Museum</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This extensive folk museum deserves more time than most visitors give it. The three museum sections and 40 historical buildings provide hours of Icelandic cultural immersion perfect for stormy days.</p>
+  </div>]]></description>
+        <styleUrl>#style_10</styleUrl>
+        <Point>
+          <coordinates>-19.5020,63.5270,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skógárheiði Highland Path</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This 4-6 km out-and-back path passes over 20 additional waterfalls most tourists never see. This trail follows the ancient Fimmvörðuháls route with panoramic views of glaciers and coastline without needing glacier equipment.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-19.4700,63.5320,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sólheimajökull Glacier Hike</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏞️ Outdoor Recreation</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Guided glacier hike on Sólheimajökull, an outlet glacier of Mýrdalsjökull ice cap, where you'll traverse blue ice, see unique ice formations, and learn about glacial geology. (Tour booking required)</p>
+  </div>]]></description>
+        <styleUrl>#style_11</styleUrl>
+        <Point>
+          <coordinates>-19.3693,63.5324,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sólheimajökull Glacier Walk</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">❄️ Ice Adventure</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Join a guided walk on this accessible glacier tongue with dramatic ice formations. Learn about glacial geology climate change and proper ice-hiking techniques with crampons and ice axes.</p>
+  </div>]]></description>
+        <styleUrl>#style_6</styleUrl>
+        <Point>
+          <coordinates>-19.3693,63.5324,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thakgil Hiking Area</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">💎 Hidden Gem</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Beautiful canyons and green valleys perfect for hiking, with stunning scenery that few tourists visit.</p>
+  </div>]]></description>
+        <styleUrl>#style_7</styleUrl>
+        <Point>
+          <coordinates>-19.0700,63.5500,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Barn Norðurfoss</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏨 Lodging</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This rustic and charming hostel-style accommodation is housed in a converted barn, providing a cozy and authentic Icelandic experience. The property features communal spaces where you can mingle with other travelers, and the surrounding landscape offers beautiful mountain vistas.</p>
+  </div>]]></description>
+        <styleUrl>#style_12</styleUrl>
+        <Point>
+          <coordinates>-18.0500,63.7800,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vík Wool Factory</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🛍️ Shopping</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Visit Iceland's largest wool factory store to see how traditional Icelandic sweaters are made. The store offers everything from raw wool to finished garments at better prices than Reykjavík.</p>
+  </div>]]></description>
+        <styleUrl>#style_13</styleUrl>
+        <Point>
+          <coordinates>-19.0060,63.4186,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vikurfjara Black Sand Beach</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌈 Natural Wonder</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This dramatic black sand beach offers the same stunning volcanic landscape as its more famous neighbor Reynisfjara, but with fewer crowds. The stark contrast between the black sand and crashing white waves creates a hauntingly beautiful scene, perfect for photography.</p>
+  </div>]]></description>
+        <styleUrl>#style_8</styleUrl>
+        <Point>
+          <coordinates>-19.0200,63.4200,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zipline Adventure Vík</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #e8f5e9; border: 1px solid #81c784; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏞️ Outdoor Recreation</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Soar over dramatic black sand beaches and volcanic landscapes on Iceland's longest zipline course featuring five separate lines ranging from 100-240 meters in length.</p>
+  </div>]]></description>
+        <styleUrl>#style_11</styleUrl>
+        <Point>
+          <coordinates>-19.0060,63.4186,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="style_0">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_1">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_2">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/scenic.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_3">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/volcano.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_4">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/arts.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_5">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/rainy.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_6">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/snowflake_simple.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_7">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_8">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_9">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_10">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/museum.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_11">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/trail.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_12">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/lodging.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_13">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>

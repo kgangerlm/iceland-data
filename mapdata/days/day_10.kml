@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Folder>
+      <name>Day 10</name>
+      <Placemark>
+        <name>Glymur Waterfall Hike</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A <strong>challenging</strong> 3-4 hour round trip hike to what was long considered Iceland's tallest waterfall (196m). The trail involves crossing a river on a log with a cable handrail, traversing steep terrain, and navigating through a cave, but rewards with spectacular gorge views.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-21.2673,64.3915,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guðlaug Hot Pools</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">♨️ Hot Spring</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">These architecturally stunning double-tiered public hot pools are built right into the coastline. The upper pool feeds into the lower one, creating two different temperatures. Enjoy ocean views and sunset colors while soaking in the geothermal waters.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-22.0753,64.3135,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hótel Húsafell</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏨 Lodging</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This upscale hotel is set amidst a picturesque landscape of lava fields, glaciers, and forests. The eco-friendly design features geothermal energy and artworks by renowned Icelandic artist Páll Guðmundsson. Enjoy the outdoor geothermal pools and on-site restaurant serving farm-to-table cuisine.</p>
+  </div>]]></description>
+        <styleUrl>#style_2</styleUrl>
+        <Point>
+          <coordinates>-20.8731,64.6991,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Húsafell Hiking Trails</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Explore the network of well-marked <strong>easy to moderate</strong> hiking trails through this unusually lush area of Iceland. Routes feature birch woodlands, lava formations, crystal clear streams, and dramatic ravines with opportunities to spot Arctic foxes and rich birdlife.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-20.8731,64.6991,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Into The Glacier Tour</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">❄️ Ice Adventure</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Experience the world's largest man-made ice tunnel, dug 300 meters into Langjökull glacier. The tour begins with a monster truck ride across the glacier surface before descending into chambers and corridors cut directly into the blue ice, revealing the glacier's inner structure and history.</p>
+  </div>]]></description>
+        <styleUrl>#style_3</styleUrl>
+        <Point>
+          <coordinates>-20.1521,64.6665,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krauma Geothermal Baths</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">♨️ Hot Spring</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">These modern thermal baths use water from Europe's most powerful hot spring, Deildartunguhver, mixed with glacial water to achieve the perfect temperature. Facilities include five hot pools, a cold plunge pool, steam rooms, and a relaxation room with fireplace.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-21.2883,64.6662,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reykjavík Whale Watching</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🦊 Wildlife</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Join a 3-hour boat tour from Reykjavík harbor to spot minke whales, harbor porpoises, and white-beaked dolphins in Faxaflói Bay. The operators offer warm overalls to keep you comfortable and have a high sighting success rate from April to October.</p>
+  </div>]]></description>
+        <styleUrl>#style_4</styleUrl>
+        <Point>
+          <coordinates>-21.9327,64.1505,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Settlement Exhibition</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Cultural</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This underground museum is built around the archaeological remains of a Viking longhouse from around 871 AD. Interactive displays show what life was like during the settlement era of Iceland using cutting-edge technology.</p>
+  </div>]]></description>
+        <styleUrl>#style_5</styleUrl>
+        <Point>
+          <coordinates>-21.9422,64.1465,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Þingvellir Silfra Snorkeling</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏞️ Outdoor Recreation</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Snorkel between the North American and Eurasian tectonic plates in crystal-clear glacial water with over 100 meters of visibility. The water remains a constant 2-4°C year-round, but dry suits keep you comfortable while floating through this otherworldly underwater landscape.</p>
+  </div>]]></description>
+        <styleUrl>#style_6</styleUrl>
+        <Point>
+          <coordinates>-21.1299,64.2559,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="style_0">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_1">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_2">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/lodging.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_3">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/snowflake_simple.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_4">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_5">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/arts.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_6">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/trail.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>

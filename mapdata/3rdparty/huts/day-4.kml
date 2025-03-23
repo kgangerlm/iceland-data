@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Day 4 Points of Interest</name>
+    <Style id="icon-1603-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-4E342E-normal">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-4E342E-highlight">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-757575-normal">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-757575-highlight">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-4E342E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-4E342E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-4E342E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-757575">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-757575-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-757575-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Sk&#225;lar Fer&#240;af&#233;lags &#205;slands</name>
+      <Placemark>
+        <name>Hl&#246;&#240;uvellir - F&#205;</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVRNZ3aZBpj4oe8Zu-f3XaJ0sqet0-lHWWY9mEmVoRZproNWmJmu5BRj-9sc1yImh1VEcLwItYYr_AHyYCENIT7Zs44mmnBC8RyFAG2-NXm5ic3EHljYneEk4Pu8xXBZ7x7nfSH-pROk11D_YjzGiH9iTTypf1yYJZTQ7loRrjk-9zp5nFsT0RDEZHlQJQfZwp2ZOjY_2RE6Q?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;S&amp;#230;luh&amp;#250;si&amp;#240; &amp;#225; Hl&amp;#246;&amp;#240;uv&amp;#246;llum undir Hl&amp;#246;&amp;#240;ufelli h&amp;#253;sir 15 manns &amp;#237; kojum.&lt;br&gt;&lt;br&gt;Gengi&amp;#240; er inn &amp;#237; st&amp;#243;rt anddyri &amp;#254;ar sem gott pl&amp;#225;ss er til a&amp;#240; hengja upp f&amp;#246;t. &amp;#222;a&amp;#240;an er gengi&amp;#240; inn &amp;#237; opi&amp;#240; r&amp;#253;mi sem skiptist &amp;#237; eldh&amp;#250;s og sal me&amp;#240; tv&amp;#237;brei&amp;#240;um kojum, langbor&amp;#240;i og bekkjum.&amp;#160; https://www.fi.is/is/skalar/skalar-ferdafelags-islands/hloduvellir&amp;#160;</description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVRNZ3aZBpj4oe8Zu-f3XaJ0sqet0-lHWWY9mEmVoRZproNWmJmu5BRj-9sc1yImh1VEcLwItYYr_AHyYCENIT7Zs44mmnBC8RyFAG2-NXm5ic3EHljYneEk4Pu8xXBZ7x7nfSH-pROk11D_YjzGiH9iTTypf1yYJZTQ7loRrjk-9zp5nFsT0RDEZHlQJQfZwp2ZOjY_2RE6Q?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -20.55645,64.3985166666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hagavatn - F&#205;</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWJ2g3Mqg0_IZzSSnGoKUIiCEwB9UsVD7OAijHqU_6Lusfhmn7ojhXJeWy9bad75G-mO2SEpEUVI9hJBb3HkwJUFBB9viezoxpLzDPuoesysmZjEZTEVJf7Amren4gXUqshq8TML3wC-aYPwg8r3tmtKbwQO-4EBQtsQ1LnmuySS28vRW3dlCZOFoN-2lcnuuPwOEvq1bRzGp4?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;G&amp;#246;ngusk&amp;#225;linn undir Einifelli vi&amp;#240; Hagavatn er l&amp;#237;till en huggulegur sk&amp;#225;li.&lt;br&gt;&lt;br&gt;Komi&amp;#240; er inn &amp;#237; opi&amp;#240; anddyri og stigi&amp;#240; upp &amp;#225; pall me&amp;#240; kojum til sitt hvorrar handar og bor&amp;#240;i &amp;#225; milli. L&amp;#237;ti&amp;#240; opi&amp;#240; svefnloft er yfir h&amp;#225;lfum sk&amp;#225;lanum. 6 manns geta sofi&amp;#240; &amp;#237; kojunum og 6 manns &amp;#225; svefnloftinu en &amp;#254;&amp;#225; er &amp;#254;r&amp;#246;ngt legi&amp;#240;.&amp;#160;&amp;#160;https://www.fi.is/is/skalar/skalar-ferdafelags-islands/hagavatn&amp;#160;</description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWJ2g3Mqg0_IZzSSnGoKUIiCEwB9UsVD7OAijHqU_6Lusfhmn7ojhXJeWy9bad75G-mO2SEpEUVI9hJBb3HkwJUFBB9viezoxpLzDPuoesysmZjEZTEVJf7Amren4gXUqshq8TML3wC-aYPwg8r3tmtKbwQO-4EBQtsQ1LnmuySS28vRW3dlCZOFoN-2lcnuuPwOEvq1bRzGp4?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -20.245,64.4626666666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hv&#237;t&#225;rnes</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUkmoOOjeqoFg_3i2J6OBpkgZ1NYgI3uVpoUKZNtzUZq0Dz_S0d86ArOusyJpuJAYqTw1yw2zNkMgolRyTAbNrO29-hSZXbsERk5qR_EJB5258MdvmkXCbc_n-d51oRsgCJvg8iaXy0-I02fPCOMiGnGMdQ9vMNRV2t0Ec2vZpOD7DbK_CgBDWPLaU8x3uJilJSI9qNTCDAeg?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;S&amp;#230;luh&amp;#250;si&amp;#240; &amp;#237; Hv&amp;#237;t&amp;#225;rnesi er elsti sk&amp;#225;li Fer&amp;#240;af&amp;#233;lags &amp;#205;slands. H&amp;#250;si&amp;#240; er reist 1930 og er byggingin fri&amp;#240;u&amp;#240;.&lt;br&gt;&lt;br&gt;Sk&amp;#225;linn er &amp;#225; tveimur h&amp;#230;&amp;#240;um og &amp;#254;ar geta 30 manns sofi&amp;#240;. &amp;#193; ne&amp;#240;ri h&amp;#230;&amp;#240;inni er anddyri, l&amp;#237;ti&amp;#240; og &amp;#254;r&amp;#246;ngt eldh&amp;#250;s og tv&amp;#246; herbergi me&amp;#240; kojum. &amp;#193; efri h&amp;#230;&amp;#240;inni er svefnloft me&amp;#240; d&amp;#253;num &amp;#225; g&amp;#243;lfinu og l&amp;#237;ti&amp;#240; herbergi me&amp;#240; d&amp;#253;num.&amp;#160; https://www.fi.is/is/skalar/skalar-ferdafelags-islands/hvitarnes&amp;#160;</description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUkmoOOjeqoFg_3i2J6OBpkgZ1NYgI3uVpoUKZNtzUZq0Dz_S0d86ArOusyJpuJAYqTw1yw2zNkMgolRyTAbNrO29-hSZXbsERk5qR_EJB5258MdvmkXCbc_n-d51oRsgCJvg8iaXy0-I02fPCOMiGnGMdQ9vMNRV2t0Ec2vZpOD7DbK_CgBDWPLaU8x3uJilJSI9qNTCDAeg?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -19.7565666666667,64.6167833333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>N&#253;idalur - F&#205;</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXIv2-SjXLkeA2vDsDsx-FurTjbwV8T1dOPn36sLD7fgPKPOqqOaP0YhvpNafKEhx9ZP_cIad0XsPjkImh5FRzDzLhPBuU7bp1NNcb_g1BiT0EX2oMxHR32_x78Q71w9Flp7rp4-HvqjJ7mLN8Raz7oS3pVk6TeN-hzJFCUuXxOaw7jYqT9eXIwvn6GOgh8PowDcFt3DNpE6Q?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;&amp;#205; N&amp;#253;jadal &amp;#225; Sprengisandi eru tv&amp;#246; s&amp;#230;luh&amp;#250;s og alls eru &amp;#254;ar gistir&amp;#253;mi fyrir 54 manns.&lt;br&gt;&lt;br&gt;Sk&amp;#225;larnir tveir eru &amp;#225; tveimur h&amp;#230;&amp;#240;um og eru svipa&amp;#240; uppbygg&amp;#240;ir. &amp;#193; jar&amp;#240;h&amp;#230;&amp;#240; er anddyri, vel b&amp;#250;i&amp;#240; eldh&amp;#250;s og gistisalur me&amp;#240; kojum. &amp;#193; efri h&amp;#230;&amp;#240;inni eru svo svefnloft. Sk&amp;#225;larnir eru ol&amp;#237;ukynntir.&amp;#160; https://www.fi.is/is/skalar/skalar-ferdafelags-islands/nyidalur&amp;#160;</description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXIv2-SjXLkeA2vDsDsx-FurTjbwV8T1dOPn36sLD7fgPKPOqqOaP0YhvpNafKEhx9ZP_cIad0XsPjkImh5FRzDzLhPBuU7bp1NNcb_g1BiT0EX2oMxHR32_x78Q71w9Flp7rp4-HvqjJ7mLN8Raz7oS3pVk6TeN-hzJFCUuXxOaw7jYqT9eXIwvn6GOgh8PowDcFt3DNpE6Q?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -18.0725,64.7355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>&#222;j&#243;fadalir - F&#205;</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAX6udaqD4cAQR4ts-dF16wdF373kpi3nrElFjjmvYOVQApUfn0xnO92c7taxBXCvhh-YIbzgO2bM7rtGIlfdP1u0TASf-w0FxSIBJ_dXupTl55l0cathrockQuQ8-XHqc9XnxYLDjOnVvzkD1fQl9nHLjxO8tMThNoT-0gbVZ_IW98J5JEom-miMlq4KVEPG_51A3xuV-b5Gjs?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Sk&amp;#225;linn &amp;#237; &amp;#222;j&amp;#243;fad&amp;#246;lum er l&amp;#237;ti&amp;#240; s&amp;#230;luh&amp;#250;s reist sumari&amp;#240; 1939.&lt;br&gt;&lt;br&gt;Gengi&amp;#240; er inn &amp;#237; anddyri sem h&amp;#253;sir eldh&amp;#250;sa&amp;#240;st&amp;#246;&amp;#240;una og &amp;#254;a&amp;#240;an inn &amp;#237; l&amp;#237;tinn svefnsk&amp;#225;la me&amp;#240; kojum til sitt hvorrar handar. Fyrir ofan h&amp;#225;lfan sk&amp;#225;lann er svo l&amp;#237;ti&amp;#240; svefnloft. Alls geta 12 manns sofi&amp;#240; &amp;#237; sk&amp;#225;lanum en &amp;#254;&amp;#225; er &amp;#254;r&amp;#246;ngt legi&amp;#240;.&amp;#160;&amp;#160;https://www.fi.is/is/skalar/skalar-ferdafelags-islands/thjofadalir&amp;#160;&amp;#160;</description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAX6udaqD4cAQR4ts-dF16wdF373kpi3nrElFjjmvYOVQApUfn0xnO92c7taxBXCvhh-YIbzgO2bM7rtGIlfdP1u0TASf-w0FxSIBJ_dXupTl55l0cathrockQuQ8-XHqc9XnxYLDjOnVvzkD1fQl9nHLjxO8tMThNoT-0gbVZ_IW98J5JEom-miMlq4KVEPG_51A3xuV-b5Gjs?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -19.7085,64.815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>&#222;verbrekknam&#250;li - F&#205;</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAU4a5T9UY2BAmhsW6Gq8P1eWLq2Tw0H1vXVRIZPDwrAPW1V47Zsg0UobNrtrp3hLyAzmAG94JcKV5eZMS6g4PVmUVdnmdVZmpBP6bmROeL4ioEXFgpEb1pb1Cal81bH3qow-tmlZAe8gGg46mpjrQW435eEBNw3OlXq48IW01pKBt_rqfZk3ew0QbOqWwXWn8joJT3hUJE_bQ?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;S&amp;#230;luh&amp;#250;si&amp;#240; &amp;#237; &amp;#222;verbrekknam&amp;#250;la er hl&amp;#253;legur sk&amp;#225;li &amp;#254;ar sem 20 manns geta sofi&amp;#240; &amp;#237; 10 tv&amp;#237;brei&amp;#240;um kojum.&lt;br&gt;&lt;br&gt;Gengi&amp;#240; er inn &amp;#237; anddyri og &amp;#254;a&amp;#240;an inn &amp;#237; opi&amp;#240; r&amp;#253;mi sem h&amp;#253;sir b&amp;#230;&amp;#240;i svefna&amp;#240;st&amp;#246;&amp;#240;una og eldh&amp;#250;si&amp;#240;. Langbor&amp;#240; og st&amp;#243;lar eru &amp;#237; mi&amp;#240;ju r&amp;#253;misins.&amp;#160; &amp;#160;https://www.fi.is/is/skalar/skalar-ferdafelags-islands/thverbrekknamuli&amp;#160;</description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAU4a5T9UY2BAmhsW6Gq8P1eWLq2Tw0H1vXVRIZPDwrAPW1V47Zsg0UobNrtrp3hLyAzmAG94JcKV5eZMS6g4PVmUVdnmdVZmpBP6bmROeL4ioEXFgpEb1pb1Cal81bH3qow-tmlZAe8gGg46mpjrQW435eEBNw3OlXq48IW01pKBt_rqfZk3ew0QbOqWwXWn8joJT3hUJE_bQ?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -19.6143333333333,64.7183333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Sk&#225;lar deilda F&#205;</name>
+      <Placemark>
+        <name>Sigur&#240;arsk&#225;li &#237; Kverkfj&#246;llum - Fer&#240;af&#233;lag Flj&#243;tsdalsh&#233;ra&#240;s</name>
+        <description>Fj&amp;#246;ldi: 75 manns&lt;br&gt;https://www.ferdaf.is/index.php/skalar</description>
+        <styleUrl>#icon-1603-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            -16.6315,64.7475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Geldingafell - Fer&#240;af&#233;lag Flj&#243;tsdalsh&#233;ra&#240;s</name>
+        <description>Fj&amp;#246;ldi: 16 manns&lt;br&gt;https://www.ferdaf.is/index.php/skalar</description>
+        <styleUrl>#icon-1603-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            -15.3615,64.6948333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Egilssel - Fer&#240;af&#233;lag Flj&#243;tsdalsh&#233;ra&#240;s</name>
+        <description>Fj&amp;#246;ldi: 22 manns&lt;br&gt;https://www.ferdaf.is/index.php/skalar</description>
+        <styleUrl>#icon-1603-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            -15.1458333333334,64.6113333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>M&#250;lask&#225;li &#225; L&#243;ns&#246;r&#230;fum -&#160;Fer&#240;af&#233;lag Austur-Skaftfellinga</name>
+        <description>Fj&amp;#246;ldi: 30 manns&lt;br&gt;https://gonguferdir.is/mulaskali/</description>
+        <styleUrl>#icon-1603-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            -15.1512833333334,64.5533166666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leir&#225;s &#237; M&#250;ladal -&#160;Fer&#240;af&#233;lag Dj&#250;pavogs</name>
+        <description>Fj&amp;#246;ldi: 6 manns&lt;br&gt;https://www.facebook.com/Ferdafelag-Djupavogs-717222858387079/</description>
+        <styleUrl>#icon-1603-4E342E</styleUrl>
+        <Point>
+          <coordinates>
+            -14.9628666666666,64.6508833333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

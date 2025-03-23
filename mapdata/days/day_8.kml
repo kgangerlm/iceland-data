@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Folder>
+      <name>Day 8</name>
+      <Placemark>
+        <name>Akureyri Botanical Garden</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌿 Nature</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">The world's northernmost botanical garden contains over 400 native Arctic plants and 7,000 foreign species. Located just south of the Arctic Circle, it demonstrates what careful cultivation can achieve in harsh climates.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-18.0931,65.6735,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Akureyri Church</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Architecture</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This iconic Lutheran church stands at the center of Iceland's second city. The distinctive staircase creates an optical illusion making the church appear to float above the town. Beautiful stained glass windows inside.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-18.0900,65.6800,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glaumbær Turf Houses</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Cultural</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">One of Iceland's best-preserved turf farm complexes dating from the 18th and 19th centuries. Explore how Icelanders lived for centuries, with beds built into walls and turf providing excellent insulation.</p>
+  </div>]]></description>
+        <styleUrl>#style_2</styleUrl>
+        <Point>
+          <coordinates>-19.8396,65.6129,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hjalteyri Whale Watching</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #e8f5e9; border: 1px solid #81c784; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🦊 Wildlife</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This small village offers intimate whale watching tours in Eyjafjörður, Iceland's longest fjord. Humpbacks are common in summer, and the fjord setting creates calmer waters than ocean tours.</p>
+  </div>]]></description>
+        <styleUrl>#style_3</styleUrl>
+        <Point>
+          <coordinates>-18.1900,65.8500,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hraunfossar Waterfalls</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌈 Natural Wonder</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A series of beautiful waterfalls streaming over a distance of 900 meters out of a lava field. Rather than falling from a cliff, the water seeps through porous lava rock, creating a unique curtain of rivulets stretching along the Hvítá River.</p>
+  </div>]]></description>
+        <styleUrl>#style_4</styleUrl>
+        <Point>
+          <coordinates>-20.9777,64.7013,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Icelandic Horse Farm Visit</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🐎 Horseback Riding</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Experience the unique Icelandic horse with its special fifth gait called 'tölt'. These small, sturdy horses have been bred in isolation since the Viking age, making them one of the purest horse breeds in the world.</p>
+  </div>]]></description>
+        <styleUrl>#style_5</styleUrl>
+        <Point>
+          <coordinates>-19.3500,65.4950,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laugarbakki Hotel</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏨 Lodging</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Modern hotel in northwest Iceland with comfortable rooms and an on-site restaurant serving local cuisine. Located near the Icelandic Seal Center and the Vatnsnes Peninsula, making it an ideal base for exploring the region.</p>
+  </div>]]></description>
+        <styleUrl>#style_6</styleUrl>
+        <Point>
+          <coordinates>-21.1887,65.2830,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fosslaug Hot Spring</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">♨️ Hot Spring</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A natural hot spring right next to a waterfall, allowing you to adjust the temperature by moving closer to or farther from the cold river water. This hidden gem requires a short hike but rewards with stunning views and often solitude.</p>
+  </div>]]></description>
+        <styleUrl>#style_7</styleUrl>
+        <Point>
+          <coordinates>-19.5887,65.4807,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grábrók Crater</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">An <strong>easy</strong> 30-minute hike up a volcanic crater right off the Ring Road. Wooden steps lead to the rim where you'll enjoy 360° views of the surrounding lava fields and mountains. Perfect short stop to break up a driving day.</p>
+  </div>]]></description>
+        <styleUrl>#style_8</styleUrl>
+        <Point>
+          <coordinates>-21.5292,64.8004,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="style_0">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/parks.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_1">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/landmark.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_2">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/arts.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_3">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_4">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_5">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/horsebackriding.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_6">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/lodging.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_7">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_8">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>

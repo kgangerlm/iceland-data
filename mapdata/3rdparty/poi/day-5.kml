@@ -1,0 +1,2556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Day 5 Points of Interest</name>
+    <Style id="icon-1027-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1027-biz-gas.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1027-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1027-biz-gas.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1027-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1027-biz-gas.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1027-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1027-biz-gas.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1085-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1085-biz-restaurant-generic.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1085-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1085-biz-restaurant-generic.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1085-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1085-biz-restaurant-generic.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1085-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1085-biz-restaurant-generic.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1087-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1087-biz-restaurant-icecream.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1087-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1087-biz-restaurant-icecream.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1125-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1125-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1125-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1125-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1197-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1197-fac-headquarters.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1197-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1197-fac-headquarters.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1197-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1197-fac-headquarters.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1197-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1197-fac-headquarters.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1201-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1201-fac-info-alt.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1201-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1201-fac-info-alt.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1257-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1257-poi-government.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1257-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1257-poi-government.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1273-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1273-poi-japanese-cemetery.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1273-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1273-poi-japanese-cemetery.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1273-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1273-poi-japanese-cemetery.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1273-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1273-poi-japanese-cemetery.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1313-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1313-poi-religious-buddhist-zen.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1313-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1313-poi-religious-buddhist-zen.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1375-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1375-rec-kayak.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1375-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1375-rec-kayak.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1377-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1377-rec-mountain.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1377-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1377-rec-mountain.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1391-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1391-rec-spa.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1391-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1391-rec-spa.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1391-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1391-rec-spa.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1391-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1391-rec-spa.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1417-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1417-trans-airport.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1417-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1417-trans-airport.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1417-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1417-trans-airport.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1417-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1417-trans-airport.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1419-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1419-trans-bicycle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1419-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1419-trans-bicycle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1429-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1429-trans-car-ferry.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1429-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1429-trans-car-ferry.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1429-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1429-trans-car-ferry.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1429-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1429-trans-car-ferry.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1457-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1457-trans-taxi.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1457-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1457-trans-taxi.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1457-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1457-trans-taxi.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1457-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1457-trans-taxi.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-3F5BA9-normal">
+      <IconStyle>
+        <color>ffa95b3f</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-3F5BA9-highlight">
+      <IconStyle>
+        <color>ffa95b3f</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-959-3F5BA9-normal">
+      <IconStyle>
+        <color>ffa95b3f</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-3F5BA9-highlight">
+      <IconStyle>
+        <color>ffa95b3f</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-A61B4A-normal">
+      <IconStyle>
+        <color>ff4a1ba6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-A61B4A-highlight">
+      <IconStyle>
+        <color>ff4a1ba6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-959-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-959-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-960-3F5BA9-normal">
+      <IconStyle>
+        <color>ffa95b3f</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-960-3F5BA9-highlight">
+      <IconStyle>
+        <color>ffa95b3f</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-960-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-960-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-961-3F5BA9-normal">
+      <IconStyle>
+        <color>ffa95b3f</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-961-3F5BA9-highlight">
+      <IconStyle>
+        <color>ffa95b3f</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-961-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-961-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-961-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-961-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-987-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/987-biz-business-generic.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-987-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/987-biz-business-generic.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-987-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/987-biz-business-generic.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-987-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/987-biz-business-generic.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-991-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/991-biz-cafe.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-991-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/991-biz-cafe.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-991-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/991-biz-cafe.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-991-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/991-biz-cafe.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1027">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1027-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1027-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1027-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1027-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1027-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1085">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1085-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1085-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1085-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1085-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1085-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1087-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1087-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1087-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1125">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1125-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1125-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1125-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1125-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1125-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1197">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1197-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1197-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1197-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1197-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1197-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1201">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1201-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1201-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1257">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1257-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1257-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1273">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1273-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1273-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1273-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1273-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1273-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1313">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1313-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1313-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1375">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1375-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1375-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1377">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1377-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1377-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1391">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1391-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1391-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1391-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1391-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1391-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1417">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1417-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1417-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1417-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1417-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1417-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1419">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1419-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1419-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1429">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1429-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1429-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1429-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1429-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1429-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1457">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1457-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1457-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1457-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1457-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1457-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-503-3F5BA9">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-3F5BA9-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-3F5BA9-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-503-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-959-3F5BA9">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-3F5BA9-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-3F5BA9-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-959-A61B4A">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-A61B4A-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-A61B4A-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-959-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-959-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-959-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-959-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-960-3F5BA9">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-3F5BA9-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-3F5BA9-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-960-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-961-3F5BA9">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-961-3F5BA9-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-961-3F5BA9-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-961-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-961-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-961-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-961-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-961-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-961-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-987">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-987-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-987-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-987-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-987-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-987-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-991">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-991-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-991-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-991-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-991-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-991-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Points of Interest</name>
+      <Placemark>
+        <name>House On The Hill - Guesthouse</name>
+        <description>Quite pricey for the price -- we paid $200+ for a room with shared bath and no breakfast in summer 2017. It's very clean and the common area is nice. Great view from the house!&amp;#160;</description>
+        <styleUrl>#icon-1197</styleUrl>
+        <Point>
+          <coordinates>
+          -15.20584,64.255012,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stokksnes</name>
+        <description>&lt;img src="https://lh3.googleusercontent.com/umsh/AN6v0v5PfLbQcMuJH22MPBrIjAGo2xYzrhW6mt2Avf--YHls5kEWamHnXU2Fr7dRqa2xQeQo4pTQUY_EtZ0bepIwDMKZmwe-9-y6ugSuicuEvX9gDhgvgW8wc3Pr8zT1e-7MjLl3" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;* better when there is some snow&lt;br&gt;&lt;br&gt;Stokksnes is not far from the town of H&amp;#246;fn and it has an amazing black ash beach, with stunning golden sand dunes that are enhanced within the low light conditions of the golden hours. It&amp;#8217;s a very special place for anyone, and more so for any landscape photographer whether you&amp;#8217;re a amateur or a pro. The mountain in the background is called "Vesturhorn"&lt;br&gt;&lt;br&gt;I have a passion for mountains and drama within my photography, so coming to a place like Stokksnes ticks all the boxes for me. I love being with nature as I feel comfortable taking pics of it whilst also enjoying the view I see within my frame.&lt;br&gt;&lt;br&gt;The hypnotising sound of the ocean as the waves crash against the black beach with the wind blowing through the sand dunes is nothing short but, heavenly. The weather can change within minutes, totally transforming the landscape and atmosphere right in front of your eyes.&lt;br&gt;&lt;br&gt;When you arrive here there is a caf&amp;#233; called The Viking Caf&amp;#233; which has a car park. These sand dunes are about 1km down a dirt track which turns into a sandy road. Be careful if you drive down there in a 2-wheel vehicle especially on the sand part. It&amp;#8217;s a lovely walk if the weather is good. I recommend going at sunrise or sunset to capture those great colours these skies can produce.&lt;br&gt;&lt;br&gt;&lt;img src="https://lh3.googleusercontent.com/umsh/AN6v0v7KSGSoQnx1Us8yXIJXjsDQxJawLx4OpZmIklDJZkCjuJfapNQrf0EyMvS70GwR0Nr3lt1tOvRmLWIBE1X7ejlrUbxrQVAGqwK1iXUXvCW0gL61whYZHQhV3iZ7O22HacQc27oG5aA7tR5N5wa99hdqfkUIMI_Cbf0M1MZ19GZsaJD5xbO7TX2ZZkXhlYgmcg" height="200" width="auto" /&gt;</description>
+        <styleUrl>#icon-503-3F5BA9</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v5PfLbQcMuJH22MPBrIjAGo2xYzrhW6mt2Avf--YHls5kEWamHnXU2Fr7dRqa2xQeQo4pTQUY_EtZ0bepIwDMKZmwe-9-y6ugSuicuEvX9gDhgvgW8wc3Pr8zT1e-7MjLl3 https://lh3.googleusercontent.com/umsh/AN6v0v7KSGSoQnx1Us8yXIJXjsDQxJawLx4OpZmIklDJZkCjuJfapNQrf0EyMvS70GwR0Nr3lt1tOvRmLWIBE1X7ejlrUbxrQVAGqwK1iXUXvCW0gL61whYZHQhV3iZ7O22HacQc27oG5aA7tR5N5wa99hdqfkUIMI_Cbf0M1MZ19GZsaJD5xbO7TX2ZZkXhlYgmcg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.9718762,64.2444083,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fosshotel Eastfjords</name>
+        <description>Great value! Ask for room with Fjord view! The town is a bit creepy though! Excellent stay, nonetheless!</description>
+        <styleUrl>#icon-1197</styleUrl>
+        <Point>
+          <coordinates>
+          -14.0009966,64.9266908,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seydisfjordur</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUeziRnze7u_f4fTnd_JypwNfAeEb11kgoe4uSeLCbDyTYaY04JUnFzybMFh-V6xjWXpCvslHaInWVJC7yzAX2lqqggjWP0xGXQYTqJg3DSdqZHvV1lQT0EQKnzcjEuSg8XXDjlu23l-57hp947MuZnCQxahtfxdBMqpVC5xF4CTmCytl5k82SjSaU0IIBnM2K7eR0?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;If you visit only one town in the Eastfjords, this should be it. Made up of multicoloured wooden houses and surrounded by snowcapped mountains and cascading waterfalls, obscenely picturesque Sey&amp;#240;isfj&amp;#246;r&amp;#240;ur is the most historically and architecturally interesting town in east Iceland. It&amp;#8217;s also a friendly place with a community of artists, musicians and craftspeople.&lt;br&gt;Summer is the liveliest time to visit, particularly when the Smyril Line&amp;#8217;s ferry Norr&amp;#246;na sails majestically up the 17km-long fjord to the town &amp;#8211; a perfect way to arrive in Iceland.&lt;br&gt;If the weather&amp;#8217;s good, the scenic Rte 93 drive from Egilssta&amp;#240;ir is a delight, climbing to a high pass then descending along the waterfall-filled river Fjar&amp;#240;ar&amp;#225;.&lt;br&gt;&lt;br&gt;&lt;br&gt;Read more: http://www.lonelyplanet.com/iceland/the-east/seydisfjordur/introduction#ixzz430LBvwzE</description>
+        <styleUrl>#icon-959-3F5BA9</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUeziRnze7u_f4fTnd_JypwNfAeEb11kgoe4uSeLCbDyTYaY04JUnFzybMFh-V6xjWXpCvslHaInWVJC7yzAX2lqqggjWP0xGXQYTqJg3DSdqZHvV1lQT0EQKnzcjEuSg8XXDjlu23l-57hp947MuZnCQxahtfxdBMqpVC5xF4CTmCytl5k82SjSaU0IIBnM2K7eR0?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.006854,65.2641236,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hengifoss</name>
+        <description>&lt;img src="https://lh3.googleusercontent.com/umsh/AN6v0v4PKVJY9pr6_AiGfWJq3Mxpru32-sn-kYgfvfMPJXVTBEiFuaKQbyavZA8cQsKBNCRj5q0sPQBKqNqcuIa9IOhAxQSVzXjKZfNkzRX0E_FbxfqR_CTEwv_PqN98SIInfPXDCNsolYEX9DA5U3pkYA" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;The hike took about 40 minutes all the way up but it&amp;#8216;s so worth it! The waterfall is 128 meters high and starts in Hengifoss&amp;#225;r lake. Hengifoss is particularly picturesque and there are visible layers between numerous Tertiary lava strata that yield a reddish colour in the cliffs around the waterfall</description>
+        <styleUrl>#icon-959-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v4PKVJY9pr6_AiGfWJq3Mxpru32-sn-kYgfvfMPJXVTBEiFuaKQbyavZA8cQsKBNCRj5q0sPQBKqNqcuIa9IOhAxQSVzXjKZfNkzRX0E_FbxfqR_CTEwv_PqN98SIInfPXDCNsolYEX9DA5U3pkYA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.8904719,65.095551,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Litlanesfoss</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWwYxeWmBPg4xybisKTZnfufsoYDFFPqFO5ocWRh0MbMasUYi6sxammIRP9oUkBAFQApunFqdUT4OIcYxCnpJ4uh3HzDMfQsghSdLsAQtMo_PRMa9DTvjqKbuWXI9sxXjuCA4UuH2q3wqe_JutiX0b3sR8anfnW2JCmTj-VUA29noXM_KPoAllv9EgXKSYLi6WF_Ki_?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;On the way to Hengifoss you will come across this waterfall</description>
+        <styleUrl>#icon-959-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWwYxeWmBPg4xybisKTZnfufsoYDFFPqFO5ocWRh0MbMasUYi6sxammIRP9oUkBAFQApunFqdUT4OIcYxCnpJ4uh3HzDMfQsghSdLsAQtMo_PRMa9DTvjqKbuWXI9sxXjuCA4UuH2q3wqe_JutiX0b3sR8anfnW2JCmTj-VUA29noXM_KPoAllv9EgXKSYLi6WF_Ki_?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.8840714,65.0838304,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>L&#230;kjav&#237;k Coast</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWCdKlCkdddViGOqLK5_5j6HekRAaLOJaE4eIjT_fJa1KYX2Px7B-Vad4cRWnIMHsbqSEU3I9bimm50P96mybN9JRIXqgznQJkOFdL08TAxAlnQFGkuwG2n_485dq_2KC6qeqYdLxG69q-0WQzgsRZb7rUQXa0MXG9xGZzYa_Dd8ZX2THZicec5BufTgytPfBzbFII?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Wow Factor : 3.5 / 5&lt;br&gt;&lt;br&gt;Steep cliffs and mountains dropping dramatically down the ocean below, endless rocky coastline and some sea stacks -- one of the most scenic Iceland coastline.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWCdKlCkdddViGOqLK5_5j6HekRAaLOJaE4eIjT_fJa1KYX2Px7B-Vad4cRWnIMHsbqSEU3I9bimm50P96mybN9JRIXqgznQJkOFdL08TAxAlnQFGkuwG2n_485dq_2KC6qeqYdLxG69q-0WQzgsRZb7rUQXa0MXG9xGZzYa_Dd8ZX2THZicec5BufTgytPfBzbFII?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.49233899,64.476532,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hengifoss Trailhead</name>
+        <description>Parking is located here</description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+          -14.880599,65.073127,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Langab&amp;#250;&amp;#240; (Museum &amp; Cafe)</name>
+        <description>&lt;img src="https://lh3.googleusercontent.com/umsh/AN6v0v7XA9_vHNa7UteijimZ9nNf85i17Lq9DpGRe3aheq-KdnsXpPqo_D_U6kEujuzg8uBJRwjtfauJMkyWzIDRL8d5lXiubhDuD5LiZ-nmU9ZTJu7KSQ0OV3bYy_fMJtGnIyw4e8sUP6o0BQ82qKMqW_Eu1rO158I" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Good soup, bread, coffee</description>
+        <styleUrl>#icon-1085</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v7XA9_vHNa7UteijimZ9nNf85i17Lq9DpGRe3aheq-KdnsXpPqo_D_U6kEujuzg8uBJRwjtfauJMkyWzIDRL8d5lXiubhDuD5LiZ-nmU9ZTJu7KSQ0OV3bYy_fMJtGnIyw4e8sUP6o0BQ82qKMqW_Eu1rO158I</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.2842006999999,64.6581286,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Neskaupsta&#240;ur</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAX8LfCg-XXbpkAh0GiPydTHdTrZV97Vk4weGM_UIjIRX-PqtM2EkpkLYoulubBUZLKZHDuNib3gDqLTT-8AZvkj0-HF_KuWPLDluL6OEr7yjjNiPcfRgvA6K4JHMEicIqVitlZcbpWn9rCPylEdytECLRTt5OrTX0zb6T1J7UAj_zEnga_X-XoXtT0nrRw-QQ0RJ0A?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Just getting to Neskaupsta&amp;#240;ur feels like a real odyssey. You travel via the highest highway pass (632m) in Iceland, through a nerve-wracking, single-lane, 630m-long tunnel, then drop from the skies like a falcon into town; attempt to drive further east and you simply run out of road. Although it&amp;#8217;s one of the largest of the fjord towns, this dramatic end-of-the-line location makes it feel small and far away from the rest of the world. (This may change when a new 8km tunnel from Eskifj&amp;#246;r&amp;#240;ur opens in 2017, superseding the old route.)&lt;br&gt;As with most towns in the Eastfjords, Neskaupsta&amp;#240;ur began life as a 19th-century trading centre and prospered during the herring boom in the early 20th century. Its future was assured by the building of the biggest fish-processing and freezing plant in Iceland, S&amp;#237;ldarvinnslan (SNV), at the head of the fjord&lt;br&gt;&lt;br&gt;&lt;br&gt;Read more: http://www.lonelyplanet.com/iceland/neskaupstadur-nordfjordur/introduction#ixzz430KS27LH</description>
+        <styleUrl>#icon-959-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAX8LfCg-XXbpkAh0GiPydTHdTrZV97Vk4weGM_UIjIRX-PqtM2EkpkLYoulubBUZLKZHDuNib3gDqLTT-8AZvkj0-HF_KuWPLDluL6OEr7yjjNiPcfRgvA6K4JHMEicIqVitlZcbpWn9rCPylEdytECLRTt5OrTX0zb6T1J7UAj_zEnga_X-XoXtT0nrRw-QQ0RJ0A?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -13.673172,65.1483153,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nord Austur Sushi Bar</name>
+        <description>Fresh fish and good breakfast/lunch too!</description>
+        <styleUrl>#icon-1085</styleUrl>
+        <Point>
+          <coordinates>
+          -13.9983255,65.2616794,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Borgarfj&#246;r&#240;ur Eystri</name>
+        <description>&lt;img src="https://lh3.googleusercontent.com/umsh/AN6v0v7_xTYLI-Id4ujTY3T3HHDBC31APwlyZ-r5VwVAqRpilMo7uytT88HyRmUKkUJ7OKMe0TaX0OQrFK_j_lBXlWtcTXKW7Ig7XgBW9nQfs3ZEDWNM5frQWt90LzgExda1nWz2" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Capital of Elves, Puffins and capital of hiking in the east!&lt;br&gt;&lt;br&gt;Tons of info here:&lt;br&gt;https://www.borgarfjordureystri.is/&lt;br&gt;&lt;br&gt;The Borgarfj&amp;#246;r&amp;#240;ur region, on the coast about 70 km from Egilssta&amp;#240;ir, is known for its great natural beauty. The village has around 100 inhabitants. Borgarfj&amp;#246;r&amp;#240;ur is famous for the good hiking trails named "V&amp;#237;knasl&amp;#243;&amp;#240;ir" leading to the deserted fjords and coves, V&amp;#237;kur, and to Lo&amp;#240;mundarfj&amp;#246;r&amp;#240;ur. The area has become a hiker&amp;#180;s paradise with local people marking numerous trails, comfortable hiking huts and a good hiking-map. The marked trails range from 1 hour to a full day (all in all 170 km long). Borgarfj&amp;#246;r&amp;#240;ur is the home of the Queen of Elves. It is possible to walk to the hill "&amp;#193;lfaborg" - "The Elves&amp;#180;Castle" where the queen of the Icelandic elves allegedly resides with her court. The "&amp;#193;lfacaf&amp;#233;" is worth a visit for trying out the local fish-dishes. A visit to the fish factory as a worthwhile experience or a glance at some of the beautifull handicraft by the local artists. In Borgarfj&amp;#246;r&amp;#240;ur there are excellent facilities for bird-watching, namely a special hide at the harbour from which over twenty species have been sighted at once. At Hafnarh&amp;#243;lmi, located by the fishing harbour, one can enjoy excellent facilities for bird-watching, for instance close-up views of puffins and kittiwakes.&lt;br&gt;&lt;br&gt;Note: I labelled this as "must visit", not for the town itself but for the area in general. It's hiking capital of the Eastfjord!&amp;#160; The drive there and the setting of the town is stunning!&lt;br&gt;&lt;br&gt;&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWR6sPQyCekfGdQn4ku5Z2BpH5zm8kHZ8h9AjqRYOVZkuDEbyk11IyEo-2lyZ1QKY37UkGNzVJx6D6meAR0mVBO4GtdEbGol5vIUL4XnN52MvQ38plzzGe5u51-TQ9kPBqHPvoH9m4UKy_Q7zMvgxyOmJS5VMdzrCZQPhW5wBJZrmDclPUXbXmRKIUopTNjDXf_L_A?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;</description>
+        <styleUrl>#icon-959-3F5BA9</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AN6v0v7_xTYLI-Id4ujTY3T3HHDBC31APwlyZ-r5VwVAqRpilMo7uytT88HyRmUKkUJ7OKMe0TaX0OQrFK_j_lBXlWtcTXKW7Ig7XgBW9nQfs3ZEDWNM5frQWt90LzgExda1nWz2 https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWR6sPQyCekfGdQn4ku5Z2BpH5zm8kHZ8h9AjqRYOVZkuDEbyk11IyEo-2lyZ1QKY37UkGNzVJx6D6meAR0mVBO4GtdEbGol5vIUL4XnN52MvQ38plzzGe5u51-TQ9kPBqHPvoH9m4UKy_Q7zMvgxyOmJS5VMdzrCZQPhW5wBJZrmDclPUXbXmRKIUopTNjDXf_L_A?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -13.8182045,65.5265799,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lo&#240;mundarfj&#246;r&#240;ur</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVW6BsV7unJxqVguIJ4DPuff6j04M9EvCVPlV1olc1J4xLjT1rIkDsrVg4I-qnO7ptiSDStzfwsVVORwq4RQVyAqhBD5qYCrgCt2x4JkClDMmTiLn9GBOvVr1KbznP_ecI6SwEjfXsY5TLzG4YLnySdzwZ5EfTvleXGf9BFQaCXLnkE23osM_fc5HbVKl_LKaQQcNc?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Very beautiful fjord! Access from&amp;#160;&lt;br&gt;Borgarfj&amp;#246;r&amp;#240;ur Eystri from the north (1 hour+ drive or so on rugged road (4WD recommended) from Borgarfj&amp;#246;r&amp;#240;ur Eystri)</description>
+        <styleUrl>#icon-959-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVW6BsV7unJxqVguIJ4DPuff6j04M9EvCVPlV1olc1J4xLjT1rIkDsrVg4I-qnO7ptiSDStzfwsVVORwq4RQVyAqhBD5qYCrgCt2x4JkClDMmTiLn9GBOvVr1KbznP_ecI6SwEjfXsY5TLzG4YLnySdzwZ5EfTvleXGf9BFQaCXLnkE23osM_fc5HbVKl_LKaQQcNc?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -13.8122177,65.3545275,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The New Harbor (Puffins)</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAW9PGoF0350VzLxsjGAC20E5njlNGRQUbBU0sXi9UC0nl7JeCwCNfHD3xkFPxXRiLKovNW47emdZu-ZbdVlMH5ba1YyCbwJz7Zkb3i21c_00ovaoVH7jWVpAuF9tsUrDzK3NCSIiHVP-OTUVPulWSwZcMSsq0bsnpWvISFz90qUIoEa-MhjZv83f6zmbiByk3EMDQ?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;There is the place to watch puffins up close and personal! &amp;#160;No need to take any tours, just drive there, park and walk up to the platform. Bring your binocular and telephoto lenses!&amp;#160; Note there aren't as many puffins as at Latrabjarg or on some other islands but this location is (arguably) more accessible while doing the ring road.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAW9PGoF0350VzLxsjGAC20E5njlNGRQUbBU0sXi9UC0nl7JeCwCNfHD3xkFPxXRiLKovNW47emdZu-ZbdVlMH5ba1YyCbwJz7Zkb3i21c_00ovaoVH7jWVpAuF9tsUrDzK3NCSIiHVP-OTUVPulWSwZcMSsq0bsnpWvISFz90qUIoEa-MhjZv83f6zmbiByk3EMDQ?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -13.75308,65.54149,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viking Cafe</name>
+        <description>Pay to access Stokksness here. (8.000 ISK per person in July 2016). Once you pay, you can drive down to the beach, there is a small parking lot down there (or park on the side of the road).</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+          -14.9933445,64.2549681,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ST&#211;RUR&#208; Hiking (Mt&#160;Dyrfj&#246;ll)</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVFAuQBjbwfVEIq6f1nO501CipC05PAKyuoGMmJlscjg5wNb-lFGX8ZyU8ZsGIrWSHOaHXyQm1SEL20AR2CdZEFY6AnvIoHYSsQnuiTP8mfzlXRhTHfWf6kz4toDNiz4OPoBevb5oAiNF81PDph0fp78KloMNPHkP7DcXxhoyt64uc5LUP6srezMZvpFV1Gc1OlS0g?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;One of East Iceland's most illustrious spots is the St&amp;#243;rur&amp;#240; ("The Giant Boulders"), located to the east of the road leading to Borgarfj&amp;#246;r&amp;#240;ur eystri. St&amp;#243;rur&amp;#240; lies below the small glacier west of Dyrfj&amp;#246;ll mountains. It consists of gigantic tuff boulders, charming meadows and attractive ponds. This wonderful scene can be reached in 2.5 hours (one way) on foot from Vatnsskar&amp;#240; pass. To enjoy Dyrfj&amp;#246;ll and St&amp;#243;rur&amp;#240; a whole day plan is highly recommended.&lt;br&gt;&lt;br&gt;Trail :&amp;#160;http://www.wikiloc.com/wikiloc/view.do?id=10361555&lt;br&gt;&lt;br&gt;Note: when we did this hike in early July 2021, there was still quite a bit of snow on various parts of the trail -- we didn't have cramp on, spikes nor hiking poles which would have helped make the hike a lot easier.&amp;#160;</description>
+        <styleUrl>#icon-960-3F5BA9</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVFAuQBjbwfVEIq6f1nO501CipC05PAKyuoGMmJlscjg5wNb-lFGX8ZyU8ZsGIrWSHOaHXyQm1SEL20AR2CdZEFY6AnvIoHYSsQnuiTP8mfzlXRhTHfWf6kz4toDNiz4OPoBevb5oAiNF81PDph0fp78KloMNPHkP7DcXxhoyt64uc5LUP6srezMZvpFV1Gc1OlS0g?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -13.992429,65.562019,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Island Papey</name>
+        <description>Another great spot for puffin watching that you can get fairly close. The boat tour will dock and you can walk around and get close to puffins. Boat ride is 1 hour each way from Djupivogur.</description>
+        <styleUrl>#icon-959-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+          -14.1706466000001,64.5882843,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eystrahorn&#160;</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUQmUkU7mA6Ja-z7vc1S2bv0xDCFBNq6S2zwienNkW5uMbW-LaKQtAgou_2Dq_p1-0cXxsO6GnkI87CSp1UbQDCXSbaBKvaRf2_x5V7aiZcv2Pi9h6GaMyJhbMcwo14sxR3CJC1uND8PJCv8xiGvwumIw_FWY4VhbvLu2Ah-t_V0nwGPTctMdCmcwgKGRHH0eHNOiI?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;A less popular but equally stunning cousin of Vestrahorn</description>
+        <styleUrl>#icon-959-3F5BA9</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUQmUkU7mA6Ja-z7vc1S2bv0xDCFBNq6S2zwienNkW5uMbW-LaKQtAgou_2Dq_p1-0cXxsO6GnkI87CSp1UbQDCXSbaBKvaRf2_x5V7aiZcv2Pi9h6GaMyJhbMcwo14sxR3CJC1uND8PJCv8xiGvwumIw_FWY4VhbvLu2Ah-t_V0nwGPTctMdCmcwgKGRHH0eHNOiI?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.5465851,64.4113251,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hvalnes Lighthouse</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUPTggK1jXuRGNdRod9t4kvYwWChJd1DTNKcgoJ7m4-f8rKgMKSqQffl0pkPalzhxzRcBGZ1KnC4vxJ1syCfx4mArHakYfxD6ks5oQZAdkHuhFA49xjzvLHM9B_s0mSW6zLCDQ-tYB94BgpyeL76ojFuzkesPyYr32V8XA8YZv06bw1n_bsBWgSQmBgZgpyQj5Ge1rG?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Great spot to stop to take in the view of Eystrahorn</description>
+        <styleUrl>#icon-503-3F5BA9</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUPTggK1jXuRGNdRod9t4kvYwWChJd1DTNKcgoJ7m4-f8rKgMKSqQffl0pkPalzhxzRcBGZ1KnC4vxJ1syCfx4mArHakYfxD6ks5oQZAdkHuhFA49xjzvLHM9B_s0mSW6zLCDQ-tYB94BgpyeL76ojFuzkesPyYr32V8XA8YZv06bw1n_bsBWgSQmBgZgpyQj5Ge1rG?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.5401411,64.4023333,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vestrahorn Mountain</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXHadaQOzKLIfSMRee2JQK2KaC2GyNNdhxjf5GfKPDqo-dMhdL2xyLZOqIOcoBnVOXHjFlaol9d6nzULBG3C9t-LUv3MoAwi7OylXIXV49J9odPsNADwpPOEhh4GWwNJExqhgugk7DlDZTObIs03EONYb3nw34ZOE8soxFD4-vN2q4YqYmRxOTra2KmTko66rwBqh4?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;One of the most photographed mountains in Iceland!</description>
+        <styleUrl>#icon-959-3F5BA9</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXHadaQOzKLIfSMRee2JQK2KaC2GyNNdhxjf5GfKPDqo-dMhdL2xyLZOqIOcoBnVOXHjFlaol9d6nzULBG3C9t-LUv3MoAwi7OylXIXV49J9odPsNADwpPOEhh4GWwNJExqhgugk7DlDZTObIs03EONYb3nw34ZOE8soxFD4-vN2q4YqYmRxOTra2KmTko66rwBqh4?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.9764252,64.2762037,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brunnhorn</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWMULt9Pth-Vp1QSZicdtqU5UKHrRH3XP-DPfcF1J3_UESRDT0pSXCNMHCZqdwnM5uvY7lvYPybHE9ZWUgAXrC2aZbbvq4oD40U59QxKQMjM-RqTU-0d5I_FCmyDHtB0peOZO5uwKB7HbZuIQXiXfydudB0o_5UttbNmCNuWJJCr-6TnsMedPehTYEfvHbB-TC3QMQ?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Be cool like the locals and call it &amp;#8220;the Batman mountain&amp;#8221;</description>
+        <styleUrl>#icon-959-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWMULt9Pth-Vp1QSZicdtqU5UKHrRH3XP-DPfcF1J3_UESRDT0pSXCNMHCZqdwnM5uvY7lvYPybHE9ZWUgAXrC2aZbbvq4oD40U59QxKQMjM-RqTU-0d5I_FCmyDHtB0peOZO5uwKB7HbZuIQXiXfydudB0o_5UttbNmCNuWJJCr-6TnsMedPehTYEfvHbB-TC3QMQ?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.9221802,64.285441,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoffell Glacier</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUGBdFpJm-Yjmxh6t5u_DSfQAajJU8BsnYF5XlQmpYKZ7tWGda7L-0zeot-YThEE2Ke2BazxUpfiqDMVrCk2YX0XtL_VMNB-YgRsTcLeZFJ6DXrQAvmSEiGjAu2piWgQHL-zK1LQ0XpIyiKfzz9AkYdug7YsS3BG6tQESSFpxunFwVkrypoD5EwxXn_cFQ9ykR14QM?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Hoffellsj&amp;#246;kull is one of the closest glacier tongues to H&amp;#246;fn, located approximately 25 km from the town. There are some nice, short walks and longer hiking trails in the area, with excellent panoramic views over this glacier tongue, which calves into a small lake.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUGBdFpJm-Yjmxh6t5u_DSfQAajJU8BsnYF5XlQmpYKZ7tWGda7L-0zeot-YThEE2Ke2BazxUpfiqDMVrCk2YX0XtL_VMNB-YgRsTcLeZFJ6DXrQAvmSEiGjAu2piWgQHL-zK1LQ0XpIyiKfzz9AkYdug7YsS3BG6tQESSFpxunFwVkrypoD5EwxXn_cFQ9ykR14QM?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -15.4007376,64.4198509,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoffell Hot Tubs</name>
+        <description>Wonderful hot pots</description>
+        <styleUrl>#icon-1391</styleUrl>
+        <Point>
+          <coordinates>
+          -15.3430268,64.3923386,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>F985 (J&#246;kulvegur)</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWgr-plAjbhIjGEU2I97yQ8d3FttajnatKN4Ru7817uHl-KISCf-4KXePLJQKDrVH8AA_z1pcxq7mwnyLeFAFag3jQd0ggkFoa2YK_mepxuz3r_0mWWQ2EnKaPm3TjtrzBrfK2Nfe8lIcGiRf4ULdtbRAysaQYk9gSzGDEVFQt_PTHq_mpWFK316VQbShG_9QSGEck?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Beautiful but a bit scary narrow dirt road to 815m above sea level. Good on a beautiful clear day. Takes about 2 hours to drive up, do sightseeing and drive down. No unbridged river on this road but the climb at the end is pretty steep.&lt;br&gt;&lt;br&gt;https://www.youtube.com/watch?v=g254VJkMr2c</description>
+        <styleUrl>#icon-961-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWgr-plAjbhIjGEU2I97yQ8d3FttajnatKN4Ru7817uHl-KISCf-4KXePLJQKDrVH8AA_z1pcxq7mwnyLeFAFag3jQd0ggkFoa2YK_mepxuz3r_0mWWQ2EnKaPm3TjtrzBrfK2Nfe8lIcGiRf4ULdtbRAysaQYk9gSzGDEVFQt_PTHq_mpWFK316VQbShG_9QSGEck?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -15.7052994,64.2249515,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stafafell Hostel</name>
+        <styleUrl>#icon-1197-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+          -14.8603694,64.4193354,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Drone Spot</name>
+        <description>This would be a cool spot to fly drone straight above and look down to see the braided river -- esp close to sunset / sunrise?</description>
+        <styleUrl>#icon-1313</styleUrl>
+        <Point>
+          <coordinates>
+          -15.2053616,64.2442504,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Drone Spot</name>
+        <description>Fly drone east and slightly north of here to get to the river mouth and view of Brunnhorn mountain</description>
+        <styleUrl>#icon-1313</styleUrl>
+        <Point>
+          <coordinates>
+          -14.9543666666666,64.2943333333333,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Road to Brunnhorn</name>
+        <description>Turn South/East here to get a closer view of Brunnhorn.</description>
+        <styleUrl>#icon-1273</styleUrl>
+        <Point>
+          <coordinates>
+          -14.9994333333334,64.3038666666667,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MOUNTAIN HUT MULASKALI</name>
+        <description>in the summer there is a bus from H&amp;#246;fn to Illikambur, located about 40 minutes' walk from the cabin. The cabin has sleeping facilities for thirty people in two separate rooms. The place is equipped with a bathroom, kitchen and cooking facilities. Hikers must bring their own food, sleeping bag or bedding. The cabin is located in the area with a beautiful view of the region, and there are various hiking trails in the surrounding area. For reservations and further information: gonguferdir@gonguferdir.is</description>
+        <styleUrl>#icon-1197</styleUrl>
+        <Point>
+          <coordinates>
+          -15.1512623,64.552571,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viknaslodir East Fjords Trek</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAW3Vt4XX6Dk_ITKoOaNR4sZnN_wTZzTfV2A6E96_tD_geFInPqicwuVjg5Oroccz0e-ab2xF2GKUBIOOTmCVpiQz7dvYY12TC-yo_0q2JWA3yWSEbFpfpHZDdgt0EGahCJsbDZvsjNtQVr4xPEh8rQc0L55K4KNBimavq7h9a5_8cGEimIkdJmKz4UZ-1a03zwOe2w?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Best-kept-secret of trekking in Iceland! (It takes 3 days)&lt;br&gt;&lt;br&gt;https://www.wikiloc.com/hiking-trails/viknaslodir-7248022&lt;br&gt;&lt;br&gt;https://www.kimkim.com/c/trek-viknaslodir-hike-in-the-east-fjords</description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAW3Vt4XX6Dk_ITKoOaNR4sZnN_wTZzTfV2A6E96_tD_geFInPqicwuVjg5Oroccz0e-ab2xF2GKUBIOOTmCVpiQz7dvYY12TC-yo_0q2JWA3yWSEbFpfpHZDdgt0EGahCJsbDZvsjNtQVr4xPEh8rQc0L55K4KNBimavq7h9a5_8cGEimIkdJmKz4UZ-1a03zwOe2w?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -13.8084509,65.5242766,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dyrfj&#246;ll</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUM_zyLug2L6cy2cbm1bJXlV6BR2KC4AIqkbDl0PCwJx4ZLBghJ3gaWtnh5mMCC_gBcOxklaIRFq057U1qwX0xoChq4Iy1TOSVb7xPGaEfqxFhyr1vOgzIsDHrrCoHDlwb71uqsf7k1UA_YYefOy3q0HUPS6WMOVanbqn7y-qmjMIgtZkEn1VUupY5fArWSTdmiOh4?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Beautiful mountains in the East fjord!</description>
+        <styleUrl>#icon-959-3F5BA9</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUM_zyLug2L6cy2cbm1bJXlV6BR2KC4AIqkbDl0PCwJx4ZLBghJ3gaWtnh5mMCC_gBcOxklaIRFq057U1qwX0xoChq4Iy1TOSVb7xPGaEfqxFhyr1vOgzIsDHrrCoHDlwb71uqsf7k1UA_YYefOy3q0HUPS6WMOVanbqn7y-qmjMIgtZkEn1VUupY5fArWSTdmiOh4?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -13.9564133,65.5205747,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blabjorg Guesthouse</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAX3zLX_TTZIpMxr8dQE50KE8HjPA_IvjtXQ1wIBSK7x3hKVqT-3vZocsQ3ZlTyQDGGO2znvJE3fHr1wIm_NhKze_9jF7A8AWN0UmYPG-vhbDuRExrsPy0otn7T-FvoJw7PMP2atD3zIDqmouK8F6hDiMmnTczEkGqcMKS0AMJF46jMRGpfmtFuxNbSjWpPyJ3JQzfo?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+        <styleUrl>#icon-1197</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAX3zLX_TTZIpMxr8dQE50KE8HjPA_IvjtXQ1wIBSK7x3hKVqT-3vZocsQ3ZlTyQDGGO2znvJE3fHr1wIm_NhKze_9jF7A8AWN0UmYPG-vhbDuRExrsPy0otn7T-FvoJw7PMP2atD3zIDqmouK8F6hDiMmnTczEkGqcMKS0AMJF46jMRGpfmtFuxNbSjWpPyJ3JQzfo?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -13.816123,65.5279535,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St&#243;rur&#240;</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVoVT3WaYJ-euDxnYs_u5y7B8U-2p19wYC0zdaROE3NcMM-FsQBimCaaTvdBLZZWa2eY1siEAEVN8XodvB2oAEgJj_AmgO797lfUY80rCjl2Hv9FouvLVQch7dopi50lgN-IaZsniDSg_iZpc5cuWAo8DiUdNKKyH4qO61MvAA4TVBWN4wfwwR-xEVpA4ecF5vmCxE?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;One of the most beautiful spot in East Iceland and the entire country!&amp;#160;&lt;br&gt;&lt;br&gt;https://www.youtube.com/watch?v=IwpvPU3_hi4&amp;t=40s</description>
+        <styleUrl>#icon-959-3F5BA9</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVoVT3WaYJ-euDxnYs_u5y7B8U-2p19wYC0zdaROE3NcMM-FsQBimCaaTvdBLZZWa2eY1siEAEVN8XodvB2oAEgJj_AmgO797lfUY80rCjl2Hv9FouvLVQch7dopi50lgN-IaZsniDSg_iZpc5cuWAo8DiUdNKKyH4qO61MvAA4TVBWN4wfwwR-xEVpA4ecF5vmCxE?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.0057756,65.5427468,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seljavellir Guesthouse</name>
+        <description>Excellent value here!</description>
+        <styleUrl>#icon-1197</styleUrl>
+        <Point>
+          <coordinates>
+          -15.2079745,64.3055333,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Route 953 (not an F Road)</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUqHk1mvr-Uh2dy-N8dLqsnFmQAq-22jq4p_uIZQetCT-9mEy-nh3J63QxPGVGtkGRLgDBle3ghqKkqi4GOGcXu7aEhzGF08Z7xq7FdUc_nXZGLaB8ShX3hwXY9jQ1vqYR7peCYgdZ1DADl2mLWu8X5fUThjGErNpDuxuBfGrdXt-kfvp80nzNjvIhMXRyogOMewj0?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;This is one of the most beautiful route for us in Iceland! Do not miss it!&amp;#160; Beautiful sceneries and stream/waterfalls everywhere. It's a shame that we didn't discover it sooner (not until my 5th trip!).&lt;br&gt;&lt;br&gt;If you have time, drive a bit further to Mjoifjordur but if not, at least try to get to Klifbrekku Waterfalls.&lt;br&gt;&lt;br&gt;https://www.youtube.com/watch?v=E61JN7RqLZI&lt;br&gt;&lt;br&gt;&lt;br&gt;Route 953 does not require 4wd to travel on, it is steep, narrow, and route in places so having a 4wd vehicle would be advantageous.</description>
+        <styleUrl>#icon-961-3F5BA9</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUqHk1mvr-Uh2dy-N8dLqsnFmQAq-22jq4p_uIZQetCT-9mEy-nh3J63QxPGVGtkGRLgDBle3ghqKkqi4GOGcXu7aEhzGF08Z7xq7FdUc_nXZGLaB8ShX3hwXY9jQ1vqYR7peCYgdZ1DADl2mLWu8X5fUThjGErNpDuxuBfGrdXt-kfvp80nzNjvIhMXRyogOMewj0?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.3422423,65.1922138,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klifbrekkufossar</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXzcO4X23sFoNRRLIQRxoS8TjoLejzN79XKsqiqVwsczlxbLKofSc6rcm8OaiFzyw3a6Tqh78SfleVCdPwkC6F_t2BOSQS1WyMcw2Ab2D8bLDH7WEuASfgQJWoioRgCD47foLsyBEktO0K7Yl5NNrOWLegVOrc9fZeIMMJirWabyh1grXcqp6JqwnsDydnb7gOOFtc?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;The Klifbrekkufossar waterfalls are situated in the bottom of the fjord, Mj&amp;#243;ifj&amp;#246;r&amp;#240;ur. The waterfalls are in the river Fjar&amp;#240;ar&amp;#225; and cascade down from the heath in a stair-step pattern amidst green grassy slopes sheltered by murky cliff walls. A great place for photographing!&lt;br&gt;&lt;br&gt;The scenery here is fairy-tale like and lush. This one is a true hidden gem that reward those who are willing to drive out here!&amp;#160;</description>
+        <styleUrl>#icon-503-3F5BA9</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXzcO4X23sFoNRRLIQRxoS8TjoLejzN79XKsqiqVwsczlxbLKofSc6rcm8OaiFzyw3a6Tqh78SfleVCdPwkC6F_t2BOSQS1WyMcw2Ab2D8bLDH7WEuASfgQJWoioRgCD47foLsyBEktO0K7Yl5NNrOWLegVOrc9fZeIMMJirWabyh1grXcqp6JqwnsDydnb7gOOFtc?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.0812959,65.179462,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klausturkaffi</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUso7VeCZMKs7vsepTR7ZpxEqT5G6-Z0TAPkAcAAmDd4WpPwamrTBtBH_GCJnWtscyG-bCWtQoVY7ny5nM-BIM4eIn2xkXr0kM8-k25gKZZfA4dM_EvdELzrx86QywNC6jPlANiK1ayTD6tXL8veVb8kfEheepdntnqGHfaYjz_HHDOi02NSdjYGAIlnXwKuDAk5Xc?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Cozy little place under a museum. They offer cake buffet (in the afternoon around 3 PM) which feature a collection of great cakes. My recommendation is the skyr cake with wild berry. Lunch is also served here.&lt;br&gt;&lt;br&gt;very picturesque setting!</description>
+        <styleUrl>#icon-991</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUso7VeCZMKs7vsepTR7ZpxEqT5G6-Z0TAPkAcAAmDd4WpPwamrTBtBH_GCJnWtscyG-bCWtQoVY7ny5nM-BIM4eIn2xkXr0kM8-k25gKZZfA4dM_EvdELzrx86QywNC6jPlANiK1ayTD6tXL8veVb8kfEheepdntnqGHfaYjz_HHDOi02NSdjYGAIlnXwKuDAk5Xc?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.9525432,65.0407864,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hallormssta&#240;ur Forest</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWF1fR3uz2-FL5jO-n72QIhTnMAh7AJE7zPJ7MXEKdUKe3lR7YrRUfjHXvJZ9GT7fr0vm-Ma_WAK3R2KPIdmDZY8gvwXqhEN1WkxfTyHCYDJy5NkziaInbCdHa-6Y83H-dXTnvT-CMxKRhUauF0R23JKif0R41Wc3BlQFWAr041xypE3ODmMY07piDN76FhAQj06RFZ?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Large forest in Iceland. an unusual sight in Iceland.&amp;#160;a large-scale project designed to see if Iceland can be reforested.&lt;br&gt;&lt;br&gt;It doesn't feel like Iceland here!</description>
+        <styleUrl>#icon-959-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWF1fR3uz2-FL5jO-n72QIhTnMAh7AJE7zPJ7MXEKdUKe3lR7YrRUfjHXvJZ9GT7fr0vm-Ma_WAK3R2KPIdmDZY8gvwXqhEN1WkxfTyHCYDJy5NkziaInbCdHa-6Y83H-dXTnvT-CMxKRhUauF0R23JKif0R41Wc3BlQFWAr041xypE3ODmMY07piDN76FhAQj06RFZ?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.6979492,65.1234279,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S&#243;lbrekka Guesthouse</name>
+        <styleUrl>#icon-1197-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+          -13.7935748,65.2029552,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Otto Matur &amp; Drykkur</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+          -15.2046171,64.2507038,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pakkh&#250;s Restaurant</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+          -15.2040662,64.2502212,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ishusid Pizzeria Restaurant</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+          -15.2031639,64.2501843,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>&#211;sland</name>
+        <description>Nice trail with great view in this area!&#160; Watch out for those aggressive arctic terns trying to peck your heads!&#160;</description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+          -15.2087631,64.2426895,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milk Factory</name>
+        <description>great value, good room! breakfast included!</description>
+        <styleUrl>#icon-1197</styleUrl>
+        <Point>
+          <coordinates>
+          -15.2033352,64.2635331,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>View of Eystrahorn</name>
+        <description>Fly drone out into the ocean to capture the view of the majestic Eystrahorn</description>
+        <styleUrl>#icon-1313</styleUrl>
+        <Point>
+          <coordinates>
+          -14.5403757,64.403696,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nielsen restaurant</name>
+        <description>Very good restaurant, reasonably priced for what you get!&#160;</description>
+        <styleUrl>#icon-1085</styleUrl>
+        <Point>
+          <coordinates>
+          -14.3992275,65.26141,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gistih&#250;si&#240; - Lake H&#243;tel Egilssta&#240;ir</name>
+        <description>Didn't stay here but had a great lunch here!</description>
+        <styleUrl>#icon-1085</styleUrl>
+        <Point>
+          <coordinates>
+          -14.4149264,65.2620796,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Askur Pizzeria</name>
+        <styleUrl>#icon-1085-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+          -14.3908062,65.258951,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hotel 1001 Nott</name>
+        <description>Fine place to stay (expensive)</description>
+        <styleUrl>#icon-1197</styleUrl>
+        <Point>
+          <coordinates>
+          -14.4652731,65.2262072,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>M&#243;&#240;ir J&#246;r&#240; - Vallanes Organic farm</name>
+        <description>Very cute organic farm in beautiful setting. They only have vegetarian lunch buffet (expensive) so we didn't try it but love the setting here.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+          -14.544535,65.195963,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Folaldafoss</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWWu2RWErk3PaEqHqfwLAHPfeoPU_uOuwMkS6b1qMqXbEdKpo6hrw5zH4LZUMtJsWU0Gbcrhtiu6_rn8qAR7AgAbDLJD7CG1S0QSRAIe3QcaahCLYDd--hJk441t94vTgMbUMvvSqlz9fXV6r7CNAnsfXaSZp1Sl43qjC3aTIgd4n46D5HESRCkrwa4hQSrk6xiZBMp?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Beautiful falls and colorful water here!</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWWu2RWErk3PaEqHqfwLAHPfeoPU_uOuwMkS6b1qMqXbEdKpo6hrw5zH4LZUMtJsWU0Gbcrhtiu6_rn8qAR7AgAbDLJD7CG1S0QSRAIe3QcaahCLYDd--hJk441t94vTgMbUMvvSqlz9fXV6r7CNAnsfXaSZp1Sl43qjC3aTIgd4n46D5HESRCkrwa4hQSrk6xiZBMp?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.5594447,64.8036741,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Route 939&#160;Axarvegur</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUymx0DyEpXrUqC726pwMx62DqWE4hdlkJZBm_yfuIL6tcFUASPv0fYoZvwU70fbmrYvvfLkpdSt74RWff3JG8mzDYxr0g468BZb6O2DvEtno-AmfqKwoI6_1ERSTvNnKOsC25qGFyFSAKi1KWq1hCu_VLFt5_1d8sQtGhUy74Z70-lQxEG8LAFUmCvMN4BGeRk1Fo?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Beautiful route here into the mountains passing some really nice waterfalls and takes you up into the highlands. We prefer this route to Egilisstadir than around the fjords actually.&lt;br&gt;&lt;br&gt;Very pretty!</description>
+        <styleUrl>#icon-961-3F5BA9</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUymx0DyEpXrUqC726pwMx62DqWE4hdlkJZBm_yfuIL6tcFUASPv0fYoZvwU70fbmrYvvfLkpdSt74RWff3JG8mzDYxr0g468BZb6O2DvEtno-AmfqKwoI6_1ERSTvNnKOsC25qGFyFSAKi1KWq1hCu_VLFt5_1d8sQtGhUy74Z70-lQxEG8LAFUmCvMN4BGeRk1Fo?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.5156948,64.7910287,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hamar Kaffih&#250;s</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVyDJRXDKs4Y7FnsoPofAKpX_1Hc2BpIbN1DerUD-McZHj9TdfocPz7DCs2sq8PGd_rSN59HA5Frdc984JCk9t39ShWbjBmBo3WwYeoF6H4VE5y-lzt02R5wJpVHUE35RE0bdlyzCLhOG3k5EIgI22W8Co7bbWeLc_DNt3BbCgDzYdXAyLHWX5A7Yh-y6zCFtgDzdwp?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;What a fine place for coffee / lunch!</description>
+        <styleUrl>#icon-991</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVyDJRXDKs4Y7FnsoPofAKpX_1Hc2BpIbN1DerUD-McZHj9TdfocPz7DCs2sq8PGd_rSN59HA5Frdc984JCk9t39ShWbjBmBo3WwYeoF6H4VE5y-lzt02R5wJpVHUE35RE0bdlyzCLhOG3k5EIgI22W8Co7bbWeLc_DNt3BbCgDzYdXAyLHWX5A7Yh-y6zCFtgDzdwp?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -13.9905154,64.8009074,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fancy Sheep</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXMx6TngxwPh2o_k04_dnlUinyMYbL4w6lvcGPtdiBjTHUClk4GDqdhnYx6rFq3dppPauhhdgPpY0v-vXmH5abRgxmxcgK7dJfLUa6zetdyaeJ6SpXne7qC-Jb8KGklIqg73pfxjtwUG-wxBUSO53z7xIcx1l9Fzi0LyxE2HklRK2r0m9aOm0rv9IT4vBWO2Uc5BIM?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+        <styleUrl>#icon-1085</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXMx6TngxwPh2o_k04_dnlUinyMYbL4w6lvcGPtdiBjTHUClk4GDqdhnYx6rFq3dppPauhhdgPpY0v-vXmH5abRgxmxcgK7dJfLUa6zetdyaeJ6SpXne7qC-Jb8KGklIqg73pfxjtwUG-wxBUSO53z7xIcx1l9Fzi0LyxE2HklRK2r0m9aOm0rv9IT4vBWO2Uc5BIM?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.0065431,65.260068,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nordic Restaurant</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWGKniALzb9y9qgzel2RcarW8aAqmpKTJG5YZ7nWGdGBOoutJltX70uvu1sCzna6xtbRz9EniCziUWfKp6myanvjFxnuj8dyq3tGzyWBUTfIBZf-kTJdp3BvHtJLK2b2NrOWtERiKrTmqBRAsrH_rVg_TYMFCaF5oUj-efWUA9JNUHtQs5X_xBOG6_pInbGIrL9vRc?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+        <styleUrl>#icon-1085</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWGKniALzb9y9qgzel2RcarW8aAqmpKTJG5YZ7nWGdGBOoutJltX70uvu1sCzna6xtbRz9EniCziUWfKp6myanvjFxnuj8dyq3tGzyWBUTfIBZf-kTJdp3BvHtJLK2b2NrOWtERiKrTmqBRAsrH_rVg_TYMFCaF5oUj-efWUA9JNUHtQs5X_xBOG6_pInbGIrL9vRc?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.0095143,65.2603113,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vi&#240; L&#243;ni&#240; guesthouse</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVYpxGATbu_MY51PxlEnw0irz5dlDnhaNxzvJNGhCsz75lfXbEsu_ClzoipOz31i5kirQkW0HaHDWWQLrMj5ixLc3VS8CEYw0VGhhO_ogEUMv0g08W6TNcRVGhPlTG5EY20yOdDJ53xZb9ni2K5kBGKNCAUWYnSJ9u4UIOquIbLPuY2-qJIHCXDB9n_V1WbUcS-5WE?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Great place, reasonable price!</description>
+        <styleUrl>#icon-1197</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVYpxGATbu_MY51PxlEnw0irz5dlDnhaNxzvJNGhCsz75lfXbEsu_ClzoipOz31i5kirQkW0HaHDWWQLrMj5ixLc3VS8CEYw0VGhhO_ogEUMv0g08W6TNcRVGhPlTG5EY20yOdDJ53xZb9ni2K5kBGKNCAUWYnSJ9u4UIOquIbLPuY2-qJIHCXDB9n_V1WbUcS-5WE?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.009984,65.2608167,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sk&#225;lanes</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUXRNDKMJr4Z2D7PP3V8j6yA6y3R9T3dM6YUxygdnJZ7diTdryBhSvT8QuBbekOMs1HZj0qA7PLC3BpDVIt48MC5loybrrpsOVhvt4ZDOUXn4dsqxm2ajv_6gNBhAUilztzLTYidXXa2cw6A5lc29275zfuDVckZQwMpVDRwYbrex7XQNSoyuRZr7ZfZ7JAnU7v85I?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Need full-sized 4WD that can ford river to get to this beautiful place.&lt;br&gt;&lt;br&gt;Tanni might be able to offer a tour here:&lt;br&gt;http://en.tannitravel.is/</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUXRNDKMJr4Z2D7PP3V8j6yA6y3R9T3dM6YUxygdnJZ7diTdryBhSvT8QuBbekOMs1HZj0qA7PLC3BpDVIt48MC5loybrrpsOVhvt4ZDOUXn4dsqxm2ajv_6gNBhAUilztzLTYidXXa2cw6A5lc29275zfuDVckZQwMpVDRwYbrex7XQNSoyuRZr7ZfZ7JAnU7v85I?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -13.7055322,65.2940635,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Regnboga Vegur - Rainbow Road</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXQ5Ut2XW_oZyKO3OheKWAumxEd7Cuy_oqVO3yttGk9stse_bxb7MhEVhJuZWvJx36xAmSoron1rHGifzPaz3pekanixMuZxPS5pnaeRElpg5CFkt5AyuB8XuMOoNspUhP-emEYLHVj8alEaXSvwNuP4Xcm1SplLTXUAj9tJUBQaZIrkboHT2Brw9-bUAOi9qTFotJb?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXQ5Ut2XW_oZyKO3OheKWAumxEd7Cuy_oqVO3yttGk9stse_bxb7MhEVhJuZWvJx36xAmSoron1rHGifzPaz3pekanixMuZxPS5pnaeRElpg5CFkt5AyuB8XuMOoNspUhP-emEYLHVj8alEaXSvwNuP4Xcm1SplLTXUAj9tJUBQaZIrkboHT2Brw9-bUAOi9qTFotJb?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.0096498,65.260621,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dalatangi</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWX2W7OIL82UA4ZnuRUicKjtUjir0thvUgnn4kGmlDuS1o5ULMMKFAVZ_ghytKFC_At09-5rOO3xXUusbsyxG5BpDL50xxlP2K3g52rRt5xyN7EUpCfGrsaSOslQUXlGqeVdQLggTlLHwCDL0yOshzyvM8sF4yLIq9ENpisvlR55412qgBJN8AoClxEF5LIt_CrG7k?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;The drive here is spectacular but the road is rugged!</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWX2W7OIL82UA4ZnuRUicKjtUjir0thvUgnn4kGmlDuS1o5ULMMKFAVZ_ghytKFC_At09-5rOO3xXUusbsyxG5BpDL50xxlP2K3g52rRt5xyN7EUpCfGrsaSOslQUXlGqeVdQLggTlLHwCDL0yOshzyvM8sF4yLIq9ENpisvlR55412qgBJN8AoClxEF5LIt_CrG7k?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -13.5756683,65.2701748,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fj&#243;shorni&#240;</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVdLfYKr3q2yrbYaJw6PByRmb6GYsp16ulAtIdqcmJUeDLA5ko931UTSkfZFsCv6csO9kdbOQDzuTwqGGFs5Rrp2cJernpXw1I5pk1KbCgtLJRag5Clr3TSouDypAmkGeCHCsXKxXwyqlEXUV0HZFFnHTPRnOuzXUuqsTbN2h31bqMq6wx7ntPAJ7UuW-s0qQJ4k44?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;In Egilsstadir I is a coffee house and a small shop that sell their own product. Try Skyr tarte here!</description>
+        <styleUrl>#icon-991</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVdLfYKr3q2yrbYaJw6PByRmb6GYsp16ulAtIdqcmJUeDLA5ko931UTSkfZFsCv6csO9kdbOQDzuTwqGGFs5Rrp2cJernpXw1I5pk1KbCgtLJRag5Clr3TSouDypAmkGeCHCsXKxXwyqlEXUV0HZFFnHTPRnOuzXUuqsTbN2h31bqMq6wx7ntPAJ7UuW-s0qQJ4k44?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.4135582,65.2628365,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P&#225;skahellir Cave</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAV1-vdXxzkf2cZie8ldUoO0N8r3qA-P8zj1hDcZeiJ5i9VmlflVQU80qExuPt9Si9s7Jkm_25Qr_A1lkLbUA4faV9lfz8ud2h8lINNyr0-lj7HRp0DTua2YoZF1HPh3PopWxywUj-7LtWf5zp4PtrbsLXca2D0TM_ySUaS5IMFErGV01x1kK0hOtARzXyZkQwMxg90?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;P&amp;#225;skahellir is a small cave by the seaside of Neskaupsta&amp;#240;ur Nature Reserve, with pillow lava and rock tunnels. You can also find holes that were probably formed by prehistoric trees. A forest that used to grow here was most likely destroyed by lava around 12 million years ago. After that, erosion by the sea formed the cave itself.&lt;br&gt;&lt;br&gt;Legend has it that by visiting P&amp;#225;skahellir on Easter morning, you can see the sun dancing over the ocean waves when rising. The name P&amp;#225;skahellir can easily be seen as a result of this folklore.&lt;br&gt;&lt;br&gt;The walk from the entrance of the Nature Reserve to the site is about 10 to 15 min. Wooden stairs lead down from the walking path down to the cave, but please note that climbing down can be tricky and must be done with caution.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAV1-vdXxzkf2cZie8ldUoO0N8r3qA-P8zj1hDcZeiJ5i9VmlflVQU80qExuPt9Si9s7Jkm_25Qr_A1lkLbUA4faV9lfz8ud2h8lINNyr0-lj7HRp0DTua2YoZF1HPh3PopWxywUj-7LtWf5zp4PtrbsLXca2D0TM_ySUaS5IMFErGV01x1kK0hOtARzXyZkQwMxg90?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -13.6407384,65.1576486,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nesb&#230;r</name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+          -13.6878977,65.1475372,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Randulf's Sea House</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXt9mCp1KcccmV8IPLKBa2sdywIdOoqryxLVuzgN3w2nxlNkXswsWL-Y_MABQLxFJeBMi7Y0wjIO9KT-t4SIg1Xm0PZRSakHp-VPCP72PiEu1XTUo7CQkeE3XcktRpnIJ6RJOBUhPNPrQu8UR1an50DDIkXzR1ccVvQP88aNVV64LuxqobjxoJd-tIuzQU--FIvBsc?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+        <styleUrl>#icon-1085</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXt9mCp1KcccmV8IPLKBa2sdywIdOoqryxLVuzgN3w2nxlNkXswsWL-Y_MABQLxFJeBMi7Y0wjIO9KT-t4SIg1Xm0PZRSakHp-VPCP72PiEu1XTUo7CQkeE3XcktRpnIJ6RJOBUhPNPrQu8UR1an50DDIkXzR1ccVvQP88aNVV64LuxqobjxoJd-tIuzQU--FIvBsc?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -13.9987321,65.0643871,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fer&#240;a&#254;j&#243;nustan Mj&#243;eyri</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXiRNza1PmFzt5jAilJxc5B1DBqnKD_fFAELYEu6P-vY3y3KdvMJfI0PCQZYMKFwUszH8F-4isXRn3QEqwXb-Mrt8qjrVE8I8B2Q15E3iOzEacb_sOazSufas_ON9d2xUMv7ykyDdug5s3Glhz3OrYzUxdIfv_vNw3CluCODcT3kn1N8Sx0KXI8HnQUHT473OPH8GM?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Accommodation and guided tours!</description>
+        <styleUrl>#icon-1197</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXiRNza1PmFzt5jAilJxc5B1DBqnKD_fFAELYEu6P-vY3y3KdvMJfI0PCQZYMKFwUszH8F-4isXRn3QEqwXb-Mrt8qjrVE8I8B2Q15E3iOzEacb_sOazSufas_ON9d2xUMv7ykyDdug5s3Glhz3OrYzUxdIfv_vNw3CluCODcT3kn1N8Sx0KXI8HnQUHT473OPH8GM?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.0055721,65.0672925,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sesam brau&#240;h&#250;s</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVuzeYa_weh26Lj2-gwASQU_fG2dayadP0Y7rEuxFe2Ll-UHF_aUVse5fvxlOJK8nDTwULLfR1RDDPEI63Fb4SP76taK1mgFavn0TiZezbfhrMYqxta8E3NGJE2UsgCrGid_K_hcKpUhpU-GUC1rd-UxGEi_7kOFdzP-CRR_1uOWhW6nk4SxIgB2MdoAwhfq1bYioU?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Wonderful bakery! Lots of different pastries</description>
+        <styleUrl>#icon-991</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVuzeYa_weh26Lj2-gwASQU_fG2dayadP0Y7rEuxFe2Ll-UHF_aUVse5fvxlOJK8nDTwULLfR1RDDPEI63Fb4SP76taK1mgFavn0TiZezbfhrMYqxta8E3NGJE2UsgCrGid_K_hcKpUhpU-GUC1rd-UxGEi_7kOFdzP-CRR_1uOWhW6nk4SxIgB2MdoAwhfq1bYioU?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.2183755,65.0323392,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Havar&amp;#237; Cafe &amp; Hostel</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAV9jWZE2CLpbD00Tjbv1vjOUYdyjVMi2X8JvBJ8gExa-OOwdJPPvwRGJiM-rj4-dbReJ2sB6t5fQklbqbHLa53_nBtXtjedcmTjYyNvnN_2wk5F5fCjIpJA9mj_paP0wvqVo9Ei7jhUGI5j19GbDPAuEaLzseFIhVXNcHxOAXDdjW-jBOMUA_qL4LfULPOrflqdBHMP?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Fine place to grab some waffle and coffee! Lunch too. They also have accommodations (hostel &amp; room with shared bath)</description>
+        <styleUrl>#icon-991</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAV9jWZE2CLpbD00Tjbv1vjOUYdyjVMi2X8JvBJ8gExa-OOwdJPPvwRGJiM-rj4-dbReJ2sB6t5fQklbqbHLa53_nBtXtjedcmTjYyNvnN_2wk5F5fCjIpJA9mj_paP0wvqVo9Ei7jhUGI5j19GbDPAuEaLzseFIhVXNcHxOAXDdjW-jBOMUA_qL4LfULPOrflqdBHMP?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.2278377,64.6952732,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Framtid Hostel</name>
+        <styleUrl>#icon-1197-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+          -14.2797242,64.6549649,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>&#218;lfseyjarsandur</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVLVJOgaxDMEOO_GXBlkhUbpE1f72yE430h3ZdCn0LGq7SfIcfCfiLRLqlo3Uv1dhsaX3Tpn8Cat4Q45rjoE3MURn5Rsfqc6YmYRSVnkGWZAYdAZ7xpl8uLgxL7H6J0fv9FbT-6VkaDTNPaN7XGEGDombcctx41RjrWA8RIAc7NXfwVpC3s6MoX5IpJ6kaKIZyEzzE?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Beautiful black sand beach accessible via the road to the air strip</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVLVJOgaxDMEOO_GXBlkhUbpE1f72yE430h3ZdCn0LGq7SfIcfCfiLRLqlo3Uv1dhsaX3Tpn8Cat4Q45rjoE3MURn5Rsfqc6YmYRSVnkGWZAYdAZ7xpl8uLgxL7H6J0fv9FbT-6VkaDTNPaN7XGEGDombcctx41RjrWA8RIAc7NXfwVpC3s6MoX5IpJ6kaKIZyEzzE?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.266796,64.6383516,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hvannagil - The Golden Valley (L&#243;ns&#246;r&#230;fi)</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAV6HesEMKP1aX68xf1qojIxECIFJsPs3vrSvi-ChAbtJOjCUcZOmY9XAuCTvUcpnTWZazNbqSbKiJbia2YRcImUOIQvu6BJ6sCwwVp9CBv0spuojA8yOXxC_T3sFWfllhiCakcbG3xoINUObsiqmNtEPnGE_bPqVMPyHiHUY-POzZo46LPWZuMZaS4m3NgGqKWjbZM0?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;In L&amp;#243;n District, the most eastern area of the Vatnaj&amp;#246;kull Region, lie the Stafafellsfj&amp;#246;ll mountains, also called L&amp;#243;ns&amp;#246;r&amp;#230;fi.&amp;#8239;They dominate the skyline east of Vatnaj&amp;#246;kull glacier and have long comprised one of Iceland&amp;#8217;s most extensive protected areas.&amp;#8239;Besides the deep, rugged canyons, the landscape displays a wide range of colours owing to the presence of rhyolite and other colourful rocks.&amp;#8239;In contrast, there are also lushly vegetated and sheltered valleys offering a very good chance of spotting reindeer. The numerous hiking trails make this area perfect for hiking. Keep in mind that getting there can be very difficult and one should seek advice from a visitor- or information centre before attempting to go there.&lt;br&gt;&lt;br&gt; Trail:&lt;br&gt;&lt;br&gt;https://www.wikiloc.com/hiking-trails/stafafell-18302347&lt;br&gt;&lt;br&gt;https://www.wikiloc.com/hiking-trails/hoffell-78962629</description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAV6HesEMKP1aX68xf1qojIxECIFJsPs3vrSvi-ChAbtJOjCUcZOmY9XAuCTvUcpnTWZazNbqSbKiJbia2YRcImUOIQvu6BJ6sCwwVp9CBv0spuojA8yOXxC_T3sFWfllhiCakcbG3xoINUObsiqmNtEPnGE_bPqVMPyHiHUY-POzZo46LPWZuMZaS4m3NgGqKWjbZM0?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.945382,64.4464058,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>F959&#160;Vi&#240;fjar&#240;arvegur</name>
+        <description>Located in Vi&amp;#240;fj&amp;#246;r&amp;#240;ur, a fjord stretching south from the Nor&amp;#240;fj&amp;#246;r&amp;#240;ur bay in the Eastern Region of Iceland the F959 (Vi&amp;#240;fjar&amp;#240;arvegur) is a very challenging drive. Strange incidents were reported to happen on the area.&lt;br&gt;&lt;br&gt;The road is only for 4x4 vehicles with significant fording capacity. No service or network. It&amp;#8217;s 8.1 km long running from Road 954 towards Vi&amp;#240;fj&amp;#246;r&amp;#240;ur, a lone uninhabited farmhouse abandoned since 1955. The farm was said to have been haunted for centuries. Should not be drive in anything else than a full size 4x4 with high clearance. Expect large potholes, many ruts and large boulders on their surface.</description>
+        <styleUrl>#icon-961-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+          -13.7114358,65.0353611,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fl&#246;gufoss</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+          -14.3786629,64.8179661,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Almannaskar&#240;</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAW1dzF02dxplsVGhEb-F5sZ8gKsw4qpnDZst7yt7GJvIv0vKjPHPLXXj11xaPUWpmIlra4XYZmX9C70AU7NBSXCGXag4P2Jc9l6gwo32Cc99itDj8ooOej2o15c3P7frO7-7rfO_CT3TtVfB6r6c5bK0tFpgOokTEG88JQHmMcpe6cI9jLQT2SbCXDq6Y1PVzJLBi0?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;On a clear day, drive up here for a beautiful view!&lt;br&gt;&lt;br&gt;See 24:06 in the video below:&lt;br&gt;&lt;br&gt;https://www.youtube.com/watch?v=B3q8N8u0jUw&amp;t=2s</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAW1dzF02dxplsVGhEb-F5sZ8gKsw4qpnDZst7yt7GJvIv0vKjPHPLXXj11xaPUWpmIlra4XYZmX9C70AU7NBSXCGXag4P2Jc9l6gwo32Cc99itDj8ooOej2o15c3P7frO7-7rfO_CT3TtVfB6r6c5bK0tFpgOokTEG88JQHmMcpe6cI9jLQT2SbCXDq6Y1PVzJLBi0?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -15.0353992,64.2839681,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nykurhylsfoss (Sveinsstekksfoss)</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUrwTrHv3UmGU219Qi1OjLC7eye9q82frA8oKmfhCE2pQFglklsgmhY_S1y0mkcECmcpYI4CncnfmVaLCfeN_mgFvik9_7JyE75OYaM3Cv73wyiso8sd-9NRoH0kAB-HkqMwDe7avIxpeXgHJTG1g7BywSewLog1ti_hvgN7zEl5D0ER76Bnx1J4suOGu9zqFLQBkc?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUrwTrHv3UmGU219Qi1OjLC7eye9q82frA8oKmfhCE2pQFglklsgmhY_S1y0mkcECmcpYI4CncnfmVaLCfeN_mgFvik9_7JyE75OYaM3Cv73wyiso8sd-9NRoH0kAB-HkqMwDe7avIxpeXgHJTG1g7BywSewLog1ti_hvgN7zEl5D0ER76Bnx1J4suOGu9zqFLQBkc?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -14.482108,64.753884,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>F946&#160;Lo&#240;mundarfjar&#240;arvegur</name>
+        <description>F946 (Lo&amp;#240;mundarfjar&amp;#240;arvegur) is a very scenic drive located on the east fjords of Iceland. The drive offers breathtaking mountain landscapes but it's only suitable for 4x4 vehicles.&lt;br&gt;&lt;br&gt;The road is 37.5 km long and links the towns of Borgarfj&amp;#246;r&amp;#240;ur Eystri (Road 94) and Klyppsstadhir. It is a rough and challenging road only for a 4 wheel drive vehicle with high clearance. The track is pretty bad, it's not rolling with a lot of big rocks. Expect large potholes, many ruts and large boulders on their surface.&amp;#160;&lt;br&gt;&lt;br&gt;https://www.youtube.com/watch?v=AFCz9b7hOLE</description>
+        <styleUrl>#icon-961-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+          -13.8608283,65.4652403,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Njar&#240;v&#237;k (St&#243;rur&#240; Trail Head)</name>
+        <description>if you are short on time, do the out and back hike from here. This is the shortest route to&#160;St&#243;rur&#240;.</description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+          -13.970832,65.552018,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hike to&#160;Dyrfj&#246;ll</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUPogCQsdJjFGrdkjqQl5hb4Ik0cGyGA4JgZ7UFDbbDDvtAfgEto58KJZO-iCwSDK2vbOYCfpWyuV4gA9BwOKf6-oNR7GT40HuxRSxtKEeQ4eOSIGJTpfKl9w4fRw3sAnNhLkm-gaLQfj8zG07aBPKBEORy5VW-3kMpgwnOWnn8CZnaT-xWQ6NfGkPTLOzMKgHsnGw?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Very beautiful long day hike. Allow 8-10 hours&lt;br&gt;&lt;br&gt;https://www.wikiloc.com/hiking-trails/dyrfjoll-ytra-dyrfjall-sula-54588679#direcctions&lt;br&gt;&lt;br&gt;&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVNuR1qrDxt0rRtvXgmT2Wive4eUTZHIgyjvTtDf9iCQGxI-3hQPaLenI5YQbC3uwgvejVl5w3i7s_45FwK0cemZalT8UCX3aPvU23KUj1tUiuZ6uO3uVyYwTrflbREzoIlO8PWkq6ggWobyNQ9CQnhOFexJ_7ngiO3A2Wguiwb2408_A3CeFcDXwjcBGMs3bJk2FAF?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;</description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUPogCQsdJjFGrdkjqQl5hb4Ik0cGyGA4JgZ7UFDbbDDvtAfgEto58KJZO-iCwSDK2vbOYCfpWyuV4gA9BwOKf6-oNR7GT40HuxRSxtKEeQ4eOSIGJTpfKl9w4fRw3sAnNhLkm-gaLQfj8zG07aBPKBEORy5VW-3kMpgwnOWnn8CZnaT-xWQ6NfGkPTLOzMKgHsnGw?authuser=0&amp;fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVNuR1qrDxt0rRtvXgmT2Wive4eUTZHIgyjvTtDf9iCQGxI-3hQPaLenI5YQbC3uwgvejVl5w3i7s_45FwK0cemZalT8UCX3aPvU23KUj1tUiuZ6uO3uVyYwTrflbREzoIlO8PWkq6ggWobyNQ9CQnhOFexJ_7ngiO3A2Wguiwb2408_A3CeFcDXwjcBGMs3bJk2FAF?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -13.8224511004783,65.5089819107294,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hafnarhus Caf&#233;</name>
+        <styleUrl>#icon-991-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+          -13.7531893,65.5408467,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>L&#211;N</name>
+        <description>Can't find much info about this place but check out this amazing video:&lt;br&gt;&lt;br&gt;https://fb.watch/741OwDkRd4/&lt;br&gt;&lt;br&gt;https://southeasticeland.is/</description>
+        <styleUrl>#icon-959-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+          -14.8621901,64.3835267,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>F980&#160;Kollum&#250;lavegur</name>
+        <description>Road F980, west of J&#246;kuls&#225;, leads to Illikambur (25 km). This road is only suitable for experienced drivers on big jeeps with high clearance. On the way, you will have to cross the deep and fast flowing Skyndidals&#225; river. Please do not attempt to cross this river on a small jeep like Suzuki Jimny, Suzuki Vitara, Honda CRV, Toyota RAV or similar cars. Your will end up sitting on the roof of your car, waiting for the rescue team to pull you out. In case you get stuck in the river, call 112. From the parking site at Illikambur, it takes 30-45 minutes to walk down to the mountain cabin in Kollum&#250;li (very steep scree slope).</description>
+        <styleUrl>#icon-961-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+          -14.9130167,64.4098459,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Illikambur (Mountain)</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVLm6mdJOsh7zyrTWfdu3jhD-UjpSh_59LbVCJYuEctLFBU1cecH6nsQvfteqrM_iZmRu-O7xkiiLKmXzm-dgVY4odzGUxvELY3dgLNnqChYiXxdpiNp9qSrdNhXJC-I5yWRgu71Svrt2q91arCjRFbMLyJL7U51fsrdS54X10ghK8gWL2J_-0FEKfWyVCSxu0IPM4?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;F980 ends around here</description>
+        <styleUrl>#icon-959-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVLm6mdJOsh7zyrTWfdu3jhD-UjpSh_59LbVCJYuEctLFBU1cecH6nsQvfteqrM_iZmRu-O7xkiiLKmXzm-dgVY4odzGUxvELY3dgLNnqChYiXxdpiNp9qSrdNhXJC-I5yWRgu71Svrt2q91arCjRFbMLyJL7U51fsrdS54X10ghK8gWL2J_-0FEKfWyVCSxu0IPM4?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -15.135,64.5466667,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>L&#243;ns&#246;r&#230;fi</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWhhPhGDjnHPqZ0sgBD5etu46wzR5S5nk3OvotdyM2GgYzwAU3fZ6IERxerUV2NnMWtsKRyALTgWGz_YEnZhX8VF7lDvPGEQqzNhUgcYfSj95DnVJVmJaORXE7YEHRZB_dHiMJKGgbfG2MVcmTgQ-5RmOE5gV2E5sqseoBD2h4vnWo_SS6Swv9CZcrWa0-ySOj0bN8?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;L&amp;#243;ns&amp;#246;raefi&lt;br&gt;&lt;br&gt;The western part of this area between the ice cap and the River J&amp;#246;kuls&amp;#225; &amp;#237; L&amp;#243;ni became a Designated Area in 1977 with the landowners' approval in accordance with the Nature Conservation Act. L&amp;#243;ns&amp;#246;raefi is a relatively new name for the area, not much used by locals.&lt;br&gt;&lt;br&gt;Covering 320 km&amp;#178;, this is one of the most extensive protected areas in Iceland - its status is equivalent to that of a national park. The area is surrounded on three sides by high mountain ranges crowned with snowy peaks that reach over 1000 m above the narrow lowland strip. High glacial tongues from the eastern part of the Vatnaj&amp;#246;kull ice cap overflow into deep valleys.&lt;br&gt;&lt;br&gt;Mt Grendill, in the west, is the peak (1570 m), while Snaefell (1833 m) in the north-west is high enough to be seen from many locations.&lt;br&gt;&lt;br&gt;How to get here?&lt;br&gt;&lt;br&gt;http://www.stafafell.is/how-to-get-to-loacutensoumlraeligfi.html&lt;br&gt;&lt;br&gt;Probably best experienced by multi-day hike?&lt;br&gt;&lt;br&gt;https://www.wikiloc.com/hiking-trails/lonsoraefi-day-1-eyabakkar-geldingafell-26-07-2016-14361641</description>
+        <styleUrl>#icon-959-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWhhPhGDjnHPqZ0sgBD5etu46wzR5S5nk3OvotdyM2GgYzwAU3fZ6IERxerUV2NnMWtsKRyALTgWGz_YEnZhX8VF7lDvPGEQqzNhUgcYfSj95DnVJVmJaORXE7YEHRZB_dHiMJKGgbfG2MVcmTgQ-5RmOE5gV2E5sqseoBD2h4vnWo_SS6Swv9CZcrWa0-ySOj0bN8?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -15.1783421324178,64.5911637547137,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Turn here to&#160;Breidav&#237;k</name>
+        <description>Unnamed dirt track -- some river crossing -- very difficult road.</description>
+        <styleUrl>#icon-1273</styleUrl>
+        <Point>
+          <coordinates>
+          -13.7773972,65.4365136,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Geitfell</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXU-jCWb-d5qAY4eam-Jafzu_a2qpYZnD5mccJkAA4PZtVdPivQRdGSy95bqCKr45thVPQ3ajSZjgQXYjQV4UcR1Za8zIKhtnoSBELrapm85iAr1LkIPDP9X1Rx7ZyDly2ySVO6iy76CNJwqtdFtL9bTRo7NZrSxd9rHejPBdzYVgmbgKcY0dS4Wprlgj5aUQygKu__?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;</description>
+        <styleUrl>#icon-959-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXU-jCWb-d5qAY4eam-Jafzu_a2qpYZnD5mccJkAA4PZtVdPivQRdGSy95bqCKr45thVPQ3ajSZjgQXYjQV4UcR1Za8zIKhtnoSBELrapm85iAr1LkIPDP9X1Rx7ZyDly2ySVO6iy76CNJwqtdFtL9bTRo7NZrSxd9rHejPBdzYVgmbgKcY0dS4Wprlgj5aUQygKu__?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -13.72456,65.524456,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S&#243;lbrekka Holiday Homes</name>
+        <description>Well-equiped and clean place to stay!</description>
+        <styleUrl>#icon-1197</styleUrl>
+        <Point>
+          <coordinates>
+          -13.799697,65.20491,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sk&#225;lanesbjarg</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXXd1HpJu2wMfNfalU1y8jhA3yHVfkvRWq1PsHj3EUBHosUH0XmCFS3IYu4xfZuUsrJGgaGPtA83uBSmSFMtQcofsN9tpLmPcJuqPJ8wu8yesLCmv3-5cIN3k7cY3C-PSfUqe7iIKomW6YsUynOpqQufaCLPqmnotHTRORf7of1ygN-s8KuNzrie7WdRsynRpFmxdsa?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;Beautiful hike!&lt;br&gt;&lt;br&gt;https://www.wikiloc.com/hiking-trails/skalanesbjarg-7109561/photo-4017837</description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAXXd1HpJu2wMfNfalU1y8jhA3yHVfkvRWq1PsHj3EUBHosUH0XmCFS3IYu4xfZuUsrJGgaGPtA83uBSmSFMtQcofsN9tpLmPcJuqPJ8wu8yesLCmv3-5cIN3k7cY3C-PSfUqe7iIKomW6YsUynOpqQufaCLPqmnotHTRORf7of1ygN-s8KuNzrie7WdRsynRpFmxdsa?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -13.775073186001,65.2848163924119,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hike to Br&#250;nav&#237;k beach</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUeSktcH546eJM2O9zSuywLIExiPlOb1_gj-A6r68_q3p3HSEs9ShgjqTQpKLvN0sgSt2oPr9TNhdBZRTpjDt7huqo9JfMd7QCUVKKseCQD1D0X19gD6q4l4MvAZSr74tIhMIqmFdeR2quBA8zsZoDHedWkti8hX3MlRt2VY-zqgw7xKd9LtP9hyLUuCAZNo7RphTr03OWPNmfMhOpWSFbOGWKauWF3HB-ztHT1kBcbrLb3?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;https://www.wikiloc.com/hiking-trails/brunavik-41988371#directions&lt;br&gt;&lt;br&gt;Beautiful Hikes that takes 3.5-4 hours (out and back). Highly recommended!</description>
+        <styleUrl>#icon-960-3F5BA9</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUeSktcH546eJM2O9zSuywLIExiPlOb1_gj-A6r68_q3p3HSEs9ShgjqTQpKLvN0sgSt2oPr9TNhdBZRTpjDt7huqo9JfMd7QCUVKKseCQD1D0X19gD6q4l4MvAZSr74tIhMIqmFdeR2quBA8zsZoDHedWkti8hX3MlRt2VY-zqgw7xKd9LtP9hyLUuCAZNo7RphTr03OWPNmfMhOpWSFbOGWKauWF3HB-ztHT1kBcbrLb3?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -13.7561692375976,65.5360991666894,0
+        </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puffin Adventures</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVcDYZtzNn7FGRGuPeEG-ymM40qmLu7MwjhiH3NXPwSP_gSObzSRYWyBGpaxK9LXwcTiSv62P14L1jjHRYMe7kcex9VQBeonrL2JMynMuD4dOlvk-ovKlCcGvt2W2siafHM702tdnaksr4afA8MB6IHqTC98KuqocMTIFc9kbcDxPtSUp9_XBUPNS7eXW547oM-qZcYH2DIl7pHMHg9r_98NGkxjRtivGVc77Ihr9flMk23?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;This boat tour looks amazing! (access the part that is not easily accessible on foot)</description>
+        <styleUrl>#icon-1375</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAVcDYZtzNn7FGRGuPeEG-ymM40qmLu7MwjhiH3NXPwSP_gSObzSRYWyBGpaxK9LXwcTiSv62P14L1jjHRYMe7kcex9VQBeonrL2JMynMuD4dOlvk-ovKlCcGvt2W2siafHM702tdnaksr4afA8MB6IHqTC98KuqocMTIFc9kbcDxPtSUp9_XBUPNS7eXW547oM-qZcYH2DIl7pHMHg9r_98NGkxjRtivGVc77Ihr9flMk23?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+          -13.7541994,65.5392122,0
+        </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

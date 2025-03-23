@@ -29,7 +29,7 @@ Remember these important guidelines.
  - always include a summary and inspirational quote for the day
  - include a tip at the end of the day if you have something particularly important or insightful for me to remember that day. Don't feel compelled to do this if it isn't very helpful to me. 
  - carefully consider what I should be thinking about and add that in the notes section for each day 
- - Add links for more information wherever possible. Look for links I provided you then use your best judgment to find others. don't invent links. 
+ - Add links for more information wherever possible. Look for links I provided you then use your best judgment to find others. don't invent links. If you find links in the source material trust them. Use good judgement in making sure that the links from your knowledge base are accurate. 
  - include a page break before each day based on the example I provide you
  - include the embedded map I provided you in the example
  - do not include any confirmation codes or other personal information other than first names.

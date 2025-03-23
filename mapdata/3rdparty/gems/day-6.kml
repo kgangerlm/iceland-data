@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Day 6 Points of Interest</name>
+    <Style id="icon-1899-000000-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-000000-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-000000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-000000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-000000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Hikes</name>
+      <Placemark>
+        <name>Brunavik Beach</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWTTy2ZA_CWFOS9QoligreOdCC8QQqLhJPf6IWZrzWidcjfvRK9XRfLzyMBLDwsz1pf3J3JIATegv5_415PTeNE4RwYGQhn0Utre2JLXiCBd2R9SPqozLvC5xsMLPvlXwOvH0jvBYMLv844EcwF_PmijKGsdYjDPTPVOU4LIhJ7bSPTpFQ2j8PrkfbYHnjFgcCk_gjLKJfzw9d17FJJ5iLVY1DGmRUWu0q1rBRLoWtCkTw4M7IywxZhhts?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;https://epiciceland.net/borgarfjordur-eystri/</description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAWTTy2ZA_CWFOS9QoligreOdCC8QQqLhJPf6IWZrzWidcjfvRK9XRfLzyMBLDwsz1pf3J3JIATegv5_415PTeNE4RwYGQhn0Utre2JLXiCBd2R9SPqozLvC5xsMLPvlXwOvH0jvBYMLv844EcwF_PmijKGsdYjDPTPVOU4LIhJ7bSPTpFQ2j8PrkfbYHnjFgcCk_gjLKJfzw9d17FJJ5iLVY1DGmRUWu0q1rBRLoWtCkTw4M7IywxZhhts?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -13.6821616,65.5259785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ker</name>
+        <description>&lt;img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUS7-3u9COGv64_debPUsumeRO9s8NN7Q9Lk5sBCFsJPdiZROQNYQOJYUDKmC113i_Arc0rTU05RMSmtY6PohGJ5diWtOEnobIIEBqRsSftziNLJv9OJgc-UfpRiRZkhiPpJXszujMgQOu4eVm4yO3bFlqdvFMCAkBplx4cIasMiYSziIFVkKbWEuxIcuUvA5Rl0ONW42V3zeK1gnQvvTQvP18UAS-RQLD5jzdQlASyN3-FIqbDzkm2cqI?authuser=0&amp;fife=s16383" height="200" width="auto" /&gt;&lt;br&gt;&lt;br&gt;https://epiciceland.net/borgarfjordur-eystri/</description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3APRDMAUS7-3u9COGv64_debPUsumeRO9s8NN7Q9Lk5sBCFsJPdiZROQNYQOJYUDKmC113i_Arc0rTU05RMSmtY6PohGJ5diWtOEnobIIEBqRsSftziNLJv9OJgc-UfpRiRZkhiPpJXszujMgQOu4eVm4yO3bFlqdvFMCAkBplx4cIasMiYSziIFVkKbWEuxIcuUvA5Rl0ONW42V3zeK1gnQvvTQvP18UAS-RQLD5jzdQlASyN3-FIqbDzkm2cqI?authuser=0&amp;fife=s16383</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -14.3860212,65.7257203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Folder>
+      <name>Day 11</name>
+      <Placemark>
+        <name>Blue Lagoon Premium Experience</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">⭐ Premium Experience</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Upgrade to the Premium package at the Blue Lagoon for your final day, which includes a private changing room, additional skincare products, reserved table at Lava Restaurant, sparkling wine, and a second mask treatment of your choice. The perfect relaxing end to your Icelandic adventure.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-22.4495,63.8804,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Car Return</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🚌 Transportation</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Return your 4WD Suzuki Vitara to Blue Car Rental near Keflavík Airport. Allow at least 30 minutes for the rental return process before heading to your flight check-in.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-22.6221,63.9985,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Departure from Keflavík</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #f3e5f5; border: 1px solid #ba68c8; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🛫 Departure</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Depart from Keflavík International Airport. Remember to arrive at least 2 hours before your international flight and allow time for tax-free shopping of Icelandic souvenirs and products.</p>
+  </div>]]></description>
+        <styleUrl>#style_2</styleUrl>
+        <Point>
+          <coordinates>-22.6219,63.9998,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Garður Lighthouse</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">💎 Hidden Gem</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Visit the northern tip of Reykjanes Peninsula where two lighthouses stand on a beautiful beach. The older lighthouse can be climbed for panoramic views, and the area is excellent for birdwatching and seal spotting. A perfect low-key activity before your flight.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-22.7127,64.0823,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gunnuhver Hot Springs</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌋 Geological</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Experience the raw power of Iceland's geothermal energy at these boiling mud pools and steam vents named after a female ghost supposedly trapped here by a priest. Wooden boardwalks provide safe viewing of the violently boiling gray mud and steam clouds.</p>
+  </div>]]></description>
+        <styleUrl>#style_3</styleUrl>
+        <Point>
+          <coordinates>-22.6791,63.8213,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kef Restaurant</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🍽️ Dining</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Enjoy a final Icelandic meal at this excellent restaurant in Keflavík before your flight. Known for fresh seafood and modern Icelandic cuisine, it's a more upscale alternative to airport dining for your last taste of Iceland.</p>
+  </div>]]></description>
+        <styleUrl>#style_4</styleUrl>
+        <Point>
+          <coordinates>-22.6043,63.9846,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kleifarvatn Lake</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🛣️ Scenic Drive</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Iceland's third-largest lake sits in a fissure zone on the Mid-Atlantic Ridge. The barren lunar-like landscape surrounding the deep blue water creates a stark, otherworldly beauty. Look for steaming vents along the eastern shore where the water meets geothermal areas.</p>
+  </div>]]></description>
+        <styleUrl>#style_5</styleUrl>
+        <Point>
+          <coordinates>-22.0500,63.9000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krýsuvík Geothermal Area</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌋 Geological</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A concentrated area of geothermal activity featuring multi-colored mud pots, steaming vents, and mineral deposits in vibrant yellows, reds and greens. Boardwalks provide safe access through the bubbling, gurgling landscape.</p>
+  </div>]]></description>
+        <styleUrl>#style_3</styleUrl>
+        <Point>
+          <coordinates>-22.0541,63.8984,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reykjanes Geopark</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🚙 F-Road Exploration</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Explore the volcanic wonderland of the Reykjanes UNESCO Global Geopark with its lava fields, cone volcanoes, and dramatic coastlines. The peninsula sits directly on the Mid-Atlantic Ridge where the North American and Eurasian plates are pulling apart.</p>
+  </div>]]></description>
+        <styleUrl>#style_6</styleUrl>
+        <Point>
+          <coordinates>-22.4300,63.8500,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reykjanesviti Lighthouse</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🔭 Viewpoint</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Iceland's oldest lighthouse stands on a dramatic cliff edge surrounded by active geothermal areas and pounding Atlantic waves. The nearby Valahnúkur cliffs offer panoramic views across the ocean and rugged coastline, a fitting final vista of Iceland.</p>
+  </div>]]></description>
+        <styleUrl>#style_7</styleUrl>
+        <Point>
+          <coordinates>-22.7042,63.8161,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bridge Between Continents</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🚙 F-Road Exploration</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A small footbridge spanning the visible rift between the North American and Eurasian tectonic plates. Walk across the bridge for the novelty of crossing between continents in a few steps, or descend into the rift itself to touch both plates at once.</p>
+  </div>]]></description>
+        <styleUrl>#style_6</styleUrl>
+        <Point>
+          <coordinates>-22.6743,63.8680,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viking World Museum</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Cultural</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This museum houses a full-scale replica of a 9th-century Viking ship that actually sailed to America in 2000. Learn about Norse mythology, early settlement, and Viking expansion while examining authentic artifacts and interactive displays.</p>
+  </div>]]></description>
+        <styleUrl>#style_8</styleUrl>
+        <Point>
+          <coordinates>-22.5665,63.9971,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="style_0">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_1">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_2">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_3">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/volcano.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_4">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/dining.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_5">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/roadtrip.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_6">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/4x4.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_7">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/scenic.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_8">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/arts.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>

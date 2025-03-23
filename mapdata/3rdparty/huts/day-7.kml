@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Day 7 Points of Interest</name>
+    <Style id="icon-1603-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-4E342E-normal">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-4E342E-highlight">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-757575-normal">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-757575-highlight">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-4E342E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-4E342E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-4E342E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-757575">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-757575-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-757575-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="icon-1603-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Sk&#225;lar deilda F&#205;</name>
+      <Placemark>
+        <name>Lambi - Fer&#240;af&#233;lag Akureyrar</name>
+        <description>Sk&amp;#225;linn Lambi stendur &amp;#237; Gler&amp;#225;rdal su&amp;#240;vestan Akureyrar. 16 manns geta sofi&amp;#240; &amp;#237; sk&amp;#225;lanum &amp;#237; kojum. Forstofan er opin en innri sk&amp;#225;linn er l&amp;#230;stur svo alltaf &amp;#254;arf a&amp;#240; panta gistingu hj&amp;#225; Fer&amp;#240;af&amp;#233;lagi Akureyrar. Ol&amp;#237;ukabyssa og &amp;#225;h&amp;#246;ld eru &amp;#237; sk&amp;#225;lanum en s&amp;#230;kja &amp;#254;arf vatn &amp;#237; l&amp;#230;k sem er skammt sunnan sk&amp;#225;lans.&amp;#160; &amp;#160;&amp;#160;&lt;br&gt;https://www.ffa.is/is/skalar/allir-skalar/lambi</description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -18.2961666666666,65.5813333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Br&#230;&#240;rafell &#237; &#211;d&#225;&#240;ahrauni - Fer&#240;af&#233;lag Akureyrar</name>
+        <description>Fj&amp;#246;ldi: 16 manns&lt;br&gt;https://www.ffa.is/is/skalar/allir-skalar/braedrafell</description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -16.5381666666667,65.1885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>&#222;orsteinssk&#225;li &#237; Her&#240;ubrei&#240;arlindum - Fer&#240;af&#233;lag Akureyrar</name>
+        <description>Fj&amp;#246;ldi: 25 manns&lt;br&gt;https://www.ffa.is/is/skalar/allir-skalar/herdubreidarlindir-thorsteinsskali</description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -16.2231666666667,65.1926666666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Botni &#237; Su&#240;ur&#225;rbotnum - Fer&#240;af&#233;lag Akureyrar</name>
+        <description>Fj&amp;#246;ldi: 16 manns&lt;br&gt;https://www.ffa.is/is/skalar/allir-skalar/botni</description>
+        <styleUrl>#icon-1603-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            -17.0683333333334,65.2696666666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Heilagsdalur - Fer&#240;af&#233;lag H&#250;sav&#237;kur</name>
+        <description>Fj&amp;#246;ldi: 18 manns&lt;br&gt;https://www.facebook.com/FerdafelagHusavikur</description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            -16.7918999999999,65.4555666666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klyppsta&#240;ur &#237; Lo&#240;mundarfir&#240;i -&#160;Fer&#240;af&#233;lag Flj&#243;tsdalsh&#233;ra&#240;s</name>
+        <description>Fj&amp;#246;ldi: 38 manns&lt;br&gt;https://www.ferdaf.is/index.php/skalar</description>
+        <styleUrl>#icon-1603-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            -13.89645,65.36515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baugasel &#237; Bark&#225;rdal -&#160;Fer&#240;af&#233;lagi&#240; H&#246;rgur</name>
+        <description>Fj&#246;ldi: 10 manns</description>
+        <styleUrl>#icon-1603-C2185B</styleUrl>
+        <Point>
+          <coordinates>
+            -18.6116666666667,65.6566666666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>&#193; Tungnahrygg -&#160;Fer&#240;af&#233;lag Svarfd&#230;la</name>
+        <description>Fj&amp;#246;ldi: 10 + manns&lt;br&gt;https://www.facebook.com/ferdafelagsvarf/about/?ref=page_internal</description>
+        <styleUrl>#icon-1603-757575</styleUrl>
+        <Point>
+          <coordinates>
+            -18.8462999999999,65.6868333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mosi -&#160;Fer&#240;af&#233;lag Svarfd&#230;la</name>
+        <description>Fj&amp;#246;ldi: 6-10 manns&lt;br&gt;https://www.facebook.com/ferdafelagsvarf/about/?ref=page_internal</description>
+        <styleUrl>#icon-1603-757575</styleUrl>
+        <Point>
+          <coordinates>
+            -18.6983333333333,65.9573166666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Heljusk&#225;li - Fer&#240;af&#233;lag Svarfd&#230;la</name>
+        <description>Fj&amp;#246;ldi: 22&lt;br&gt;https://www.facebook.com/ferdafelagsvarf/about/?ref=page_internal</description>
+        <styleUrl>#icon-1603-757575</styleUrl>
+        <Point>
+          <coordinates>
+            -18.9607833333333,65.8279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Day 11 Points of Interest</name>
+    <Style id="line-000000-3000-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-000000-3000-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>4.5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0288D1-3000-nodesc-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>3</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-0288D1-3000-nodesc-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>4.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-9C27B0-3000-normal">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-9C27B0-3000-highlight">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>4.5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-9C27B0-3000-nodesc-normal">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>3</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-9C27B0-3000-nodesc-highlight">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>4.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-FF5252-3000-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-3000-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>4.5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-3000-nodesc-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>3</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-FF5252-3000-nodesc-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>4.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-FFEA00-3000-normal">
+      <LineStyle>
+        <color>ff00eaff</color>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FFEA00-3000-highlight">
+      <LineStyle>
+        <color>ff00eaff</color>
+        <width>4.5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FFEA00-3000-nodesc-normal">
+      <LineStyle>
+        <color>ff00eaff</color>
+        <width>3</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-FFEA00-3000-nodesc-highlight">
+      <LineStyle>
+        <color>ff00eaff</color>
+        <width>4.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text>&lt;h3&gt;$[name]&lt;/h3&gt;</text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-000000-3000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-3000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-3000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-0288D1-3000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0288D1-3000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0288D1-3000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-9C27B0-3000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-9C27B0-3000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-9C27B0-3000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-9C27B0-3000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-9C27B0-3000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-9C27B0-3000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-FF5252-3000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-3000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-3000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-FF5252-3000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-3000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-3000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-FFEA00-3000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFEA00-3000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFEA00-3000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="line-FFEA00-3000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFEA00-3000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFEA00-3000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+  </Document>
+</kml>

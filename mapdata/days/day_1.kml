@@ -1,0 +1,380 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Folder>
+      <name>Day 1</name>
+      <Placemark>
+        <name>4WD Suzuki Vitara Pickup</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🚗 Car Rental</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Pick up your 4WD Suzuki Vitara from Blue Car Rental, giving you the freedom to explore Iceland's diverse terrain, including some F-roads during your journey.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-22.6221,63.9985,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Árbær Open Air Museum</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #e8f5e9; border: 1px solid #81c784; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Cultural</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Step back in time at this collection of more than 20 relocated historic buildings forming a town square museum. Costumed guides demonstrate traditional crafts and Icelandic daily life.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-21.8187,64.1027,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arrival at Keflavík Airport</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #f3e5f5; border: 1px solid #ba68c8; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">✈️ Arrival</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Arrive at Keflavík International Airport, the gateway to your Icelandic adventure. After landing, you'll pick up your rental car and begin your journey around the Ring Road.</p>
+  </div>]]></description>
+        <styleUrl>#style_2</styleUrl>
+        <Point>
+          <coordinates>-22.6219,63.9998,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blue Lagoon Geothermal Spa</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">💆 Geothermal Spa</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Immerse yourself in the mineral-rich waters of Iceland's most famous geothermal spa. The surreal blue waters contrast beautifully with the surrounding black lava fields. Consider upgrading to include silica mud masks for the full experience. Pre-booking essential; plan for 2-3 hours.</p>
+  </div>]]></description>
+        <styleUrl>#style_3</styleUrl>
+        <Point>
+          <coordinates>-22.4495,63.8804,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Breakfast at LiBRARY bistro</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🍽️ Dining</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Enjoy your first meal in Iceland at LiBRARY bistro/bar, which opens at 8AM and offers a good selection of breakfast options.</p>
+  </div>]]></description>
+        <styleUrl>#style_4</styleUrl>
+        <Point>
+          <coordinates>-22.5621,63.9970,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dinner at Café Loki</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🍽️ Dining</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Enjoy dinner with Heather and family at this traditional Icelandic restaurant near Hallgrímskirkja, where you can try authentic local dishes.</p>
+  </div>]]></description>
+        <styleUrl>#style_4</styleUrl>
+        <Point>
+          <coordinates>-21.9269,64.1414,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grótta Lighthouse Sunset Walk</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">An <strong>easy</strong> 1-mile coastal loop around this picturesque lighthouse at the northwestern tip of Reykjavík. Perfect for Northern Lights viewing in winter or midnight sun in summer.</p>
+  </div>]]></description>
+        <styleUrl>#style_5</styleUrl>
+        <Point>
+          <coordinates>-22.0047,64.1644,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hallgrímskirkja Church</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Architecture</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Visit Reykjavík's iconic church with its distinctive architecture inspired by basalt columns. Ascend the tower for outstanding city views spanning the colorful rooftops to the surrounding mountains and sea.</p>
+  </div>]]></description>
+        <styleUrl>#style_6</styleUrl>
+        <Point>
+          <coordinates>-21.9266,64.1417,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harpa Concert Hall</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Cultural</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Explore this architectural marvel with a distinctive colored glass facade inspired by Iceland's basalt landscapes and northern lights.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-21.9327,64.1505,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hotel Fron Check-in</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏨 Lodging</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Check into Hotel Fron, centrally located on Laugavegur, Reykjavík's main shopping street. This comfortable hotel offers Double/Twin Rooms and is within walking distance of Reykjavík's main attractions, restaurants, and nightlife.</p>
+  </div>]]></description>
+        <styleUrl>#style_7</styleUrl>
+        <Point>
+          <coordinates>-21.9244,64.1434,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kleifarvatn Lake</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🛣️ Scenic Drive</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Take a detour through the lunar landscapes of Reykjanes Peninsula to this deep volcanic lake. Look for steaming vents along the eastern shore signaling geothermal activity below.</p>
+  </div>]]></description>
+        <styleUrl>#style_8</styleUrl>
+        <Point>
+          <coordinates>-22.0500,63.9000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laugardalslaug Swimming Pool</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">☔ Rainy Day</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Laugardalslaug Swimming Pool, Reykjavík's largest outdoor thermal pool complex with various hot tubs, steam baths, and water slides - a perfect introduction to Iceland's swimming culture.</p>
+  </div>]]></description>
+        <styleUrl>#style_9</styleUrl>
+        <Point>
+          <coordinates>-21.8797,64.1370,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laugavegur Shopping Street</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🛍️ Shopping</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Stroll along Reykjavík's main shopping street filled with Icelandic design stores boutiques wool shops and cozy cafés. Great for picking up unique souvenirs and watching city life unfold.</p>
+  </div>]]></description>
+        <styleUrl>#style_10</styleUrl>
+        <Point>
+          <coordinates>-21.9244,64.1434,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Museum of Iceland</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Museum</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Comprehensive exhibition covering Iceland's history from settlement to present day. The perfect introduction to Icelandic culture featuring the Valthjófsstadur Door and medieval manuscripts.</p>
+  </div>]]></description>
+        <styleUrl>#style_11</styleUrl>
+        <Point>
+          <coordinates>-21.9492,64.1425,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Perlan Museum</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">☔ Rainy Day</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Perlan Museum, featuring interactive exhibits showcasing Icelandic nature, including a real ice cave and immersive Northern Lights show, all under a distinctive glass dome with 360° city views.</p>
+  </div>]]></description>
+        <styleUrl>#style_9</styleUrl>
+        <Point>
+          <coordinates>-21.9191,64.1290,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Perlan Museum &amp; Observation Deck</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">📚 Educational</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Visit the "Pearl" of Reykjavík with its 360° observation deck and remarkable exhibitions including an indoor ice cave and immersive northern lights show.</p>
+  </div>]]></description>
+        <styleUrl>#style_12</styleUrl>
+        <Point>
+          <coordinates>-21.9156,64.1289,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Private Helicopter Tour</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">⭐ Premium Experience</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Experience the breathtaking landscapes of Iceland from above with a private helicopter tour over Reykjavík and the surrounding volcanic terrain, offering unparalleled views and photo opportunities of the capital region.</p>
+  </div>]]></description>
+        <styleUrl>#style_13</styleUrl>
+        <Point>
+          <coordinates>-21.9400,64.1300,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Raufarholshellir Lava Tunnel</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🕳️ Cave Exploration</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Explore one of Iceland's longest lava tubes just 30 minutes from Reykjavík. The colorful formations and ice sculptures during winter make this a magical underground experience.</p>
+  </div>]]></description>
+        <styleUrl>#style_14</styleUrl>
+        <Point>
+          <coordinates>-21.6037,63.9526,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reykjavík Maritime Museum</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Cultural</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Learn about Iceland's seafaring history and its intimate relationship with the ocean. The museum includes an actual Coast Guard vessel you can explore.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-21.9480,64.1520,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sun Voyager Sculpture</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">📸 Photography</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Sun Voyager sculpture (Sólfar), a striking stainless steel boat skeleton on Reykjavík's waterfront offering magnificent views of Mount Esja across the bay.</p>
+  </div>]]></description>
+        <styleUrl>#style_15</styleUrl>
+        <Point>
+          <coordinates>-21.9227,64.1478,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The National Museum of Iceland</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">☔ Rainy Day</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">The National Museum of Iceland, offering a comprehensive overview of Icelandic history from settlement to present day through fascinating artifacts and interactive displays.</p>
+  </div>]]></description>
+        <styleUrl>#style_9</styleUrl>
+        <Point>
+          <coordinates>-21.9492,64.1425,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thermal Beach Swimming</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏞️ Outdoor Recreation</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Experience the unique pleasure of swimming at Reykjavík's artificial geothermal beach where hot water is pumped into a protected bay creating comfortable swimming conditions.</p>
+  </div>]]></description>
+        <styleUrl>#style_16</styleUrl>
+        <Point>
+          <coordinates>-21.8901,64.1157,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whales of Iceland Exhibition</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">📚 Educational</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Europe's largest whale exhibition featuring life-size models of the 23 whale species found in Icelandic waters. Interactive displays explain whale biology and conservation efforts.</p>
+  </div>]]></description>
+        <styleUrl>#style_12</styleUrl>
+        <Point>
+          <coordinates>-21.9500,64.1510,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="style_0">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/cabs.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_1">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/arts.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_2">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_3">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/swimming.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_4">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/dining.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_5">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_6">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/landmark.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_7">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/lodging.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_8">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/roadtrip.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_9">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/rainy.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_10">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_11">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/museum.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_12">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/schools.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_13">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_14">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/mountains.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_15">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_16">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/trail.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>

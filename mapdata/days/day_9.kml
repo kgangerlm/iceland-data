@@ -1,0 +1,232 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Folder>
+      <name>Day 9</name>
+      <Placemark>
+        <name>Arnastapi Coastal Walk</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This <strong>easy</strong> coastal trail between Arnastapi and Hellnar villages offers stunning views of basalt columns, natural arches, and bird cliffs. Watch for nesting kittiwakes and fulmars in the cliffs, and keep an eye out for the half-man, half-troll stone statue of Bárður.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-23.6231,64.7651,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bjarnarhöfn Shark Museum</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Cultural</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Learn about the traditional fermentation process of hákarl (fermented shark), Iceland's notorious national dish. The museum includes a tasting - a true Viking culinary challenge that most visitors find memorable if not entirely pleasant.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-23.0385,64.9897,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Budir Black Church</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">📸 Photography</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This striking black wooden church stands in stark contrast to its surrounding lava fields and mountains. Built in 1848, the isolated church against the dramatic Snæfellsnes landscape makes for one of Iceland's most iconic photo opportunities.</p>
+  </div>]]></description>
+        <styleUrl>#style_2</styleUrl>
+        <Point>
+          <coordinates>-23.3834,64.8254,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dritvík Cove</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">💎 Hidden Gem</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Once Iceland's largest fishing station, this now-abandoned cove features the famous Lifting Stones, used historically to test fishermen's strength. Four stones of different weights remain for visitors to test their own strength against the ancient fishermen.</p>
+  </div>]]></description>
+        <styleUrl>#style_3</styleUrl>
+        <Point>
+          <coordinates>-23.8690,64.7511,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eldborg Crater Hike</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This <strong>moderate</strong> 6 km roundtrip hike leads to a perfectly formed crater rising 60 meters from the surrounding lava field. The classic conical shape with its red rim makes it look like a fortress (which is what 'eldborg' means in Icelandic).</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-22.2788,64.7800,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fosshotel Stykkishólmur</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏨 Lodging</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Modern hotel located in the heart of the charming fishing town of Stykkishólmur. The rooms offer views of the town, harbor, or Breiðafjörður Bay, and the hotel restaurant features fresh local seafood and Icelandic specialties.</p>
+  </div>]]></description>
+        <styleUrl>#style_4</styleUrl>
+        <Point>
+          <coordinates>-22.7252,65.0769,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kirkjufell Mountain</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">📸 Photography</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Iceland's most photographed mountain, featured in Game of Thrones as 'Arrowhead Mountain.' The classic shot includes Kirkjufellsfoss waterfall in the foreground with the distinctively shaped 463m mountain behind. Best photographed in late evening light or under northern lights.</p>
+  </div>]]></description>
+        <styleUrl>#style_2</styleUrl>
+        <Point>
+          <coordinates>-23.3069,64.9419,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Langaholt Beach Dinner</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🍽️ Dining</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Enjoy dinner at this family-run restaurant on a golden beach with a magnificent mountain backdrop. Known for some of the best seafood soup on the peninsula and freshly caught fish. Try their renowned homemade cakes for dessert.</p>
+  </div>]]></description>
+        <styleUrl>#style_5</styleUrl>
+        <Point>
+          <coordinates>-23.2370,64.7903,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lóndrangar Basalt Cliffs</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🔭 Viewpoint</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">These dramatic basalt pinnacles rise up to 75 meters from the ocean and are home to thousands of seabirds. According to local folklore, the cliffs are actually trolls who were caught by daylight while trying to capture a ship.</p>
+  </div>]]></description>
+        <styleUrl>#style_6</styleUrl>
+        <Point>
+          <coordinates>-23.7739,64.7418,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rauðfeldsgjá Gorge</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A <strong>moderate</strong> hike through a dramatic moss-covered ravine that slices deep into the mountain. The further you venture inside, the more challenging it becomes, eventually requiring wading through a small stream to reach the rewarding open chamber with light streaming down.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-23.7702,64.7788,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snæfellsjökull National Park</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌈 Natural Wonder</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Dominated by the 700,000-year-old glacier-capped Snæfellsjökull volcano, this park was the setting for Jules Verne's 'Journey to the Center of the Earth.' The diverse landscape features lava fields, caves, black and golden beaches, waterfalls, and jagged cliffs all in one compact area.</p>
+  </div>]]></description>
+        <styleUrl>#style_7</styleUrl>
+        <Point>
+          <coordinates>-23.7759,64.8084,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snæfellsjökull Glacier Snowcat Tour</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">❄️ Ice Adventure</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Journey to the top of the famous glacier-capped volcano on a specialized snowcat vehicle. The glacier offers spectacular panoramic views across the peninsula and out to sea, and is believed by some to be one of the world's major energy centers.</p>
+  </div>]]></description>
+        <styleUrl>#style_8</styleUrl>
+        <Point>
+          <coordinates>-23.7759,64.8084,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stykkishólmur Harbor Stroll</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Cultural</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Explore this charming fishing town with its colorful Norwegian-style houses and bustling harbor. Visit the futuristic church, climb the basalt island Súgandisey for harbor views, and stop at the Library of Water art installation featuring melted glacier samples.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-22.7252,65.0769,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viking Sushi Boat Tour</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🦊 Wildlife</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A boat tour around the countless islands of Breiðafjörður Bay with stunning birdlife including puffins and white-tailed eagles. The boat crew pulls up shellfish traps during the journey and serves the catch as 'Viking sushi' - scallops and sea urchins eaten raw moments after harvesting.</p>
+  </div>]]></description>
+        <styleUrl>#style_9</styleUrl>
+        <Point>
+          <coordinates>-22.7252,65.0769,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="style_0">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_1">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/arts.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_2">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_3">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_4">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/lodging.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_5">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/dining.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_6">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/scenic.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_7">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_8">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/snowflake_simple.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_9">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>

@@ -309,6 +309,33 @@ Preference: see major sites in route to Grundarfjörður, get in something activ
 Preference: explore Snæfellsnes Peninsula and area
 
 
+## Resources
+
+### Planning Resources
+
+* **Guidebooks:**
+  * Lonely Planet Iceland: [Lonely Planet](https://shop.lonelyplanet.com/products/iceland-14)
+  * Moon Iceland: [Moon Iceland](https://www.moon.com/titles/karen-carlsen/moon-iceland/9781640499834/)
+
+* **Icelandic Tourist Board:** [Visit Iceland](https://www.visiticeland.com/)
+* **Inspired by Iceland:** [Inspired by Iceland](https://www.inspiredbyiceland.com/)
+* **South Iceland:** [South Iceland](https://www.south.is/)
+* **East Iceland:** [East Iceland](https://www.east.is/)
+* **North Iceland:** [North Iceland](https://www.northiceland.is/)
+* **West Iceland:** [West Iceland](https://www.west.is/)
+* **Road Conditions (Planning):** [Umferðin](https://umferdin.is/en) (Icelandic Road and Coastal Administration)
+* **Hiking Trails:** [All Trails](https://www.alltrails.com/iceland)
+* **Weather Forecasts (Planning):** [Vedur.is](https://en.vedur.is/) (Icelandic Met Office)
+
+### On-the-Ground Resources
+
+* **Road Conditions (Real-time):** [Umferdin.is](https://umferdin.is/en) (also available as a mobile app) - *Essential for checking road closures, conditions, and webcams.*
+* **Weather Forecasts (Real-time):** [Vedur.is](https://en.vedur.is/) (also available as a mobile app) - *Check frequently, as Icelandic weather is unpredictable.*
+* **Emergency Number:** 112 (for police, fire, ambulance)
+* **SafeTravel Iceland:** [SafeTravel.is](https://safetravel.is/) - *Provides alerts and safety information, including a travel plan submission option.*
+* **Aurora Forecast:** [Aurora Forecast (Vedur.is)](https://en.vedur.is/weather/forecasts/aurora/) - *While July has almost 24-hour daylight, this is useful for future trips.*
+* **Tide Times:** [Tide Times](https://tide.is/)
+
 
  
 

@@ -1,0 +1,265 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Folder>
+      <name>Day 7</name>
+      <Placemark>
+        <name>Arctic Henge</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">💎 Hidden Gem</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This modern monument is Iceland's answer to Stonehenge, designed to capture the midnight sun. Four gates and 68 dwarves (from Norse mythology) are positioned according to the movement of the sun.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-15.9425,66.4560,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ásbyrgi Canyon</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌈 Natural Wonder</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This horseshoe-shaped canyon, according to Norse mythology, was formed by the footprint of Odin's eight-legged horse. The forested canyon floor (rare in Iceland) and 100m high cliffs create a unique microclimate and atmosphere.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-16.5058,66.0244,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eider Duck Down Farm</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🦊 Wildlife</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Visit a traditional eider farm where farmers have a symbiotic relationship with wild eider ducks. Learn how the world's most expensive down is sustainably harvested from abandoned nests without harming the birds.</p>
+  </div>]]></description>
+        <styleUrl>#style_2</styleUrl>
+        <Point>
+          <coordinates>-17.3389,66.0449,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Goðafoss Waterfall</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🌈 Natural Wonder</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">The "Waterfall of the Gods" earned its name when Iceland's lawspeaker threw his pagan idols into the falls upon converting to Christianity in 1000 CE. The horseshoe-shaped falls can be viewed from both banks.</p>
+  </div>]]></description>
+        <styleUrl>#style_1</styleUrl>
+        <Point>
+          <coordinates>-17.5503,65.6828,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hofsós Swimming Pool</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">♨️ Hot Spring</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This stunning infinity pool appears to merge with the fjord below creating the illusion of swimming in the ocean. Designed by the same architect as the Blue Lagoon but far less crowded.</p>
+  </div>]]></description>
+        <styleUrl>#style_3</styleUrl>
+        <Point>
+          <coordinates>-19.4077,65.8998,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hólar Cathedral</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Cultural</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">One of Iceland's historical power centers and home to its oldest stone church. The site has been a religious center since 1106 and features an excellent museum of religious artifacts.</p>
+  </div>]]></description>
+        <styleUrl>#style_4</styleUrl>
+        <Point>
+          <coordinates>-19.1139,65.7346,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hvítserkur Sea Stack</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">📸 Photography</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This 15-meter high basalt stack resembles either a drinking dragon or elephant depending on your perspective. According to folklore, it's a troll caught by the sunrise. Best photographed at low tide.</p>
+  </div>]]></description>
+        <styleUrl>#style_5</styleUrl>
+        <Point>
+          <coordinates>-20.6412,65.6070,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaldi Brewery Tour</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #e3f2fd; border: 1px solid #64b5f6; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🍲 Culinary</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Tour Iceland's first microbrewery making Czech-style beers with pure Icelandic water. The brewery's beer bath spa lets you soak in young beer while drinking from your own tap.</p>
+  </div>]]></description>
+        <styleUrl>#style_6</styleUrl>
+        <Point>
+          <coordinates>-18.1772,65.9556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kolugljúfur Canyon and Waterfall</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">💎 Hidden Gem</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This dramatic canyon features a series of waterfalls tumbling through its depths. Named after the giantess Kola who according to legend dug the canyon. Far less visited than other falls despite easy access.</p>
+  </div>]]></description>
+        <styleUrl>#style_0</styleUrl>
+        <Point>
+          <coordinates>-20.5631,65.3353,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kjarnaskógur Forest Hiking Trails</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🥾 Hiking</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Multiple <strong>easy</strong> trails through Iceland's largest forest recreation area offering respite from the typically barren Icelandic landscape. Features exercise equipment picnic areas and BBQ facilities.</p>
+  </div>]]></description>
+        <styleUrl>#style_7</styleUrl>
+        <Point>
+          <coordinates>-18.1400,65.6400,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reykjafoss Waterfall &amp; Hot Pool</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">♨️ Hot Spring</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">A natural hot pool located directly beside a waterfall where cool water from the falls mixes with the steaming spring creating customizable temperatures. No facilities but often empty even in summer.</p>
+  </div>]]></description>
+        <styleUrl>#style_3</styleUrl>
+        <Point>
+          <coordinates>-19.3800,65.5200,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seal Watching at Vatnsnes</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🦊 Wildlife</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Visit the best location in Iceland to view wild seals in their natural habitat. The Icelandic Seal Center in Hvammstangi provides exhibits on seal biology and conservation and directions to the best viewing spots.</p>
+  </div>]]></description>
+        <styleUrl>#style_2</styleUrl>
+        <Point>
+          <coordinates>-20.8000,65.6000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sigló Hótel</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #fff9c4; border: 1px solid #fff176; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏨 Lodging</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">This upscale waterfront hotel, situated in a former fishing town, offers stylish rooms with mountain or marina views. The hotel features a restaurant specializing in local seafood and a marina-side hot pot perfect for viewing the northern lights in winter or midnight sun in summer.</p>
+  </div>]]></description>
+        <styleUrl>#style_8</styleUrl>
+        <Point>
+          <coordinates>-18.9090,66.1517,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Siglufjörður Herring Era Museum</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🏛️ Cultural</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Award-winning museum showcasing Iceland's herring boom years that transformed the economy. Summer visitors can witness the "Herring Girls" salt fish while singing traditional work songs.</p>
+  </div>]]></description>
+        <styleUrl>#style_4</styleUrl>
+        <Point>
+          <coordinates>-18.9090,66.1517,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Siglufjörður Road Trip</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🛣️ Scenic Drive</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">The dramatic drive to this northernmost town passes through tunnels carved into massive mountains and along spectacular fjord coastlines. The road itself is considered one of Iceland's greatest engineering feats.</p>
+  </div>]]></description>
+        <styleUrl>#style_9</styleUrl>
+        <Point>
+          <coordinates>-18.9090,66.1517,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tröllaskagi Peninsula Drive</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">🛣️ Scenic Drive</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">One of Iceland's most dramatic mountain roads with steep switchbacks, narrow tunnels, and views across deep fjords. The name means 'Troll Peninsula' and the jagged peaks do resemble a line of trolls. Watch for wild horses and stop at the picturesque fishing villages along the way.</p>
+  </div>]]></description>
+        <styleUrl>#style_9</styleUrl>
+        <Point>
+          <coordinates>-19.0000,65.9000,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Víti Crater Lake Swim</name>
+        <description><![CDATA[<div style="font-family: Arial, sans-serif; max-width: 400px; background-color: #eceff1; border: 1px solid #b0bec5; padding: 12px; border-radius: 5px; margin: 8px 0;">
+    <h3 style="margin-top: 0; color: #333;">♨️ Hot Spring</h3>
+    <p style="font-size: 16px; line-height: 1.5; color: #444;">Swim in this geothermally heated crater lake whose name means 'Hell' - the opaque blue water hovering around 22°C contrasts with the barren surrounding highlands. A 4x4 vehicle and significant hiking required.</p>
+  </div>]]></description>
+        <styleUrl>#style_3</styleUrl>
+        <Point>
+          <coordinates>-16.7300,65.0500,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="style_0">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_1">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_2">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_3">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_4">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/arts.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_5">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_6">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/coffee.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_7">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_8">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/lodging.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style_9">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/roadtrip.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  </Document>
+</kml>
