@@ -1,0 +1,1397 @@
+I am going to give you an example html itenary to remember for later.  It is very important that you use this for  HTML and CSS structure provided in the example. Do not use this data to influence the content of the itenerary. 
+
+<example>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>11-Day Iceland Ring Road Adventure</title>
+/* Import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Open+Sans:wght@300;400;600&family=Playfair+Display:wght@400;700&display=swap');
+
+:root {
+  --primary: #3498db;
+  --primary-dark: #2980b9;
+  --secondary: #2c3e50;
+  --light: #f8f9fa;
+  --accent: #e67e22;
+  --success: #28a745;
+  --warning: #ffc107;
+  --danger: #dc3545;
+  --gray-light: #ecf0f1;
+  --gray: #95a5a6;
+  --light-blue: #d1ecf1;
+  --light-yellow: #fff3cd;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.7;
+  color: var(--secondary);
+  background-color: var(--light);
+  overflow-x: hidden;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Header styles */
+header {
+  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), 
+    url('https://res.cloudinary.com/enchanting/q_80,f_auto,c_lfill,w_1920,h_400,g_auto/exodus-web/2021/12/kirkjufellsfoss_iceland.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 160px 0 100px;
+  text-align: center;
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.4);
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 0.3em;
+  font-weight: 700;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+.subtitle {
+  font-size: 1.8em;
+  margin-bottom: 2em;
+  font-weight: 300;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+/* Trip overview section */
+.overview-section {
+  padding: 60px 0;
+  background-color: white;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 2.5em;
+  margin-bottom: 1.5em;
+  color: var(--secondary);
+  position: relative;
+  padding-bottom: 15px;
+}
+
+.section-title:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+  height: 4px;
+  background-color: var(--primary);
+}
+
+/* Itinerary cards */
+.itinerary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 25px;
+  margin-top: 30px;
+}
+
+.itinerary-card {
+  background-color: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.05), 0 6px 6px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.itinerary-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 30px rgba(0,0,0,0.1), 0 10px 10px rgba(0,0,0,0.05);
+}
+
+.card-header {
+  background-color: var(--primary);
+  color: white;
+  padding: 15px 20px;
+  font-weight: 600;
+}
+
+.card-header h3 {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.card-date {
+  font-size: 0.85em;
+  opacity: 0.9;
+  font-weight: 400;
+}
+
+.card-content {
+  padding: 20px;
+}
+
+.card-highlight {
+  font-weight: 600;
+  color: var(--primary-dark);
+  margin-bottom: 10px;
+}
+
+.card-route {
+  font-size: 0.9em;
+  color: var(--gray);
+  margin-bottom: 15px;
+}
+
+.card-route strong {
+  color: var(--secondary);
+}
+
+.card-details {
+  display: inline-block;
+  background-color: var(--primary);
+  color: white;
+  text-decoration: none;
+  padding: 8px 15px;
+  border-radius: 50px;
+  font-size: 0.9em;
+  transition: background-color 0.2s ease;
+  margin-top: 10px;
+}
+
+.card-details:hover {
+  background-color: var(--primary-dark);
+}
+
+/* Map section */
+.map-section {
+  padding: 40px 0 60px;
+  background-color: var(--light);
+}
+
+.map-container {
+  height: 500px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+.map-container iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* Day details section */
+.day-section {
+  padding: 60px 0;
+  background-color: white;
+}
+
+.day-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.day-title {
+  flex: 1;
+  margin: 0;
+  font-size: 2.2em;
+  color: var(--secondary);
+}
+
+.day-date {
+  font-size: 1.2em;
+  color: var(--primary);
+  font-weight: 400;
+}
+
+.day-image {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 25px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+.quote-box {
+  font-family: 'Playfair Display', serif;
+  padding: 25px;
+  background-color: var(--light);
+  border-left: 5px solid var(--primary);
+  margin: 25px 0;
+  border-radius: 8px;
+  font-style: italic;
+  font-size: 1.2em;
+  color: var(--secondary);
+  position: relative;
+}
+
+.quote-box:before {
+  content: '"';
+  font-size: 5em;
+  position: absolute;
+  opacity: 0.1;
+  top: -15px;
+  left: 10px;
+  font-family: Georgia, serif;
+}
+
+.daily-summary {
+  background-color: var(--light);
+  padding: 25px;
+  border-radius: 12px;
+  margin-bottom: 30px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+}
+
+.summary-title {
+  font-weight: 600;
+  color: var(--primary-dark);
+  margin-bottom: 10px;
+  font-size: 1.1em;
+}
+
+.drive-info {
+  margin-top: 15px;
+}
+
+.drive-info li {
+  position: relative;
+  margin-bottom: 8px;
+  padding-left: 20px;
+  list-style-type: none;
+}
+
+.drive-info li:before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 10px;
+  width: 8px;
+  height: 8px;
+  background-color: var(--primary);
+  border-radius: 50%;
+}
+
+.day-schedule {
+  margin-top: 40px;
+}
+
+.schedule-section {
+  margin-bottom: 40px;
+}
+
+.section-heading {
+  font-size: 1.4em;
+  color: var(--primary-dark);
+  margin-bottom: 20px;
+  position: relative;
+  padding-left: 20px;
+}
+
+.section-heading:before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 10px;
+  height: 10px;
+  background-color: var(--primary);
+  border-radius: 50%;
+}
+
+.activity-timeline {
+  position: relative;
+  padding-left: 30px;
+}
+
+.activity-timeline:before {
+  content: '';
+  position: absolute;
+  left: 5px;
+  top: 0;
+  height: 100%;
+  width: 2px;
+  background-color: var(--gray-light);
+}
+
+.activity-item {
+  position: relative;
+  padding-bottom: 25px;
+}
+
+.activity-time {
+  position: absolute;
+  left: -30px;
+  top: 0;
+  background-color: var(--primary);
+  color: white;
+  font-size: 0.8em;
+  padding: 2px 8px;
+  border-radius: 50px;
+  transform: translateX(-50%);
+  white-space: nowrap;
+}
+
+.activity-content {
+  background-color: var(--light);
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+}
+
+.activity-title {
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.activity-desc {
+  font-size: 0.95em;
+}
+
+.sub-activities {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+.sub-activities li {
+  position: relative;
+  margin-bottom: 5px;
+  padding-left: 15px;
+  list-style-type: none;
+}
+
+.sub-activities li:before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 10px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: var(--primary);
+  opacity: 0.5;
+}
+
+.featured {
+  background-color: var(--light-yellow);
+  border-left: 4px solid var(--warning);
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-weight: 600;
+  color: var(--secondary);
+}
+
+.gem {
+  background-color: var(--light-blue);
+  border-left: 4px solid var(--primary);
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-weight: 600;
+  color: var(--secondary);
+}
+
+/* Highlights, accommodations, alternatives sections */
+.highlights-section, .accommodations-section, .alternatives-section {
+  margin-top: 40px;
+  padding: 25px;
+  background-color: var(--light);
+  border-radius: 12px;
+}
+
+.highlights-section h4, .accommodations-section h4, .alternatives-section h4 {
+  font-size: 1.3em;
+  margin-bottom: 15px;
+  color: var(--primary-dark);
+}
+
+.highlights-list, .alternatives-list {
+  list-style: none;
+}
+
+.highlights-list li, .alternatives-list li {
+  position: relative;
+  padding-left: 25px;
+  margin-bottom: 10px;
+}
+
+.highlights-list li:before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: var(--success);
+  font-weight: bold;
+}
+
+.alternatives-list li:before {
+  content: '•';
+  position: absolute;
+  left: 8px;
+  color: var(--primary);
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.accommodations-details {
+  line-height: 1.6;
+}
+
+.accommodations-details strong {
+  color: var(--primary-dark);
+}
+
+/* Tip boxes and notes */
+.tip-box, .notes-box {
+  padding: 20px;
+  margin: 30px 0;
+  border-radius: 12px;
+  position: relative;
+  padding-left: 60px;
+}
+
+.tip-box {
+  background-color: #d4edda;
+  border: 1px solid #c3e6cb;
+  color: #155724;
+}
+
+.notes-box {
+  background-color: #f8d7da;
+  border: 1px solid #f5c6cb;
+  color: #721c24;
+}
+
+.tip-box:before, .notes-box:before {
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.4em;
+  font-weight: bold;
+}
+
+.tip-box:before {
+  content: '🔍';
+}
+
+.notes-box:before {
+  content: '⚠️';
+}
+
+/* Resources section */
+.resources-section {
+  padding: 60px 0;
+  background-color: var(--light);
+}
+
+.resources-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.resource-card {
+  background-color: white;
+  border-radius: 12px;
+  padding: 25px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+}
+
+.resource-card h3 {
+  font-size: 1.3em;
+  margin-bottom: 15px;
+  color: var(--primary-dark);
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--gray-light);
+}
+
+.resource-card ul {
+  list-style: none;
+}
+
+.resource-card li {
+  margin-bottom: 10px;
+}
+
+.resource-card a {
+  color: var(--primary);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.resource-card a:hover {
+  color: var(--primary-dark);
+  text-decoration: underline;
+}
+
+.note {
+  font-size: 0.9em;
+  color: var(--gray);
+  font-style: italic;
+  display: block;
+  margin-top: 3px;
+}
+
+/* Footer */
+footer {
+  background-color: var(--secondary);
+  color: white;
+  padding: 50px 0 20px;
+  text-align: center;
+}
+
+footer p {
+  margin-bottom: 15px;
+  font-size: 0.9em;
+  opacity: 0.8;
+}
+
+/* Media queries */
+@media (max-width: 992px) {
+  .itinerary-grid {
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  }
+  
+  .day-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .day-title {
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2.5em;
+  }
+  
+  .subtitle {
+    font-size: 1.5em;
+  }
+  
+  .section-title {
+    font-size: 2em;
+  }
+  
+  .day-title {
+    font-size: 1.8em;
+  }
+  
+  .day-image {
+    height: 300px;
+  }
+  
+  .resources-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 576px) {
+  header {
+    padding: 120px 0 80px;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  .subtitle {
+    font-size: 1.2em;
+  }
+  
+  .itinerary-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .section-title {
+    font-size: 1.8em;
+  }
+  
+  .day-title {
+    font-size: 1.6em;
+  }
+  
+  .quote-box {
+    font-size: 1em;
+  }
+  
+  .activity-time {
+    font-size: 0.75em;
+  }
+}
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>11-Day Iceland Ring Road Adventure</h1>
+      <div class="subtitle">July 14-24, 2025</div>
+    </div>
+  </header>
+  
+  <section class="overview-section">
+    <div class="container">
+      <h2 class="section-title">Trip Overview</h2>
+      
+      <div class="itinerary-grid">
+        <div class="itinerary-card">
+          <div class="card-header">
+            <h3>Day 1</h3>
+            <div class="card-date">July 14</div>
+          </div>
+          <div class="card-content">
+            <div class="card-highlight">Arrival & Blue Lagoon</div>
+            <div class="card-route"><strong>Route:</strong> Keflavík → Reykjavík</div>
+            <p>Arrival, relaxation at the Blue Lagoon, and exploring Reykjavík.</p>
+            <a href="#day1" class="card-details">View Details</a>
+          </div>
+        </div>
+        
+        <div class="itinerary-card">
+          <div class="card-header">
+            <h3>Day 2</h3>
+            <div class="card-date">July 15</div>
+          </div>
+          <div class="card-content">
+            <div class="card-highlight">Golden Circle & Thermal River</div>
+            <div class="card-route"><strong>Route:</strong> Reykjavík → Selfoss</div>
+            <p>Classic Golden Circle sights and a unique hot spring hike.</p>
+            <a href="#day2" class="card-details">View Details</a>
+          </div>
+        </div>
+        
+      
+        
+
+          <div class="card-header">
+            <h3>Day 11</h3>
+            <div class="card-date">July 24</div>
+          </div>
+          <div class="card-content">
+            <div class="card-highlight">Return Journey & Departure</div>
+            <div class="card-route"><strong>Route:</strong> Akranes → Keflavík</div>
+            <p>Final sightseeing and departure from Iceland.</p>
+            <a href="#day11" class="card-details">View Details</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <section class="map-section">
+    <div class="container">
+      <h2 class="section-title">Trip Overview Map</h2>
+      <div class="map-container">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d1752879.3418148216!2d-23.521242217797806!3d64.99371377992363!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0x48d6f2cb845b220d%3A0x312a663b9c1e8e40!2sKeflavik%20International%20Airport%2C%20235%20Keflavíkurflugvöllur%2C%20Iceland!3m2!1d63.985001499999996!2d-22.6209411!4m5!1s0x48d674b9eedcedc3%3A0xec912ca230d26071!2sReykjavík%2C%20Iceland!3m2!1d64.1469868!2d-21.9407552!4m5!1s0x48d66bf2e95cda55%3A0x11c62cad9dda2965!2sSelfoss%2C%20Iceland!3m2!1d63.9338617!2d-21.0066658!4m5!1s0x48d73b86bc86b7cf%3A0x34fefc6da6171285!2sVík%2C%20Iceland!3m2!1d63.4186809!2d-19.0060479!4m5!1s0x48cfaff2213b2df9%3A0x7a686d501326f505!2sHöfn%2C%20Iceland!3m2!1d64.2538323!2d-15.1996741!4m5!1s0x48cda383712cafb1%3A0xf6cd75b5053aea9!2sBorgarfjörður%20eystri%2C%20Iceland!3m2!1d65.5254045!2d-13.8117207!4m5!1s0x48d28f772b198437%3A0xd47afe9866c2611f!2sAkureyri%2C%20Iceland!3m2!1d65.6830573!2d-18.0997365!4m5!1s0x48d2e11d506233ff%3A0xbd841266c6d64bed!2sSiglufjörður%2C%20Iceland!3m2!1d66.1512682!2d-18.9089954!4m5!1s0x48d57c2ac6f1f5a5%3A0x241a501d7881465d!2sGrundarfjörður%2C%20Iceland!3m2!1d64.9248897!2d-23.2610023!4m5!1s0x48d60b3a93b1e76b%3A0x7308c3f0e896de79!2sAkranes%2C%20Iceland!3m2!1d64.3202215!2d-22.0786768!5e0!3m2!1sen!2sus!4v1629210188780!5m2!1sen!2sus" allowfullscreen="" loading="lazy"></iframe>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Day 1 Section -->
+  <section id="day1" class="day-section">
+    <div class="container">
+      <div class="day-header">
+        <h2 class="day-title">🌊 Day 1: Arrival & Blue Lagoon</h2>
+        <div class="day-date">July 14</div>
+      </div>
+      
+      <img src="https://raw.githubusercontent.com/kgangerlm/iceland-data/refs/heads/main/images/day1.jpg" alt="Blue Lagoon, Iceland" class="day-image">
+      
+      <div class="quote-box">
+        "The best journeys answer questions that in the beginning you didn't even think to ask." - 180 Degrees South
+      </div>
+      
+      <div class="daily-summary">
+        <div class="summary-title">Day Summary</div>
+        <p>Arrival, relaxation at the Blue Lagoon, and settling into Reykjavík.</p>
+        
+        <div class="drive-info">
+          <strong>Total Driving:</strong> ~63 km (39 miles), ~1 hour 5 minutes
+          <ul>
+            <li>Keflavík Airport to Blue Lagoon: ~23 km (14 miles), ~20 minutes</li>
+            <li>Blue Lagoon to Reykjavík: ~40 km (25 miles), ~45 minutes</li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="map-container">
+        <iframe src="https://www.google.com/maps/d/embed?mid=14SQO22uQjMOhV9Q8E7FtIW0fXMesXQw&ehbc=2E312F&noprof=1" width="100%" height="380"></iframe>
+      </div>
+      
+      <div class="day-schedule">
+        <div class="schedule-section">
+          <h3 class="section-heading">Morning (Arrival & Relaxation)</h3>
+          <div class="activity-timeline">
+            <div class="activity-item">
+              <span class="activity-time">08:00</span>
+              <div class="activity-content">
+                <div class="activity-title">Arrive at Keflavík International Airport (KEF)</div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">08:30</span>
+              <div class="activity-content">
+                <div class="activity-title">Pick up 4WD Suzuki Vitara from Blue Car Rental</div>
+                <div class="activity-desc">Confirm location and shuttle details on their website: <a href="https://www.bluecarrental.is/" target="_blank">Blue Car Rental</a></div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">08:45</span>
+              <div class="activity-content">
+                <div class="activity-title">Duty-free liquor purchase (optional)</div>
+                <div class="activity-desc">Recommended for cost savings</div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">09:00</span>
+              <div class="activity-content">
+                <div class="activity-title">Breakfast at LiBRARY bistro/bar</div>
+                <div class="activity-desc">Confirm opening hours: <a href="https://www.facebook.com/librarybistro" target="_blank">LiBRARY bistro/bar</a></div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">09:45</span>
+              <div class="activity-content">
+                <div class="activity-title">Drive to the Blue Lagoon (~20 minutes)</div>
+                <div class="activity-desc"><a href="https://www.bluelagoon.com/" target="_blank">Blue Lagoon website</a></div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">10:00</span>
+              <div class="activity-content">
+                <div class="activity-title"><span class="featured">Blue Lagoon</span></div>
+                <div class="activity-desc">Enjoy the geothermal waters. Pre-booking is <strong>essential</strong>. Allocate 2-3 hours.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="schedule-section">
+          <h3 class="section-heading">Afternoon (Reykjavík)</h3>
+          <div class="activity-timeline">
+            <div class="activity-item">
+              <span class="activity-time">13:00</span>
+              <div class="activity-content">
+                <div class="activity-title">Drive to Reykjavík (~45 minutes)</div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">13:45</span>
+              <div class="activity-content">
+                <div class="activity-title">Grocery shopping</div>
+                <div class="activity-desc">
+                  <a href="https://bonus.is/en/" target="_blank">Bonus</a> or 
+                  <a href="https://kronan.is/" target="_blank">Kronan</a>
+                </div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">14:30</span>
+              <div class="activity-content">
+                <div class="activity-title">Check into Hotel Fron</div>
+                <div class="activity-desc">
+                  Laugavegur 22A
+                  <a href="https://hotelfron.is/" target="_blank">Hotel Fron website</a>
+                </div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">15:00</span>
+              <div class="activity-content">
+                <div class="activity-title">Meet Heather and family</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="schedule-section">
+          <h3 class="section-heading">Evening (Reykjavík Exploration)</h3>
+          <div class="activity-timeline">
+            <div class="activity-item">
+              <span class="activity-time">17:00</span>
+              <div class="activity-content">
+                <div class="activity-title">Explore downtown Reykjavík</div>
+                <ul class="sub-activities">
+                  <li><a href="https://hallgrimskirkja.is/en/" target="_blank">Hallgrímskirkja Church</a> (tower access for views)</li>
+                  <li><a href="https://www.harpa.is/en/" target="_blank">Harpa Concert Hall</a></li>
+                  <li>Sun Voyager sculpture</li>
+                </ul>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">19:00</span>
+              <div class="activity-content">
+                <div class="activity-title">Dinner with Heather and family</div>
+                <div class="activity-desc">
+                  <a href="https://www.cafeloki.is/" target="_blank">Café Loki</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="highlights-section">
+        <h4>Key Highlights of the Day</h4>
+        <ul class="highlights-list">
+          <li>Soaking in the Blue Lagoon's mineral-rich geothermal waters, renowned for their healing properties.</li>
+          <li>Panoramic views from Hallgrímskirkja Church, offering a colorful vista of Reykjavík's distinctive rooftops.</li>
+          <li>Experiencing authentic Icelandic cuisine at Café Loki, including traditional dishes like fermented shark and rye bread ice cream.</li>
+        </ul>
+      </div>
+      
+      <div class="accommodations-section">
+        <h4>Accommodations</h4>
+        <div class="accommodations-details">
+          <strong>Hotel Fron</strong>, Laugavegur 22A, Reykjavík. Double/Twin Rooms. This centrally located hotel puts you right on Reykjavík's main shopping street, within walking distance of major attractions.
+        </div>
+      </div>
+      
+      <div class="alternatives-section">
+        <h4>Alternative Activities</h4>
+        <ul class="alternatives-list">
+          <li><a href="https://perlanmuseum.is/" target="_blank">Perlan Museum</a>: Interactive exhibits showcasing Icelandic nature, including a real ice cave.</li>
+          <li><a href="https://www.visitreykjavik.is/laugardalslaug" target="_blank">Laugardalslaug Swimming Pool</a>: Largest in Reykjavík with hot tubs of varying temperatures.</li>
+          <li><a href="https://www.visitreykjavik.is/grotta" target="_blank">Grótta Lighthouse</a>: Walkable at low tide (check tide times!).</li>
+          <li><a href="https://www.skylagoon.com/" target="_blank">Sky Lagoon</a>: New thermal spa with infinity edge ocean views and a seven-step ritual.</li>
+        </ul>
+      </div>
+      
+      <div class="tip-box">
+        Jet lag is real! The Blue Lagoon is a great way to combat it. Bring a sleep mask for the bright nights as Iceland experiences nearly 24 hours of daylight in mid-July.
+      </div>
+      
+      <div class="notes-box">
+        Blue Lagoon basic package is ~$93/person. Booking in advance is essential as this is peak travel season. Duty-free alcohol is *much* cheaper than buying in town (up to 50% savings), so consider stocking up on arrival if desired.
+      </div>
+    </div>
+  </section>
+  
+  <!-- Day 2 Section -->
+  <section id="day2" class="day-section">
+    <div class="container">
+      <div class="day-header">
+        <h2 class="day-title">⛰️ Day 2: Golden Circle & Thermal River</h2>
+        <div class="day-date">July 15</div>
+      </div>
+      
+      <img src="https://github.com/kgangerlm/iceland-data/blob/main/images/day2.jpg?raw=true" alt="Gullfoss Waterfall, Iceland" class="day-image">
+      
+      <div class="quote-box">
+        "Not all those who wander are lost." - J.R.R. Tolkien
+      </div>
+      
+      <div class="daily-summary">
+        <div class="summary-title">Day Summary</div>
+        <p>Classic Golden Circle sights and a unique hot spring hike.</p>
+        
+        <div class="drive-info">
+          <strong>Total Driving:</strong> ~190 km (118 miles), ~3 hours
+          <ul>
+            <li>Reykjavík to Þingvellir: ~45 km (28 miles), ~45 minutes</li>
+            <li>Þingvellir to Geysir: ~60 km (37 miles), ~50 minutes</li>
+            <li>Geysir to Gullfoss: ~10 km (6 miles), ~10 minutes</li>
+            <li>Gullfoss to Friðheimar: ~20 km (12 miles), ~20 minutes</li>
+            <li>Friðheimar to Reykjadalur: ~35 km (22 miles), ~45 minutes</li>
+            <li>Reykjadalur to Selfoss: ~15 km (9 miles), ~15 minutes</li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="map-container">
+        <iframe src="https://www.google.com/maps/d/embed?mid=14SQO22uQjMOhV9Q8E7FtIW0fXMesXQw&ehbc=2E312F&noprof=1" width="100%" height="380"></iframe>
+      </div>
+      
+      <div class="day-schedule">
+        <div class="schedule-section">
+          <h3 class="section-heading">Morning (Golden Circle)</h3>
+          <div class="activity-timeline">
+            <div class="activity-item">
+              <span class="activity-time">07:00</span>
+              <div class="activity-content">
+                <div class="activity-title">Breakfast at Hotel Fron</div>
+                <div class="activity-desc">Included with stay</div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">08:00</span>
+              <div class="activity-content">
+                <div class="activity-title">Depart for Þingvellir National Park</div>
+                <div class="activity-desc">~45 minutes drive</div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">08:45</span>
+              <div class="activity-content">
+                <div class="activity-title">Þingvellir National Park</div>
+                <div class="activity-desc">
+                  Explore the tectonic plates and historical site (1-2 hours). Walk between the North American and Eurasian tectonic plates in this UNESCO World Heritage site. Visit the historic parliament grounds where Icelanders gathered since 930 AD.
+                  <br><a href="https://www.thingvellir.is/en/" target="_blank">Official website</a>
+                </div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">10:45</span>
+              <div class="activity-content">
+                <div class="activity-title">Drive to Geysir Geothermal Area</div>
+                <div class="activity-desc">~50 minutes drive</div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">11:35</span>
+              <div class="activity-content">
+                <div class="activity-title">Geysir Geothermal Area</div>
+                <div class="activity-desc">
+                  Watch Strokkur erupt every 5-10 minutes, shooting hot water up to 30 meters high. Explore bubbling mud pots and steaming vents (allow 1 hour).
+                  <br><a href="https://www.geysircenter.is/" target="_blank">More information</a>
+                </div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">12:35</span>
+              <div class="activity-content">
+                <div class="activity-title">Drive to Gullfoss Waterfall</div>
+                <div class="activity-desc">~10 minutes drive</div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">12:45</span>
+              <div class="activity-content">
+                <div class="activity-title"><span class="featured">Gullfoss Waterfall</span></div>
+                <div class="activity-desc">
+                  Witness the power of this iconic two-tiered waterfall that plunges into a dramatic canyon. Multiple viewing platforms offer different perspectives (allow 1 hour).
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="schedule-section">
+          <h3 class="section-heading">Afternoon (Hot Spring Hike)</h3>
+          <div class="activity-timeline">
+            <div class="activity-item">
+              <span class="activity-time">13:45</span>
+              <div class="activity-content">
+                <div class="activity-title">Lunch at Friðheimar Tomato Greenhouse</div>
+                <div class="activity-desc">
+                  Enjoy fresh tomato soup and bread inside a working greenhouse where tomatoes grow year-round. Reservations recommended.
+                  <br><a href="https://fridheimar.is/en" target="_blank">Friðheimar website</a>
+                </div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">14:45</span>
+              <div class="activity-content">
+                <div class="activity-title">Drive to Reykjadalur trailhead</div>
+                <div class="activity-desc">~45 minutes from Friðheimar</div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">15:30</span>
+              <div class="activity-content">
+                <div class="activity-title"><span class="featured">Reykjadalur Hot Spring Thermal River Hike</span></div>
+                <div class="activity-desc">
+                  3-mile round trip, moderate difficulty. Hike through a geothermal area with steam vents and bubbling springs to reach a warm river where you can bathe in naturally heated water (allow 3-4 hours total, including soaking time).
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="schedule-section">
+          <h3 class="section-heading">Evening (Selfoss)</h3>
+          <div class="activity-timeline">
+            <div class="activity-item">
+              <span class="activity-time">19:30</span>
+              <div class="activity-content">
+                <div class="activity-title">Drive to Selfoss</div>
+                <div class="activity-desc">~15 minutes from Reykjadalur</div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">19:45</span>
+              <div class="activity-content">
+                <div class="activity-title">Check into Country Dream Guesthouse</div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">20:15</span>
+              <div class="activity-content">
+                <div class="activity-title">Dinner in Selfoss</div>
+                <ul class="sub-activities">
+                  <li><a href="https://tryggvaskali.is/en/" target="_blank">Tryggvaskáli</a> (historic riverside restaurant)</li>
+                  <li><a href="https://www.facebook.com/kaffikrus/" target="_blank">Kaffi Krús</a> (cozy café with homemade cakes)</li>
+                  <li>Or self-catering</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="highlights-section">
+        <h4>Key Highlights of the Day</h4>
+        <ul class="highlights-list">
+          <li>Gullfoss Waterfall's raw power as thousands of gallons of water crash over the edge every second.</li>
+          <li>Hiking through colorful geothermal landscapes and soaking in the naturally warm waters of Reykjadalur Hot Spring River.</li>
+          <li>Walking between North American and Eurasian tectonic plates at Þingvellir, one of the few places on Earth where this continental divide is visible above ground.</li>
+        </ul>
+      </div>
+      
+      <div class="accommodations-section">
+        <h4>Accommodations</h4>
+        <div class="accommodations-details">
+          <strong>Country Dream Guesthouse</strong>, Selfoss. Basic Studio with kitchenette. This family-run guesthouse offers comfortable accommodations in a central South Iceland location, perfect for exploring the Golden Circle and South Coast.
+        </div>
+      </div>
+      
+      <div class="alternatives-section">
+        <h4>Alternative Activities</h4>
+        <ul class="alternatives-list">
+          <li><a href="https://secretlagoon.is/" target="_blank">Secret Lagoon</a>: Less crowded hot spring with facilities in the town of Flúðir.</li>
+          <li><a href="https://www.south.is/en/place/kerid-volcanic-crater" target="_blank">Kerið Crater</a>: Volcanic crater lake with vibrant blue water and red volcanic rock.</li>
+          <li><a href="https://www.south.is/en/place/skalholt" target="_blank">Skálholt Cathedral</a>: Historical site and former episcopal see, important in Icelandic history.</li>
+          <li><a href="https://www.solheimar.is/en" target="_blank">Sólheimar Eco-Village</a>: Iceland's first sustainable community.</li>
+          <li><span class="gem">Tungnaárfellsfoss Waterfall</span> - One of Iceland's widest waterfalls, yet rarely visited. Accessible via Road 208 with any vehicle in summer. This hidden gem offers the opportunity to experience a major waterfall without crowds.</li>
+        </ul>
+      </div>
+      
+      <div class="tip-box">
+        Wear your swimsuit under your clothes for Reykjadalur to avoid changing in the open (there are limited changing facilities). Bring water shoes for comfort and a waterproof bag for electronics and valuables. The thermal river varies in temperature along its length - move upstream for warmer water.
+      </div>
+      
+      <div class="notes-box">
+        Stock up on groceries and gas in Selfoss, as it's the largest town in the region with better prices. Waterproof hiking boots are recommended for Reykjadalur, and hiking poles can be helpful on the sometimes slippery terrain. The trail can get crowded in summer afternoons - an early start is advantageous.
+      </div>
+    </div>
+  </section>
+  
+  <!-- Day 3 Section -->
+  <section id="day3" class="day-section">
+    <div class="container">
+      <div class="day-header">
+        <h2 class="day-title">🌋 Day 3: South Coast Wonders</h2>
+        <div class="day-date">July 16</div>
+      </div>
+      
+      <img src="https://github.com/kgangerlm/iceland-data/blob/main/images/day3.png?raw=true" alt="Skogafoss Waterfall, Iceland" class="day-image">
+      
+      <div class="quote-box">
+        "Of all the paths you take in life, make sure a few of them are dirt." - John Muir
+      </div>
+      
+      <div class="daily-summary">
+        <div class="summary-title">Day Summary</div>
+        <p>Iconic waterfalls and black sand beaches of the South Coast.</p>
+        
+        <div class="drive-info">
+          <strong>Total Driving:</strong> ~140 km (87 miles), ~2.5 hours
+          <ul>
+            <li>Selfoss to Seljalandsfoss: ~60 km (37 miles), ~45 minutes</li>
+            <li>Seljalandsfoss to Skógafoss: ~30 km (19 miles), ~25 minutes</li>
+            <li>Skógafoss to Vík area: ~30 km (19 miles), ~40 minutes</li>
+            <li>Vík area to Norðurfoss: ~20 km (12 miles), ~20 minutes</li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="map-container">
+        <iframe src="https://www.google.com/maps/d/embed?mid=16not-P5qZezdTRAHL-W0BhUIyZNpXEw&ehbc=2E312F&noprof=1" width="100%" height="380"></iframe>
+      </div>
+      
+      <div class="day-schedule">
+        <div class="schedule-section">
+          <h3 class="section-heading">Morning (Waterfalls)</h3>
+          <div class="activity-timeline">
+            <div class="activity-item">
+              <span class="activity-time">08:00</span>
+              <div class="activity-content">
+                <div class="activity-title">Breakfast at Country Dream Guesthouse</div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">08:30</span>
+              <div class="activity-content">
+                <div class="activity-title">Heather joins the adventure!</div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">09:00</span>
+              <div class="activity-content">
+                <div class="activity-title">Drive to Seljalandsfoss Waterfall</div>
+                <div class="activity-desc">~45 minutes drive</div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">09:45</span>
+              <div class="activity-content">
+                <div class="activity-title"><span class="featured">Seljalandsfoss Waterfall</span></div>
+                <div class="activity-desc">
+                  Walk behind this 60-meter high waterfall for a unique perspective. Also visit Gljúfrabúi (hidden waterfall nearby), located in a partially concealed canyon just a short walk away. Parking fee: ~$7. (1-1.5 hours)
+                </div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">11:15</span>
+              <div class="activity-content">
+                <div class="activity-title">Drive to Skógafoss Waterfall</div>
+                <div class="activity-desc">~25 minutes drive</div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">11:40</span>
+              <div class="activity-content">
+                <div class="activity-title"><span class="featured">Skógafoss Waterfall</span></div>
+                <div class="activity-desc">
+                  Climb the 527 stairs to the viewing platform for panoramic views of the 60-meter waterfall and coastal plains. On sunny days, rainbows frequently appear in the waterfall's mist. (1.5-2 hours)
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="schedule-section">
+          <h3 class="section-heading">Afternoon (Black Sand Beaches)</h3>
+          <div class="activity-timeline">
+            <div class="activity-item">
+              <span class="activity-time">13:40</span>
+              <div class="activity-content">
+                <div class="activity-title">Lunch at Skógar Museum café</div>
+                <div class="activity-desc">
+                  <a href="https://www.facebook.com/skogarkaffi" target="_blank">Skógar Museum café</a>
+                </div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">14:40</span>
+              <div class="activity-content">
+                <div class="activity-title">Drive to Vik area</div>
+                <div class="activity-desc">~40 minutes drive</div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">15:20</span>
+              <div class="activity-content">
+                <div class="activity-title"><span class="featured">Vikurfjara Black Sand Beach</span></div>
+                <div class="activity-desc">
+                  Experience the dramatic coastline with powerful waves and expansive black sand. Recommended for fewer crowds than Reynisfjara while offering similarly stunning views of rock formations and bird cliffs. (1 hour)
+                </div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">16:20</span>
+              <div class="activity-content">
+                <div class="activity-title">Reynisfjara Black Sand Beach (Optional)</div>
+                <div class="activity-desc">
+                  Visit Iceland's most famous black sand beach with its distinctive basalt columns and sea stacks, but be <strong>extremely</strong> cautious of sneaker waves which can be life-threatening. Never turn your back to the ocean. (30-45 minutes)
+                  <br><a href="https://www.south.is/en/inspiration/towns/vik-i-myrdal" target="_blank">More information</a>
+                </div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">16:50</span>
+              <div class="activity-content">
+                <div class="activity-title">Dyrhólaey Peninsula</div>
+                <div class="activity-desc">
+                  Admire the massive stone arch, lighthouse, and panoramic views of the coastline. This is also a great spot for potential puffin viewing (May-August). (1 hour)
+                  <br><a href="https://www.south.is/en/inspiration/nature/dyrholaey" target="_blank">More information</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="schedule-section">
+          <h3 class="section-heading">Evening (Norðurfoss)</h3>
+          <div class="activity-timeline">
+            <div class="activity-item">
+              <span class="activity-time">17:50</span>
+              <div class="activity-content">
+                <div class="activity-title">Drive to The Barn, Norðurfoss</div>
+                <div class="activity-desc">~20 minutes from Dyrhólaey</div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">18:10</span>
+              <div class="activity-content">
+                <div class="activity-title">Check into The Barn</div>
+              </div>
+            </div>
+            
+            <div class="activity-item">
+              <span class="activity-time">19:00</span>
+              <div class="activity-content">
+                <div class="activity-title">Dinner</div>
+                <div class="activity-desc">
+                  <a href="https://www.facebook.com/pages/Sudur-Vik-Restaurant/333387213510159" target="_blank">Suður-Vík Restaurant</a> (in Vík), known for fresh seafood and local ingredients, or self-catered meal at The Barn.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="highlights-section">
+        <h4>Key Highlights of the Day</h4>
+        <ul class="highlights-list">
+          <li>Walking behind Seljalandsfoss Waterfall for a 360-degree perspective, a rare experience possible in very few waterfalls worldwide.</li>
+          <li>The power and majesty of Skógafoss Waterfall, one of Iceland's largest and most photographed waterfalls, with mist that can be seen from kilometers away.</li>
+          <li>The dramatic contrast of Vikurfjara Black Sand Beach where volcanic black sand meets powerful Atlantic waves beneath towering cliffs.</li>
+        </ul>
+      </div>
+      
+      <div class="accommodations-section">
+        <h4>Accommodations</h4>
+        <div class="accommodations-details">
+          <strong>The Barn</strong>, Norðurfoss. Double Room with shared bathroom. This rustic accommodation offers a tranquil countryside setting near Vík with mountain views and occasional Northern Lights sightings (though unlikely in July due to the midnight sun).
+        </div>
+      </div>
+      
+      <div class="alternatives-section">
+        <h4>Alternative Activities</h4>
+        <ul class="alternatives-list">
+          <li><a href="https://www.south.is/en/inspiration/nature/kvernufoss" target="_blank">Kvernufoss Waterfall</a>: Hidden gem near Skógafoss, requiring a short hike through a gorge. Far less crowded than its famous neighbor.</li>
+          <li><a href="https://www.south.is/en/inspiration/nature/solheimajokull-glacier" target="_blank">Sólheimajökull Glacier Viewpoint</a>: Accessible viewpoint of an outlet glacier from the massive Mýrdalsjökull ice cap.</li>
+          <li><span class="gem"><a href="https://epiciceland.net/thakgil-guide-best-hiking-trails/" target="_blank">Thakgil hiking area</a></span>: Beautiful canyons and green valleys surrounded by mountains, offering several hiking trails of varying difficulty.</li>
+          <li><a href="https://www.vikhorseadventure.is/" target="_blank">Black Beach Horseback Riding</a>: Guided tours on Icelandic horses along the dramatic black sand beaches.</li>
+        </ul>
+      </div>
+      
+      <div class="tip-box">
+        At Reynisfjara, <strong>never</strong> turn your back to the ocean. Sneaker waves are extremely dangerous and have claimed lives, even on seemingly calm days. Stay at least 20-30 meters from the shoreline and be ready to move quickly if necessary.
+      </div>
+      
+      <div class="notes-box">
+        Wear waterproof clothing for Seljalandsfoss, as you will get wet when walking behind it. Consider visiting Reynisfjara during off-peak hours (early morning or evening) for fewer crowds. The puffin viewing at Dyrhólaey is seasonal (May-August), and the site may have restricted access during nesting season.
+      </div>
+    </div>
+  </section>
+  
+  <!-- Resources Section -->
+  <section class="resources-section">
+    <div class="container">
+      <h2 class="section-title">Essential Resources</h2>
+      
+      <div class="resources-grid">
+        <div class="resource-card">
+          <h3>Planning Resources</h3>
+          <ul>
+            <li><strong>Guidebooks:</strong>
+              <ul>
+                <li><a href="https://shop.lonelyplanet.com/products/iceland-14" target="_blank">Lonely Planet Iceland</a></li>
+                <li><a href="https://www.moon.com/titles/karen-carlsen/moon-iceland/9781640499834/" target="_blank">Moon Iceland</a></li>
+              </ul>
+            </li>
+            <li><a href="https://www.visiticeland.com/" target="_blank">Icelandic Tourist Board</a></li>
+            <li><a href="https://www.inspiredbyiceland.com/" target="_blank">Inspired by Iceland</a></li>
+            <li><a href="https://www.south.is/" target="_blank">South Iceland</a></li>
+            <li><a href="https://www.east.is/" target="_blank">East Iceland</a></li>
+            <li><a href="https://www.north.is/" target="_blank">North Iceland</a></li>
+            <li><a href="https://www.west.is/" target="_blank">West Iceland</a></li>
+          </ul>
+        </div>
+        
+        <div class="resource-card">
+          <h3>Practical Resources</h3>
+          <ul>
+            <li><a href="https://umferdin.is/en" target="_blank">Road Conditions</a>
+              <span class="note">Essential for checking closures and webcams</span>
+            </li>
+            <li><a href="https://en.vedur.is/" target="_blank">Weather Forecasts</a>
+              <span class="note">Check frequently, Icelandic weather is unpredictable</span>
+            </li>
+            <li><strong>Emergency Number:</strong> 112</li>
+            <li><a href="https://safetravel.is/" target="_blank">SafeTravel Iceland</a>
+              <span class="note">Safety information and travel plan submission</span>
+            </li>
+            <li><a href="https://en.vedur.is/weather/forecasts/aurora/" target="_blank">Aurora Forecast</a>
+              <span class="note">For future trips (July has almost 24-hour daylight)</span>
+            </li>
+            <li><a href="https://tide.is/" target="_blank">Tide Times</a></li>
+          </ul>
+        </div>
+        
+        <div class="resource-card">
+          <h3>Mobile Apps</h3>
+          <ul>
+            <li><strong>112 Iceland</strong>: Emergency app with location tracking</li>
+            <li><strong>Veður</strong>: Icelandic weather forecasts</li>
+            <li><strong>Wapp</strong>: Hiking trails and routes</li>
+            <li><strong>Icelandic Road Guide</strong>: Offline maps and points of interest</li>
+            <li><strong>Iceland Northern Lights</strong>: Aurora forecast and viewing advice</li>
+            <li><strong>Park4Night</strong>: For finding campsites and rest areas</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <footer>
+    <div class="container">
+      <p>11-Day Iceland Ring Road Adventure | July 14-24, 2025</p>
+      <p>Safe travels and unforgettable adventures!</p>
+    </div>
+  </footer>
+</body>
+</html>
+
+<example>

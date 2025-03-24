@@ -1,0 +1,1101 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>11-Day Iceland Ring Road Adventure</title>
+<style>
+ body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.7;
+  color: #444;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+
+h1, h2, h3, h4 {
+  color: #2c3e50;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 2.5em;
+  text-align: center;
+  margin-bottom: 0.5em;
+  border-bottom: 3px solid #3498db;
+  padding-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 1.8em;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 0.3em;
+  margin-top: 1.8em;
+  color: #3498db;
+}
+
+h3 {
+  font-size: 1.4em;
+  margin-top: 1.5em;
+  color: #2c3e50;
+}
+
+h4 {
+  font-size: 1.1em;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+.overview-image {
+  width: 100%;
+  max-height: 450px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin: 1em 0;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+.day-image {
+  width: 100%;
+  max-width: 800px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  margin: 1em auto;
+  display: block;
+}
+
+.quote-box {
+  padding: 1.5em;
+  background-color: #ecf0f1;
+  border-left: 5px solid #3498db;
+  margin: 1.5em 0;
+  border-radius: 8px;
+  font-style: italic;
+  font-size: 1.1em;
+  color: #555;
+}
+
+.gem {
+  background-color: #d1ecf1;
+  color: #0c5460;
+  padding: 0.2em 0.5em;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.featured {
+  background-color: #fff3cd;
+  color: #856404;
+  padding: 0.2em 0.5em;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.tip-box {
+  background-color: #d4edda;
+  border-left: 5px solid #28a745;
+  padding: 1em;
+  margin: 1.5em 0;
+  border-radius: 8px;
+  color: #155724;
+}
+
+.notes-box {
+  background-color: #f8d7da;
+  border-left: 5px solid #dc3545;
+  padding: 1em;
+  margin: 1.5em 0;
+  border-radius: 8px;
+  color: #721c24;
+}
+
+.page-break {
+  page-break-after: always;
+  visibility: hidden;
+}
+
+a {
+  color: #3498db;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #2980b9;
+  text-decoration: underline;
+}
+
+.map-container {
+  margin: 2em 0;
+}
+
+ul {
+  list-style: none;
+  padding-left: 1.2em;
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+
+li::before {
+  content: "• ";
+  color: #3498db;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+
+/* Fixed activity-time style for mobile */
+.activity-item {
+  margin-bottom: 0.8em;
+  padding-left: 1em;
+  padding-top: 0.3em;
+  border-left: 3px solid #ddd;
+  position: relative;
+  min-height: 2em;
+  margin-left: 70px; /* Make room for the time */
+}
+
+.activity-time {
+  position: absolute;
+  left: -70px;
+  top: 0;
+  font-size: 0.85em;
+  color: #555;
+  background-color: #f0f0f0;
+  padding: 3px 6px;
+  border-radius: 4px;
+  font-weight: 600;
+  width: 60px;
+  text-align: center;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.daily-summary {
+  background-color: #e9ecef;
+  padding: 1.2em;
+  border-radius: 8px;
+  margin-bottom: 1.2em;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.daily-summary strong {
+  color: #3498db;
+}
+
+.sub-list {
+  padding-left: 2em;
+  margin-top: 0.5em;
+}
+
+.sub-list li::before {
+  content: "- ";
+  color: #777;
+}
+
+.itinerary-list {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.itinerary-list li {
+  background-color: #fff;
+  border-left: 5px solid #3498db;
+  padding: 15px 20px;
+  margin-bottom: 12px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.itinerary-list li:hover {
+  transform: translateX(5px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.itinerary-list a {
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+  display: block;
+}
+
+.daily-overview {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.daily-overview th, .daily-overview td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+.daily-overview th {
+  background-color: #3498db;
+  color: white;
+}
+
+.daily-overview tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+  body {
+    padding: 15px;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
+  
+  h3 {
+    font-size: 1.2em;
+  }
+  
+  h4 {
+    font-size: 1em;
+  }
+  
+  /* Improved mobile activity styling */
+  .activity-item {
+    margin-left: 60px;
+  }
+  
+  .activity-time {
+    left: -60px;
+    width: 50px;
+    font-size: 0.8em;
+  }
+  
+  .itinerary-list li {
+    padding: 12px 15px;
+  }
+  
+  .daily-overview th, .daily-overview td {
+    padding: 8px;
+    font-size: 0.9em;
+  }
+}
+
+/* For very small screens */
+@media (max-width: 480px) {
+  .activity-item {
+    margin-left: 55px;
+  }
+  
+  .activity-time {
+    left: -55px;
+    width: 45px;
+    font-size: 0.75em;
+    padding: 2px 4px;
+  }
+}
+</style>
+</head>
+<body>
+
+<h1>11-Day Iceland Ring Road Adventure</h1>
+<h2>July 14-24, 2025</h2>
+<img class="overview-image" src="https://res.cloudinary.com/enchanting/q_80,f_auto,c_lfill,w_1920,h_400,g_auto/exodus-web/2021/12/kirkjufellsfoss_iceland.jpg" alt="Iceland landscape with Kirkjufellsfoss">
+
+<h2>Trip Overview</h2>
+<ul class="itinerary-list">
+  <li><strong>Day 1: July 14</strong> - Keflavík → Reykjavík: Arrival and Blue Lagoon relaxation <a href="#day1">[Details]</a></li>
+  <li><strong>Day 2: July 15</strong> - Reykjavík → Selfoss: Golden Circle and thermal river hike <a href="#day2">[Details]</a></li>
+  <li><strong>Day 3: July 16</strong> - Selfoss → Norðurfoss: South Coast waterfalls and black beaches <a href="#day3">[Details]</a></li>
+  <li><strong>Day 4: July 17</strong> - Norðurfoss → Höfn: Glaciers, canyons, and icebergs <a href="#day4">[Details]</a></li>
+  <li><strong>Day 5: July 18</strong> - Höfn → Borgarfjörður Eystri: East Fjords coastal journey <a href="#day5">[Details]</a></li>
+  <li><strong>Day 6: July 19</strong> - Borgarfjörður Eystri → Eidar: Hidden beaches and puffin colonies <a href="#day6">[Details]</a></li>
+  <li><strong>Day 7: July 20</strong> - Eidar → Akureyri: Powerful waterfalls and volcanic wonders <a href="#day7">[Details]</a></li>
+  <li><strong>Day 8: July 21</strong> - Akureyri → Siglufjörður: Troll Peninsula exploration <a href="#day8">[Details]</a></li>
+  <li><strong>Day 9: July 22</strong> - Siglufjörður → Grundarfjörður: Northern gems to Snæfellsnes <a href="#day9">[Details]</a></li>
+  <li><strong>Day 10: July 23</strong> - Grundarfjörður → Akranes: Snæfellsnes Peninsula wonders <a href="#day10">[Details]</a></li>
+  <li><strong>Day 11: July 24</strong> - Akranes → Keflavík: Return journey and departure <a href="#day11">[Details]</a></li>
+</ul>
+
+<div class="map-container">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d1752879.3418148216!2d-23.521242217797806!3d64.99371377992363!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0x48d6f2cb845b220d%3A0x312a663b9c1e8e40!2sKeflavik%20International%20Airport%2C%20235%20Keflavíkurflugvöllur%2C%20Iceland!3m2!1d63.985001499999996!2d-22.6209411!4m5!1s0x48d674b9eedcedc3%3A0xec912ca230d26071!2sReykjavík%2C%20Iceland!3m2!1d64.1469868!2d-21.9407552!4m5!1s0x48d66bf2e95cda55%3A0x11c62cad9dda2965!2sSelfoss%2C%20Iceland!3m2!1d63.9338617!2d-21.0066658!4m5!1s0x48d73b86bc86b7cf%3A0x34fefc6da6171285!2sVík%2C%20Iceland!3m2!1d63.4186809!2d-19.0060479!4m5!1s0x48cfaff2213b2df9%3A0x7a686d501326f505!2sHöfn%2C%20Iceland!3m2!1d64.2538323!2d-15.1996741!4m5!1s0x48cda383712cafb1%3A0xf6cd75b5053aea9!2sBorgarfjörður%20eystri%2C%20Iceland!3m2!1d65.5254045!2d-13.8117207!4m5!1s0x48d28f772b198437%3A0xd47afe9866c2611f!2sAkureyri%2C%20Iceland!3m2!1d65.6830573!2d-18.0997365!4m5!1s0x48d2e11d506233ff%3A0xbd841266c6d64bed!2sSiglufjörður%2C%20Iceland!3m2!1d66.1512682!2d-18.9089954!4m5!1s0x48d57c2ac6f1f5a5%3A0x241a501d7881465d!2sGrundarfjörður%2C%20Iceland!3m2!1d64.9248897!2d-23.2610023!4m5!1s0x48d60b3a93b1e76b%3A0x7308c3f0e896de79!2sAkranes%2C%20Iceland!3m2!1d64.3202215!2d-22.0786768!5e0!3m2!1sen!2sus!4v1629210188780!5m2!1sen!2sus" width="100%" height="450" style="border:0; border-radius: 10px;" allowfullscreen="" loading="lazy"></iframe>
+</div>
+
+<div class="page-break"></div>
+
+<!-- Day 1 -->
+<h2 id="day1">🌊 Day 1: July 14 - Arrival & Blue Lagoon</h2>
+<img class="day-image" src="https://raw.githubusercontent.com/kgangerlm/iceland-data/refs/heads/main/images/day1.jpg" alt="Blue Lagoon, Iceland">
+<div class="quote-box">
+  "The best journeys answer questions that in the beginning you didn't even think to ask." - 180 Degrees South
+</div>
+
+<div class="daily-summary">
+    <strong>Day Summary:</strong> Arrival, relaxation at the Blue Lagoon, and settling into Reykjavík.
+    <ul>
+    <li><strong>Total Driving:</strong> ~63 km (39 miles), ~1 hour 5 minutes.</li>
+        <li class="sub-list">Keflavík Airport to Blue Lagoon: ~23 km (14 miles), ~20 minutes.</li>
+        <li class="sub-list">Blue Lagoon to Reykjavík: ~40 km (25 miles), ~45 minutes.</li>
+    </ul>
+</div>
+
+<H3>Overview Map</H3>
+<div class="map-container">
+</div>
+
+<h3>Morning (Arrival & Relaxation)</h3>
+<div class="activity-item"><span class="activity-time">08:00</span> Arrive at Keflavík International Airport (KEF).</div>
+<div class="activity-item"><span class="activity-time">08:30</span> Pick up 4WD Suzuki Vitara from Blue Car Rental. (Confirm location and shuttle details on their website: <a href="https://www.bluecarrental.is/" target="_blank">Blue Car Rental</a>)</div>
+<div class="activity-item"><span class="activity-time">08:45</span> Duty-free liquor purchase (optional, but recommended for cost savings).</div>
+<div class="activity-item"><span class="activity-time">09:00</span> Breakfast at <a href="https://www.facebook.com/librarybistro" target="_blank">LiBRARY bistro/bar</a> (confirm opening hours).</div>
+<div class="activity-item"><span class="activity-time">09:45</span> Drive to the <a href="https://www.bluelagoon.com/" target="_blank">Blue Lagoon</a> (~20 minutes).</div>
+<div class="activity-item"><span class="activity-time">10:00</span> ✨ <span class="featured"><strong>Blue Lagoon</strong></span>: Enjoy the geothermal waters. Pre-booking is *essential*. Allocate 2-3 hours.</div>
+
+<h3>Afternoon (Reykjavík)</h3>
+<div class="activity-item"><span class="activity-time">13:00</span> Drive to Reykjavík (~45 minutes).</div>
+<div class="activity-item"><span class="activity-time">13:45</span> Grocery shopping at <a href="https://bonus.is/en/" target="_blank">Bonus</a> or <a href="https://kronan.is/" target="_blank">Kronan</a>.</div>
+<div class="activity-item"><span class="activity-time">14:30</span> Check into Hotel Fron (<a href="https://hotelfron.is/" target="_blank">Hotel Fron</a>), Laugavegur 22A.</div>
+<div class="activity-item"><span class="activity-time">15:00</span> Meet Heather and family.</div>
+
+<h3>Evening (Reykjavík Exploration)</h3>
+<div class="activity-item"><span class="activity-time">17:00</span> Explore downtown Reykjavík:
+    <ul class="sub-list">
+        <li><a href="https://hallgrimskirkja.is/en/" target="_blank">Hallgrímskirkja Church</a> (tower access for views).</li>
+        <li><a href="https://www.harpa.is/en/" target="_blank">Harpa Concert Hall</a>.</li>
+        <li>Sun Voyager sculpture.</li>
+    </ul>
+</div>
+<div class="activity-item"><span class="activity-time">19:00</span> Dinner with Heather and family at <a href="https://www.cafeloki.is/" target="_blank">Café Loki</a>.</div>
+
+<h4>Key Highlights of the Day</h4>
+    <ul class="sub-list">
+    <li>✨ Soaking in the Blue Lagoon's mineral-rich geothermal waters, renowned for their healing properties.</li>
+    <li>✨ Panoramic views from Hallgrímskirkja Church, offering a colorful vista of Reykjavík's distinctive rooftops.</li>
+    <li>✨ Experiencing authentic Icelandic cuisine at Café Loki, including traditional dishes like fermented shark and rye bread ice cream.</li>
+    </ul>
+
+<h4>Accommodations</h4>
+<p><strong>Hotel Fron</strong>, Laugavegur 22A, Reykjavík. Double/Twin Rooms. This centrally located hotel puts you right on Reykjavík's main shopping street, within walking distance of major attractions.</p>
+
+<h4>Alternative Activities</h4>
+<ul class="sub-list">
+    <li><a href="https://perlanmuseum.is/" target="_blank">Perlan Museum</a>: Interactive exhibits showcasing Icelandic nature, including a real ice cave.</li>
+    <li><a href="https://www.visitreykjavik.is/laugardalslaug" target="_blank">Laugardalslaug Swimming Pool</a>: Largest in Reykjavík with hot tubs of varying temperatures.</li>
+    <li><a href="https://www.visitreykjavik.is/grotta" target="_blank">Grótta Lighthouse</a>: Walkable at low tide (check tide times!).</li>
+    <li><a href="https://www.skylagoon.com/" target="_blank">Sky Lagoon</a>: New thermal spa with infinity edge ocean views and a seven-step ritual.</li>
+</ul>
+
+<div class="tip-box">
+Jet lag is real! The Blue Lagoon is a great way to combat it. Bring a sleep mask for the bright nights as Iceland experiences nearly 24 hours of daylight in mid-July.
+</div>
+<div class="notes-box">
+Blue Lagoon basic package is ~$93/person. Booking in advance is essential as this is peak travel season. Duty-free alcohol is *much* cheaper than buying in town (up to 50% savings), so consider stocking up on arrival if desired.
+</div>
+
+<div class="page-break"></div>
+
+<!-- Day 2 -->
+<h2 id="day2">⛰️ Day 2: July 15 - Golden Circle & Thermal River</h2>
+<img class="day-image" src="https://github.com/kgangerlm/iceland-data/blob/main/images/day2.jpg?raw=true" alt="Gullfoss Waterfall, Iceland">
+<div class="quote-box">
+    "Not all those who wander are lost." - J.R.R. Tolkien
+</div>
+<div class="daily-summary">
+    <strong>Day Summary:</strong> Classic Golden Circle sights and a unique hot spring hike.
+    <ul>
+    <li><strong>Total Driving:</strong> ~190 km (118 miles), ~3 hours.</li>
+        <li class="sub-list">Reykjavík to Þingvellir: ~45 km (28 miles), ~45 minutes</li>
+        <li class="sub-list">Þingvellir to Geysir: ~60 km (37 miles), ~50 minutes</li>
+        <li class="sub-list">Geysir to Gullfoss: ~10 km (6 miles), ~10 minutes</li>
+        <li class="sub-list">Gullfoss to Friðheimar: ~20 km (12 miles), ~20 minutes</li>
+        <li class="sub-list">Friðheimar to Reykjadalur: ~35 km (22 miles), ~45 minutes</li>
+        <li class="sub-list">Reykjadalur to Selfoss: ~15 km (9 miles), ~15 minutes</li>
+    </ul>
+</div>
+
+<h3>Morning (Golden Circle)</h3>
+<div class="activity-item"><span class="activity-time">07:00</span> Breakfast at Hotel Fron (included).</div>
+<div class="activity-item"><span class="activity-time">08:00</span> Depart for Þingvellir National Park (~45 minutes).</div>
+<div class="activity-item"><span class="activity-time">08:45</span> <a href="https://www.thingvellir.is/en/" target="_blank">Þingvellir National Park</a>: Explore the tectonic plates and historical site (1-2 hours). Walk between the North American and Eurasian tectonic plates in this UNESCO World Heritage site. Visit the historic parliament grounds where Icelanders gathered since 930 AD.</div>
+<div class="activity-item"><span class="activity-time">10:45</span> Drive to Geysir Geothermal Area (~50 minutes).</div>
+<div class="activity-item"><span class="activity-time">11:35</span> <a href="https://www.geysircenter.is/" target="_blank">Geysir Geothermal Area</a>: Watch Strokkur erupt every 5-10 minutes, shooting hot water up to 30 meters high. Explore bubbling mud pots and steaming vents (allow 1 hour).</div>
+<div class="activity-item"><span class="activity-time">12:35</span> Drive to Gullfoss Waterfall (~10 minutes).</div>
+<div class="activity-item"><span class="activity-time">12:45</span> ✨ <span class="featured"><strong>Gullfoss Waterfall</strong></span>: Witness the power of this iconic two-tiered waterfall that plunges into a dramatic canyon. Multiple viewing platforms offer different perspectives (allow 1 hour).</div>
+
+<h3>Afternoon (Hot Spring Hike)</h3>
+<div class="activity-item"><span class="activity-time">13:45</span> Lunch at <a href="https://fridheimar.is/en" target="_blank">Friðheimar Tomato Greenhouse</a> (reservations recommended). Enjoy fresh tomato soup and bread inside a working greenhouse where tomatoes grow year-round.</div>
+<div class="activity-item"><span class="activity-time">14:45</span> Drive to Reykjadalur trailhead (~45 minutes from Friðheimar).</div>
+<div class="activity-item"><span class="activity-time">15:30</span> ✨ <span class="featured"><strong>Reykjadalur Hot Spring Thermal River Hike</strong></span>: 3-mile round trip, moderate difficulty. Hike through a geothermal area with steam vents and bubbling springs to reach a warm river where you can bathe in naturally heated water (allow 3-4 hours total, including soaking time).</div>
+
+<h3>Evening (Selfoss)</h3>
+<div class="activity-item"><span class="activity-time">19:30</span> Drive to Selfoss (~15 minutes from Reykjadalur).</div>
+<div class="activity-item"><span class="activity-time">19:45</span> Check into Country Dream Guesthouse.</div>
+<div class="activity-item"><span class="activity-time">20:15</span> Dinner in Selfoss: <a href="https://tryggvaskali.is/en/" target="_blank">Tryggvaskáli</a> (historic riverside restaurant), <a href="https://www.facebook.com/kaffikrus/" target="_blank">Kaffi Krús</a> (cozy café with homemade cakes), or self-catering.</div>
+
+<h4>Key Highlights of the Day</h4>
+    <ul class="sub-list">
+    <li>✨ Gullfoss Waterfall's raw power as thousands of gallons of water crash over the edge every second.</li>
+    <li>✨ Hiking through colorful geothermal landscapes and soaking in the naturally warm waters of Reykjadalur Hot Spring River.</li>
+    <li>✨ Walking between North American and Eurasian tectonic plates at Þingvellir, one of the few places on Earth where this continental divide is visible above ground.</li>
+    </ul>
+
+<h4>Accommodations</h4>
+<p><strong>Country Dream Guesthouse</strong>, Selfoss. Basic Studio with kitchenette. This family-run guesthouse offers comfortable accommodations in a central South Iceland location, perfect for exploring the Golden Circle and South Coast.</p>
+
+<h4>Alternative Activities</h4>
+<ul class="sub-list">
+    <li><a href="https://secretlagoon.is/" target="_blank">Secret Lagoon</a>: Less crowded hot spring with facilities in the town of Flúðir.</li>
+    <li><a href="https://www.south.is/en/place/kerid-volcanic-crater" target="_blank">Kerið Crater</a>: Volcanic crater lake with vibrant blue water and red volcanic rock.</li>
+    <li><a href="https://www.south.is/en/place/skalholt" target="_blank">Skálholt Cathedral</a>: Historical site and former episcopal see, important in Icelandic history.</li>
+    <li><a href="https://www.solheimar.is/en" target="_blank">Sólheimar Eco-Village</a>: Iceland's first sustainable community.</li>
+    <li>💎 <span class="gem"><strong>Tungnaárfellsfoss Waterfall</strong> - One of Iceland's widest waterfalls, yet rarely visited. Accessible via Road 208 with any vehicle in summer. This hidden gem offers the opportunity to experience a major waterfall without crowds.</span></li>
+</ul>
+
+<div class="tip-box">
+Wear your swimsuit under your clothes for Reykjadalur to avoid changing in the open (there are limited changing facilities). Bring water shoes for comfort and a waterproof bag for electronics and valuables. The thermal river varies in temperature along its length - move upstream for warmer water.
+</div>
+<div class="notes-box">
+Stock up on groceries and gas in Selfoss, as it's the largest town in the region with better prices. Waterproof hiking boots are recommended for Reykjadalur, and hiking poles can be helpful on the sometimes slippery terrain. The trail can get crowded in summer afternoons - an early start is advantageous.
+</div>
+
+<div class="page-break"></div>
+
+<!-- Day 3 -->
+<h2 id="day3">🌋 Day 3: July 16 - South Coast Wonders</h2>
+<img class="day-image" src="https://github.com/kgangerlm/iceland-data/blob/main/images/day3.png?raw=true" alt="Skogafoss Waterfall, Iceland">
+<div class="quote-box">
+    "Of all the paths you take in life, make sure a few of them are dirt." - John Muir
+</div>
+<div class="daily-summary">
+    <strong>Day Summary:</strong> Iconic waterfalls and black sand beaches of the South Coast.
+    <ul>
+    <li><strong>Total Driving:</strong> ~140 km (87 miles), ~2.5 hours.</li>
+        <li class="sub-list">Selfoss to Seljalandsfoss: ~60 km (37 miles), ~45 minutes</li>
+        <li class="sub-list">Seljalandsfoss to Skógafoss: ~30 km (19 miles), ~25 minutes</li>
+        <li class="sub-list">Skógafoss to Vík area: ~30 km (19 miles), ~40 minutes</li>
+        <li class="sub-list">Vík area to Norðurfoss: ~20 km (12 miles), ~20 minutes</li>
+    </ul>
+</div>
+
+<h3>Morning (Waterfalls)</h3>
+<div class="activity-item"><span class="activity-time">08:00</span> Breakfast at Country Dream Guesthouse.</div>
+<div class="activity-item"><span class="activity-time">08:30</span> Heather joins the adventure!</div>
+<div class="activity-item"><span class="activity-time">09:00</span> Drive to Seljalandsfoss Waterfall (~45 minutes).</div>
+<div class="activity-item"><span class="activity-time">09:45</span> ✨ <span class="featured"><strong>Seljalandsfoss Waterfall</strong></span>: Walk behind this 60-meter high waterfall for a unique perspective. Also visit Gljúfrabúi (hidden waterfall nearby), located in a partially concealed canyon just a short walk away. Parking fee: ~$7. (1-1.5 hours)</div>
+<div class="activity-item"><span class="activity-time">11:15</span> Drive to Skógafoss Waterfall (~25 minutes).</div>
+<div class="activity-item"><span class="activity-time">11:40</span> ✨ <span class="featured"><strong>Skógafoss Waterfall</strong></span>: Climb the 527 stairs to the viewing platform for panoramic views of the 60-meter waterfall and coastal plains. On sunny days, rainbows frequently appear in the waterfall's mist. (1.5-2 hours)</div>
+
+<h3>Afternoon (Black Sand Beaches)</h3>
+<div class="activity-item"><span class="activity-time">13:40</span> Lunch at <a href="https://www.facebook.com/skogarkaffi" target="_blank">Skógar Museum café</a>.</div>
+<div class="activity-item"><span class="activity-time">14:40</span> Drive to Vik area (~40 minutes).</div>
+<div class="activity-item"><span class="activity-time">15:20</span> ✨ <span class="featured"><strong>Vikurfjara Black Sand Beach</strong></span>: Experience the dramatic coastline with powerful waves and expansive black sand. Recommended for fewer crowds than Reynisfjara while offering similarly stunning views of rock formations and bird cliffs. (1 hour)</div>
+<div class="activity-item"><span class="activity-time">16:20</span> <a href="https://www.south.is/en/inspiration/towns/vik-i-myrdal" target="_blank">Reynisfjara Black Sand Beach</a> (Optional): Visit Iceland's most famous black sand beach with its distinctive basalt columns and sea stacks, but be *extremely* cautious of sneaker waves which can be life-threatening. Never turn your back to the ocean. (30-45 minutes)</div>
+<div class="activity-item"><span class="activity-time">16:50</span> <a href="https://www.south.is/en/inspiration/nature/dyrholaey" target="_blank">Dyrhólaey Peninsula</a>: Admire the massive stone arch, lighthouse, and panoramic views of the coastline. This is also a great spot for potential puffin viewing (May-August). (1 hour)</div>
+
+<h3>Evening (Norðurfoss)</h3>
+<div class="activity-item"><span class="activity-time">17:50</span> Drive to The Barn, Norðurfoss (~20 minutes from Dyrhólaey).</div>
+<div class="activity-item"><span class="activity-time">18:10</span> Check into The Barn.</div>
+<div class="activity-item"><span class="activity-time">19:00</span> Dinner: <a href="https://www.facebook.com/pages/Sudur-Vik-Restaurant/333387213510159" target="_blank">Suður-Vík Restaurant</a> (in Vík), known for fresh seafood and local ingredients, or self-catered meal at The Barn.</div>
+
+<h4>Key Highlights of the Day</h4>
+    <ul class="sub-list">
+      <li>✨ Walking behind Seljalandsfoss Waterfall for a 360-degree perspective, a rare experience possible in very few waterfalls worldwide.</li>
+      <li>✨ The power and majesty of Skógafoss Waterfall, one of Iceland's largest and most photographed waterfalls, with mist that can be seen from kilometers away.</li>
+      <li>✨ The dramatic contrast of Vikurfjara Black Sand Beach where volcanic black sand meets powerful Atlantic waves beneath towering cliffs.</li>
+    </ul>
+
+<h4>Accommodations</h4>
+<p><strong>The Barn</strong>, Norðurfoss. Double Room with shared bathroom. This rustic accommodation offers a tranquil countryside setting near Vík with mountain views and occasional Northern Lights sightings (though unlikely in July due to the midnight sun).</p>
+
+<h4>Alternative Activities</h4>
+<ul class="sub-list">
+    <li><a href="https://www.south.is/en/inspiration/nature/kvernufoss" target="_blank">Kvernufoss Waterfall</a>: Hidden gem near Skógafoss, requiring a short hike through a gorge. Far less crowded than its famous neighbor.</li>
+    <li><a href="https://www.south.is/en/inspiration/nature/solheimajokull-glacier" target="_blank">Sólheimajökull Glacier Viewpoint</a>: Accessible viewpoint of an outlet glacier from the massive Mýrdalsjökull ice cap.</li>
+    <li>💎 <a href="https://epiciceland.net/thakgil-guide-best-hiking-trails/" target="_blank">Thakgil hiking area</a>: Beautiful canyons and green valleys surrounded by mountains, offering several hiking trails of varying difficulty.</li>
+    <li><a href="https://www.vikhorseadventure.is/" target="_blank">Black Beach Horseback Riding</a>: Guided tours on Icelandic horses along the dramatic black sand beaches.</li>
+</ul>
+
+<div class="tip-box">
+At Reynisfjara, *never* turn your back to the ocean. Sneaker waves are extremely dangerous and have claimed lives, even on seemingly calm days. Stay at least 20-30 meters from the shoreline and be ready to move quickly if necessary.
+</div>
+<div class="notes-box">
+Wear waterproof clothing for Seljalandsfoss, as you will get wet when walking behind it. Consider visiting Reynisfjara during off-peak hours (early morning or evening) for fewer crowds. The puffin viewing at Dyrhólaey is seasonal (May-August), and the site may have restricted access during nesting season.
+</div>
+
+<div class="page-break"></div>
+
+<!-- Day 4 -->
+<h2 id="day4">🧊 Day 4: July 17 - Glacier Wonderland</h2>
+<img class="day-image" src="https://raw.githubusercontent.com/kgangerlm/iceland-data/refs/heads/main/images/day4.webp" alt="Jokulsarlon Glacier Lagoon, Iceland">
+<div class="quote-box">
+    "The world is a book, and those who do not travel read only one page." - Saint Augustine
+</div>
+<div class="daily-summary">
+    <strong>Day Summary:</strong> Canyons, waterfalls, and the stunning Jökulsárlón Glacier Lagoon.
+    <ul>
+        <li><strong>Total Driving:</strong> ~250 km (155 miles), ~3.5 hours.</li>
+        <li class="sub-list">Norðurfoss to Fjaðrárgljúfur Canyon: ~75 km (47 miles), ~1 hour</li>
+        <li class="sub-list">Fjaðrárgljúfur to Skaftafell: ~60 km (37 miles), ~45 minutes</li>
+        <li class="sub-list">Skaftafell to Jökulsárlón: ~55 km (34 miles), ~45 minutes</li>
+        <li class="sub-list">Jökulsárlón to Höfn: ~60 km (37 miles), ~1 hour</li>
+    </ul>
+</div>
+
+<h3>Morning (Canyons & Waterfalls)</h3>
+<div class="activity-item"><span class="activity-time">08:00</span> Breakfast at The Barn.</div>
+<div class="activity-item"><span class="activity-time">08:30</span> Drive to Fjaðrárgljúfur Canyon (~1 hour).</div>
+<div class="activity-item"><span class="activity-time">09:30</span> <a href="https://www.south.is/en/inspiration/nature/fjadrargljufur-canyon" target="_blank">Fjaðrárgljúfur Canyon</a>: Explore this magnificent 100-meter deep and 2-kilometer long canyon formed during the last Ice Age. Follow the walking path along the rim for spectacular views of the winding river below and mossy canyon walls. (1 hour)</div>
+<div class="activity-item"><span class="activity-time">10:30</span> Drive to Skaftafell (~45 minutes).</div>
+<div class="activity-item"><span class="activity-time">11:15</span> <a href="https://www.vatnajokulsthjodgardur.is/en/areas/skaftafell" target="_blank">Skaftafell</a> - Svartifoss Waterfall Hike: 3-mile round trip, moderately challenging hike to the distinctive "Black Falls" surrounded by hexagonal basalt columns that have inspired Icelandic architecture. (Allow 2 hours)</div>
+
+<h3>Afternoon (Glacier Lagoon)</h3>
+<div class="activity-item"><span class="activity-time">13:15</span> Lunch at the visitor center café in Skaftafell.</div>
+<div class="activity-item"><span class="activity-time">14:00</span> Drive to Jökulsárlón Glacier Lagoon (~45 minutes).</div>
+<div class="activity-item"><span class="activity-time">14:45</span> ✨ <span class="featured"><strong>Zodiac Boat Tour of Jökulsárlón Glacier Lagoon</strong></span>: Experience an up-close adventure among the icebergs on this pre-booked tour. The zodiac boats get closer to the glacier face than larger vessels and provide intimate views of the ice formations. (~45 minutes). (<a href="https://icelagoon.is/" target="_blank">Ice Lagoon Zodiac Tours</a>)</div>
+<div class="activity-item"><span class="activity-time">15:45</span> <a href="https://www.south.is/en/inspiration/nature/diamond-beach" target="_blank">Diamond Beach</a>: Just across the road from Jökulsárlón, explore this magical black sand beach where glistening ice chunks from the lagoon wash ashore, creating a surreal landscape that changes by the hour. (30-60 minutes)</div>
+<div class="activity-item"><span class="activity-time">16:45</span> Fjallsjökull glacier viewpoint (optional): A less-visited glacier viewpoint offering different perspectives of the Vatnajökull ice cap. (~30 minutes driving each way)</div>
+
+<h3>Evening (Höfn)</h3>
+<div class="activity-item"><span class="activity-time">17:45</span> Drive to Höfn area (~1 hour from Jökulsárlón).</div>
+<div class="activity-item"><span class="activity-time">18:45</span> Check into Airbnb near Höfn, Seljavöllum.</div>
+<div class="activity-item"><span class="activity-time">19:30</span> Dinner in Höfn: <a href="https://www.pakkhus.is/" target="_blank">Pakkhús</a> (renowned for fresh langoustine, often called "Iceland's lobster capital"), <a href="https://www.facebook.com/hafnarbudin" target="_blank">Hafnarbuðin</a> (casual fish & chips), or other local options.</div>
+
+<h4>Key Highlights of the Day</h4>
+   <ul class="sub-list">
+    <li>✨ Zodiac boat tour on Jökulsárlón Glacier Lagoon, where you'll navigate between floating icebergs calved from Breiðamerkurjökull glacier with their mesmerizing blue hues.</li>
+    <li>✨ The surreal beauty of Diamond Beach where crystal-clear ice pieces contrast dramatically with black volcanic sand, creating a photographer's paradise.</li>
+    <li>✨ Hiking to Svartifoss waterfall with its distinctive backdrop of hexagonal basalt columns that have inspired Icelandic architecture, including Hallgrímskirkja church in Reykjavík.</li>
+   </ul>
+
+<h4>Accommodations</h4>
+<p><strong>Airbnb</strong> near Höfn, Seljavöllum. Double or twin accommodation. This countryside lodging offers peaceful surroundings and mountain views, a welcome retreat after a day of glacier exploration.</p>
+
+<h4>Alternative Activities</h4>
+<ul class="sub-list">
+    <li><a href="https://www.south.is/en/inspiration/history-and-cultural-heritage/hofskirkja-church" target="_blank">Hofskirkja turf church</a>: One of Iceland's last remaining turf churches, a traditional building method using stacked turf for insulation.</li>
+    <li><a href="https://www.south.is/en/inspiration/nature/vestrahorn" target="_blank">Stokknes/Vestrahorn photo stop</a>: Dramatic mountain backdrop with black sand dunes (small fee for access to private land).</li>
+    <li>Hoffellsjökull glacier viewpoint: Less-visited glacier outlet with a small lagoon.</li>
+    <li>Scenic flight over Vatnajökull (expensive but offers extraordinary views of Europe's largest glacier).</li>
+    <li>💎 <span class="gem"><strong>Strútsfoss Waterfall</strong> - Even larger red strata waterfall than the famous Hengifoss, yet virtually crowd-free. Accessible with regular car in summer via Road 935 to Sturluflöt farm. The family-friendly hike rewards you with views of this hidden gem that few tourists experience, featuring dramatic red and black striped rock face surrounding the falls.</span></li>
+</ul>
+
+<div class="tip-box">
+Visit Diamond Beach at different times of day for varying light and ice formations. Early morning or late evening light creates magical conditions for photography. The beach constantly changes as new ice pieces wash ashore and others melt or are swept back to sea.
+</div>
+<div class="notes-box">
+Dress warmly for the Zodiac tour with layers, hat, and gloves, as it can be significantly colder near the glacier. Höfn is known for langoustine (Norwegian lobster), so seafood enthusiasts should definitely try it here. Check road conditions at <a href="https://www.road.is" target="_blank">road.is</a>, particularly important in this region where weather can impact travel.
+</div>
+
+<div class="page-break"></div>
+
+<!-- Day 5 -->
+<h2 id="day5">🏔️ Day 5: July 18 - East Fjords Journey</h2>
+<img class="day-image" src="https://github.com/kgangerlm/iceland-data/blob/main/images/day5.jpg?raw=true" alt="East Fjords, Iceland">
+<div class="quote-box">
+  "Travel makes one modest. You see what a tiny place you occupy in the world." - Gustave Flaubert
+</div>
+<div class="daily-summary">
+    <strong>Day Summary:</strong> Dramatic coastal drive through the remote and beautiful East Fjords.
+        <ul>
+    <li><strong>Total Driving:</strong> ~250 km (155 miles), ~4 hours (without stops, this is pure driving time). Allow a *full day* for this scenic route.</li>
+    <li class="sub-list">Höfn to Vestrahorn: ~15 km (9 miles), ~15 minutes</li>
+    <li class="sub-list">Vestrahorn to Djúpivogur: ~80 km (50 miles), ~1 hour</li>
+    <li class="sub-list">Djúpivogur to Strútsfoss detour: ~60 km (37 miles), ~1 hour one way</li>
+    <li class="sub-list">Back to East Fjords route to Borgarfjörður Eystri: ~120 km (75 miles), ~2.5 hours</li>
+  </ul>
+</div>
+
+<h3>Morning (Vestrahorn & Coastal Drive)</h3>
+<div class="activity-item"><span class="activity-time">08:00</span> Breakfast near Höfn (Netto bakery opens early for fresh pastries and coffee).</div>
+<div class="activity-item"><span class="activity-time">08:30</span> Depart for Vestrahorn.</div>
+<div class="activity-item"><span class="activity-time">08:45</span> ✨ <span class="featured"><strong>Vestrahorn and Stokksnes Beach</strong></span>: Explore this dramatic 454m high mountain with distinctive peaks overlooking a stunning black sand beach. The reflective wet sand at low tide creates mirror-like images of the mountain. Entry fee (~$12/person) payable at Viking Café. (Allow 1-2 hours)</div>
+<div class="activity-item"><span class="activity-time">10:45</span> ✨ <span class="featured"><strong>East Fjords Coastal Drive</strong></span>: Begin the scenic drive along Route 1, hugging the fjords with their dramatic mountain backdrops and cascading waterfalls. Watch for wild reindeer, as this is the only part of Iceland where they roam!</div>
+
+<h3>Afternoon (Fjords & Villages)</h3>
+<div class="activity-item"><span class="activity-time">12:00</span> Lunch in Djúpivogur: <a href="https://www.vidvoginn.is/" target="_blank">Við Voginn restaurant</a>, a charming harbor-side eatery offering fresh seafood and traditional Icelandic dishes.</div>
+<div class="activity-item"><span class="activity-time">13:30</span> Continue along the East Fjords, enjoying the winding coastal road with frequent pullouts for photos of the fjord landscapes.</div>
+<div class="activity-item"><span class="activity-time">14:30</span> 💎 <span class="featured"><strong>Strútsfoss Waterfall</strong></span>: *Highly recommended* detour. Take Road 935 (gravel, but suitable for your car in summer) to Sturluflöt farm. Easy, family-friendly hike to this stunning 100-meter waterfall framed by colorful rhyolite rocks, offering a spectacular sight without the crowds found at more famous falls. (Allow 1.5-2 hours for the detour and hike)</div>
+<div class="activity-item"><span class="activity-time">16:30</span> <a href="https://www.atlasobscura.com/places/petras-stone-collection" target="_blank">Petra's Stone Collection</a> in Stöðvarfjörður: Visit this remarkable private collection of East Iceland minerals and rocks, gathered over decades by local resident Petra Sveinsdóttir. (Optional, if time and interest allow, ~$15/person)</div>
+<div class="activity-item"><span class="activity-time">17:00</span> Vestdalsfossar waterfall viewpoint: A quick roadside stop to view multiple parallel waterfalls tumbling down the mountainside into the fjord.</div>
+
+<h3>Evening (Borgarfjörður Eystri)</h3>
+<div class="activity-item"><span class="activity-time">18:30</span> Drive to Borgarfjörður Eystri (~1.5 hours from Stöðvarfjörður, less if skipping Petra's). The final part of this route (Road 94) offers stunning mountain views as it winds through a high pass before descending to this remote coastal village.</div>
+<div class="activity-item"><span class="activity-time">20:00</span> Check into Alfheimar Hotel, a comfortable guesthouse in this tiny village (population ~100) known for its stunning landscapes and folklore connections.</div>
+<div class="activity-item"><span class="activity-time">20:30</span> Dinner at hotel restaurant or <a href="https://www.alfacafe.is/" target="_blank">Álfacafé</a>, both serving homemade local cuisine featuring fresh ingredients from the surrounding area.</div>
+
+<h4>Key Highlights of the Day</h4>
+<ul class="sub-list">
+  <li>✨ The dramatic beauty of Vestrahorn mountain rising sharply from the black sand beach, creating one of Iceland's most photogenic landscapes.</li>
+  <li>✨ The winding, scenic East Fjords coastal drive with its endless views of mountains plunging into the sea and picturesque fishing villages nestled between the fjords.</li>
+  <li>✨ The hidden gem of Strútsfoss Waterfall with its impressive height and colorful rock formations, far from the tourist crowds.</li>
+</ul>
+
+<h4>Accommodations</h4>
+<p><strong>Alfheimar Hotel</strong>, Borgarfjörður Eystri. Standard Double or Twin Room with Patio. This welcoming hotel is set in a picturesque village surrounded by mountains and offers comfortable rooms with views of the dramatic landscape. The on-site restaurant serves excellent local cuisine.</p>
+
+<h4>Alternative Activities</h4>
+<ul class="sub-list">
+  <li><a href="https://www.east.is/en/professions/hiking/hengifoss-waterfall" target="_blank">Hengifoss and Litlanesfoss Waterfall Hike</a>: A longer hike to see the third-highest waterfall in Iceland with distinctive red clay striations (would need to prioritize and skip other stops).</li>
+  <li><a href="https://www.east.is/en/inspiration/places/nature/atlavik" target="_blank">Atlavik Beach</a>: A golden sand beach on the shores of Lake Lagarfljót, unusual for Iceland and perfect for a short break.</li>
+  <li><a href="https://www.papey.is/en" target="_blank">Papey Island boat tour</a>: Seasonal excursions to a small island with rich birdlife and Iceland's oldest wooden church (requires advance booking).</li>
+  <li><a href="https://www.east.is/en/inspiration/places/nature/reydarfjordur-war-museum" target="_blank">World War II Museum</a> in Reyðarfjörður: Exhibits detailing Iceland's role during WWII when British and American forces occupied the country.</li>
+   <li>💎 <span class="gem"><strong>The Waterfall Circle</strong> - A magical hike with nearly ten diverse waterfalls in the eastern highlands. The trailhead at Laugarfell Guesthouse is accessible with any car from June-September. This moderate 5-mile loop takes about 3 hours and showcases waterfalls of varying sizes and characters, all within one hiking route that few tourists know about.</span></li>
+</ul>
+
+<div class="tip-box">
+Watch for wild reindeer along the East Fjords route - they're often spotted grazing on hillsides or crossing the road, especially in the morning and evening hours. Fill up your gas tank whenever you see a station in this remote region, as fuel stops can be far apart.
+</div>
+<div class="notes-box">
+This is a *long* driving day with winding roads. Prioritize the activities that most appeal to you, and be flexible with your schedule. Mobile phone coverage can be spotty in the East Fjords, so download offline maps before departing. The road to Borgarfjörður Eystri (94) includes gravel sections but is well-maintained in summer and suitable for your rental vehicle.
+</div>
+
+<div class="page-break"></div>
+
+<!-- Day 6 -->
+<h2 id="day6">🏞️ Day 6: July 19 - Hidden Beaches & Puffins</h2>
+<img class="day-image" src="https://github.com/kgangerlm/iceland-data/blob/main/images/day6.jpg?raw=true" alt="Borgarfjörður Eystri, Iceland">
+<div class="quote-box">
+"We travel not to escape life, but for life not to escape us." - Anonymous
+</div>
+<div class="daily-summary">
+  <strong>Day Summary:</strong> Exploring the remote beauty of Borgarfjörður Eystri and puffin watching.
+  <ul>
+  <li><strong>Total Driving:</strong> ~100 km (62 miles), ~2 hours (mostly related to getting to the next accommodation).</li>
+  <li class="sub-list">Around Borgarfjörður Eystri: ~20 km (12 miles), ~30 minutes</li>
+  <li class="sub-list">Borgarfjörður Eystri to Ásgeirsstaðir Cottages: ~80 km (50 miles), ~1.5 hours</li>
+  </ul>
+</div>
+
+<h3>Morning (Brúnavík Beach)</h3>
+<div class="activity-item"><span class="activity-time">08:00</span> Breakfast at Alfheimar Hotel (included with your stay).</div>
+<div class="activity-item"><span class="activity-time">09:00</span> ✨ <span class="featured"><strong>Brúnavík Beach Hike</strong></span>: Set out on this 5-mile, moderately challenging hike to one of Iceland's most secluded and beautiful beaches. The trail begins near Kolbeinsfjara cliffs (off Road 94) and takes you through varied terrain including hills, valleys, and coastal paths, offering stunning views throughout. The pristine black sand beach surrounded by mountains is the perfect reward. Allow 2.5-3 hours. Pack a lunch for a picnic at the beach!</div>
+
+<h3>Afternoon (Stórurð & F946)</h3>
+<div class="activity-item"><span class="activity-time">12:30</span> Lunch at Brúnavík Beach (packed lunch).</div>
+<div class="activity-item"><span class="activity-time">13:30</span> Drive to Stórurð trailhead (~15 minutes from Borgarfjörður Eystri).</div>
+<div class="activity-item"><span class="activity-time">13:45</span> <a href="https://www.east.is/en/inspiration/places/nature/stururdir" target="_blank">Stórurð Basin Hike</a>: This 3-mile loop trail takes you through a surreal landscape of massive boulders, lush vegetation, and crystal-clear turquoise pools nestled between them. The name means "Giant Boulders" in Icelandic, and these enormous rocks were deposited by ancient glaciers. The contrasting colors of green moss, blue water, and gray rock create a magical setting. (2-3 hours)</div>
+<div class="activity-item"><span class="activity-time">16:45</span> <a href="https://epiciceland.net/list-f-roads-iceland/#F946_Lodmundarfjardarvegur" target="_blank">F946 – Loðmundarfjarðarvegur</a> (Optional): If time and interest allow, take a short drive on this remote F-road which is suitable for your 4WD vehicle. This route offers stunning landscapes and views of abandoned farmsteads in a fjord that has been uninhabited since the 1970s.</div>
+
+<h3>Evening (Puffins & Eidar)</h3>
+<div class="activity-item"><span class="activity-time">17:45</span> <a href="https://www.borgarfjordureystri.is/en/puffin-watching" target="_blank">Hafnarhólmi Puffin Colony</a>: Visit one of Iceland's most accessible and reliable puffin viewing sites, with specially constructed platforms and stairs that allow you to observe these charming birds up close. Between May and August, thousands of Atlantic puffins nest here. Evening hours are ideal for viewing as the birds return from fishing at sea. The well-maintained boardwalks and viewing platforms make this a comfortable and ethical wildlife viewing experience.</div>
+<div class="activity-item"><span class="activity-time">19:00</span> Drive to Ásgeirsstaðir Cottages (~1.5 hours).</div>
+<div class="activity-item"><span class="activity-time">20:30</span> Check into Ásgeirsstaðir Cottages, a collection of cozy, self-catering cabins in a peaceful rural setting.</div>
+<div class="activity-item"><span class="activity-time">21:00</span> Self-catered dinner at the cottage (be sure to bring groceries from earlier in your journey).</div>
+
+<h4>Key Highlights of the Day</h4>
+  <ul class="sub-list">
+     <li>✨ The otherworldly beauty of Brúnavík Beach, a pristine black sand beach surrounded by towering mountains and accessible only by foot.</li>
+      <li>✨ Hiking among the giant boulders of Stórurð Basin, with its surreal landscape of massive rocks and vibrant turquoise pools.</li>
+      <li>✨ Watching puffins at Hafnarhólmi, where these charismatic seabirds nest in burrows and carry colorful beaks full of fish.</li>
+  </ul>
+
+<h4>Accommodations</h4>
+<p><strong>Ásgeirsstaðir Cottages</strong>, Eidar. Standard Cabin with 1 Bedroom (self-catering). These comfortable cottages offer a peaceful rural setting with mountain views and the chance to experience Iceland's countryside tranquility.</p>
+
+<h4>Alternative Activities</h4>
+<ul class="sub-list">
+  <li><a href="https://www.east.is/en/inspiration/places/mountains/dyrfjoll" target="_blank">Dyrfjöll Mountain Viewpoint</a>: A short hike offering panoramic views of this distinctive mountain range with its characteristic gap or "door" (what the name means in Icelandic).</li>
+  <li><a href="https://www.east.is/en/inspiration/towns/the-village-of-bakkagerdi/lindarbakki" target="_blank">Lindarbakki Turf House</a>: A traditional red-painted cottage with a turf roof representing Iceland's traditional architectural style.</li>
+  <li>Nýibær Art Gallery (bad weather option): Small gallery featuring works by local artists.</li>
+  <li>💎 <span class="gem"><strong>Ker Cliffs</strong> - The Þerribjörg Sea Cliffs form breathtaking coastline in East Iceland. Access via gravel road 917, suitable for any car May-October. Enjoy an easy 1.5-hour family hike with scenic mountain pass views and dramatic cliffs plunging into the ocean.</span></li>
+</ul>
+
+<div class="tip-box">
+Evenings are best for puffin viewing as they return from fishing trips. Bring binoculars if you have them for even better viewing, though they're not essential at Hafnarhólmi since the viewing platforms get quite close to the nesting sites. Be respectful of wildlife and maintain the recommended distance from the birds.
+</div>
+<div class="notes-box">
+Stock up on groceries for your self-catering cabin before arriving in this remote area. There are limited shopping options between Egilsstaðir and Ásgeirsstaðir. Hiking poles are helpful for the Brúnavík trail, especially on steeper sections. The Stórurð hike can be muddy after rain, so appropriate footwear is essential.
+</div>
+
+<div class="page-break"></div>
+
+<!-- Day 7 -->
+<h2 id="day7">💦 Day 7: July 20 - Waterfalls & Volcanic Landscapes</h2>
+<img class="day-image" src="https://github.com/kgangerlm/iceland-data/blob/main/images/day7.jpg?raw=true" alt="Dettifoss Waterfall, Iceland">
+<div class="quote-box">
+  "To travel is to discover that everyone is wrong about other countries." - Aldous Huxley
+</div>
+<div class="daily-summary">
+  <strong>Day Summary:</strong>  From East Iceland's cliffs to North Iceland's powerful waterfalls and geothermal areas.
+      <ul>
+  <li><strong>Total Driving:</strong> ~310 km (193 miles), ~5 hours (This is a long driving day, even without detours. Prioritize!).</li>
+      <li class="sub-list">Eidar to Ker Cliffs detour: ~30 km (19 miles), ~40 minutes</li>
+      <li class="sub-list">Eidar/Ker Cliffs to Dettifoss: ~150 km (93 miles), ~2 hours</li>
+      <li class="sub-list">Dettifoss to Ásbyrgi: ~25 km (16 miles), ~45 minutes</li>
+      <li class="sub-list">Ásbyrgi to Mývatn: ~50 km (31 miles), ~1 hour</li>
+      <li class="sub-list">Mývatn to Goðafoss: ~45 km (28 miles), ~45 minutes</li>
+      <li class="sub-list">Goðafoss to Akureyri: ~30 km (19 miles), ~30 minutes</li>
+  </ul>
+</div>
+
+<h3>Morning (Cliffs & Dettifoss)</h3>
+<div class="activity-item"><span class="activity-time">07:00</span> Breakfast at Ásgeirsstaðir Cottages (self-catered).</div>
+<div class="activity-item"><span class="activity-time">07:30</span> Depart for Ker Cliffs.</div>
+<div class="activity-item"><span class="activity-time">08:10</span> 💎 <span class="featured"><strong>Ker Cliffs</strong></span>: Explore the Þerribjörg Sea Cliffs, a dramatic coastline with towering rock formations dropping steeply into the ocean. The easy 1.5-hour hike offers breathtaking views across the ocean and along the rugged cliff faces. Take Road 917 (gravel, but usually fine for all cars in summer).</div>
+<div class="activity-item"><span class="activity-time">09:40</span> Drive towards Dettifoss (~2 hours from Ker Cliffs, ~2.5 hours from Eidar if skipping cliffs). Take Road 864 (east side) for the best views, though this gravel road is rougher than Road 862 on the west side.</div>
+<div class="activity-item"><span class="activity-time">11:40</span> ✨ <span class="featured"><strong>Dettifoss Waterfall</strong></span>: Experience Europe's most powerful waterfall, where the enormous volume of water from Vatnajökull glacier crashes over a 44-meter drop, creating a spectacle of raw natural power. The spray can be felt hundreds of meters away, and the constant rumble of water makes for an immersive sensory experience. (1-1.5 hours)</div>
+
+<h3>Afternoon (Ásbyrgi, Mývatn, Goðafoss)</h3>
+<div class="activity-item"><span class="activity-time">13:10</span> Drive to Ásbyrgi Canyon (~45 minutes from Dettifoss).</div>
+<div class="activity-item"><span class="activity-time">13:55</span> <a href="https://www.vatnajokulsthjodgardur.is/en/areas/jokulsargljufur/plan-your-visit/asbyrgi" target="_blank">Ásbyrgi Canyon</a>: Explore this remarkable horseshoe-shaped canyon with 100-meter high cliffs. According to Norse mythology, the unusual formation was created by Odin's eight-legged horse, Sleipnir, when one of its hooves touched the ground. The canyon floor is covered with birch woodland, unusual in Iceland, and contains a small lake. Several well-marked trails allow you to explore both the canyon floor and rim. (1-2 hours)</div>
+<div class="activity-item"><span class="activity-time">15:55</span> Drive to Mývatn Nature Baths (~1 hour from Ásbyrgi).</div>
+<div class="activity-item"><span class="activity-time">16:55</span> <a href="https://myvatnnaturebaths.is/en/" target="_blank">Mývatn Nature Baths</a>: Relax in these geothermal waters, often called "the Blue Lagoon of the North," but less crowded and more affordable. The mineral-rich alkaline water (36-40°C/97-104°F) is drawn from depths of up to 2,500 meters and is said to have beneficial effects on skin and respiratory systems. The facilities include steam baths naturally powered by geothermal activity. (Allow 2 hours)</div>
+<div class="activity-item"><span class="activity-time">18:55</span> Drive to Goðafoss Waterfall (~45 minutes from Mývatn).</div>
+<div class="activity-item"><span class="activity-time">19:40</span> ✨ <span class="featured"><strong>Goðafoss Waterfall</strong></span>: "Waterfall of the Gods" is not only spectacular but historically significant. Around the year 1000 CE, when Iceland adopted Christianity, the local chieftain Þorgeir threw his statues of Norse gods into this waterfall, giving it its name. The semicircular falls are 12 meters high and 30 meters wide, creating a mesmerizing display of cascading water. (30-45 minutes)</div>
+
+<h3>Evening (Akureyri)</h3>
+<div class="activity-item"><span class="activity-time">20:25</span> Drive to Akureyri (~30 minutes from Goðafoss).</div>
+<div class="activity-item"><span class="activity-time">20:55</span> Check into Hildur's Airbnb in Akureyri, Iceland's "Capital of the North."</div>
+<div class="activity-item"><span class="activity-time">21:25</span> Dinner in Akureyri: <a href="https://www.rub23.is/en/" target="_blank">Rub23</a> (innovative seafood and sushi), <a href="https://strikid.is/en/" target="_blank">Strikið</a> (modern Icelandic cuisine with rooftop views), or other local options.</div>
+<div class="activity-item"><span class="activity-time">22:30</span> Evening walk along Akureyri fjord (optional) to enjoy the midnight sun views over Eyjafjörður, Iceland's longest fjord.</div>
+
+<h4>Key Highlights of the Day</h4>
+  <ul class="sub-list">
+      <li>✨ The raw power of Dettifoss Waterfall, whose thundering cascade creates a continuous mist and rainbow effects on sunny days.</li>
+      <li>✨ The historical and picturesque Goðafoss Waterfall, where Iceland's connection to both pagan and Christian heritage is commemorated.</li>
+      <li>✨ Relaxing at Mývatn Nature Baths, a more intimate and authentic alternative to the famous Blue Lagoon, set among volcanic landscapes.</li>
+      <li>💎 The dramatic Ker Cliffs with their uninterrupted views over the North Atlantic Ocean.</li>
+  </ul>
+
+<h4>Accommodations</h4>
+<p><strong>Hildur's Airbnb</strong>, Akureyri. Entire home/apartment. This comfortable accommodation in Iceland's second-largest urban area offers a welcome return to city amenities after several days in remote regions.</p>
+
+<h4>Alternative Activities</h4>
+<ul class="sub-list">
+  <li><a href="https://www.northiceland.is/en/other/place/grjotagja" target="_blank">Grjótagjá Cave</a>: A small lava cave with a geothermal spring inside (viewing only, no bathing allowed). Featured in Game of Thrones.</li>
+  <li><a href="https://www.northiceland.is/en/other/place/hverir-hverarond" target="_blank">Hverfjall Crater Hike</a>: A 1-hour round trip hike to the rim of this perfectly formed tephra cone volcano.</li>
+  <li><a href="https://guidetoiceland.is/travel-iceland/drive/krafla" target="_blank">Krafla Volcano Crater</a>: Site of eruptions as recent as the 1980s, featuring the vivid blue Víti explosion crater.</li>
+  <li><a href="https://www.northiceland.is/en/other/place/hverir-hverarond" target="_blank">Námaskarð</a>: Otherworldly geothermal area with bubbling mud pots, steam vents, and multicolored soil.</li>
+  <li>💎 <span class="gem"><strong>Bergárfoss Waterfall</strong> - Prettiest and most secluded waterfall in North Iceland, rarely visited even by locals. From Kolugljúfur Canyon, take gravel road south on eastern river bank for 4km, then walk. 4WD necessary year-round.</span></li>
+</ul>
+
+<div class="tip-box">
+Road 864 to Dettifoss (east side) is rougher but offers better views. Be prepared for wet conditions near the falls due to constant spray, and wear sturdy footwear on the sometimes slippery paths. For the Mývatn Nature Baths, bring your own towel to save on rental fees, and remember that pre-booking is recommended in peak season.
+</div>
+<div class="notes-box">
+This is a *very* long driving day with multiple significant stops. Consider prioritizing 2-3 main attractions rather than attempting everything. Dettifoss and Goðafoss are must-sees, while the others can be considered optional depending on your interests and energy levels. Be mindful of cruise ship passengers in Akureyri which can make restaurants busier on certain days.
+</div>
+
+<div class="page-break"></div>
+
+<!-- Day 8 -->
+<h2 id="day8">🏔️ Day 8: July 21 - Troll Peninsula Exploration</h2>
+<img class="day-image" src="https://github.com/kgangerlm/iceland-data/blob/main/images/day8.jpg?raw=true" alt="Siglufjörður, Iceland">
+<div class="quote-box">
+  "Travel is the only thing you buy that makes you richer." - Anonymous
+</div>
+<div class="daily-summary">
+  <strong>Day Summary:</strong> Exploring Akureyri and the scenic Tröllaskagi (Troll Peninsula).
+  <ul>
+  <li><strong>Total Driving:</strong> ~110 km (68 miles), ~2 hours (around the Troll Peninsula).</li>
+  <li class="sub-list">Akureyri to coastal Route 82: ~20 km (12 miles), ~25 minutes</li>
+  <li class="sub-list">Route 82 to Siglufjörður: ~90 km (56 miles), ~1.5 hours (scenic coastal drive)</li>
+  </ul>
+</div>
+
+<h3>Morning (Akureyri)</h3>
+<div class="activity-item"><span class="activity-time">08:00</span> Breakfast at Airbnb or <a href="https://www.kaffikrumma.is/" target="_blank">Kaffi Ilmur</a> in Akureyri, a cozy café offering freshly baked goods and quality coffee.</div>
+<div class="activity-item"><span class="activity-time">09:00</span> <a href="https://www.visitakureyri.is/en/see-and-do/attractions/akureyri-botanical-garden" target="_blank">Akureyri Botanical Gardens</a>: Explore one of the world's northernmost botanical gardens, featuring over 7,000 plant species including many native Icelandic plants and an extensive collection of Arctic flora. Established in 1912, the garden is not only a beautiful place for a morning stroll but also an important center for botanical research. (1-1.5 hours)</div>
+<div class="activity-item"><span class="activity-time">10:30</span> <a href="https://www.visitakureyri.is/en/see-and-do/attractions/akureyri-church" target="_blank">Akureyrarkirkja Church</a>: Admire the distinctive architecture of this Lutheran church, designed by Guðjón Samúelsson and completed in 1940. The church is famous for its 3,200-pipe organ and stained glass windows depicting scenes from Icelandic Christian history. From the church steps, enjoy panoramic views over Akureyri and the fjord. (30 minutes)</div>
+
+<h3>Afternoon (Troll Peninsula)</h3>
+<div class="activity-item"><span class="activity-time">11:00</span> Lunch in Akureyri at <a href="https://www.blaakannan.is/" target="_blank">Bláa Kannan</a> (The Blue Pot) or another local café.</div>
+<div class="activity-item"><span class="activity-time">12:00</span> Drive to Troll Peninsula via coastal Route 82, one of Iceland's most scenic drives. This winding road hugs the coastline with dramatic fjord views on one side and steep mountains on the other, offering numerous photo opportunities.</div>
+<div class="activity-item"><span class="activity-time">13:30</span> <a href="http://icelandichorse.is/" target="_blank">Horseback Riding on Troll Peninsula</a> (Optional, book in advance with Langhús Farm). Experience the unique gait (tölt) of Icelandic horses while riding through stunning mountain and coastal landscapes. These friendly, hardy horses have been bred in isolation since the Viking era.</div>
+<div class="activity-item"><span class="activity-time">15:30</span> <a href="https://www.bjorbodin.is/en" target="_blank">Bjórböðin Beer Spa</a> (Optional, reservations recommended). This unique spa offers relaxing baths in young beer, hops, and yeast which purportedly has skin-nourishing properties. Each tub has a beer tap within reach, and guests over 20 can enjoy unlimited beer during their 25-minute soak.</div>
+
+<h3>Evening (Siglufjörður)</h3>
+<div class="activity-item"><span class="activity-time">17:30</span> Drive to Siglufjörður, continuing along the dramatic coastal road with views of steep mountains plunging into the sea. Pass through the Héðinsfjörður tunnel, an engineering marvel that opened this once-isolated region.</div>
+<div class="activity-item"><span class="activity-time">18:00</span> Check into The Painter's House with View and Balcony, a charming Airbnb in Siglufjörður with panoramic fjord views.</div>
+<div class="activity-item"><span class="activity-time">19:00</span> Dinner at <a href="https://www.raudka.is/" target="_blank">Kaffi Rauðka</a>, a harborside restaurant housed in a restored red-painted building from 1915, offering fresh seafood and traditional Icelandic cuisine.</div>
+<div class="activity-item"><span class="activity-time">20:30</span> Evening walk around Siglufjörður harbor, a picturesque fishing port surrounded by mountains. The town was once the herring fishing capital of the Atlantic, and its colorful buildings and boats make for excellent evening photography.</div>
+
+<h4>Key Highlights of the Day</h4>
+  <ul class="sub-list">
+     <li>✨ The charming town of Akureyri with its botanical gardens, distinctive church, and café culture.</li>
+     <li>✨ The dramatic fjord views along the Troll Peninsula coastal drive, where mountains meet the Arctic Ocean.</li>
+     <li>✨ The picturesque fishing village of Siglufjörður nestled between steep mountains and sea, with its colorful houses and rich maritime history.</li>
+  </ul>
+
+<h4>Accommodations</h4>
+<p><strong>The Painter's House with View and Balcony</strong>, Siglufjörður. Entire home/apartment. This artistically decorated home offers panoramic views of the mountains and fjord, with a balcony perfectly positioned for enjoying the midnight sun.</p>
+
+<h4>Alternative Activities</h4>
+<ul class="sub-list">
+  <li><a href="https://sundlaugar.is/en/sundlaugar/hofsos/" target="_blank">Hofsós Infinity Pool</a>: One of Iceland's most beautifully situated swimming pools, with an infinity edge overlooking the fjord and Drangey Island.</li>
+  <li><a href="http://www.sild.is/en" target="_blank">Herring Era Museum in Siglufjörður</a>: Award-winning maritime museum chronicling the town's heyday as Iceland's "Herring Capital," with restored buildings and boats.</li>
+  <li><a href="https://whalewatchingakureyri.is/tours/whale-watching-from-dalvik" target="_blank">Dalvík Whale Watching</a>: 3-hour tours from this fishing village offer excellent chances to see humpback whales, dolphins, and porpoises.</li>
+  <li><a href="https://guidetoiceland.is/travel-iceland/drive/ketilsstadargilhnjukur" target="_blank">Ketubbjörg Cliffs</a>: Dramatic sea cliffs with a lighthouse and panoramic views of Skagafjörður.</li>
+</ul>
+
+<div class="tip-box">
+The Beer Spa is a unique experience, but book in advance as it's a popular attraction. You must be 20+ to drink alcohol, but guests of all ages can enjoy the beer baths. The Troll Peninsula roads are winding but fully paved, making for a comfortable drive with frequent pullouts for photos.
+</div>
+<div class="notes-box">
+Be mindful of cruise ship schedules in Akureyri, which can make attractions busier on certain days. There are two one-way tunnels near Siglufjörður – follow the traffic lights which indicate when it's safe to enter. Siglufjörður gets quite popular in summer, so dinner reservations are recommended for Kaffi Rauðka.
+</div>
+
+<div class="page-break"></div>
+
+<!-- Day 9 -->
+<h2 id="day9">⛰️ Day 9: July 22 - North to Snæfellsnes</h2>
+<img class="day-image" src="https://raw.githubusercontent.com/kgangerlm/iceland-data/refs/heads/main/images/day9.avif" alt="Kirkjufell, Iceland">
+<div class="quote-box">
+  "The peninsula is a world where magical realms of imagination and magnificent nature combine to create a captivating journey." – Icelandic Tourism Board on Snæfellsnes
+</div>
+<div class="daily-summary">
+  <strong>Day Summary:</strong> A scenic journey from the Troll Peninsula in the north to the magical Snæfellsnes Peninsula in western Iceland.
+  <ul>
+  <li><strong>Total Driving:</strong> ~340 km (211 miles), ~4.5 hours for the main route.</li>
+  <li class="sub-list">Siglufjörður to Grafarkirkja: ~40 km (25 miles), ~40 minutes</li>
+  <li class="sub-list">Grafarkirkja to Hofsós: ~20 km (12 miles), ~20 minutes</li>
+  <li class="sub-list">Hofsós to Hvítserkur: ~130 km (81 miles), ~1.5 hours</li>
+  <li class="sub-list">Hvítserkur to Grundarfjörður: ~150 km (93 miles), ~2 hours</li>
+  <li class="sub-list">Optional Bergárfoss detour: ~13 km (8 miles) plus hiking time</li>
+  </ul>
+</div>
+
+<h3>Morning</h3>
+<div class="activity-item"><span class="activity-time">08:00</span> Breakfast at Airbnb or local bakery, <a href="https://www.facebook.com/people/Frysti%C3%B0-Siglu/100063526820975/" target="_blank">Frystið Café</a>.</div>
+<div class="activity-item"><span class="activity-time">09:00</span> <span class="featured"><strong>Grafarkirkja</strong></span>: Visit Iceland's oldest church (17th century) with hand-carved wooden beams and a turf roof. This unique historical and architectural site was dismantled in 1950, preserved, and reconstructed in its original design with traditional materials, offering a glimpse into Iceland's architectural heritage. <a href="https://www.northiceland.is/en/destinations/see-and-do/culture/grafarkirkja" target="_blank">[Link]</a> (30-45 minutes)</div>
+<div class="activity-item"><span class="activity-time">10:15</span> <span class="featured"><strong>Hofsós Swimming Pool</strong></span>: Swim in this architecturally stunning infinity-style pool with uninterrupted views across Skagafjörður to Drangey Island. Designed by the same architect as the Blue Lagoon, this municipal pool is considered one of the most beautifully situated bathing spots in Iceland. <a href="https://sundlaugar.is/en/sundlaugar/hofsos/" target="_blank">[Link]</a> Entry fee: $8 per person. (1-1.5 hours)</div>
+<div class="activity-item"><span class="activity-time">12:00</span> <span class="featured"><strong>Hvítserkur</strong></span>: Witness this dramatic 15-meter (50-foot) high basalt stack resembling a dragon (or rhino) drinking from the sea. According to folklore, it's a petrified troll caught by daylight. Best viewed at low tide when you can walk closer to the formation along the black sand beach. <a href="https://guidetoiceland.is/travel-iceland/drive/hvitserkur" target="_blank">[Link]</a> (45 minutes - 1 hour including the detour drive)</div>
+
+<h3>Afternoon</h3>
+<div class="activity-item"><span class="activity-time">13:00</span> Lunch stop in Blönduós. Options include the <a href="https://www.northiceland.is/en/food-drink/restaurants/samkomuhusid-restaurant-and-bar" target="_blank">Samkomuhúsið Restaurant and Bar</a> or <a href="https://www.northiceland.is/en/food-drink/restaurants/potturinn-og-pannan-restaurant" target="_blank">Potturinn og Pannan Restaurant</a>, both offering traditional Icelandic cuisine.</div>
+<div class="activity-item"><span class="activity-time">14:00</span> 💎 <span class="gem"><strong>Bergárfoss Waterfall</strong></span>: A hidden gem, considered the prettiest and most secluded waterfall in North Iceland. *Requires 4WD*. From Kolugljúfur Canyon, take the gravel road south on the eastern river bank for 4km, then walk a short distance to this cascading waterfall sheltered in a peaceful gorge. <a href="https://www.google.com/maps/place/Kolugljufur+Canyon/@65.3348116,-20.5929847,14.08z/data=!4m15!1m8!3m7!1s0x48d2d8d1773c257d:0x591c0f8e9a6c661c!2sKolugljufur+Canyon!3m2!1d65.3359991!2d-20.5789594!4m1!3e2!3m5!1s0x48d2d8d1773c257d:0x591c0f8e9a6c661c!8m2!3d65.3359991!4d-20.5789594!16s%2Fg%2F11b6zyp8j0?entry=ttu" target="_blank">[Link to area]</a> (1.5 - 2 hours including detour and hike)</div>
+<div class="activity-item"><span class="activity-time">16:00</span> <strong>Drive to Snæfellsnes Peninsula</strong>: Enjoy the scenic route with mountain and ocean views. The landscape transitions from the agricultural plains of Northwest Iceland to the dramatic volcanic features of the Snæfellsnes Peninsula. There are several viewpoints along the way for short breaks.</div>
+
+<h3>Evening</h3>
+<div class="activity-item"><span class="activity-time">18:00</span> <span class="featured"><strong>Kirkjufell Mountain and Kirkjufellsfoss</strong></span>: Photograph Iceland's most iconic mountain, featured in Game of Thrones as "Arrowhead Mountain." Rising 463 meters from the shoreline, its distinctive shape is complemented by the small triple waterfall of Kirkjufellsfoss in the foreground, creating one of Iceland's most photographed scenes. For the classic shot, walk the short path across the small bridge to position the falls in front of the mountain. Best photographed in the evening light when the mountain catches the golden glow of the setting sun. <a href="https://guidetoiceland.is/travel-iceland/drive/kirkjufell" target="_blank">[Link]</a> (1-1.5 hours)</div>
+<div class="activity-item"><span class="activity-time">19:30</span> Check into The Old Post Office, Grundarfjörður.</div>
+<div class="activity-item"><span class="activity-time">20:00</span> Dinner at the hotel restaurant or nearby options, like <a href="https://www.visitgrundarfjordur.is/food-drink/bjargarsteinn" target="_blank">Bjargarsteinn mathús</a>, a seafood restaurant with panoramic views of Kirkjufell.</div>
+
+<h4>Key Highlights of the Day</h4>
+  <ul class="sub-list">
+     <li>✨ Hvítserkur sea stack, where nature has sculpted rock into an animal-like form rising from the ocean.</li>
+     <li>✨ The infinity-edge swimming pool at Hofsós with its uninterrupted views across the fjord.</li>
+     <li>✨ Kirkjufell mountain and Kirkjufellsfoss waterfall, perhaps Iceland's most recognizable landscape.</li>
+  </ul>
+
+<h4>Accommodations</h4>
+<p><strong>The Old Post Office</strong> in Grundarfjörður: Double or Twin Room with Private Bathroom. This charming accommodation is a converted post office in the heart of the fishing village. It offers views of the mountains or harbor and is ideally located for exploring the Snæfellsnes Peninsula, with Kirkjufell visible from town.</p>
+
+<h4>Alternative Activities</h4>
+<ul class="sub-list">
+    <li><a href="https://www.west.is/en/inspiration/towns/stykkisholmur" target="_blank">Stykkishólmur village</a>: A colorful harbor town with charming wooden houses, featured in "The Secret Life of Walter Mitty." (Adds ~1 hour driving time, plus exploration time)</li>
+   <li><a href="https://lakitours.com/tours/whale-watching" target="_blank">Whale Watching with Laki Tours</a> (from Ólafsvík): Offers a good chance to see orcas. Afternoon tours are available. (Tour Length: ~3 hours. Consider booking in advance)</li>
+  <li><a href="https://epiciceland.net/list-f-roads-iceland/#F570_Jokulshalsvegur" target="_blank">F570 Jökulshálsvegur</a>: A mountain road offering panoramic views of Snæfellsjökull glacier and the surroundings. *Suitable for your 4WD vehicle*. (Driving time varies depending on how far you go; allow several hours for a thorough exploration)</li>
+     <li><a href="https://guidetoiceland.is/travel-iceland/drive/gatklettur" target="_blank">Gatklettur</a> (Arch Rock) near Arnarstapi: A natural stone arch formed by ocean erosion. A short walk offers coastal views. (30-45 minutes. Better suited for Day 10, but an option if time allows)</li>
+</ul>
+
+<div class="tip-box">
+For the best photo of Kirkjufell with Kirkjufellsfoss, visit in the evening for softer light and fewer crowds. The walk from the parking area is short (5-10 minutes) but can be slippery when wet. Use a wide-angle lens if possible to capture both the mountain and waterfall in one frame.
+</div>
+
+<div class="notes-box">
+<ul>
+  <li>This is a long driving day. Prioritize your "must-see" activities.</li>
+  <li>Major cruise ships were scheduled in Akureyri; you've ideally avoided the crowds by heading west.</li>
+  <li>Gas stations are available in Blönduós and Búðardalur.</li>
+  <li>Road 54 around Snæfellsnes can have strong winds; drive carefully and check <a href="https://umferdin.is/en" target="_blank">Umferðin</a> for road conditions.</li>
+  <li>Low tide information for Hvítserkur can be found <a href="https://tide.is/152/" target="_blank">here</a>.</li>
+</ul>
+</div>
+
+<div class="page-break"></div>
+
+<!-- Day 10 -->
+<h2 id="day10">🏞️ Day 10: July 23 - Snæfellsnes Wonders</h2>
+<img class="day-image" src="https://github.com/kgangerlm/iceland-data/blob/main/images/day10.jpg?raw=true" alt="Snæfellsnes Peninsula, Iceland">
+<div class="quote-box">
+"Snæfellsjökull is the crown jewel of Iceland, emblematic of a clean, stunning environment for all to enjoy." – Guðrún Þ. Gunnarsdóttir
+</div>
+<div class="daily-summary">
+  <strong>Day Summary:</strong> Exploring the diverse landscapes of the Snæfellsnes Peninsula, often called "Iceland in Miniature."
+  <ul>
+  <li><strong>Total Driving:</strong> ~190 km (118 miles), ~3 hours (loop around the peninsula).</li>
+  <li class="sub-list">Grundarfjörður to Djúpalónssandur: ~40 km (25 miles), ~35 minutes</li>
+  <li class="sub-list">Around the peninsula to Ytri Tunga: ~80 km (50 miles), ~1.5 hours</li>
+  <li class="sub-list">Ytri Tunga to Landbrotalaug: ~15 km (9 miles), ~15 minutes</li>
+  <li class="sub-list">Landbrotalaug to Gerðuberg: ~20 km (12 miles), ~20 minutes</li>
+  <li class="sub-list">Gerðuberg to Akranes: ~35 km (22 miles), ~35 minutes</li>
+  </ul>
+</div>
+
+<h3>Morning</h3>
+<div class="activity-item"><span class="activity-time">08:00</span> Breakfast at The Old Post Office.</div>
+<div class="activity-item"><span class="activity-time">09:00</span> <span class="featured"><strong>Djúpalónssandur Black Pebble Beach</strong></span>: A short walk through a lava field leads to this rugged coastline with distinctive smooth black pebbles shaped by the ocean. See the remains of the British trawler Epine that wrecked here in 1948 and test your strength on the four lifting stones used by fishermen to prove their worthiness for sea work (ranging from 23 to 154 kg). <a href="https://guidetoiceland.is/travel-iceland/drive/djupalonssandur" target="_blank">[Link]</a> (1-1.5 hours)</div>
+<div class="activity-item"><span class="activity-time">10:30</span> <span class="featured"><strong>Hellnar to Arnarstapi Coastal Path</strong></span>: A stunning 2.5-mile one-way hike (you can return the same way or arrange drop-off/pickup) with dramatic coastal views. The trail follows cliff tops overlooking natural arches, bird cliffs, basalt columns, and unusual rock formations. Watch for kittiwakes and fulmars nesting on the cliffs, and enjoy views of the Snæfellsjökull glacier on clear days. <a href="https://guidetoiceland.is/travel-iceland/drive/arnarstapi-hellnar" target="_blank">[Link]</a> (2-3 hours for the full roundtrip)</div>
+<div class="activity-item"><span class="activity-time">13:30</span> <span class="featured"><strong>Vatnshellir Cave</strong></span>: Explore this 8,000-year-old lava tube with a guided tour. Descend 35 meters into this fascinating underground world formed during an eruption from a nearby crater. The specialized lighting reveals the colorful mineral deposits and lava formations. <a href="https://summitguides.is/tours/vatnshellir-cave-tour/" target="_blank">[Link]</a> Guided tours only, $35 per person. (1 hour; tour itself is ~45 minutes. *Booking recommended*)</div>
+
+<h3>Afternoon</h3>
+<div class="activity-item"><span class="activity-time">14:30</span> Lunch at <a href="https://www.facebook.com/Fjoruhusid/" target="_blank">Fjöruhúsið</a> in Hellnar, a charming café with ocean views serving homemade soups, cakes, and fresh seafood.</div>
+<div class="activity-item"><span class="activity-time">15:30</span> <span class="featured"><strong>Ytri Tunga Beach</strong></span>: Visit this seal colony, best viewed at low tide. Unlike most of Iceland's volcanic shores, this is one of the few golden sand beaches in the country. You can usually see 10-20 harbor seals lounging on the rocks just offshore. Bring binoculars if you have them for closer viewing without disturbing the animals. <a href="https://guidetoiceland.is/travel-iceland/drive/ytri-tunga-beach" target="_blank">[Link]</a> (45 minutes - 1 hour)</div>
+<div class="activity-item"><span class="activity-time">16:45</span> <span class="featured"><strong>Landbrotalaug Hot Spring</strong></span>: This tiny, hidden natural hot pot is big enough for 2-3 people. Look for a small parking area near a disused farm building, then walk about 100 meters. The secluded setting surrounded by lava fields makes it a unique experience away from the tourist crowds. There's also a larger warm pool nearby if the hot pot is occupied. Coordinates: 64.8391, -22.2806. (1-1.5 hours including finding it!)</div>
+<div class="activity-item"><span class="activity-time">18:15</span> <strong>Gerðuberg Basalt Columns</strong>: A short stop on the way to Akranes to see this symmetrical wall of hexagonal basalt columns stretching for nearly 1 km. These perfectly formed columns, some reaching 14 meters in height, were created when thick lava cooled slowly and evenly, allowing crystallization to form these distinctive hexagonal shapes – an impressive example of volcanic geology. <a href="https://guidetoiceland.is/travel-iceland/drive/gerduberg-basalt-columns" target="_blank">[Link]</a> (20-30 minutes)</div>
+
+<h3>Evening</h3>
+<div class="activity-item"><span class="activity-time">18:45</span> Drive to Akranes (1 hour).</div>
+<div class="activity-item"><span class="activity-time">19:45</span> Check into Patrycja's Airbnb in Akranes.</div>
+<div class="activity-item"><span class="activity-time">20:15</span> Dinner options in Akranes at <a href="https://www.facebook.com/galitobistro/" target="_blank">Galito Bistro</a> or <a href="https://www.facebook.com/rastarrestaurant/" target="_blank">Röst Restaurant</a>.</div>
+<div class="activity-item"><span class="activity-time">21:30</span> <strong>Sunset visit</strong> to <a href="https://www.west.is/en/inspiration/towns/akranes/akranes-lighthouse" target="_blank">Akranes Lighthouse</a> for coastal views. This working lighthouse, built in 1947, offers panoramic views of Faxaflói Bay and on clear days, Reykjavík in the distance. During summer, the lighthouse is often open to visitors in the evening, allowing you to climb to the top for even better views. (30-45 minutes)</div>
+
+<h4>Key Highlights of the Day</h4>
+  <ul class="sub-list">
+     <li>✨ The dramatic Hellnar to Arnarstapi coastal path with its bird cliffs, arches, and basalt formations.</li>
+     <li>✨ The adventure of exploring Vatnshellir Cave, descending into Iceland's volcanic underworld.</li>
+     <li>✨ The serene experience of soaking in the secluded Landbrotalaug hot spring surrounded by lava fields.</li>
+  </ul>
+
+<h4>Accommodations</h4>
+<p><strong>Patrycja's Airbnb</strong> in Akranes: A private room providing a comfortable place to rest on your final night in Iceland. Conveniently located for your return to Reykjavík and Keflavík Airport tomorrow.</p>
+
+<h4>Alternative Activities</h4>
+<ul class="sub-list">
+    <li><a href="https://guidetoiceland.is/travel-iceland/drive/berserkjahraun" target="_blank">Berserkjahraun Lava Field</a>: A 4,000-year-old lava field with a fascinating Viking saga connection and dramatic, twisted lava formations. (Exploration time varies; allow at least 1 hour)</li>
+   <li><a href="https://guidetoiceland.is/travel-iceland/drive/svortuoft" target="_blank">Svörtuloft Lighthouse</a>: An orange lighthouse on dramatic cliffs, offering bird watching and ocean views. (1-1.5 hours including the drive)</li>
+   <li><a href="https://www.west.is/en/inspiration/places/church/ingjaldholskirkja" target="_blank">Ingjaldshóll Church</a>: A historic church with views of Snæfellsjökull glacier and a (disputed) connection to Christopher Columbus, who may have visited to learn about Viking voyages to America. (30-45 minutes)</li>
+  <li><a href="https://guidetoiceland.is/travel-iceland/drive/raudfeldsgja-gorge" target="_blank">Rauðfeldsgjá Gorge</a>: A narrow canyon with a stream running through it; an adventurous exploration opportunity. *Can be slippery and challenging*. (Exploration time varies; allow at least 1 hour)</li>
+</ul>
+
+<div class="tip-box">
+For Landbrotalaug hot spring, bring your own towel and drinking water. There are no facilities, so change discreetly. Look for online guides with photos to help locate it, as it's easily missed. The hot pot is quite small (fits 2-3 people) but there's a larger warm pool nearby if it's occupied.
+</div>
+
+<div class="notes-box">
+<ul>
+  <li>Pack swimwear for the hot spring.</li>
+  <li>Vatnshellir Cave tours operate hourly; booking in advance is recommended.</li>
+  <li>This is your last full day in Iceland; prioritize your "must-see" activities.</li>
+  <li>Allow extra time for stops along the peninsula; there's much to see.</li>
+  <li>Weather on Snæfellsnes can change rapidly; dress in layers.</li>
+  <li>Low tide information for Ytri-Tunga can be found <a href="https://tide.is/263/" target="_blank">here</a>.</li>
+</ul>
+</div>
+
+<div class="page-break"></div>
+
+<!-- Day 11 -->
+<h2 id="day11">👋 Day 11: July 24 - Departure Day</h2>
+<img class="day-image" src="https://raw.githubusercontent.com/kgangerlm/iceland-data/refs/heads/main/images/day11.avif" alt="Reykjavik, Iceland">
+<div class="quote-box">
+"We don't remember days, we remember moments." – Cesare Pavese
+</div>
+<div class="daily-summary">
+  <strong>Day Summary:</strong> Your Icelandic adventure concludes today. Enjoy a relaxed morning before heading back to Reykjavík and Keflavík Airport.
+  <ul>
+  <li><strong>Total Driving:</strong> ~110 km (68 miles), ~1.5 hours.</li>
+  <li class="sub-list">Akranes to Reykjavík: ~50 km (31 miles), ~45 minutes</li>
+  <li class="sub-list">Reykjavík to Keflavík Airport: ~50 km (31 miles), ~45 minutes</li>
+  </ul>
+</div>
+
+<h3>Morning</h3>
+<div class="activity-item"><span class="activity-time">08:00</span> Breakfast at Airbnb.</div>
+<div class="activity-item"><span class="activity-time">09:00</span> Drive from Akranes to Reykjavík (45 minutes).</div>
+<div class="activity-item"><span class="activity-time">09:45</span> <strong>Last-minute shopping in Reykjavík</strong>:
+    <ul class="sub-list">
+      <li>Laugavegur and Skólavörðustígur streets for souvenirs, Icelandic design, and fashion.</li>
+      <li><a href="https://www.handknit.is/" target="_blank">Handknitting Association of Iceland</a> for authentic wool products like lopapeysa sweaters, hats, and mittens - all handmade by Icelandic knitters.</li>
+      <li><a href="https://www.kolaportid.is/" target="_blank">Kolaportið Flea Market</a> for unique finds and local food products (if open – weekends only).</li>
+    </ul> (1-2 hours, depending on your interests)
+</div>
+<div class="activity-item"><span class="activity-time">11:45</span> <strong>Optional</strong>: Quick visit to <a href="https://visitreykjavik.is/seltjarnarnes" target="_blank">Seltjarnarnes Peninsula</a>, including Grótta lighthouse and nature reserve, with coastal walking paths and views across Faxaflói Bay. This peaceful area at the westernmost point of Reykjavík offers a final taste of Iceland's natural beauty before departure. (1 hour)</div>
+<div class="activity-item"><span class="activity-time">11:45</span> <strong>Optional</strong>: Quick visit to <a href="https://visitreykjavik.is/seltjarnarnes" target="_blank">Seltjarnarnes Peninsula</a>, including Grótta lighthouse and nature reserve, with coastal walking paths and views across Faxaflói Bay. This peaceful area at the westernmost point of Reykjavík offers a final taste of Iceland's natural beauty before departure. (1 hour)</div>
+
+<h3>Afternoon</h3>
+<div class="activity-item"><span class="activity-time">12:45</span> <strong>Lunch</strong> in Reykjavík at <a href="https://www.icelandicstreetfood.com/" target="_blank">Icelandic Street Food</a> (try the traditional lamb soup or seafood soup served in bread bowls) or at the airport food court.</div>
+<div class="activity-item"><span class="activity-time">13:45</span> <strong>Return rental car to Blue Car Rental</strong>: Allow extra time for this process.
+    <ul class="sub-list">
+      <li>Ensure the car is refueled (gas stations are available on the way to the airport).</li>
+      <li>Complete the return inspection and paperwork.</li>
+      <li>The Blue Car Rental office is located near the airport with shuttle service to the terminal.</li>
+    </ul>
+</div>
+<div class="activity-item"><span class="activity-time">14:30</span> <strong>Check-in for international flight</strong>: Recommended 2.5 hours before departure.</div>
+<div class="activity-item"><span class="activity-time">16:50</span> <strong>Flight FI 671 to Denver departs at 4:50 PM</strong>.</div>
+
+<h3>Evening</h3>
+<div class="activity-item"><span class="activity-time">17:00</span> In flight.</div>
+
+<h4>Key Highlights of the Day</h4>
+  <ul class="sub-list">
+     <li>✨ Last-minute shopping for Icelandic souvenirs and handicrafts.</li>
+     <li>✨ Final views of Reykjavík's distinctive cityscape.</li>
+     <li>✨ Reflecting on your 11-day adventure around Iceland's Ring Road.</li>
+  </ul>
+
+<h4>Accommodations</h4>
+<p>No accommodation needed tonight; you'll be returning home. Check out from Patrycja's Airbnb in Akranes this morning.</p>
+
+<h4>Alternative Activities</h4>
+<ul class="sub-list">
+  <li><a href="https://www.harpa.is/en/" target="_blank">Harpa Concert Hall</a> (morning): An architectural marvel with a honeycomb glass façade designed by Olafur Eliasson. Gift shops and a café are inside. (1 hour)</li>
+  <li><a href="https://perlanmuseum.is/" target="_blank">Perlan Museum</a> (morning): Offers a glacier and ice cave exhibition, plus an observation deck with 360° views of Reykjavík. (1.5-2 hours)</li>
+ <li><a href="https://bluelagoon.com/" target="_blank">Blue Lagoon</a> (morning/early afternoon): Enjoy one last relaxing soak before flying. Located near the airport. *Advance booking essential*. (2-3 hours)</li>
+  <li><a href="https://skylagoon.com/" target="_blank">Sky Lagoon</a> (morning): A newer thermal spa with infinity edge ocean views and a multi-step bathing ritual. (2-3 hours)</li>
+</ul>
+
+<div class="tip-box">
+If you have leftover Icelandic krónur, spend it at the airport. Exchanging krónur outside Iceland can be difficult and expensive. The duty-free shop at Keflavík Airport is a good option for last-minute gifts, especially for Icelandic specialties like chocolate, licorice, and spirits like Brennivín.
+</div>
+
+<div class="notes-box">
+<ul>
+  <li>Check Airbnb checkout time and arrange with your host as needed.</li>
+  <li>Allow *extra* time for the return drive and car rental return. Traffic around Reykjavík can be unpredictable, especially during morning rush hour.</li>
+  <li>Gas stations are available on the way to the airport. Fill up before returning the car to avoid extra charges.</li>
+  <li>Duty-free shopping is available at Keflavík Airport, with prices often lower than in downtown Reykjavík.</li>
+  <li>Road construction is common in summer – check <a href="https://umferdin.is/en" target="_blank">Umferðin</a> for potential delays.</li>
+</ul>
+</div>
+
+<div class="page-break"></div>
+<h2>Resources</h2>
+
+    <h3>Planning Resources</h3>
+    <ul>
+        <li><strong>Guidebooks:</strong>
+            <ul>
+                <li>Lonely Planet Iceland: <a href="https://shop.lonelyplanet.com/products/iceland-14" target="_blank">Lonely Planet</a></li>
+                <li>Moon Iceland: <a href="https://www.moon.com/titles/karen-carlsen/moon-iceland/9781640499834/" target="_blank">Moon Iceland</a></li>
+            </ul>
+        </li>
+        <li><strong>Icelandic Tourist Board:</strong> <a href="https://www.visiticeland.com/" target="_blank">Visit Iceland</a></li>
+        <li><strong>Inspired by Iceland:</strong> <a href="https://www.inspiredbyiceland.com/" target="_blank">Inspired by Iceland</a></li>
+        <li><strong>South Iceland:</strong> <a href="https://www.south.is/" target="_blank">South Iceland</a></li>
+        <li><strong>East Iceland:</strong> <a href="https://www.east.is/" target="_blank">East Iceland</a></li>
+        <li><strong>North Iceland:</strong> <a href="https://www.northiceland.is/" target="_blank">North Iceland</a></li>
+        <li><strong>West Iceland:</strong> <a href="https://www.west.is/" target="_blank">West Iceland</a></li>
+        <li><strong>Road Conditions (Planning):</strong> <a href="https://umferdin.is/en" target="_blank">Umferðin</a> (Icelandic Road and Coastal Administration)</li>
+        <li><strong>Hiking Trails:</strong> <a href="https://www.alltrails.com/iceland" target="_blank">All Trails</a></li>
+        <li><strong>Weather Forecasts (Planning):</strong> <a href="https://en.vedur.is/" target="_blank">Vedur.is</a> (Icelandic Met Office)</li>
+    </ul>
+
+    <h3>On-the-Ground Resources</h3>
+    <ul>
+        <li><strong>Road Conditions (Real-time):</strong> <a href="https://umferdin.is/en" target="_blank">Umferdin.is</a> (also available as a mobile app) <span class="note">- Essential for checking road closures, conditions, and webcams.</span></li>
+        <li><strong>Weather Forecasts (Real-time):</strong> <a href="https://en.vedur.is/" target="_blank">Vedur.is</a> (also available as a mobile app) <span class="note">- Check frequently, as Icelandic weather is unpredictable.</span></li>
+        <li><strong>Emergency Number:</strong> 112 (for police, fire, ambulance)</li>
+        <li><strong>SafeTravel Iceland:</strong> <a href="https://safetravel.is/" target="_blank">SafeTravel.is</a> <span class="note">- Provides alerts and safety information, including a travel plan submission option.</span></li>
+        <li><strong>Aurora Forecast:</strong> <a href="https://en.vedur.is/weather/forecasts/aurora/" target="_blank">Aurora Forecast (Vedur.is)</a> <span class="note">- While July has almost 24-hour daylight, this is useful for future trips.</span></li>
+        <li><strong>Tide Times:</strong> <a href="https://tide.is/" target="_blank">Tide Times</a></li>
+    </ul>
+</body>
+</html>

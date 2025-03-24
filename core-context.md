@@ -17,6 +17,7 @@ This section contains some key notes we want to capture from our research.
 - Mount Askja: Highlands hike, moderate 2-hour trek around rim. Note we need to check rental car is permitted on F roads when suggesting
 - Lanbrotalaug spring on the Snæfellsnes Peninsula
 - Kayak on gorgeous Breiðafjöður Bay in West Iceland
+- scenic filght on day 1 or 2
 </specific_interests>
 
 
@@ -25,7 +26,7 @@ This section contains some key notes we want to capture from our research.
 <trip_preferences>
 - Hiking: Moderate trails under 5 miles/4 hours, less touristy options. great views and pictures. waterfalls, craters, hotsprings
 - Prioritize hiking as an activity but include a variety of other options based on what is best for the day. There should be at least 1 or 2 hiking options each day. Distances should be in miles not km. 
-- Activities: F-Road exploration, ATV riding, horseback riding, kayaking, mountain biking
+- Activities: F-Road exploration, ATV riding, horseback riding, kayaking, mountain biking, premium experiences like helicopter tours
 - Natural Features: Waterfalls, volcanoes, hot springs, glaciers, black beaches, geologic wonders
 - Wildlife: Whale watching, bird watching (puffins)
 - Special Experiences: Backcountry mountain hut stay, ice cave/glacier exploration, lava tube caves, boat tours, midnight sun activities, cultural experiences
